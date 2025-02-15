@@ -22,6 +22,6 @@ venv.bak/
 *.code-workspace
 
 # Training dataset
-train_yolo/datasets/input/
-train_yolo/datasets/output/
+train_yolo/datasets/input_charts/
+train_yolo/datasets/output_dataset/
 train_yolo/datasets/charts/
