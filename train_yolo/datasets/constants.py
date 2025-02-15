@@ -1,0 +1,17 @@
+CLASS_MAPPING = {
+    "area": 0,
+    "heatmap": 1,
+    "horizontal bar": 2,
+    "horizontal interval": 3,
+    "line": 4,
+    "manhattan": 5,
+    "map": 6,
+    "pie": 7,
+    "scatter": 8,
+    "scatter-line": 9,
+    "surface": 10,
+    "venn": 11,
+    "vertical bar": 12,
+    "vertical box": 12,
+    "vertical interval": 12,
+}

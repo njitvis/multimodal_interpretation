@@ -1,0 +1,7 @@
+
+    train: C:/Users/niiv_student/Desktop/avina/detect_charts_yoloy/datasets/charts/images/train
+    val: C:/Users/niiv_student/Desktop/avina/detect_charts_yoloy/datasets/charts/images/val
+    test: C:/Users/niiv_student/Desktop/avina/detect_charts_yoloy/datasets/charts/images/test
+    nc: 15
+    names: ['area', 'heatmap', 'horizontal bar', 'horizontal interval', 'line', 'manhattan', 'map', 'pie', 'scatter', 'scatter-line', 'surface', 'venn', 'vertical bar', 'vertical box', 'vertical interval']
+    
