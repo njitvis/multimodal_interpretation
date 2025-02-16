@@ -2,7 +2,7 @@
 
 ## Scripts
 
-### `/scripts/experiments.ipynb`
+### `/chart_qna/single_view_qa.ipynb`
 This notebook contains experiments related to generating questions and answers
 
 #### 1. Generating 10 Questions With Only Chart, Answers, and Answers with Caption for Single View Charts
