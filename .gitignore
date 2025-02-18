@@ -1,5 +1,6 @@
-# CSV Files
-*.csv
+# Folders to ignore
+data
+extra
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
