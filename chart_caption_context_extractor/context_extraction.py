@@ -98,11 +98,6 @@ def remove_captions_from_context(context, captions):
     
     return context
 
-def remove_duplicates(context):
-    sentences = sent_tokenize(context)
-    unique_sentences = list(set(sentences))
-    return " ".join(unique_sentences)
-
 
 
 
@@ -128,8 +123,7 @@ for idx, caption in captions.iterrows():
     try:
         content, caption_text = get_content_and_caption(c)
         cleaned_content = remove_captions_from_context(content, captions[captions["source"] == caption["source"]]["caption"].to_list())
-        unique_content = remove_duplicates(cleaned_content)
-        context_sent2vec = get_similar_sentences(unique_content, caption_text)
+        context_sent2vec = get_similar_sentences(cleaned_content, caption_text)
         caption_with_context.loc[idx] = [caption["image_id"], caption["caption"], context_sent2vec]
         print(f"Extraction Successful for: {caption["image_id"]}")
     except Exception as e:
