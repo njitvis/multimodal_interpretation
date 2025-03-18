@@ -26,6 +26,10 @@ venv.bak/
 *.code-workspace
 .DS_Store
 
+# Next
+.next
+node_modules
+
 # Training dataset
 train_yolo/datasets/input_charts/
 train_yolo/datasets/output_dataset/
