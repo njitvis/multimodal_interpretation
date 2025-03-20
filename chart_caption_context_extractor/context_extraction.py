@@ -61,14 +61,14 @@ def get_ref_content_and_caption(caption):
 
 
 def get_content_and_caption(caption):
-    adj_content = get_adj_content_and_caption(c)
+    # scanning the entire report instead of focusin on adjacent pages
+    #    - commenting this function call because page number is not available in this dataset
+    # adj_content = get_adj_content_and_caption(c)
     ref_content = get_ref_content_and_caption(c)
 
-    combined_sentences = adj_content.split("\n") + ref_content.split("\n")
+    # combined_sentences = adj_content.split("\n") + ref_content.split("\n")
 
-    unique_content = " ".join(list(set(combined_sentences))).replace("- ", "")
-
-    return unique_content, caption["caption"]
+    return ref_content, caption["caption"]
 
 
 def get_similar_sentences(pdf_text, caption, threshold=0.7):
@@ -98,11 +98,6 @@ def remove_captions_from_context(context, captions):
     
     return context
 
-def remove_duplicates(context):
-    sentences = sent_tokenize(context)
-    unique_sentences = list(set(sentences))
-    return " ".join(unique_sentences)
-
 
 
 
@@ -111,25 +106,22 @@ def remove_duplicates(context):
 #############################################################
 nltk.download('punkt_tab')
 
-captions = pd.read_csv("./datasets/found_captions_with_vector.csv")
-captions = captions[["image_id_new", "source_2", "caption_2", "pageNumber", "l1_l4_cluster"]]
-captions.rename(columns={"image_id_new": "image_id", "source_2": "source", "caption_2": "caption"}, inplace=True)
+captions = pd.read_csv("./captions.csv")
+captions = captions[["image_id", "source", "caption"]]
 print("Captions successfully read ...")
 
-caption_with_context = pd.DataFrame(columns=['image_id', 'caption', 'sent2vec_context'])
+caption_with_context = pd.DataFrame(columns=['image_id', 'caption', 'context'])
 
 for idx, caption in captions.iterrows():
     c = {
         "source": caption["source"],
-        "pageNumber": caption["pageNumber"],
         "caption": caption["caption"],
         "image_id": caption["image_id"]
     }
     try:
         content, caption_text = get_content_and_caption(c)
         cleaned_content = remove_captions_from_context(content, captions[captions["source"] == caption["source"]]["caption"].to_list())
-        unique_content = remove_duplicates(cleaned_content)
-        context_sent2vec = get_similar_sentences(unique_content, caption_text)
+        context_sent2vec = get_similar_sentences(cleaned_content, caption_text)
         caption_with_context.loc[idx] = [caption["image_id"], caption["caption"], context_sent2vec]
         print(f"Extraction Successful for: {caption["image_id"]}")
     except Exception as e:
