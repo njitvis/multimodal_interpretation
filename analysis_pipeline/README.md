@@ -72,3 +72,14 @@ If the reason indicates certain information in caption helped them understand th
 ```bash
 python qualitative_analysis/group_by_usefulness.py
 ```
+
+#### 9. **Cluster reasons of differnt levels of usefulness**
+login to HF first
+```bash
+python qualitative_analysis/code_usefulness_groups.py
+```
+
+#### 10. **Summarize clusters**
+```bash
+python qualitative_analysis/summarize_clusters.py
+```
