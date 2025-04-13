@@ -2,7 +2,7 @@ import pandas as pd
 import spacy
 from transformers import pipeline
 
-reasons = pd.read_csv("./data/all_reasons.csv")
+reasons = pd.read_csv("../data/all_reasons.csv")
 
 nlp = spacy.load("en_core_web_sm")
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
