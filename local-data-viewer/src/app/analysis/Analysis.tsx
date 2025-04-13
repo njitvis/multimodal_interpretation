@@ -13,7 +13,7 @@ const Analysis = ({ children, goal, obs, next }) => {
 						obs.map((ob) => {
 							if (typeof ob === typeof {}) {
 								return (Object.keys(ob).map(item => (
-									<>
+									<div key={item} >
 										<li key={item} className="font-semibold">{item}</li>
 										<ul key={`child=${item}`} className="list-disc pl-5">
 											{
@@ -22,7 +22,7 @@ const Analysis = ({ children, goal, obs, next }) => {
 												))
 											}
 										</ul>
-									</>
+									</div>
 								)))
 							} else {
 								return (
