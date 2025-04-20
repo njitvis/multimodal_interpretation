@@ -11,8 +11,7 @@ reason_id,image_id,rating,reason,usefulness
 18,324,1,Caption does not seem to be helping here to understand,not_useful
 20,332,4,"The caption doesn't explain the second graph well,",not_useful
 21,332,1,the caption does not clearly summarize the chart,not_useful
-22,337,5,"Detailed caption that provides the main key takeaway
-The charts are well labeled",useful
+22,337,5,"Detailed caption that provides the main key takeaway",useful
 23,337,5,caption are understandable,neutral
 25,339,5,Detailed caption,neutral
 27,339,4,caption does not add any value in explaining the trend or describing the chart,not_useful

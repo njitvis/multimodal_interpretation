@@ -1,520 +1,520 @@
-reason_id,image_id,rating,reason,usefulness,feature
-1,139,5,Easy to compare categories,,Aesthetics-Clarity-Comparison
-2,139,4,The takeaway is not very clear,,Aesthetics-Clarity-Comparison
-3,139,2,chart is dense,,Visual Density / Clutter
-4,148,5,Easy to compare stabilization categories,,Aesthetics-Clarity-Comparison
-5,148,4,"The trend is understandable,",,Trend / Pattern Depiction
-6,148,3,"Chart is dense, uses technical terms",,Visual Density / Clutter
-7,203,5,Easy to compare ranges of yield change,,Aesthetics-Clarity-Comparison
-8,203,4,The graph is hard to extract information from,,Visual Density / Clutter
-9,203,3,It uses good color coding to show the percentage of crop yield projections across different ranges,,Aesthetics-Clarity-Comparison
-10,2289,5,"Although the bars overlap, it is easy to compare the categories and find the main differences between dataset Although the bars overlap, it is easy to compare the categories find the main differences between dataset",,Visual Density / Clutter
-11,2289,5,Both are easy to understand,,Aesthetics-Clarity-Comparison
-12,2289,5,The chart is more explainable,,Aesthetics-Clarity-Comparison
-13,2360,5,Easy to interpret the chart and see the main trends without looking at the caption. Easy to interpret the chart,,Aesthetics-Clarity-Comparison
-14,2360,4,the graph should have a key explaining the solid dotted line difference,,Labels-Titles-Legend-Scale
-15,2360,4,"The visualization is clear,",,Aesthetics-Clarity-Comparison
-17,324,5,"The graph is easy to understand,",,Aesthetics-Clarity-Comparison
-18,324,1,"Chart a and c tells the same information, not sure why they are represented twice",,Chart Type & Layout Choice
-19,332,5,Easy to read labels and compare the categories to understand the relationship between capacity factor and investment costs Easy to read labels compare the categories to understand the relationship between capacity factor investment costs,,Aesthetics-Clarity-Comparison
-20,332,4,the labels on the graph could be differentiated more,,Labels-Titles-Legend-Scale
-21,332,1,"Why both charts are similar, what is the comparison between them",,Aesthetics-Clarity-Comparison
-23,337,5,The graph is understandable,,Aesthetics-Clarity-Comparison
-25,339,5,a clear chart makes it easy to understand the main trend,,Aesthetics-Clarity-Comparison
-26,339,4,Hard to interpret what the symbols are representing on y-axis,,Labels-Titles-Legend-Scale
-27,339,4,"Chart itself is sufficient to interpret it,",,Aesthetics-Clarity-Comparison
-28,436,5,Clear representations lines (shown in chart),,Aesthetics-Clarity-Comparison
-29,436,4,the graph should have a key,,Labels-Titles-Legend-Scale
-30,436,2,The chart does not mention about the extra dots between the years,,Labels-Titles-Legend-Scale
-31,497,5,Easy to compare the onshore and offshore categories Easy to compare the onshore offshore categories,,Aesthetics-Clarity-Comparison
-33,497,3,"The chart does not show the trend clearly, and only explain about the labels. ",,Trend / Pattern Depiction
-34,502,5,"Easy to read the labels, color categorization makes it easy to identify the main takeaway",,Aesthetics-Clarity-Comparison
-37,572,5,"Clear time series and labeled axes, Clear time series",,Aesthetics-Clarity-Comparison
-40,610,5,"The chart has color coding, it is well-organized . The chart has color coding, it is well-organized",,Aesthetics-Clarity-Comparison
-43,660,5,The graph uses colors to represent 3 different categories making it easy to follow each line,,Aesthetics-Clarity-Comparison
-44,660,4,The graph is a little hard to read,,Aesthetics-Clarity-Comparison
-46,690,5,The chart is organized and labeled which helps with understanding the main takeaway The chart is organized labeled which helps with understanding the main takeaway,,Aesthetics-Clarity-Comparison
-48,690,3,chart is useful to interpret the result,,Aesthetics-Clarity-Comparison
-49,790,5,Easy to understand clear takeaway,,Aesthetics-Clarity-Comparison
-52,920,5,Easy to compare categories,,Aesthetics-Clarity-Comparison
-55,937,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The chart uses color coding thick lines to show the medians, the total range of models",,Aesthetics-Clarity-Comparison
-56,937,4,the x-y labels and titles are hard to read.,,Labels-Titles-Legend-Scale
-58,994,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The different lines along with the shaded area conveys the main takeaway",,Aesthetics-Clarity-Comparison
-61,999,5,Clear takeaway easy to interpret,,Aesthetics-Clarity-Comparison
-63,999,4,"chart to interpret the takeaway, the line is clearly not mentioned in the chart",,Aesthetics-Clarity-Comparison
-64,1081,5,Easy to see the annual average,,Trend / Pattern Depiction
-67,1251,5,Easy to get the main takeaway and understand the difference between the color coded bars Easy to get the main takeaway understand the difference between the color coded bars,,Aesthetics-Clarity-Comparison
-70,1277,5,The legend further helps in understanding the main takeaway. The words on the side explaining the y-axis is cut off. The words on the side explaining the y-axis is cut off The legend further helps in understanding the main takeaway,,Labels-Titles-Legend-Scale
-71,1277,4,the labels are not visible,,Labels-Titles-Legend-Scale
-73,1285,5,The chart shows the time series of the global annual ocean with color-code lines for different categories . The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,,Trend / Pattern Depiction
-75,1285,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",,Labels-Titles-Legend-Scale
-76,1295,5,The chart shows the time series of the global annual ocean with color-code lines for different categories The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,,Trend / Pattern Depiction
-78,1295,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",,Labels-Titles-Legend-Scale
-79,1303,5,the graph is easy to interpret,,Aesthetics-Clarity-Comparison
-82,1601,5,Easy to read the labels and compare the pH levels Easy to read the labels compare the pH levels,,Aesthetics-Clarity-Comparison
-85,1711,5,Easy to compare the categories,,Aesthetics-Clarity-Comparison
-86,1711,4,the graph labels are small,,Labels-Titles-Legend-Scale
-87,1711,3,both charts,,Chart Type & Layout Choice
-88,1712,5,Easy to see the heat content changing,,Trend / Pattern Depiction
-91,1761,5,Easy to compare categories and read the labels Easy to compare categories read the labels,,Aesthetics-Clarity-Comparison
-94,1779,5,The chart shows the comparison between the simulations and observations Each panel is well laid out and labeled so it is easy to compare the scenarios The chart shows the comparison between the simulations observations Each panel is well laid out labeled so it is easy to compare the scenarios includes an overview of the data,,Aesthetics-Clarity-Comparison
-95,1779,5,the model's shadow shows the differences well,,Trend / Pattern Depiction
-96,1779,4,"The visualization is clear,",,Aesthetics-Clarity-Comparison
-97,1803,5,"Despite a lot of elements, the chart shows the main trend with using different colors and symbols to help differentiate between data clearly Despite a lot of elements, the chart shows the main trend with using different colors symbols to help differentiate between data clearly",,Trend / Pattern Depiction
-99,1803,4,The horizontal bar chart is clear with error bars,,Aesthetics-Clarity-Comparison
-103,1839,5,The scatter plot shows the relationship between the x and y axis The line of best fit clearly shows the trend. Clear representation makes it easy to interpret The scatter plot shows the relationship between the x y axis The line of best fit clearly shows the trend Clear representation makes it easy to interpret,,Aesthetics-Clarity-Comparison
-105,1839,4,"The axis are well labeled, and the use of colors make it more interpretable. ",,Labels-Titles-Legend-Scale
-106,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions Easy to compare the categories analyze the potential for CO2 reduction across different regions,,Aesthetics-Clarity-Comparison
-108,1945,3,The chart is interpretable,,Aesthetics-Clarity-Comparison
-109,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them Easy to compare categories the use of colors to represent data makes it easier to compare them,,Aesthetics-Clarity-Comparison
-111,2062,3,Chart have many terms and abbreviations,,Labels-Titles-Legend-Scale
-112,2065,5,"The use of 2 box plots to show the two scenarios makes it easy compare them. Furthermore, the chart includes two different time periods and multiple technologies While this adds complexity, it also provides a good overview of the data The use of 2 box plots to show the two scenarios makes it easy compare them Furthermore, the chart includes two different time periods multiple technologies While this adds complexity, it also provides a good overview of the data",,Aesthetics-Clarity-Comparison
-114,2065,3,The chart is easy to understand,,Aesthetics-Clarity-Comparison
-115,2124,5,Easy to compare the categories and see the main trend Easy to compare the categories see the main trend,,Aesthetics-Clarity-Comparison
-117,2124,3,"The chart have some trends, not sure which trend to look at,",,Trend / Pattern Depiction
-118,2218,5,Easy to compare the categories and see the main trends Easy to compare the categories see the main trends,,Aesthetics-Clarity-Comparison
-119,2218,4,the graph labels are unclear,,Labels-Titles-Legend-Scale
-120,2218,1,The label says -20% it is confusing in the chart,,Labels-Titles-Legend-Scale
-121,112,4,The design and clarity can be improved. The design clarity can be improved,,Aesthetics-Clarity-Comparison
-122,112,2,Difficult to understand the trends,,Trend / Pattern Depiction
-125,126,3,"The graphs are easy to understand,",,Aesthetics-Clarity-Comparison
-126,126,3,Different color are used to represent in different charts for the same label And also the axis scale is different,,Labels-Titles-Legend-Scale
-127,304,4,The chart provides useful information to understand the data,,Aesthetics-Clarity-Comparison
-128,304,3,the labels are hard to read on the graph,,Labels-Titles-Legend-Scale
-129,304,3,Difficult to read labels,,Labels-Titles-Legend-Scale
-130,317,4,Colors and labels are used effectively to convey the main takeaway Colors labels are used effectively to convey the main takeaway,,Labels-Titles-Legend-Scale
-131,317,5,The graph is well made easy to understand,,Aesthetics-Clarity-Comparison
-134,330,5,The graphs are easy to understand,,Aesthetics-Clarity-Comparison
-136,380,4,does not provide the clear takeaway,,Aesthetics-Clarity-Comparison
-137,380,3,The graph labels are hard to read,,Labels-Titles-Legend-Scale
-139,433,4,No legend included,,Labels-Titles-Legend-Scale
-140,433,5,The graph is easy to understand,,Aesthetics-Clarity-Comparison
-144,447,3,The labels are not clear,,Labels-Titles-Legend-Scale
-145,491,4,The use of labels helps in understanding the main takeaways,,Labels-Titles-Legend-Scale
-147,491,5,Easy to compare categories,,Aesthetics-Clarity-Comparison
-148,492,4,Easy to interpret with use of labels,,Labels-Titles-Legend-Scale
-149,492,4,graph is understandable,,Aesthetics-Clarity-Comparison
-150,492,4,The chart clearly explains the labels,,Labels-Titles-Legend-Scale
-151,614,4,It is difficult to grasp the key points since there are too many words on the chart,,Visual Density / Clutter
-152,614,3,the graph is very wordy hard to read,,Visual Density / Clutter
-154,639,4,the chart uses color coding to help understand the caption,,Labels-Titles-Legend-Scale
-156,639,4,Easy to compare,,Aesthetics-Clarity-Comparison
-157,643,4,"Too many categories are present in the chart, but they are well organized and labeled Too many categories are present in the chart, they are well organized labeled",,Visual Density / Clutter
-158,643,3,The graph is hard to understand,,Aesthetics-Clarity-Comparison
-159,643,3,Difficult to understand,,Aesthetics-Clarity-Comparison
-160,658,4,Clear representation with a clear break down of cost and efficiency improvements The format of this chart is not the standard Clear representation with a clear break down of cost efficiency improvements The format of this chart is not the standard,,Chart Type & Layout Choice
-161,658,5,The graph is very well made,,Aesthetics-Clarity-Comparison
-163,736,4,complex data requires interpretation,,Aesthetics-Clarity-Comparison
-164,736,4,the graphs a little unclear hard to read,,Aesthetics-Clarity-Comparison
-165,736,4,"The chart capture the trend, but the chart is little complex to understand",,Aesthetics-Clarity-Comparison
-166,828,4,Overlapping lines makes it difficult to interpret But the annual mean is shown which helps Overlapping lines makes it difficult to interpret But the annual mean is shown which helps,,Visual Density / Clutter
-167,828,1,"It is extremely hard to differentiate the colors on the graph, we don't know what each color represents",,Labels-Titles-Legend-Scale
-168,828,3,No proper labeling is stated in chart,,Labels-Titles-Legend-Scale
-169,839,4,Clear visualization that shows temperature changes,,Aesthetics-Clarity-Comparison
-172,904,4,"chart has different curves representing different depths and locations. The x-axis and y-axis are clear, and the captions helps with the interpretation. No legend is present. locations The x-axis y-axis are clear, No legend is present",,Labels-Titles-Legend-Scale
-175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex,,Aesthetics-Clarity-Comparison
-176,1006,2,the graph is very hard to read tell the difference between the many labels,,Labels-Titles-Legend-Scale
-177,1006,2,labels are not clear,,Labels-Titles-Legend-Scale
-178,1044,4,"Too many lines and shaded regions makes the chart more complicated, Too many lines shaded regions makes the chart more complicated,",,Visual Density / Clutter
-179,1044,5,the colors are clear on the graph,,Labels-Titles-Legend-Scale
-181,1301,4,"The chart includes various components represent by different patterns and colors Furthermore, the blue/grey shaded areas add additional visual elements The chart includes various components represent by different patterns colors it adds to the complexity Furthermore, the blue/grey shaded areas add additional visual elements",,Visual Density / Clutter
-182,1301,4,The graph some labels are small,,Labels-Titles-Legend-Scale
-184,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given,,Trend / Pattern Depiction
-187,1428,4,"The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns. The use of multiple sources makes the chart somewhat clutters, but it is interpretable The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns The use of multiple sources makes the chart somewhat clutters, it is interpretable",,Aesthetics-Clarity-Comparison
-188,1428,4,"Both are okay, the graph labels are a little small",,Labels-Titles-Legend-Scale
-189,1428,1,bars inside the chart is little confusing,,Labels-Titles-Legend-Scale
-190,1453,4,The chart conveys the main takeaway but the multiple components and no legend for the different symbols and colors found in the chart make it a little hard to interpret The chart conveys the main takeaway the multiple components no legend for the different symbols colors found in the chart make it a little hard to interpret,,Aesthetics-Clarity-Comparison
-192,1453,3,The chart no straight forward takeaway,,Aesthetics-Clarity-Comparison
-193,1499,4,the graph includes a legend and it is somewhat easy to understand the errors bars. the graph includes a legend it is somewhat easy to understand the errors bars This visualization effectively shows the differences between the categories,,Aesthetics-Clarity-Comparison
-195,1499,4,The black lines are not fully mentioned in chart but could be infered as error lines,,Aesthetics-Clarity-Comparison
-196,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable,,Trend / Pattern Depiction
-199,1626,4,"Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line and the r^2 Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line the r^2",,Aesthetics-Clarity-Comparison
-201,1626,2,The labels are not mentioned in the chart,,Labels-Titles-Legend-Scale
-202,1697,4,Somewhat easy to compare the categories,,Aesthetics-Clarity-Comparison
-203,1697,4,some of the labels are blurry on the graph,,Labels-Titles-Legend-Scale
-204,1697,2,labels are not clearly mentioned for the first chart,,Labels-Titles-Legend-Scale
-205,1715,4,Multiple panels and detailed context add complexity making it somewhat confusing Multiple panels,,Visual Density / Clutter
-207,1715,3,The chart contains multiple ranges which is confusing in the first glance,,Aesthetics-Clarity-Comparison
-208,1718,4,"Clear representation with consistent color coding, making it somewhat interpretable",,Aesthetics-Clarity-Comparison
-209,1718,3,"The graph is kind of confusing with the red blue, the different year labels",,Labels-Titles-Legend-Scale
-211,1726,4,the multiple elements make it somewhat interpretable,,Visual Density / Clutter
-213,1726,5,Labels are clearly mentioned easy to understand,,Labels-Titles-Legend-Scale
-214,1755,4,The graph is easy to understand,,Aesthetics-Clarity-Comparison
-215,1755,5,the graph should have a title,,Labels-Titles-Legend-Scale
-217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,",,Labels-Titles-Legend-Scale
-220,1777,4,The visualization includes multiple panels for different regions and periods. The use of these panels adds to the complexity The visualization includes multiple panels for different regions periods The use of these panels adds to the complexity,,Chart Type & Layout Choice
-222,1777,2,The charts in the right does not clearly interpret,,Labels-Titles-Legend-Scale
-223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars",,Aesthetics-Clarity-Comparison
-224,1790,4,"the graph labels ranges are very small, so it is hard to tell what value they correlate to",,Labels-Titles-Legend-Scale
-226,1861,4,The legend and well-defined axes make the charts somewhat interpretable The legend well-defined axes make the charts somewhat interpretable,,Labels-Titles-Legend-Scale
-228,1861,3,"The chart does seem to use some symbols like triangle, circle that are not fully explained within the visualization itself and require very large caption.",,Labels-Titles-Legend-Scale
-229,1874,4,"clearly observable trend. The use of symbols helps to differentiate the data points. The scatter plot shows the relationship between the x y axis, the data points arrows clearly show the trends The use of symbols helps to differentiate the data points",,Trend / Pattern Depiction
-231,1874,4,"The visualization is clear allows for comparison,",,Aesthetics-Clarity-Comparison
-232,1894,4,"The chart has annotations and different comparison lines making it harder to quickly understand the main takeaway. The use of specific scientific terms might not be immediately clear to everyone. The addition of the error bars also adds another layer of information, which can complicate the overall interpretation The chart has annotations different comparison lines making it harder to quickly understand the main takeaway The use of specific scientific terms might not be immediately clear to everyone The addition of the error bars also adds another layer of information, which can complicate the overall interpretation",,Aesthetics-Clarity-Comparison
-234,1894,2,The label in x-axis is confusing to understand there are 4 groups only 3 wordings/labels,,Labels-Titles-Legend-Scale
-235,1915,4,"The chart has two parts, the addition of these panels makes it complex, but it does provide an overall overview of the data given. The color-coded map shows the positive and negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable The chart has two parts, the addition of these panels makes it complex, it does provide an overall overview of the data given The color-coded map shows the positive negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable",,Visual Density / Clutter
-236,1915,4,"the top graph is understandable, the bottom graph should include axis labels",,Labels-Titles-Legend-Scale
-238,1925,4,The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends,,Trend / Pattern Depiction
-239,1925,4,the graph should include a key to explain the different lines,,Labels-Titles-Legend-Scale
-241,1947,4,"The chart shows different panels for different scenarios Despite the detailed context, the visual clarity makes the charts somewhat interpretable It is long informative, adds complexity to the interpretation The chart shows different panels for different scenarios",,Visual Density / Clutter
-243,1947,3,There are many details in chart I did not find any clear takeaway,,Visual Density / Clutter
-244,1979,4,"The chart shows the main key takeaways, but the multiple components make it complex The chart shows the main key takeaways, the multiple components make it complex",,Visual Density / Clutter
-246,1979,3,"The chart is easy to interpret, ",,Aesthetics-Clarity-Comparison
-247,2016,4,"The use of color coding in the map helps see the variations in the anomalies. But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values and blue bars are the negative values. Despite the detailed information, the representation is clear. The chart lacks detailed labels that could help in the interpretation. The use of color coding in the map helps see the variations in the anomalies But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values blue bars are the negative values Despite the detailed information, the representation is clear The chart lacks detailed labels that could help in the interpretation",,Aesthetics-Clarity-Comparison
-248,2016,4,The graph is pretty good,,Aesthetics-Clarity-Comparison
-249,2016,3,"The chart does not mention about the color scale used for world map, need to have some assumptions of the color scale for chart only",,Labels-Titles-Legend-Scale
-250,2049,4,"The graphs contain a lot of data points and trend lines that are presented clearly. Although the chart effectively conveys the main trends, the lack of detailed labels and annotations might make it harder to interpret the small specific finding without any additional context. The graphs contain a lot of data points trend lines that are presented clearly Although the chart effectively conveys the main trends, the lack of detailed labels",,Aesthetics-Clarity-Comparison
-251,2049,4,the graph data doesn't have a key for the symbols,,Labels-Titles-Legend-Scale
-253,2054,4,The legend and clear representations make it charts somewhat interpretable The legend clear representations make it charts somewhat interpretable,,Labels-Titles-Legend-Scale
-255,2054,4,the color scale in the chart is little bit confusing,,Labels-Titles-Legend-Scale
-256,2061,4,"The chart's use of consistent color coding and multiple types of vehicles adds to the complexity but provides a good overview of the data. The clear axes and legend help in the interpretation, but many require more context for full understanding The chart's use of consistent color coding multiple types of vehicles adds to the complexity provides a good overview of the data The clear axes legend help in the interpretation,",,Aesthetics-Clarity-Comparison
-257,2061,4,the graph is pretty understandable,,Aesthetics-Clarity-Comparison
-259,2071,4,"There is no legend present in the chart, making it difficult to understand what each color means. Each panel presents data using different symbols and colors to represent the different measurements. However, the complexity of the data can make it somewhat challenging to graph the main trends There is no legend present in the chart, making it difficult to understand what each color means Each panel presents data using different symbols colors to represent the different measurements However, the complexity of the data can make it somewhat challenging to graph the main trends",,Labels-Titles-Legend-Scale
-260,2071,4,the graph should have a key for the colors,,Labels-Titles-Legend-Scale
-262,2271,4,"The chart has a clear representation with 2 panels, but each panel uses different line styles and bard to represent the different datasets However, this adds more complexity to the interpretation of the chart The chart has a clear representation with 2 panels, each panel uses different line styles bard to represent the different datasets However, this adds more complexity to the interpretation of the chart",,Chart Type & Layout Choice
-263,2271,5,graphs are interpretable,,Aesthetics-Clarity-Comparison
-265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable",,Aesthetics-Clarity-Comparison
-266,2356,4,the graph should have a key,,Labels-Titles-Legend-Scale
-267,2356,4,"The chart is clear allows for comparison,",,Aesthetics-Clarity-Comparison
-268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex,,Aesthetics-Clarity-Comparison
-271,2213,4,"The charts show the long-term trends and provides a comparison. The clear axes and legends help in the understanding of the data, but the technical nature of the content might be overwhelming. the variables shown in each panel The charts show the long-term trends provides a comparison The clear axes legends help in the understanding of the data, the technical nature of the content might be overwhelming",,Aesthetics-Clarity-Comparison
-272,2213,5,"the trend is present in the graph well,",,Trend / Pattern Depiction
-274,2220,4,The use of different colors and line styles helps compare the categories The bars at the end represents the ranges and helps interpretating the chart The use of different colors line styles helps compare the categories The bars at the end represents the ranges helps interpretating the chart,,Aesthetics-Clarity-Comparison
-275,2220,3,"the graph formatting is a little confusing, it needs a key",,Labels-Titles-Legend-Scale
-276,2220,4,"The chart is clear allows for comparison, the main takeaway or highlight of important trend is not mentioned",,Aesthetics-Clarity-Comparison
-277,2223,4,"The visualization has 2 panels, which adds complexity, but it also gives a good overview of the data The visualization has 2 panels, which adds complexity, it also gives a good overview of the data",,Chart Type & Layout Choice
-278,2223,4,the graph needs a key,,Labels-Titles-Legend-Scale
-280,184,3,the different colored line don't have a clear definition,,Labels-Titles-Legend-Scale
-282,184,2,"There are many labels and legend in the axis, and the means in note immediately clear. ",,Labels-Titles-Legend-Scale
-283,220,3,Complex representation of the CO2 injection scenarios,,Chart Type & Layout Choice
-286,297,3,No legend is present to explain the non-linear lines,,Labels-Titles-Legend-Scale
-287,297,5,The graph is easy to understand,,Aesthetics-Clarity-Comparison
-288,297,2,"chart tell about the labels used, but there is no mention what the intent for the chart is.",,Labels-Titles-Legend-Scale
+reason_id,image_id,rating,reason,feature
+1,139,5,Easy to compare categories,Aesthetics-Clarity-Comparison
+2,139,4,The takeaway is not very clear,Aesthetics-Clarity-Comparison
+3,139,2,chart is dense,Visual Density / Clutter
+4,148,5,Easy to compare stabilization categories,Aesthetics-Clarity-Comparison
+5,148,4,"The trend is understandable,",Trend / Pattern Depiction
+6,148,3,"Chart is dense, uses technical terms",Visual Density / Clutter
+7,203,5,Easy to compare ranges of yield change,Aesthetics-Clarity-Comparison
+8,203,4,The graph is hard to extract information from,Visual Density / Clutter
+9,203,3,It uses good color coding to show the percentage of crop yield projections across different ranges,Labels‑Titles‑Legend‑Scale
+10,2289,5,"Although the bars overlap, it is easy to compare the categories and find the main differences between dataset",Visual Density / Clutter
+11,2289,5,Both are easy to understand,Aesthetics-Clarity-Comparison
+12,2289,5,The chart is more explainable,Aesthetics-Clarity-Comparison
+13,2360,5,Easy to interpret the chart and see the main trends without looking at the caption. Easy to interpret the chart,Aesthetics-Clarity-Comparison
+14,2360,4,the graph should have a key explaining the solid dotted line difference,Labels-Titles-Legend-Scale
+15,2360,4,"The visualization is clear,",Aesthetics-Clarity-Comparison
+17,324,5,"The graph is easy to understand,",Aesthetics-Clarity-Comparison
+18,324,1,"Chart a and c tells the same information, not sure why they are represented twice",Chart Type & Layout Choice
+19,332,5,Easy to read labels and compare the categories to understand the relationship between capacity factor and investment costs ,Labels‑Titles‑Legend‑Scale
+20,332,4,the labels on the graph could be differentiated more,Labels-Titles-Legend-Scale
+21,332,1,"Why both charts are similar, what is the comparison between them",Aesthetics-Clarity-Comparison
+23,337,5,The graph is understandable,Aesthetics-Clarity-Comparison
+25,339,5,a clear chart makes it easy to understand the main trend,Aesthetics-Clarity-Comparison
+26,339,4,Hard to interpret what the symbols are representing on y-axis,Labels-Titles-Legend-Scale
+27,339,4,"Chart itself is sufficient to interpret it,",Aesthetics-Clarity-Comparison
+28,436,5,Clear representations lines (shown in chart),Aesthetics-Clarity-Comparison
+29,436,4,the graph should have a key,Labels-Titles-Legend-Scale
+30,436,2,The chart does not mention about the extra dots between the years,Labels-Titles-Legend-Scale
+31,497,5,Easy to compare the onshore and offshore categories Easy to compare the onshore offshore categories,Aesthetics-Clarity-Comparison
+33,497,3,"The chart does not show the trend clearly, and only explain about the labels. ",Trend / Pattern Depiction
+34,502,5,"Easy to read the labels, color categorization makes it easy to identify the main takeaway",Labels‑Titles‑Legend‑Scale
+37,572,5,"Clear time series and labeled axes, Clear time series",Aesthetics-Clarity-Comparison
+40,610,5,"The chart has color coding, it is well-organized . The chart has color coding, it is well-organized",Labels‑Titles‑Legend‑Scale
+43,660,5,The graph uses colors to represent 3 different categories making it easy to follow each line,Labels‑Titles‑Legend‑Scale
+44,660,4,The graph is a little hard to read,Aesthetics-Clarity-Comparison
+46,690,5,The chart is organized and labeled which helps with understanding the main takeaway The chart is organized labeled which helps with understanding the main takeaway,Aesthetics-Clarity-Comparison
+48,690,3,chart is useful to interpret the result,Aesthetics-Clarity-Comparison
+49,790,5,Easy to understand clear takeaway,Aesthetics-Clarity-Comparison
+52,920,5,Easy to compare categories,Aesthetics-Clarity-Comparison
+55,937,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The chart uses color coding thick lines to show the medians, the total range of models",Labels‑Titles‑Legend‑Scale
+56,937,4,the x-y labels and titles are hard to read.,Labels-Titles-Legend-Scale
+58,994,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The different lines along with the shaded area conveys the main takeaway",Labels‑Titles‑Legend‑Scale
+61,999,5,Clear takeaway easy to interpret,Aesthetics-Clarity-Comparison
+63,999,4,"chart to interpret the takeaway, the line is clearly not mentioned in the chart",Aesthetics-Clarity-Comparison
+64,1081,5,Easy to see the annual average,Trend / Pattern Depiction
+67,1251,5,Easy to get the main takeaway and understand the difference between the color coded bars Easy to get the main takeaway understand the difference between the color coded bars,Labels‑Titles‑Legend‑Scale
+70,1277,5,The legend further helps in understanding the main takeaway. The words on the side explaining the y-axis is cut off. The words on the side explaining the y-axis is cut off The legend further helps in understanding the main takeaway,Labels-Titles-Legend-Scale
+71,1277,4,the labels are not visible,Labels-Titles-Legend-Scale
+73,1285,5,The chart shows the time series of the global annual ocean with color-code lines for different categories . The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,Trend / Pattern Depiction
+75,1285,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",Labels-Titles-Legend-Scale
+76,1295,5,The chart shows the time series of the global annual ocean with color-code lines for different categories The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,Trend / Pattern Depiction
+78,1295,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",Labels-Titles-Legend-Scale
+79,1303,5,the graph is easy to interpret,Aesthetics-Clarity-Comparison
+82,1601,5,Easy to read the labels and compare the pH levels Easy to read the labels compare the pH levels,Aesthetics-Clarity-Comparison
+85,1711,5,Easy to compare the categories,Aesthetics-Clarity-Comparison
+86,1711,4,the graph labels are small,Labels-Titles-Legend-Scale
+87,1711,3,both charts,Chart Type & Layout Choice
+88,1712,5,Easy to see the heat content changing,Trend / Pattern Depiction
+91,1761,5,Easy to compare categories and read the labels Easy to compare categories read the labels,Aesthetics-Clarity-Comparison
+94,1779,5,The chart shows the comparison between the simulations and observations Each panel is well laid out and labeled so it is easy to compare the scenarios The chart shows the comparison between the simulations observations Each panel is well laid out labeled so it is easy to compare the scenarios includes an overview of the data,Aesthetics-Clarity-Comparison
+95,1779,5,the model's shadow shows the differences well,Trend / Pattern Depiction
+96,1779,4,"The visualization is clear,",Aesthetics-Clarity-Comparison
+97,1803,5,"Despite a lot of elements, the chart shows the main trend with using different colors and symbols to help differentiate between data clearly",Trend / Pattern Depiction
+99,1803,4,The horizontal bar chart is clear with error bars,Aesthetics-Clarity-Comparison
+103,1839,5,The scatter plot shows the relationship between the x and y axis The line of best fit clearly shows the trend. Clear representation makes it easy to interpret,Aesthetics-Clarity-Comparison
+105,1839,4,"The axis are well labeled, and the use of colors make it more interpretable. ",Labels-Titles-Legend-Scale
+106,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions,Aesthetics-Clarity-Comparison
+108,1945,3,The chart is interpretable,Aesthetics-Clarity-Comparison
+109,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them,Aesthetics-Clarity-Comparison
+111,2062,3,Chart have many terms and abbreviations,Labels-Titles-Legend-Scale
+112,2065,5,"The use of 2 box plots to show the two scenarios makes it easy compare them. Furthermore, the chart includes two different time periods and multiple technologies While this adds complexity, it also provides a good overview of the data",Aesthetics-Clarity-Comparison
+114,2065,3,The chart is easy to understand,Aesthetics-Clarity-Comparison
+115,2124,5,Easy to compare the categories and see the main trend Easy to compare the categories see the main trend,Aesthetics-Clarity-Comparison
+117,2124,3,"The chart have some trends, not sure which trend to look at,",Trend / Pattern Depiction
+118,2218,5,Easy to compare the categories and see the main trends Easy to compare the categories see the main trends,Aesthetics-Clarity-Comparison
+119,2218,4,the graph labels are unclear,Labels-Titles-Legend-Scale
+120,2218,1,The label says -20% it is confusing in the chart,Labels-Titles-Legend-Scale
+121,112,4,The design and clarity can be improved. The design clarity can be improved,Aesthetics-Clarity-Comparison
+122,112,2,Difficult to understand the trends,Trend / Pattern Depiction
+125,126,3,"The graphs are easy to understand,",Aesthetics-Clarity-Comparison
+126,126,3,Different color are used to represent in different charts for the same label And also the axis scale is different,Labels-Titles-Legend-Scale
+127,304,4,The chart provides useful information to understand the data,Aesthetics-Clarity-Comparison
+128,304,3,the labels are hard to read on the graph,Labels-Titles-Legend-Scale
+129,304,3,Difficult to read labels,Labels-Titles-Legend-Scale
+130,317,4,Colors and labels are used effectively to convey the main takeaway Colors labels are used effectively to convey the main takeaway,Labels-Titles-Legend-Scale
+131,317,5,The graph is well made easy to understand,Aesthetics-Clarity-Comparison
+134,330,5,The graphs are easy to understand,Aesthetics-Clarity-Comparison
+136,380,4,does not provide the clear takeaway,Aesthetics-Clarity-Comparison
+137,380,3,The graph labels are hard to read,Labels-Titles-Legend-Scale
+139,433,4,No legend included,Labels-Titles-Legend-Scale
+140,433,5,The graph is easy to understand,Aesthetics-Clarity-Comparison
+144,447,3,The labels are not clear,Labels-Titles-Legend-Scale
+145,491,4,The use of labels helps in understanding the main takeaways,Labels-Titles-Legend-Scale
+147,491,5,Easy to compare categories,Aesthetics-Clarity-Comparison
+148,492,4,Easy to interpret with use of labels,Labels-Titles-Legend-Scale
+149,492,4,graph is understandable,Aesthetics-Clarity-Comparison
+150,492,4,The chart clearly explains the labels,Labels-Titles-Legend-Scale
+151,614,4,It is difficult to grasp the key points since there are too many words on the chart,Visual Density / Clutter
+152,614,3,the graph is very wordy hard to read,Visual Density / Clutter
+154,639,4,the chart uses color coding to help understand the caption,Labels-Titles-Legend-Scale
+156,639,4,Easy to compare,Aesthetics-Clarity-Comparison
+157,643,4,"Too many categories are present in the chart, but they are well organized and labeled Too many categories are present in the chart, they are well organized labeled",Visual Density / Clutter
+158,643,3,The graph is hard to understand,Aesthetics-Clarity-Comparison
+159,643,3,Difficult to understand,Aesthetics-Clarity-Comparison
+160,658,4,Clear representation with a clear break down of cost and efficiency improvements The format of this chart is not the standard Clear representation with a clear break down of cost efficiency improvements The format of this chart is not the standard,Chart Type & Layout Choice
+161,658,5,The graph is very well made,Aesthetics-Clarity-Comparison
+163,736,4,complex data requires interpretation,Aesthetics-Clarity-Comparison
+164,736,4,the graphs a little unclear hard to read,Aesthetics-Clarity-Comparison
+165,736,4,"The chart capture the trend, but the chart is little complex to understand",Aesthetics-Clarity-Comparison
+166,828,4,Overlapping lines makes it difficult to interpret But the annual mean is shown which helps Overlapping lines makes it difficult to interpret But the annual mean is shown which helps,Visual Density / Clutter
+167,828,1,"It is extremely hard to differentiate the colors on the graph, we don't know what each color represents",Labels-Titles-Legend-Scale
+168,828,3,No proper labeling is stated in chart,Labels-Titles-Legend-Scale
+169,839,4,Clear visualization that shows temperature changes,Aesthetics-Clarity-Comparison
+172,904,4,"chart has different curves representing different depths and locations. The x-axis and y-axis are clear, and the captions helps with the interpretation. No legend is present. locations The x-axis y-axis are clear, No legend is present",Labels-Titles-Legend-Scale
+175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex,Labels‑Titles‑Legend‑Scale
+176,1006,2,the graph is very hard to read tell the difference between the many labels,Labels-Titles-Legend-Scale
+177,1006,2,labels are not clear,Labels-Titles-Legend-Scale
+178,1044,4,"Too many lines and shaded regions makes the chart more complicated, Too many lines shaded regions makes the chart more complicated,",Visual Density / Clutter
+179,1044,5,the colors are clear on the graph,Labels-Titles-Legend-Scale
+181,1301,4,"The chart includes various components represent by different patterns and colors Furthermore, the blue/grey shaded areas add additional visual elements The chart includes various components represent by different patterns colors it adds to the complexity Furthermore, the blue/grey shaded areas add additional visual elements",Visual Density / Clutter
+182,1301,4,The graph some labels are small,Labels-Titles-Legend-Scale
+184,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given,Trend / Pattern Depiction
+187,1428,4,"The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns. The use of multiple sources makes the chart somewhat clutters, but it is interpretable The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns The use of multiple sources makes the chart somewhat clutters, it is interpretable",Aesthetics-Clarity-Comparison
+188,1428,4,"Both are okay, the graph labels are a little small",Labels-Titles-Legend-Scale
+189,1428,1,bars inside the chart is little confusing,Labels-Titles-Legend-Scale
+190,1453,4,The chart conveys the main takeaway but the multiple components and no legend for the different symbols and colors found in the chart make it a little hard to interpret The chart conveys the main takeaway the multiple components no legend for the different symbols colors found in the chart make it a little hard to interpret,Aesthetics-Clarity-Comparison
+192,1453,3,The chart no straight forward takeaway,Aesthetics-Clarity-Comparison
+193,1499,4,the graph includes a legend and it is somewhat easy to understand the errors bars. the graph includes a legend it is somewhat easy to understand the errors bars This visualization effectively shows the differences between the categories,Aesthetics-Clarity-Comparison
+195,1499,4,The black lines are not fully mentioned in chart but could be infered as error lines,Aesthetics-Clarity-Comparison
+196,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable,Trend / Pattern Depiction
+199,1626,4,"Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line and the r^2 Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line the r^2",Aesthetics-Clarity-Comparison
+201,1626,2,The labels are not mentioned in the chart,Labels-Titles-Legend-Scale
+202,1697,4,Somewhat easy to compare the categories,Aesthetics-Clarity-Comparison
+203,1697,4,some of the labels are blurry on the graph,Labels-Titles-Legend-Scale
+204,1697,2,labels are not clearly mentioned for the first chart,Labels-Titles-Legend-Scale
+205,1715,4,Multiple panels and detailed context add complexity making it somewhat confusing Multiple panels,Visual Density / Clutter
+207,1715,3,The chart contains multiple ranges which is confusing in the first glance,Aesthetics-Clarity-Comparison
+208,1718,4,"Clear representation with consistent color coding, making it somewhat interpretable",Aesthetics-Clarity-Comparison
+209,1718,3,"The graph is kind of confusing with the red blue, the different year labels",Labels-Titles-Legend-Scale
+211,1726,4,the multiple elements make it somewhat interpretable,Visual Density / Clutter
+213,1726,5,Labels are clearly mentioned easy to understand,Labels-Titles-Legend-Scale
+214,1755,4,The graph is easy to understand,Aesthetics-Clarity-Comparison
+215,1755,5,the graph should have a title,Labels-Titles-Legend-Scale
+217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,",Labels-Titles-Legend-Scale
+220,1777,4,The visualization includes multiple panels for different regions and periods. The use of these panels adds to the complexity The visualization includes multiple panels for different regions periods The use of these panels adds to the complexity,Chart Type & Layout Choice
+222,1777,2,The charts in the right does not clearly interpret,Labels-Titles-Legend-Scale
+223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars",Aesthetics-Clarity-Comparison
+224,1790,4,"the graph labels ranges are very small, so it is hard to tell what value they correlate to",Labels-Titles-Legend-Scale
+226,1861,4,The legend and well-defined axes make the charts somewhat interpretable The legend well-defined axes make the charts somewhat interpretable,Labels-Titles-Legend-Scale
+228,1861,3,"The chart does seem to use some symbols like triangle, circle that are not fully explained within the visualization itself and require very large caption.",Labels-Titles-Legend-Scale
+229,1874,4,"clearly observable trend. The use of symbols helps to differentiate the data points. The scatter plot shows the relationship between the x y axis, the data points arrows clearly show the trends The use of symbols helps to differentiate the data points",Trend / Pattern Depiction
+231,1874,4,"The visualization is clear allows for comparison,",Aesthetics-Clarity-Comparison
+232,1894,4,"The chart has annotations and different comparison lines making it harder to quickly understand the main takeaway. The use of specific scientific terms might not be immediately clear to everyone. The addition of the error bars also adds another layer of information, which can complicate the overall interpretation The chart has annotations different comparison lines making it harder to quickly understand the main takeaway The use of specific scientific terms might not be immediately clear to everyone The addition of the error bars also adds another layer of information, which can complicate the overall interpretation",Aesthetics-Clarity-Comparison
+234,1894,2,The label in x-axis is confusing to understand there are 4 groups only 3 wordings/labels,Labels-Titles-Legend-Scale
+235,1915,4,"The chart has two parts, the addition of these panels makes it complex, but it does provide an overall overview of the data given. The color-coded map shows the positive and negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable The chart has two parts, the addition of these panels makes it complex, it does provide an overall overview of the data given The color-coded map shows the positive negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable",Visual Density / Clutter
+236,1915,4,"the top graph is understandable, the bottom graph should include axis labels",Labels-Titles-Legend-Scale
+238,1925,4,The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends,Trend / Pattern Depiction
+239,1925,4,the graph should include a key to explain the different lines,Labels-Titles-Legend-Scale
+241,1947,4,"The chart shows different panels for different scenarios Despite the detailed context, the visual clarity makes the charts somewhat interpretable It is long informative, adds complexity to the interpretation The chart shows different panels for different scenarios",Visual Density / Clutter
+243,1947,3,There are many details in chart I did not find any clear takeaway,Visual Density / Clutter
+244,1979,4,"The chart shows the main key takeaways, but the multiple components make it complex The chart shows the main key takeaways, the multiple components make it complex",Visual Density / Clutter
+246,1979,3,"The chart is easy to interpret, ",Aesthetics-Clarity-Comparison
+247,2016,4,"The use of color coding in the map helps see the variations in the anomalies. But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values and blue bars are the negative values. Despite the detailed information, the representation is clear. The chart lacks detailed labels that could help in the interpretation. The use of color coding in the map helps see the variations in the anomalies But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values blue bars are the negative values Despite the detailed information, the representation is clear The chart lacks detailed labels that could help in the interpretation",Aesthetics-Clarity-Comparison
+248,2016,4,The graph is pretty good,Aesthetics-Clarity-Comparison
+249,2016,3,"The chart does not mention about the color scale used for world map, need to have some assumptions of the color scale for chart only",Labels-Titles-Legend-Scale
+250,2049,4,"The graphs contain a lot of data points and trend lines that are presented clearly. Although the chart effectively conveys the main trends, the lack of detailed labels and annotations might make it harder to interpret the small specific finding without any additional context. The graphs contain a lot of data points trend lines that are presented clearly Although the chart effectively conveys the main trends, the lack of detailed labels",Aesthetics-Clarity-Comparison
+251,2049,4,the graph data doesn't have a key for the symbols,Labels-Titles-Legend-Scale
+253,2054,4,The legend and clear representations make it charts somewhat interpretable The legend clear representations make it charts somewhat interpretable,Labels-Titles-Legend-Scale
+255,2054,4,the color scale in the chart is little bit confusing,Labels-Titles-Legend-Scale
+256,2061,4,"The chart's use of consistent color coding and multiple types of vehicles adds to the complexity but provides a good overview of the data. The clear axes and legend help in the interpretation, but many require more context for full understanding The chart's use of consistent color coding multiple types of vehicles adds to the complexity provides a good overview of the data The clear axes legend help in the interpretation,",Aesthetics-Clarity-Comparison
+257,2061,4,the graph is pretty understandable,Aesthetics-Clarity-Comparison
+259,2071,4,"There is no legend present in the chart, making it difficult to understand what each color means. Each panel presents data using different symbols and colors to represent the different measurements. However, the complexity of the data can make it somewhat challenging to graph the main trends There is no legend present in the chart, making it difficult to understand what each color means Each panel presents data using different symbols colors to represent the different measurements However, the complexity of the data can make it somewhat challenging to graph the main trends",Labels-Titles-Legend-Scale
+260,2071,4,the graph should have a key for the colors,Labels-Titles-Legend-Scale
+262,2271,4,"The chart has a clear representation with 2 panels, but each panel uses different line styles and bard to represent the different datasets However, this adds more complexity to the interpretation of the chart The chart has a clear representation with 2 panels, each panel uses different line styles bard to represent the different datasets However, this adds more complexity to the interpretation of the chart",Chart Type & Layout Choice
+263,2271,5,graphs are interpretable,Aesthetics-Clarity-Comparison
+265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable",Aesthetics-Clarity-Comparison
+266,2356,4,the graph should have a key,Labels-Titles-Legend-Scale
+267,2356,4,"The chart is clear allows for comparison,",Aesthetics-Clarity-Comparison
+268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex,Aesthetics-Clarity-Comparison
+271,2213,4,"The charts show the long-term trends and provides a comparison. The clear axes and legends help in the understanding of the data, but the technical nature of the content might be overwhelming. the variables shown in each panel The charts show the long-term trends provides a comparison The clear axes legends help in the understanding of the data, the technical nature of the content might be overwhelming",Aesthetics-Clarity-Comparison
+272,2213,5,"the trend is present in the graph well,",Trend / Pattern Depiction
+274,2220,4,The use of different colors and line styles helps compare the categories The bars at the end represents the ranges and helps interpretating the chart The use of different colors line styles helps compare the categories The bars at the end represents the ranges helps interpretating the chart,Aesthetics-Clarity-Comparison
+275,2220,3,"the graph formatting is a little confusing, it needs a key",Labels-Titles-Legend-Scale
+276,2220,4,"The chart is clear allows for comparison, the main takeaway or highlight of important trend is not mentioned",Aesthetics-Clarity-Comparison
+277,2223,4,"The visualization has 2 panels, which adds complexity, but it also gives a good overview of the data The visualization has 2 panels, which adds complexity, it also gives a good overview of the data",Chart Type & Layout Choice
+278,2223,4,the graph needs a key,Labels-Titles-Legend-Scale
+280,184,3,the different colored line don't have a clear definition,Labels-Titles-Legend-Scale
+282,184,2,"There are many labels and legend in the axis, and the means in note immediately clear. ",Labels-Titles-Legend-Scale
+283,220,3,Complex representation of the CO2 injection scenarios,Chart Type & Layout Choice
+286,297,3,No legend is present to explain the non-linear lines,Labels-Titles-Legend-Scale
+287,297,5,The graph is easy to understand,Aesthetics-Clarity-Comparison
+288,297,2,"chart tell about the labels used, but there is no mention what the intent for the chart is.",Labels-Titles-Legend-Scale
 289,407,3,"the chart is blurry, 
-Difficult to read the chart",,Aesthetics-Clarity-Comparison
-290,407,3,the graph labels are hard to read,,Labels-Titles-Legend-Scale
-291,407,5,Easy to compare categories,,Aesthetics-Clarity-Comparison
+Difficult to read the chart",Aesthetics-Clarity-Comparison
+290,407,3,the graph labels are hard to read,Labels-Titles-Legend-Scale
+291,407,5,Easy to compare categories,Aesthetics-Clarity-Comparison
 292,494,3,"Hard to interpret the multiple categories on the chart, 
-",,Visual Density / Clutter
-293,494,2,the graph is very hard to read,,Aesthetics-Clarity-Comparison
-294,494,4,Easy to compare categories,,Aesthetics-Clarity-Comparison
-295,754,3,overlapping lines adds more complexity,,Visual Density / Clutter
-297,754,3,"Some inconsistency inside the charts are not mentioned properly like the suddent spike in red bars, the reasoning is not provided",,Aesthetics-Clarity-Comparison
-298,1011,3,multiple bars no legend for the colors of the bars makes it somewhat confusing,,Labels-Titles-Legend-Scale
-300,1011,1,"The chart is more prone to misinterpreting the change, it would be better to keep the change in vertical instead of horizontal because it is more interpretable as increasing",,Trend / Pattern Depiction
-301,1143,3,"Overlapping data and no legend found in the graph, this makes it difficult to fully understand the main takeaway ",,Visual Density / Clutter
-302,1143,2,"it is better to have a key, the graph hard to read with the label intersections",,Labels-Titles-Legend-Scale
-303,1143,1,"trend lines are visible, but no takeaway can be taken from chart",,Trend / Pattern Depiction
-304,1215,3,"The chart presents various categories using box plots, symbols like diamonds and individual data points. The graphs uses colors and symbols which adds complexity Visual elements make it somewhat confusing. The chart presents various categories using box plots, symbols like diamonds individual data points. The graphs uses colors symbols which adds complexity it takes time to understand. Visual elements make it somewhat confusing",,Aesthetics-Clarity-Comparison
-306,1215,2,The mention of min max in the bar graph is little misleading when checking the bottom bars for negative change,,Labels-Titles-Legend-Scale
-307,1439,3,The chart uses different symbols and color to represent various ranges The chart uses different symbols color to represent various ranges While the legend lines can be a little confusing to interpret at first glance,,Labels-Titles-Legend-Scale
-311,213,2,the graph is hard to read,,Aesthetics-Clarity-Comparison
-312,213,2,the trend in the chart is visible,,Trend / Pattern Depiction
-313,236,2,Difficult  to interpret the representation of temperature projections,,Aesthetics-Clarity-Comparison
-314,236,2,The graph is very hard to read with all the tiny symbols,,Visual Density / Clutter
-315,236,3,Difficult to read labels,,Labels-Titles-Legend-Scale
-316,604,2,hard to compare the categories,,Aesthetics-Clarity-Comparison
-317,604,3,the graph labels are hard to read,,Labels-Titles-Legend-Scale
-318,604,4,Easy to compare categories,,Aesthetics-Clarity-Comparison
+",Visual Density / Clutter
+293,494,2,the graph is very hard to read,Aesthetics-Clarity-Comparison
+294,494,4,Easy to compare categories,Aesthetics-Clarity-Comparison
+295,754,3,overlapping lines adds more complexity,Visual Density / Clutter
+297,754,3,"Some inconsistency inside the charts are not mentioned properly like the suddent spike in red bars, the reasoning is not provided",Aesthetics-Clarity-Comparison
+298,1011,3,multiple bars no legend for the colors of the bars makes it somewhat confusing,Labels-Titles-Legend-Scale
+300,1011,1,"The chart is more prone to misinterpreting the change, it would be better to keep the change in vertical instead of horizontal because it is more interpretable as increasing",Trend / Pattern Depiction
+301,1143,3,"Overlapping data and no legend found in the graph, this makes it difficult to fully understand the main takeaway ",Visual Density / Clutter
+302,1143,2,"it is better to have a key, the graph hard to read with the label intersections",Labels-Titles-Legend-Scale
+303,1143,1,"trend lines are visible, but no takeaway can be taken from chart",Trend / Pattern Depiction
+304,1215,3,"The chart presents various categories using box plots, symbols like diamonds and individual data points. The graphs uses colors and symbols which adds complexity Visual elements make it somewhat confusing. The chart presents various categories using box plots, symbols like diamonds individual data points. The graphs uses colors symbols which adds complexity it takes time to understand. Visual elements make it somewhat confusing",Aesthetics-Clarity-Comparison
+306,1215,2,The mention of min max in the bar graph is little misleading when checking the bottom bars for negative change,Labels-Titles-Legend-Scale
+307,1439,3,The chart uses different symbols and color to represent various ranges The chart uses different symbols color to represent various ranges While the legend lines can be a little confusing to interpret at first glance,Labels-Titles-Legend-Scale
+311,213,2,the graph is hard to read,Aesthetics-Clarity-Comparison
+312,213,2,the trend in the chart is visible,Trend / Pattern Depiction
+313,236,2,Difficult  to interpret the representation of temperature projections,Aesthetics-Clarity-Comparison
+314,236,2,The graph is very hard to read with all the tiny symbols,Visual Density / Clutter
+315,236,3,Difficult to read labels,Labels-Titles-Legend-Scale
+316,604,2,hard to compare the categories,Aesthetics-Clarity-Comparison
+317,604,3,the graph labels are hard to read,Labels-Titles-Legend-Scale
+318,604,4,Easy to compare categories,Aesthetics-Clarity-Comparison
 319,676,2,"- Hard to understand the graph, as there are 2 graphs in the big graph 
 - The chart has 2 y-axis and it is visually complex - There is no legend for the different colored lines - Hard to understand the graph, as there are 2 graphs in the big graph 
-- The chart has 2 y-axis it is visually complex - There is no legend for the different colored lines",,Visual Density / Clutter
-320,676,2,The graph is very hard to read,,Visual Density / Clutter
-321,676,4,Easy to understand,,Aesthetics-Clarity-Comparison
-322,758,2,Multiple elements makes it confusing and also the clarity of the second graph is not clear even after zooming in. The color coding and symbols help but the complexity of the data require effort to interpret.,,Aesthetics-Clarity-Comparison
-323,758,2,"the graph is hard to read It is hard to tell the difference in colors labels, especially in the box whisker plot",,Labels-Titles-Legend-Scale
-324,758,3,Labels are not clear,,Labels-Titles-Legend-Scale
-325,846,2,"Complex bar chart under multiple scenarios for the year of 2050. But the chart itself is cluttered with multiple bars for each region and scenarios, making it difficult to grasp what is the main takeaway. The overlapping data and use of different colors add more to the confusion. ",,Visual Density / Clutter
-326,846,5,the color coding is well done,,Labels-Titles-Legend-Scale
-328,898,2,"Although there is a legend in the chart, the multiple lines representing different regions is confusing. The dual y-axes add more to the complexity, making it harder to quickly analyze the chart. ",,Labels-Titles-Legend-Scale
-331,998,2,"Multiple data points the vertical horizontal dashes line, increase the complexity of the data as the reader has to interpret multiple aspects of the chart",,Visual Density / Clutter
-333,998,3,The chart is confusing to understand also the reference lines along y-axis is little confusing,,Labels-Titles-Legend-Scale
-334,1100,2,"The graph's resolution is low, the graph is blurry There is no legend present, explaining the different colors what do they mean",,Labels-Titles-Legend-Scale
-335,1100,2,the graph labels are hard to read,,Labels-Titles-Legend-Scale
-336,1100,4,Easy to compare categories,,Aesthetics-Clarity-Comparison
-337,1112,2,Multiple lines different colors make it hard to interpret the main takeaway,,Aesthetics-Clarity-Comparison
-338,1112,1,the graph is very hard to read with the many unlabeled intersecting lines,,Visual Density / Clutter
-339,1112,2,"The lines are overlapping on each other mentioning of some axis notation on the right side, which is not clear",,Visual Density / Clutter
-340,1153,2,overlapping lines with the different data sets makes it hard to follow the trends,,Visual Density / Clutter
-341,1153,4,the graph is a little hard to read understandable,,Aesthetics-Clarity-Comparison
-343,1206,2,"The chart includes multiple categories with detailed visual elements, overlapping data points, addition symbols like red diamonds, all of which make it hard to interpret",,Visual Density / Clutter
-345,1206,4,Easy to compare categories,,Aesthetics-Clarity-Comparison
-346,1400,2,The chart includes comparisons between pink blue countries across different time periods The comparison between the different scenarios takes careful interpretation to understand the main takeaways Multiple elements makes it somewhat confusing,,Aesthetics-Clarity-Comparison
-347,1400,1,the graph lines are very hard to understand The differences in representation is very small that it is hard to tell,,Aesthetics-Clarity-Comparison
-348,1400,3,Lines are not labeled,,Labels-Titles-Legend-Scale
-349,1510,2,"The visualization includes multiple categories such as causes, consequences, costs separated into 3 sections for developing, developed, global totals Each section includes graphs for sub-categories for dryland loss, wetland loss, etc While the visualization effectively conveys the potential impacts, the multiple elements details to focus on make it somewhat confusing",,Visual Density / Clutter
-352,1615,2,"The chart has 1 main panel with 4 additional panels This adds complexity contributions which is informative But, making the comparisons between the different factors makes it difficult to interpret",,Chart Type & Layout Choice
-353,1615,4,the first graph the black red are hard to read,,Labels-Titles-Legend-Scale
-355,1633,2,"The visualization has multiple panels, making it difficult to focus on one panel The different changes are shown each panel uses different colors since there are too many of the little panels, it becomes hard to make any observations , although it summarizes the main trend I have to zoom in to see the dashed lines the solid lines to make any interpretation",,Visual Density / Clutter
-356,1633,4,the graphs are a little small,,Chart Type & Layout Choice
-357,1633,4,"The visualization is complex,",,Visual Density / Clutter
-358,1659,2,"The visualization includes 4 panels showing different precipitations for different countries The use of multiple panels adds to the complexity The chart shows different ratios for each panel, it takes time careful interpretation to understand the difference between the models",,Chart Type & Layout Choice
-359,1659,1,the symbols labels on the graph are hard to read,,Labels-Titles-Legend-Scale
-360,1659,2,"The legend seems to be crowded, making it difficult to distinguish between the models, overlapping datapoints add some visual clutter",,Visual Density / Clutter
-361,1748,2,Multiple panels make it hard analyze the full context of these graphs,,Chart Type & Layout Choice
-362,1748,4,the graph labels can be bigger,,Labels-Titles-Legend-Scale
-363,1748,1,"The year are not consistent between the left top (a) bottom charts (b,c), which in overview inferring same years",,Labels-Titles-Legend-Scale
-364,1750,2,"This visualization includes multiple 3D bar graphs with the use of multiple components adds complexity scenarios, which is informative also adds to the overall complexity",,Chart Type & Layout Choice
-366,1750,2,"The 3D charts are making it difficult to compare values, color encoding is not intuitive, does not summarize the main takeaway",,Aesthetics-Clarity-Comparison
-367,1802,2,The scatterplot involves technical terms which require background knowledge to fully understand,,Labels-Titles-Legend-Scale
-368,1802,4,the graph format should be different,,Chart Type & Layout Choice
-370,1838,2,it can be hard to compare each panel compare data The complexity in the last panel makes it somewhat confusing,,Aesthetics-Clarity-Comparison
-372,1838,3,"The charts are very dense, with overlapping lines, ",,Visual Density / Clutter
-373,1911,2,There are multiple components details that need to be focused on which make it somewhat confusing The legend doesn't include what the solid dashed lines mean Confusing to find the main trend of the chart,,Labels-Titles-Legend-Scale
-374,1911,4,"the graph should include info about what the vertical lines stand for, format the data differently visually",,Labels-Titles-Legend-Scale
-375,1911,4,Takes some time to understand there are different countries,,Aesthetics-Clarity-Comparison
-376,2050,2,"Different colors symbols are used for different purposes, it can be confusing to understand what they mean The chart includes many panels which adds to the complexity makes it harder to get an overall main takeaway of the date",,Labels-Titles-Legend-Scale
-377,2050,4,the graph should have a key for each data point,,Labels-Titles-Legend-Scale
-379,2105,2,"The chart shows a comparison between the historical observations, present simulations, future climate projects however, the multiple components, the lines on b,c,and d make it hard to interpret which makes it somewhat confusing",,Visual Density / Clutter
-381,2105,2,The bell curves are drawn in different time range which is difficult to compare or understand,,Aesthetics-Clarity-Comparison
-382,2125,2,"The charts use different colors lines to show the historical project changes The clear axes legends somewhat help in understanding However, just looking at the chart won't help in the interpretation The bar on the right side is also hard to see see the ranges",,Aesthetics-Clarity-Comparison
-385,2254,2,The chart has labels that are hard to read. There is no legend present in the chart.,,Labels-Titles-Legend-Scale
-386,2254,4,a few labels on the graph are blurry,,Labels-Titles-Legend-Scale
-387,2254,2,"The chart represented in different colors, no label mentioned what color means",,Labels-Titles-Legend-Scale
-388,2262,2,it is hard to find a main key takeaway without spending some time understanding what each line style/colors mean,,Labels-Titles-Legend-Scale
-389,2262,4,"The graph should include a key to explain the colors, the lines overlap a lot",,Labels-Titles-Legend-Scale
-390,2262,2,There are many overlapping lines in the charts,,Visual Density / Clutter
-391,2276,2,The chart uses different scales to represent the different datasets which makes it somewhat confusing to interpret the data,,Labels-Titles-Legend-Scale
-392,2276,4,the graphs should be separated   instead of placed together on the same axis,,Chart Type & Layout Choice
-393,2276,4,It is better to have separate lines in between different categories to increase interpretability in my opinion,,Aesthetics-Clarity-Comparison
-394,2300,2,"The 3 panels show different results, it hard to compare them Furthermore, the chart includes grey region that the lines go into which also makes it somewhat confusing",,Aesthetics-Clarity-Comparison
-397,2327,2,"Each panel uses different colored lines symbols to represent different models However, the use of multiple colors lines make it somewhat challenging to grasp the main trends",,Visual Density / Clutter
-398,2327,4,"For the bottom graph, some of the graph lines are hard to read,",,Aesthetics-Clarity-Comparison
-400,2152,2,The use of multiple components adds to the complexity of interpretation.,,Visual Density / Clutter
-401,2152,5,display the trend well,,Trend / Pattern Depiction
-402,2152,3,The bottom chart is less interpretable,,Aesthetics-Clarity-Comparison
-403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a),,Visual Density / Clutter
-405,2194,1,The x-axis label is very confusing unable to determine the ticks with years,,Labels-Titles-Legend-Scale
-406,2215,2,"The visualization includes 2 panels, the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends ",,Visual Density / Clutter
-407,2215,4,the graph formatting could be better,,Chart Type & Layout Choice
-409,242,1,Difficult to interpret the main takeaway There is no legend The bars at the end of the orange envelope are blurry,,Labels-Titles-Legend-Scale
-410,242,3,"The graph is hard to read,",,Aesthetics-Clarity-Comparison
-411,242,3,More details are required to know about the takeaway for the chart,,Aesthetics-Clarity-Comparison
-412,909,1,"multiple bars and categories make it confusing to understand what the main takeaways are Although, the chart is labeled the layout is dense",,Visual Density / Clutter
-413,909,4,"The graph is well made,",,Aesthetics-Clarity-Comparison
-415,950,1,"Too many graphs, graph is blurry, low resolution Multiple bar plots scenarios add to the complexity",,Visual Density / Clutter
-416,950,1,"the graphs are very hard to read, especially the smaller ones",,Visual Density / Clutter
-417,950,3,Difficult to read labels in chart,,Labels-Titles-Legend-Scale
-418,1068,1,"Too much information is provided in the chart, even though there is a legend, multiple data points symbols make it difficult to interpret",,Visual Density / Clutter
-419,1068,1,the graph is very hard to read with the many labels intersecting each other Even the graph key is hard to read,,Visual Density / Clutter
-420,1068,1,Many labels confusing,,Labels-Titles-Legend-Scale
-421,1087,1,The graph itself is very complex with multiple overlapping lines representing different time periods. The error bars also makes it more difficult to grasp the main takeaway,,Visual Density / Clutter
-422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels",,Trend / Pattern Depiction
-424,1146,1,"This visualization consists of 6 bar graphs, broken down into different regions aerosols error bars. However the overall layout is cluttered with many bars, colors codes and error bars. The dense information make it difficult to quickly understand takeaway",,Visual Density / Clutter
-425,1146,4,the graphs could be bigger,,Visual Density / Clutter
-426,1146,4,Easy to understand,,Aesthetics-Clarity-Comparison
-427,1177,1,The graph includes multiple lines representing the different region the scale bar the lines all over the graph makes it hard to understand the visualization,,Visual Density / Clutter
-428,1177,1,"the graph arrangement is hard to read, it has no structure",,Chart Type & Layout Choice
-430,1178,1,the graph has too many lines that overlap which makes it difficult to graph the main trends,,Visual Density / Clutter
-431,1178,2,"the graph lines are hard to read, especially since the blue green intersect a lot",,Labels-Titles-Legend-Scale
-433,1192,1,the graph includes multiple lines and double axes and complex data sources make it very confusing,,Labels-Titles-Legend-Scale
-436,1205,1,"The chart includes multiple overlapping lines representing different regions uses both double x-axis y-axis scales, adding to the complexity The 4 charts make it hard to understanding the main trends data sources, the overall layout makes it very confusing to interpret the main takeaway",,Visual Density / Clutter
-437,1205,2,the graph is very hard to read with the lines intersecting that much,,Visual Density / Clutter
-439,1232,1,"There are 4 different panels with different scenarios models, which adds complexity. Each panel contains multiple lines representing different models further makes it complex",,Visual Density / Clutter
-440,1232,1,"the graphs are very hard to read with the intersecting labels, especially the bottom two",,Visual Density / Clutter
-442,1246,1,Multiple categories visual elements with various lines makes it confusing This visualization requires a lot of effort to interpret the main takeaway,,Visual Density / Clutter
-443,1246,1,the graph structure is very hard to understand,,Aesthetics-Clarity-Comparison
-445,1294,1,"the graph has multiple elements that represent with vertical bars with various colors lines symbols, making it hard to read it takes time to interpret the information Furthermore, the compares multiple models which requires careful interpretation",,Visual Density / Clutter
-446,1294,1,the graph is very hard to read with all the different symbols lines close together,,Visual Density / Clutter
-447,1294,4,Easy to compare categories,,Aesthetics-Clarity-Comparison
-448,1326,1,"Too much information is provided in 1 graph If possible, it would be helpful to see 4 different graphs to help understand the information better The image is very blurry so it's hard to read",,Visual Density / Clutter
-449,1326,1,the graphs are completely unreadable None of the labels points can be seen clearly,,Visual Density / Clutter
-450,1326,2,Difficult to read labels in the chart,,Labels-Titles-Legend-Scale
-451,1576,1,"I cannot see the symbols as it is overlapped are also cluttered The chart has 4 graphs with different information presented in each, making it difficult to interpret them easily The multiple components make it difficult to find it's distinctions between the time reconstructions",,Visual Density / Clutter
-452,1576,1,the graphs are unreadable with all the symbols colors intersecting,,Visual Density / Clutter
-453,1576,2,many visual elements present,,Visual Density / Clutter
-454,1751,1,There are different colored triangles shown in one of the graphs is confusing Making a comparison between the two graphs is confusing Multiple elements,,Visual Density / Clutter
-455,1751,4,the graph points/lines are hard to differentiate,,Labels-Titles-Legend-Scale
-456,1751,2,The labels are not clearly mentioned in charts,,Labels-Titles-Legend-Scale
-457,1821,1,"There are multiple panels in this visualization, it is hard to tell what each colors mean Too much information to process so cannot find a main clear takeaway",,Aesthetics-Clarity-Comparison
-458,1821,2,"the various graph symbols and colors are hard to interpret, especially since they are small and clustered.",,Visual Density / Clutter
-459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand",,Aesthetics-Clarity-Comparison
-460,1946,1,"There are multiple lines that overlap, there are variations of lines (dashed, dotted, straight) which is difficult to see  Trying to get a main takeaway can be hard",,Visual Density / Clutter
-461,1946,4,the graph lines are very clustered hard to read,,Visual Density / Clutter
-462,1946,3,"The chart is visually dense, with overlapping lines there are many abbreviations ",,Visual Density / Clutter
-463,1953,1,The various data points for different models the alternate observational datasets adds to the complexity of chart,,Visual Density / Clutter
-464,1953,4,the graph points are hard to read,,Aesthetics-Clarity-Comparison
-465,1953,2,"The chart is visually cluttered, with overlapping points numbers The radial axis does require some more indepth understanding ",,Visual Density / Clutter
-466,1963,1,"There are six scatter plots divided into two panels, showing different relationships between observed vs model values This adds complexity to the chart, making it difficult to interpret the data The chart also uses dashed lines which make it hard to understand what the main takeaway is",,Visual Density / Clutter
-467,1963,4,the graph should also have a key for the different lines,,Labels-Titles-Legend-Scale
-468,1963,3,The chart is visually dense also there is some logarithamic axis which is getting covered by data points,,Visual Density / Clutter
-469,2007,1,Too many pixelated colors on each panel makes it very difficult to understand the main takeaway It is also somewhat blurry,,Aesthetics-Clarity-Comparison
-471,2007,2,"The range in the color scale are different, which is confusing when looking together",,Labels-Titles-Legend-Scale
-472,2008,1,"The chart contains a lot of information in one visualization, which can be overwhelming The color scale also makes it difficult to quickly graph the importance of variations shown in the charts",,Visual Density / Clutter
-473,2008,4,"The data on the graph is overlaps a lot, so it is a little hard to read,",,Visual Density / Clutter
-475,2052,1,"The chart is very blurry, it is hard to interpret anything",,Aesthetics-Clarity-Comparison
-476,2052,1,"The graph is very blurry, the data overlaps a lot, the entire graph is very hard to read",,Visual Density / Clutter
-477,2052,2,labels are not clear,,Labels-Titles-Legend-Scale
-478,2074,2,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",,Aesthetics-Clarity-Comparison
-479,2074,3,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",,Aesthetics-Clarity-Comparison
-480,2074,1,label is not clear,,Labels-Titles-Legend-Scale
-481,2103,2,chart shows different attributes in a shared y-axis Chart would be easire to read if it was divided into multiple panels Legend required to understand chart components in not available in the chart Use of dual axis makes it more confusing to read the charts does not give a clear idea of the intent,,Aesthetics-Clarity-Comparison
-482,2103,1,chart shows different attributes in a shared y-axis. Chart would be easire to read if it was divided into multiple panels. Legend required to understand chart components in not available in the chart. Use of dual axis makes it more confusing to read the charts.,,Aesthetics-Clarity-Comparison
-483,2103,1,"addition to my previous response, the left part gives the difference from the years, not clear about the representation on the right side",,Labels-Titles-Legend-Scale
-484,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows,,Labels-Titles-Legend-Scale
-485,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows.,,Labels-Titles-Legend-Scale
-486,2138,3,low level interpretation can be made from the chart but takeaway message is unclear,,Aesthetics-Clarity-Comparison
-487,2141,3,"clutter in the chart is overwhelming Shared axis show use the same scale unit making it easy to read the chart since color spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided ",,Visual Density / Clutter
-488,2141,4,"clutter in the chart is overwhelming. Shared axis show use the same scale and unit making it easy to read the chart. since color and spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided.",,Visual Density / Clutter
-490,2348,3,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message The chart uses inconsistent y-axis so the observed increase rate is not reliable",,Visual Density / Clutter
-491,2348,2,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message. The chart uses inconsistent y-axis so the observed increase rate is not reliable. ",,Visual Density / Clutter
-493,2354,4,The clutter in the chart is ovewhelming,,Visual Density / Clutter
-494,2354,4,The clutter in the chart is ovewhelming,,Visual Density / Clutter
-495,2354,3,chart is having many overlapping lines,,Visual Density / Clutter
-496,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret Trend is easy to read in the chart multiple axes with different ticks makes the observed trend unreliable,,Trend / Pattern Depiction
-497,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret. Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable.,,Trend / Pattern Depiction
-498,2251,3,"The are many charts with overlapping lines hard to track across many charts, ",,Visual Density / Clutter
-499,149,1,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,,Labels-Titles-Legend-Scale
-500,149,2,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,,Labels-Titles-Legend-Scale
-501,149,2,The slanted lines clustering of points make it hard to follow trends or get clear takeaway,,Trend / Pattern Depiction
-502,152,1,chart is exteremely cluttered lack proper labels Goal of the visualization is unclear,,Visual Density / Clutter
-503,152,1,chart is exteremely cluttered and lack proper labels. Goal of the visualization is unclear,,Visual Density / Clutter
-504,152,2,"The visualization contains many overlapping lines, making it difficult to identify trends It is visually cluttered ",,Visual Density / Clutter
-507,188,2,"There are many labels mentioned in the chart, also shown inside the visualization, it is confusing because the are no proper starting line or only a single point ",,Labels-Titles-Legend-Scale
-508,196,4,Components of the chart are clearly labeled well annotated,,Labels-Titles-Legend-Scale
-509,196,4,Components of the chart are clearly labeled well annotated,,Labels-Titles-Legend-Scale
-510,196,4,The bar chart clearly explains the change in trends using the color-coded segments triangle to indicate total change,,Trend / Pattern Depiction
-511,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,,Aesthetics-Clarity-Comparison
-512,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,,Aesthetics-Clarity-Comparison
-513,290,2,I am not able to compare between the bars it is difficult to compare categories,,Aesthetics-Clarity-Comparison
-514,650,5,Pattern of trend in chart is easy to understand,,Trend / Pattern Depiction
-515,650,5,Pattern of trend in chart is easy to understand,,Trend / Pattern Depiction
-516,650,2,also little unclear about B2 scenarios,,Labels-Titles-Legend-Scale
-517,765,2,Chart does not include legend for encodings,,Labels-Titles-Legend-Scale
-518,765,2,Chart does not include legend for encodings.,,Labels-Titles-Legend-Scale
-520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message,,Labels-Titles-Legend-Scale
-521,859,4,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message.,,Labels-Titles-Legend-Scale
-522,859,4,Easy to compare,,Aesthetics-Clarity-Comparison
-523,882,4,Chart is easy to read low level message is easy to grasp,,Aesthetics-Clarity-Comparison
-524,882,3,Chart is easy to read low level message is easy to grasp,,Aesthetics-Clarity-Comparison
-525,882,5,clear takeaway,,Aesthetics-Clarity-Comparison
-526,547,3,Chart does not have legend of the colors used,,Labels-Titles-Legend-Scale
-527,547,2,Chart does not have legend of the colors used,,Labels-Titles-Legend-Scale
-528,547,3,Difficult to read labels,,Labels-Titles-Legend-Scale
-529,292,2,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,,Labels-Titles-Legend-Scale
-530,292,3,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,,Labels-Titles-Legend-Scale
-531,292,1,"The chart mentions some dots in the charts which is not clearly explained in the caption,",,Labels-Titles-Legend-Scale
-532,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,,Labels-Titles-Legend-Scale
-533,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,,Labels-Titles-Legend-Scale
-534,413,1,"chart is not useful to interpret the trend also labels are missing in chart,",,Trend / Pattern Depiction
-535,442,2,Marks in the chart overlap causing visual clutter Abberviations used in the chart are unclear Multiple plots are placed close to each other in the chart legend for multiple symbols used in the chart are not given,,Visual Density / Clutter
-536,442,1,Marks in the chart overlap causing visual clutter. Abberviations used in the chart are unclear.  Multiple plots are placed close to each other in the chart. legend for multiple symbols used in the chart are not given.,,Visual Density / Clutter
-537,442,3,Difficult to read labels,,Labels-Titles-Legend-Scale
-538,2018,4,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,,Labels-Titles-Legend-Scale
-539,2018,3,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,,Labels-Titles-Legend-Scale
-540,2018,3,And also the labels are not clearly mentioned,,Labels-Titles-Legend-Scale
-541,2025,2,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,,Visual Density / Clutter
-542,2025,1,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,,Visual Density / Clutter
-543,2025,2,"The chart seems to be cluttered,",,Visual Density / Clutter
-544,2060,4,Lack of domain knowledge makes it difficult to read the chart Key takeaway is not clear looking at both Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,,Aesthetics-Clarity-Comparison
-545,2060,5,Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,,Labels-Titles-Legend-Scale
-546,2060,3,also what to infer from the charts,,Aesthetics-Clarity-Comparison
-547,2064,2,The chart is cluttered or summarize the trend,,Visual Density / Clutter
-548,2064,2,The chart is cluttered,,Visual Density / Clutter
-549,2064,4,chart are useful,,Chart Type & Layout Choice
-550,2117,3,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,,Chart Type & Layout Choice
-551,2117,4,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,,Chart Type & Layout Choice
-552,2117,1,"The chart is 3D which is difficult to get the exact comparison between the years, ",,Chart Type & Layout Choice
-553,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message A pattern can be observed in the chart the intended message is not clear,,Visual Density / Clutter
-554,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message. A pattern can be observed in the chart but the intended message is not clear.,,Visual Density / Clutter
-555,2163,4,"Though there are too many labels mentioned in the chart, chart represent a clear takeaway message",,Aesthetics-Clarity-Comparison
-556,2253,4,Chart uses different shapes to encode categorical information which is difficult to read The goal of the visualization is clear using both,,Aesthetics-Clarity-Comparison
-557,2253,4,Chart uses different shapes to encode categorical information which is difficult to read,,Labels-Titles-Legend-Scale
-558,2253,3,"The chart is visually dense because of some similar labelling,",,Visual Density / Clutter
-559,2293,4,Collective trend outliers are easy to detect in the chart making the overall message clear,,Trend / Pattern Depiction
-560,2293,3,Collective trend outliers are easy to detect in the chart making the overall message clear,,Trend / Pattern Depiction
-561,2293,2,"The visualization is cluttered, overwhelming",,Visual Density / Clutter
-562,2364,2,Use of abberviations in the chart makes it difficult to understand Lack of domain knowledge makes it difficult to understand the goal of the visualization,,Labels-Titles-Legend-Scale
-563,2364,3,Use of abberviations in the chart makes it difficult to understand.,,Labels-Titles-Legend-Scale
-565,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels,,Aesthetics-Clarity-Comparison
-566,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels.,,Aesthetics-Clarity-Comparison
-567,869,1,The chart is too complex with many visual elements to compare between labels are kept in between two charts making it difficult to interpret for which chart it is,,Visual Density / Clutter
-568,1214,4,The graph alone is sufficient to get an overall message Use of color encoding along z-axis of the 3D chart aids in identification task Use of multiple charts in a single panel requires remembering a lot of information reading all the chart to get the over all message,,Aesthetics-Clarity-Comparison
-569,1214,4,The graph alone is sufficient to get an overall message. Use of color encoding along z-axis of the 3D chart aids in identification task. Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message.,,Aesthetics-Clarity-Comparison
-570,1214,3,Inconsistent scale use (year),,Labels-Titles-Legend-Scale
-571,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph,,Labels-Titles-Legend-Scale
-572,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph.,,Labels-Titles-Legend-Scale
-573,1225,2,Difficult to read labels,,Labels-Titles-Legend-Scale
-574,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,,Labels-Titles-Legend-Scale
-575,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,,Labels-Titles-Legend-Scale
-576,1465,2,No trend is highlighted in chart,,Trend / Pattern Depiction
-577,1503,4,The takeaway message is clear after looking at both the chart,,Aesthetics-Clarity-Comparison
-579,1503,2,The heatmap visualizes multiple elements using color gradients to indicate error magnitude. The color scale is also not common practice,,Labels-Titles-Legend-Scale
-580,1581,3,the overall takeaway message is clear from the chart the use of intuitive color scale for temperature in the chart is helpful,,Aesthetics-Clarity-Comparison
-581,1581,3,the overall takeaway message is clear from the chart. the use of intuitive color scale for temperature in the chart is helpful.,,Aesthetics-Clarity-Comparison
-582,1581,4,Easy to compare between different oceans,,Aesthetics-Clarity-Comparison
-583,1917,2,Use of multiple panels in the graph is confusing Use of shapes to encode categorical values in the graph is confusing The chart does not containg legend for colors used,,Labels-Titles-Legend-Scale
-584,1917,3,Use of multiple panels in the graph is confusing. Use of shapes to encode categorical values in the graph is confusing. The chart does not containg legend for colors used.,,Labels-Titles-Legend-Scale
-585,1917,3,"The years are not consistent across the charts, initially inferring all are in same scale",,Chart Type & Layout Choice
-586,2211,2,Chart organization is confusing,,Chart Type & Layout Choice
-587,2211,2,Chart organization is confusing.,,Chart Type & Layout Choice
-589,2028,3,Chart doesnot contain labels for different mark types used Chart uses dual axis making difficult to interpret the takeaway message shared axis makes it easy to compart across charts,,Labels-Titles-Legend-Scale
-590,2028,4,Chart doesnot contain labels for different mark types used. Chart uses dual axis making difficult to interpret the takeaway message. shared axis makes it easy to compare across charts.,,Labels-Titles-Legend-Scale
-591,2028,4,"The inverted axis in the y-axis is not visible in the first glance, overall the visualization is clear,",,Aesthetics-Clarity-Comparison
-592,1845,4,The chart does not contain labels for marks used,,Labels-Titles-Legend-Scale
-593,1845,4,The chart does not contain labels for marks used.,,Labels-Titles-Legend-Scale
-594,1845,4,"The visualization is clear good for comparison,",,Aesthetics-Clarity-Comparison
-595,1949,2,Annotations used in the chart are not understandable Patterns visible in the chart are prominent easy to read the message shown by those patterns are unclear Multiple charts used in the visualization are easy to comprehend because they are related,,Aesthetics-Clarity-Comparison
-596,1949,2,Annotations used in the chart are not understandable. Patterns visible in the chart are prominent and easy to read but the message shown by those patterns are unclear. Multiple charts used in the visualization are easy to comprehend because they are related.,,Aesthetics-Clarity-Comparison
-597,1949,2,The lines overlap between the months in y-axis,,Visual Density / Clutter
-598,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,,Visual Density / Clutter
-599,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,,Visual Density / Clutter
-600,1749,2,"The axes are labeled, interpreting the relationships and extracting the main trends is difficult, ",,Labels-Titles-Legend-Scale
-602,126,2,trend can be observed in the chart,,Trend / Pattern Depiction
-603,139,4,not all axes in the chart are labeled,,Labels-Titles-Legend-Scale
-605,149,3,The visualization seems cluttered,,Visual Density / Clutter
-606,152,3,"The visualization is cluttered, ",,Visual Density / Clutter
+- The chart has 2 y-axis it is visually complex - There is no legend for the different colored lines",Visual Density / Clutter
+320,676,2,The graph is very hard to read,Visual Density / Clutter
+321,676,4,Easy to understand,Aesthetics-Clarity-Comparison
+322,758,2,Multiple elements makes it confusing and also the clarity of the second graph is not clear even after zooming in. The color coding and symbols help but the complexity of the data require effort to interpret.,Aesthetics-Clarity-Comparison
+323,758,2,"the graph is hard to read It is hard to tell the difference in colors labels, especially in the box whisker plot",Labels-Titles-Legend-Scale
+324,758,3,Labels are not clear,Labels-Titles-Legend-Scale
+325,846,2,"Complex bar chart under multiple scenarios for the year of 2050. But the chart itself is cluttered with multiple bars for each region and scenarios, making it difficult to grasp what is the main takeaway. The overlapping data and use of different colors add more to the confusion.",Visual Density / Clutter
+326,846,5,the color coding is well done,Labels-Titles-Legend-Scale
+328,898,2,"Although there is a legend in the chart, the multiple lines representing different regions is confusing. The dual y-axes add more to the complexity, making it harder to quickly analyze the chart. ",Labels-Titles-Legend-Scale
+331,998,2,"Multiple data points the vertical horizontal dashes line, increase the complexity of the data as the reader has to interpret multiple aspects of the chart",Visual Density / Clutter
+333,998,3,The chart is confusing to understand also the reference lines along y-axis is little confusing,Labels-Titles-Legend-Scale
+334,1100,2,"The graph's resolution is low, the graph is blurry There is no legend present, explaining the different colors what do they mean",Labels-Titles-Legend-Scale
+335,1100,2,the graph labels are hard to read,Labels-Titles-Legend-Scale
+336,1100,4,Easy to compare categories,Aesthetics-Clarity-Comparison
+337,1112,2,Multiple lines different colors make it hard to interpret the main takeaway,Aesthetics-Clarity-Comparison
+338,1112,1,the graph is very hard to read with the many unlabeled intersecting lines,Visual Density / Clutter
+339,1112,2,"The lines are overlapping on each other mentioning of some axis notation on the right side, which is not clear",Visual Density / Clutter
+340,1153,2,overlapping lines with the different data sets makes it hard to follow the trends,Visual Density / Clutter
+341,1153,4,the graph is a little hard to read understandable,Aesthetics-Clarity-Comparison
+343,1206,2,"The chart includes multiple categories with detailed visual elements, overlapping data points, addition symbols like red diamonds, all of which make it hard to interpret",Visual Density / Clutter
+345,1206,4,Easy to compare categories,Aesthetics-Clarity-Comparison
+346,1400,2,The chart includes comparisons between pink blue countries across different time periods The comparison between the different scenarios takes careful interpretation to understand the main takeaways Multiple elements makes it somewhat confusing,Aesthetics-Clarity-Comparison
+347,1400,1,the graph lines are very hard to understand The differences in representation is very small that it is hard to tell,Aesthetics-Clarity-Comparison
+348,1400,3,Lines are not labeled,Labels-Titles-Legend-Scale
+349,1510,2,"The visualization includes multiple categories such as causes, consequences, costs separated into 3 sections for developing, developed, global totals Each section includes graphs for sub-categories for dryland loss, wetland loss, etc While the visualization effectively conveys the potential impacts, the multiple elements details to focus on make it somewhat confusing",Visual Density / Clutter
+352,1615,2,"The chart has 1 main panel with 4 additional panels This adds complexity contributions which is informative But, making the comparisons between the different factors makes it difficult to interpret",Chart Type & Layout Choice
+353,1615,4,the first graph the black red are hard to read,Labels-Titles-Legend-Scale
+355,1633,2,"The visualization has multiple panels, making it difficult to focus on one panel The different changes are shown each panel uses different colors since there are too many of the little panels, it becomes hard to make any observations , although it summarizes the main trend I have to zoom in to see the dashed lines the solid lines to make any interpretation",Visual Density / Clutter
+356,1633,4,the graphs are a little small,Chart Type & Layout Choice
+357,1633,4,"The visualization is complex,",Visual Density / Clutter
+358,1659,2,"The visualization includes 4 panels showing different precipitations for different countries The use of multiple panels adds to the complexity The chart shows different ratios for each panel, it takes time careful interpretation to understand the difference between the models",Chart Type & Layout Choice
+359,1659,1,the symbols labels on the graph are hard to read,Labels-Titles-Legend-Scale
+360,1659,2,"The legend seems to be crowded, making it difficult to distinguish between the models, overlapping datapoints add some visual clutter",Visual Density / Clutter
+361,1748,2,Multiple panels make it hard analyze the full context of these graphs,Chart Type & Layout Choice
+362,1748,4,the graph labels can be bigger,Labels-Titles-Legend-Scale
+363,1748,1,"The year are not consistent between the left top (a) bottom charts (b,c), which in overview inferring same years",Labels-Titles-Legend-Scale
+364,1750,2,"This visualization includes multiple 3D bar graphs with the use of multiple components adds complexity scenarios, which is informative also adds to the overall complexity",Chart Type & Layout Choice
+366,1750,2,"The 3D charts are making it difficult to compare values, color encoding is not intuitive, does not summarize the main takeaway",Aesthetics-Clarity-Comparison
+367,1802,2,The scatterplot involves technical terms which require background knowledge to fully understand,Labels-Titles-Legend-Scale
+368,1802,4,the graph format should be different,Chart Type & Layout Choice
+370,1838,2,it can be hard to compare each panel compare data The complexity in the last panel makes it somewhat confusing,Aesthetics-Clarity-Comparison
+372,1838,3,"The charts are very dense, with overlapping lines, ",Visual Density / Clutter
+373,1911,2,There are multiple components details that need to be focused on which make it somewhat confusing The legend doesn't include what the solid dashed lines mean Confusing to find the main trend of the chart,Labels-Titles-Legend-Scale
+374,1911,4,"the graph should include info about what the vertical lines stand for, format the data differently visually",Labels-Titles-Legend-Scale
+375,1911,4,Takes some time to understand there are different countries,Aesthetics-Clarity-Comparison
+376,2050,2,"Different colors symbols are used for different purposes, it can be confusing to understand what they mean The chart includes many panels which adds to the complexity makes it harder to get an overall main takeaway of the date",Labels-Titles-Legend-Scale
+377,2050,4,the graph should have a key for each data point,Labels-Titles-Legend-Scale
+379,2105,2,"The chart shows a comparison between the historical observations, present simulations, future climate projects however, the multiple components, the lines on b,c,and d make it hard to interpret which makes it somewhat confusing",Visual Density / Clutter
+381,2105,2,The bell curves are drawn in different time range which is difficult to compare or understand,Aesthetics-Clarity-Comparison
+382,2125,2,"The charts use different colors lines to show the historical project changes The clear axes legends somewhat help in understanding However, just looking at the chart won't help in the interpretation The bar on the right side is also hard to see see the ranges",Aesthetics-Clarity-Comparison
+385,2254,2,The chart has labels that are hard to read. There is no legend present in the chart.,Labels-Titles-Legend-Scale
+386,2254,4,a few labels on the graph are blurry,Labels-Titles-Legend-Scale
+387,2254,2,"The chart represented in different colors, no label mentioned what color means",Labels-Titles-Legend-Scale
+388,2262,2,it is hard to find a main key takeaway without spending some time understanding what each line style/colors mean,Labels-Titles-Legend-Scale
+389,2262,4,"The graph should include a key to explain the colors, the lines overlap a lot",Labels-Titles-Legend-Scale
+390,2262,2,There are many overlapping lines in the charts,Visual Density / Clutter
+391,2276,2,The chart uses different scales to represent the different datasets which makes it somewhat confusing to interpret the data,Labels-Titles-Legend-Scale
+392,2276,4,the graphs should be separated   instead of placed together on the same axis,Chart Type & Layout Choice
+393,2276,4,It is better to have separate lines in between different categories to increase interpretability in my opinion,Aesthetics-Clarity-Comparison
+394,2300,2,"The 3 panels show different results, it hard to compare them Furthermore, the chart includes grey region that the lines go into which also makes it somewhat confusing",Aesthetics-Clarity-Comparison
+397,2327,2,"Each panel uses different colored lines symbols to represent different models However, the use of multiple colors lines make it somewhat challenging to grasp the main trends",Visual Density / Clutter
+398,2327,4,"For the bottom graph, some of the graph lines are hard to read,",Aesthetics-Clarity-Comparison
+400,2152,2,The use of multiple components adds to the complexity of interpretation.,Visual Density / Clutter
+401,2152,5,display the trend well,Trend / Pattern Depiction
+402,2152,3,The bottom chart is less interpretable,Aesthetics-Clarity-Comparison
+403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a),Visual Density / Clutter
+405,2194,1,The x-axis label is very confusing unable to determine the ticks with years,Labels-Titles-Legend-Scale
+406,2215,2,"The visualization includes 2 panels, the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends",Visual Density / Clutter
+407,2215,4,the graph formatting could be better,Chart Type & Layout Choice
+409,242,1,Difficult to interpret the main takeaway There is no legend The bars at the end of the orange envelope are blurry,Labels-Titles-Legend-Scale
+410,242,3,"The graph is hard to read,",Aesthetics-Clarity-Comparison
+411,242,3,More details are required to know about the takeaway for the chart,Aesthetics-Clarity-Comparison
+412,909,1,"multiple bars and categories make it confusing to understand what the main takeaways are Although, the chart is labeled the layout is dense",Visual Density / Clutter
+413,909,4,"The graph is well made,",Aesthetics-Clarity-Comparison
+415,950,1,"Too many graphs, graph is blurry, low resolution Multiple bar plots scenarios add to the complexity",Visual Density / Clutter
+416,950,1,"the graphs are very hard to read, especially the smaller ones",Visual Density / Clutter
+417,950,3,Difficult to read labels in chart,Labels-Titles-Legend-Scale
+418,1068,1,"Too much information is provided in the chart, even though there is a legend, multiple data points symbols make it difficult to interpret",Visual Density / Clutter
+419,1068,1,the graph is very hard to read with the many labels intersecting each other Even the graph key is hard to read,Visual Density / Clutter
+420,1068,1,Many labels confusing,Labels-Titles-Legend-Scale
+421,1087,1,The graph itself is very complex with multiple overlapping lines representing different time periods. The error bars also makes it more difficult to grasp the main takeaway,Visual Density / Clutter
+422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels",Trend / Pattern Depiction
+424,1146,1,"This visualization consists of 6 bar graphs, broken down into different regions aerosols error bars. However the overall layout is cluttered with many bars, colors codes and error bars. The dense information make it difficult to quickly understand takeaway",Visual Density / Clutter
+425,1146,4,the graphs could be bigger,Visual Density / Clutter
+426,1146,4,Easy to understand,Aesthetics-Clarity-Comparison
+427,1177,1,The graph includes multiple lines representing the different region the scale bar the lines all over the graph makes it hard to understand the visualization,Visual Density / Clutter
+428,1177,1,"the graph arrangement is hard to read, it has no structure",Chart Type & Layout Choice
+430,1178,1,the graph has too many lines that overlap which makes it difficult to graph the main trends,Visual Density / Clutter
+431,1178,2,"the graph lines are hard to read, especially since the blue green intersect a lot",Labels-Titles-Legend-Scale
+433,1192,1,the graph includes multiple lines and double axes and complex data sources make it very confusing,Labels-Titles-Legend-Scale
+436,1205,1,"The chart includes multiple overlapping lines representing different regions uses both double x-axis y-axis scales, adding to the complexity The 4 charts make it hard to understanding the main trends data sources, the overall layout makes it very confusing to interpret the main takeaway",Visual Density / Clutter
+437,1205,2,the graph is very hard to read with the lines intersecting that much,Visual Density / Clutter
+439,1232,1,"There are 4 different panels with different scenarios models, which adds complexity. Each panel contains multiple lines representing different models further makes it complex",Visual Density / Clutter
+440,1232,1,"the graphs are very hard to read with the intersecting labels, especially the bottom two",Visual Density / Clutter
+442,1246,1,Multiple categories visual elements with various lines makes it confusing This visualization requires a lot of effort to interpret the main takeaway,Visual Density / Clutter
+443,1246,1,the graph structure is very hard to understand,Aesthetics-Clarity-Comparison
+445,1294,1,"the graph has multiple elements that represent with vertical bars with various colors lines symbols, making it hard to read it takes time to interpret the information Furthermore, the compares multiple models which requires careful interpretation",Visual Density / Clutter
+446,1294,1,the graph is very hard to read with all the different symbols lines close together,Visual Density / Clutter
+447,1294,4,Easy to compare categories,Aesthetics-Clarity-Comparison
+448,1326,1,"Too much information is provided in 1 graph If possible, it would be helpful to see 4 different graphs to help understand the information better The image is very blurry so it's hard to read",Visual Density / Clutter
+449,1326,1,the graphs are completely unreadable None of the labels points can be seen clearly,Visual Density / Clutter
+450,1326,2,Difficult to read labels in the chart,Labels-Titles-Legend-Scale
+451,1576,1,"I cannot see the symbols as it is overlapped are also cluttered The chart has 4 graphs with different information presented in each, making it difficult to interpret them easily The multiple components make it difficult to find it's distinctions between the time reconstructions",Visual Density / Clutter
+452,1576,1,the graphs are unreadable with all the symbols colors intersecting,Visual Density / Clutter
+453,1576,2,many visual elements present,Visual Density / Clutter
+454,1751,1,There are different colored triangles shown in one of the graphs is confusing Making a comparison between the two graphs is confusing Multiple elements,Visual Density / Clutter
+455,1751,4,the graph points/lines are hard to differentiate,Labels-Titles-Legend-Scale
+456,1751,2,The labels are not clearly mentioned in charts,Labels-Titles-Legend-Scale
+457,1821,1,"There are multiple panels in this visualization, it is hard to tell what each colors mean Too much information to process so cannot find a main clear takeaway",Aesthetics-Clarity-Comparison
+458,1821,2,"the various graph symbols and colors are hard to interpret, especially since they are small and clustered.",Visual Density / Clutter
+459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand",Aesthetics-Clarity-Comparison
+460,1946,1,"There are multiple lines that overlap, there are variations of lines (dashed, dotted, straight) which is difficult to see  Trying to get a main takeaway can be hard",Visual Density / Clutter
+461,1946,4,the graph lines are very clustered hard to read,Visual Density / Clutter
+462,1946,3,"The chart is visually dense, with overlapping lines there are many abbreviations ",Visual Density / Clutter
+463,1953,1,The various data points for different models the alternate observational datasets adds to the complexity of chart,Visual Density / Clutter
+464,1953,4,the graph points are hard to read,Aesthetics-Clarity-Comparison
+465,1953,2,"The chart is visually cluttered, with overlapping points numbers The radial axis does require some more indepth understanding ",Visual Density / Clutter
+466,1963,1,"There are six scatter plots divided into two panels, showing different relationships between observed vs model values This adds complexity to the chart, making it difficult to interpret the data The chart also uses dashed lines which make it hard to understand what the main takeaway is",Visual Density / Clutter
+467,1963,4,the graph should also have a key for the different lines,Labels-Titles-Legend-Scale
+468,1963,3,The chart is visually dense also there is some logarithamic axis which is getting covered by data points,Visual Density / Clutter
+469,2007,1,Too many pixelated colors on each panel makes it very difficult to understand the main takeaway It is also somewhat blurry,Aesthetics-Clarity-Comparison
+471,2007,2,"The range in the color scale are different, which is confusing when looking together",Labels-Titles-Legend-Scale
+472,2008,1,"The chart contains a lot of information in one visualization, which can be overwhelming The color scale also makes it difficult to quickly graph the importance of variations shown in the charts",Visual Density / Clutter
+473,2008,4,"The data on the graph is overlaps a lot, so it is a little hard to read,",Visual Density / Clutter
+475,2052,1,"The chart is very blurry, it is hard to interpret anything",Aesthetics-Clarity-Comparison
+476,2052,1,"The graph is very blurry, the data overlaps a lot, the entire graph is very hard to read",Visual Density / Clutter
+477,2052,2,labels are not clear,Labels-Titles-Legend-Scale
+478,2074,2,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",Aesthetics-Clarity-Comparison
+479,2074,3,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",Aesthetics-Clarity-Comparison
+480,2074,1,label is not clear,Labels-Titles-Legend-Scale
+481,2103,2,chart shows different attributes in a shared y-axis Chart would be easire to read if it was divided into multiple panels Legend required to understand chart components in not available in the chart Use of dual axis makes it more confusing to read the charts does not give a clear idea of the intent,Aesthetics-Clarity-Comparison
+482,2103,1,chart shows different attributes in a shared y-axis. Chart would be easire to read if it was divided into multiple panels. Legend required to understand chart components in not available in the chart. Use of dual axis makes it more confusing to read the charts.,Aesthetics-Clarity-Comparison
+483,2103,1,"addition to my previous response, the left part gives the difference from the years, not clear about the representation on the right side",Labels-Titles-Legend-Scale
+484,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows,Labels-Titles-Legend-Scale
+485,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows.,Labels-Titles-Legend-Scale
+486,2138,3,low level interpretation can be made from the chart but takeaway message is unclear,Aesthetics-Clarity-Comparison
+487,2141,3,"clutter in the chart is overwhelming Shared axis show use the same scale unit making it easy to read the chart since color spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided ",Visual Density / Clutter
+488,2141,4,"clutter in the chart is overwhelming. Shared axis show use the same scale and unit making it easy to read the chart. since color and spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided.",Visual Density / Clutter
+490,2348,3,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message The chart uses inconsistent y-axis so the observed increase rate is not reliable",Visual Density / Clutter
+491,2348,2,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message. The chart uses inconsistent y-axis so the observed increase rate is not reliable. ",Visual Density / Clutter
+493,2354,4,The clutter in the chart is ovewhelming,Visual Density / Clutter
+494,2354,4,The clutter in the chart is ovewhelming,Visual Density / Clutter
+495,2354,3,chart is having many overlapping lines,Visual Density / Clutter
+496,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret Trend is easy to read in the chart multiple axes with different ticks makes the observed trend unreliable,Trend / Pattern Depiction
+497,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret. Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable.,Trend / Pattern Depiction
+498,2251,3,"The are many charts with overlapping lines hard to track across many charts, ",Visual Density / Clutter
+499,149,1,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,Labels-Titles-Legend-Scale
+500,149,2,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,Labels-Titles-Legend-Scale
+501,149,2,The slanted lines clustering of points make it hard to follow trends or get clear takeaway,Trend / Pattern Depiction
+502,152,1,chart is exteremely cluttered lack proper labels Goal of the visualization is unclear,Visual Density / Clutter
+503,152,1,chart is exteremely cluttered and lack proper labels. Goal of the visualization is unclear,Visual Density / Clutter
+504,152,2,"The visualization contains many overlapping lines, making it difficult to identify trends It is visually cluttered ",Visual Density / Clutter
+507,188,2,"There are many labels mentioned in the chart, also shown inside the visualization, it is confusing because the are no proper starting line or only a single point ",Labels-Titles-Legend-Scale
+508,196,4,Components of the chart are clearly labeled well annotated,Labels-Titles-Legend-Scale
+509,196,4,Components of the chart are clearly labeled well annotated,Labels-Titles-Legend-Scale
+510,196,4,The bar chart clearly explains the change in trends using the color-coded segments triangle to indicate total change,Trend / Pattern Depiction
+511,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,Aesthetics-Clarity-Comparison
+512,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,Aesthetics-Clarity-Comparison
+513,290,2,I am not able to compare between the bars it is difficult to compare categories,Aesthetics-Clarity-Comparison
+514,650,5,Pattern of trend in chart is easy to understand,Trend / Pattern Depiction
+515,650,5,Pattern of trend in chart is easy to understand,Trend / Pattern Depiction
+516,650,2,also little unclear about B2 scenarios,Labels-Titles-Legend-Scale
+517,765,2,Chart does not include legend for encodings,Labels-Titles-Legend-Scale
+518,765,2,Chart does not include legend for encodings.,Labels-Titles-Legend-Scale
+520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message,Labels-Titles-Legend-Scale
+521,859,4,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message.,Labels-Titles-Legend-Scale
+522,859,4,Easy to compare,Aesthetics-Clarity-Comparison
+523,882,4,Chart is easy to read low level message is easy to grasp,Aesthetics-Clarity-Comparison
+524,882,3,Chart is easy to read low level message is easy to grasp,Aesthetics-Clarity-Comparison
+525,882,5,clear takeaway,Aesthetics-Clarity-Comparison
+526,547,3,Chart does not have legend of the colors used,Labels-Titles-Legend-Scale
+527,547,2,Chart does not have legend of the colors used,Labels-Titles-Legend-Scale
+528,547,3,Difficult to read labels,Labels-Titles-Legend-Scale
+529,292,2,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,Labels-Titles-Legend-Scale
+530,292,3,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,Labels-Titles-Legend-Scale
+531,292,1,"The chart mentions some dots in the charts which is not clearly explained in the caption,",Labels-Titles-Legend-Scale
+532,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,Labels-Titles-Legend-Scale
+533,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,Labels-Titles-Legend-Scale
+534,413,1,"chart is not useful to interpret the trend also labels are missing in chart,",Trend / Pattern Depiction
+535,442,2,Marks in the chart overlap causing visual clutter Abberviations used in the chart are unclear Multiple plots are placed close to each other in the chart legend for multiple symbols used in the chart are not given,Visual Density / Clutter
+536,442,1,Marks in the chart overlap causing visual clutter. Abberviations used in the chart are unclear.  Multiple plots are placed close to each other in the chart. legend for multiple symbols used in the chart are not given.,Visual Density / Clutter
+537,442,3,Difficult to read labels,Labels-Titles-Legend-Scale
+538,2018,4,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,Labels-Titles-Legend-Scale
+539,2018,3,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,Labels-Titles-Legend-Scale
+540,2018,3,And also the labels are not clearly mentioned,Labels-Titles-Legend-Scale
+541,2025,2,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,Visual Density / Clutter
+542,2025,1,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,Visual Density / Clutter
+543,2025,2,"The chart seems to be cluttered,",Visual Density / Clutter
+544,2060,4,Lack of domain knowledge makes it difficult to read the chart Key takeaway is not clear looking at both Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,Aesthetics-Clarity-Comparison
+545,2060,5,Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,Labels-Titles-Legend-Scale
+546,2060,3,also what to infer from the charts,Aesthetics-Clarity-Comparison
+547,2064,2,The chart is cluttered or summarize the trend,Visual Density / Clutter
+548,2064,2,The chart is cluttered,Visual Density / Clutter
+549,2064,4,chart are useful,Chart Type & Layout Choice
+550,2117,3,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,Chart Type & Layout Choice
+551,2117,4,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,Chart Type & Layout Choice
+552,2117,1,"The chart is 3D which is difficult to get the exact comparison between the years,",Chart Type & Layout Choice
+553,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message A pattern can be observed in the chart the intended message is not clear,Visual Density / Clutter
+554,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message. A pattern can be observed in the chart but the intended message is not clear.,Visual Density / Clutter
+555,2163,4,"Though there are too many labels mentioned in the chart, chart represent a clear takeaway message",Aesthetics-Clarity-Comparison
+556,2253,4,Chart uses different shapes to encode categorical information which is difficult to read The goal of the visualization is clear using both,Aesthetics-Clarity-Comparison
+557,2253,4,Chart uses different shapes to encode categorical information which is difficult to read,Labels-Titles-Legend-Scale
+558,2253,3,"The chart is visually dense because of some similar labelling,",Visual Density / Clutter
+559,2293,4,Collective trend outliers are easy to detect in the chart making the overall message clear,Trend / Pattern Depiction
+560,2293,3,Collective trend outliers are easy to detect in the chart making the overall message clear,Trend / Pattern Depiction
+561,2293,2,"The visualization is cluttered, overwhelming",Visual Density / Clutter
+562,2364,2,Use of abberviations in the chart makes it difficult to understand Lack of domain knowledge makes it difficult to understand the goal of the visualization,Labels-Titles-Legend-Scale
+563,2364,3,Use of abberviations in the chart makes it difficult to understand.,Labels-Titles-Legend-Scale
+565,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels,Aesthetics-Clarity-Comparison
+566,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels.,Aesthetics-Clarity-Comparison
+567,869,1,The chart is too complex with many visual elements to compare between labels are kept in between two charts making it difficult to interpret for which chart it is,Visual Density / Clutter
+568,1214,4,The graph alone is sufficient to get an overall message Use of color encoding along z-axis of the 3D chart aids in identification task Use of multiple charts in a single panel requires remembering a lot of information reading all the chart to get the over all message,Aesthetics-Clarity-Comparison
+569,1214,4,The graph alone is sufficient to get an overall message. Use of color encoding along z-axis of the 3D chart aids in identification task. Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message.,Aesthetics-Clarity-Comparison
+570,1214,3,Inconsistent scale use (year),Labels-Titles-Legend-Scale
+571,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph,Labels-Titles-Legend-Scale
+572,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph.,Labels-Titles-Legend-Scale
+573,1225,2,Difficult to read labels,Labels-Titles-Legend-Scale
+574,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,Labels-Titles-Legend-Scale
+575,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,Labels-Titles-Legend-Scale
+576,1465,2,No trend is highlighted in chart,Trend / Pattern Depiction
+577,1503,4,The takeaway message is clear after looking at both the chart,Aesthetics-Clarity-Comparison
+579,1503,2,The heatmap visualizes multiple elements using color gradients to indicate error magnitude. The color scale is also not common practice,Labels-Titles-Legend-Scale
+580,1581,3,the overall takeaway message is clear from the chart the use of intuitive color scale for temperature in the chart is helpful,Aesthetics-Clarity-Comparison
+581,1581,3,the overall takeaway message is clear from the chart. the use of intuitive color scale for temperature in the chart is helpful.,Aesthetics-Clarity-Comparison
+582,1581,4,Easy to compare between different oceans,Aesthetics-Clarity-Comparison
+583,1917,2,Use of multiple panels in the graph is confusing Use of shapes to encode categorical values in the graph is confusing The chart does not containg legend for colors used,Labels-Titles-Legend-Scale
+584,1917,3,Use of multiple panels in the graph is confusing. Use of shapes to encode categorical values in the graph is confusing. The chart does not containg legend for colors used.,Labels-Titles-Legend-Scale
+585,1917,3,"The years are not consistent across the charts, initially inferring all are in same scale",Chart Type & Layout Choice
+586,2211,2,Chart organization is confusing,Chart Type & Layout Choice
+587,2211,2,Chart organization is confusing.,Chart Type & Layout Choice
+589,2028,3,Chart doesnot contain labels for different mark types used Chart uses dual axis making difficult to interpret the takeaway message shared axis makes it easy to compart across charts,Labels-Titles-Legend-Scale
+590,2028,4,Chart doesnot contain labels for different mark types used. Chart uses dual axis making difficult to interpret the takeaway message. shared axis makes it easy to compare across charts.,Labels-Titles-Legend-Scale
+591,2028,4,"The inverted axis in the y-axis is not visible in the first glance, overall the visualization is clear,",Aesthetics-Clarity-Comparison
+592,1845,4,The chart does not contain labels for marks used,Labels-Titles-Legend-Scale
+593,1845,4,The chart does not contain labels for marks used.,Labels-Titles-Legend-Scale
+594,1845,4,"The visualization is clear good for comparison,",Aesthetics-Clarity-Comparison
+595,1949,2,Annotations used in the chart are not understandable Patterns visible in the chart are prominent easy to read the message shown by those patterns are unclear Multiple charts used in the visualization are easy to comprehend because they are related,Aesthetics-Clarity-Comparison
+596,1949,2,Annotations used in the chart are not understandable. Patterns visible in the chart are prominent and easy to read but the message shown by those patterns are unclear. Multiple charts used in the visualization are easy to comprehend because they are related.,Aesthetics-Clarity-Comparison
+597,1949,2,The lines overlap between the months in y-axis,Visual Density / Clutter
+598,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,Visual Density / Clutter
+599,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,Visual Density / Clutter
+600,1749,2,"The axes are labeled, interpreting the relationships and extracting the main trends is difficult, ",Labels-Titles-Legend-Scale
+602,126,2,trend can be observed in the chart,Trend / Pattern Depiction
+603,139,4,not all axes in the chart are labeled,Labels-Titles-Legend-Scale
+605,149,3,The visualization seems cluttered,Visual Density / Clutter
+606,152,3,"The visualization is cluttered, ",Visual Density / Clutter
 611,213,1,"The chart seems very confusing
-It does not have proper y-axis legend",,Labels-Titles-Legend-Scale
-613,236,2, charts are cluttered but still interpretable,,Visual Density / Clutter
-614,242,1,the visualization is very cluttered and marks overlap,,Visual Density / Clutter
-615,290,3,"The chart is precise and clear,",,Aesthetics-Clarity-Comparison
-618,304,2,The chart is quite interpretable,,Aesthetics-Clarity-Comparison
-623,337,2,chart looks cluttered,,Visual Density / Clutter
+It does not have proper y-axis legend",Labels-Titles-Legend-Scale
+613,236,2, charts are cluttered but still interpretable,Visual Density / Clutter
+614,242,1,the visualization is very cluttered and marks overlap,Visual Density / Clutter
+615,290,3,"The chart is precise and clear,",Aesthetics-Clarity-Comparison
+618,304,2,The chart is quite interpretable,Aesthetics-Clarity-Comparison
+623,337,2,chart looks cluttered,Visual Density / Clutter
 625,380,3,"chart does not contain legend for colors used
-",,Labels-Titles-Legend-Scale
-626,407,3,cluttered visualization,,Visual Density / Clutter
-628,433,4,A bit long and cluttered but understandable,,Visual Density / Clutter
-630,442,2,"The visualization indicates a lot of information, but legend is not given",,Labels-Titles-Legend-Scale
-631,447,1,"legend information is not given, which makes the chart hard to interpret",,Labels-Titles-Legend-Scale
-634,494,2,chart is cluttered,,Visual Density / Clutter
-639,604,3,Chart is a bit cluttered ,,Visual Density / Clutter
+",Labels-Titles-Legend-Scale
+626,407,3,cluttered visualization,Visual Density / Clutter
+628,433,4,A bit long and cluttered but understandable,Visual Density / Clutter
+630,442,2,"The visualization indicates a lot of information, but legend is not given",Labels-Titles-Legend-Scale
+631,447,1,"legend information is not given, which makes the chart hard to interpret",Labels-Titles-Legend-Scale
+634,494,2,chart is cluttered,Visual Density / Clutter
+639,604,3,Chart is a bit cluttered ,Visual Density / Clutter
 640,610,2,"chart does not include legend
-",,Labels-Titles-Legend-Scale
-641,614,3,"The chart is interpretable, but there are too many texts in the chart",,Visual Density / Clutter
-643,643,3,The main takeaway is missing,,Aesthetics-Clarity-Comparison
-647,676,3,chart is cluttered,,Visual Density / Clutter
-651,758,3,The chart seems cluttered ,,Visual Density / Clutter
-654,828,1,The visualization seems cluttered,,Visual Density / Clutter
-658,869,2,axes labels are not included in the chart,,Labels-Titles-Legend-Scale
-665,950,2,Seems cluttered to me,,Visual Density / Clutter
-669,1006,2,cluttered,,Visual Density / Clutter
-672,1068,1,very cluttered,,Visual Density / Clutter
-674,1087,4,The main takeaway is missing,,Aesthetics-Clarity-Comparison
-676,1112,1,Cluttered without proper legend,,Labels-Titles-Legend-Scale
-680,1177,4,A common trend is observed in the chart,,Trend / Pattern Depiction
-683,1205,3,A bit cluttered,,Visual Density / Clutter
-686,1215,2,cluttered visualization,,Visual Density / Clutter
-688,1232,2,"The visualization is a bit cluttered, ",,Visual Density / Clutter
-695,1301,3,Too many information make the charts cluttered,,Visual Density / Clutter
-697,1326,1,The visualization seems hard to interpret,,Aesthetics-Clarity-Comparison
-705,1499,3,marks are not labeled,,Labels-Titles-Legend-Scale
-709,1576,2,The charts seem a bit cluttered ,,Visual Density / Clutter
-710,1581,2,"The chart augments the visualization, as it provides information for white space or about the right and left panel, but it does not talk about the overall trend",,Trend / Pattern Depiction
-723,1750,1,marks used in the chart are not labeled,,Labels-Titles-Legend-Scale
-724,1751,2,The visualization is cluttered,,Visual Density / Clutter
-728,1777,3,marks used in the chart are not labeled,,Labels-Titles-Legend-Scale
-735,1838,2,The visualization seems a bit cluttered,,Visual Density / Clutter
-750,2007,2,cluttered visualization,,Visual Density / Clutter
-755,2049,2,marks used in the chart are not labeled,,Labels-Titles-Legend-Scale
-760,2061,1,marks in the visualization overlap,,Visual Density / Clutter
-762,2064,1,Cluttered and hard to interpret,,Visual Density / Clutter
-765,2074,2,New color is added without any indication of what it presents,,Labels-Titles-Legend-Scale
-768,2117,3,axis indices of the 3D visualization is confusing,,Labels-Titles-Legend-Scale
-771,2138,2,Visualization is cluttered,,Visual Density / Clutter
-774,2163,3,Visualization seems a bit cluttered,,Visual Density / Clutter
-778,2215,2,The 1st visualization seems confusing,,Aesthetics-Clarity-Comparison
-783,1749,2,Marks used in in the visualization are not clearly labeled,,Labels-Titles-Legend-Scale
-784,2253,1,The visualization is cluttered,,Visual Density / Clutter
-790,2293,3,Visualization is cluttered,,Visual Density / Clutter
-796,2357,2,seems a bit confusing,,Aesthetics-Clarity-Comparison
+",Labels-Titles-Legend-Scale
+641,614,3,"The chart is interpretable, but there are too many texts in the chart",Visual Density / Clutter
+643,643,3,The main takeaway is missing,Aesthetics-Clarity-Comparison
+647,676,3,chart is cluttered,Visual Density / Clutter
+651,758,3,The chart seems cluttered ,Visual Density / Clutter
+654,828,1,The visualization seems cluttered,Visual Density / Clutter
+658,869,2,axes labels are not included in the chart,Labels-Titles-Legend-Scale
+665,950,2,Seems cluttered to me,Visual Density / Clutter
+669,1006,2,cluttered,Visual Density / Clutter
+672,1068,1,very cluttered,Visual Density / Clutter
+674,1087,4,The main takeaway is missing,Aesthetics-Clarity-Comparison
+676,1112,1,Cluttered without proper legend,Labels-Titles-Legend-Scale
+680,1177,4,A common trend is observed in the chart,Trend / Pattern Depiction
+683,1205,3,A bit cluttered,Visual Density / Clutter
+686,1215,2,cluttered visualization,Visual Density / Clutter
+688,1232,2,"The visualization is a bit cluttered, ",Visual Density / Clutter
+695,1301,3,Too many information make the charts cluttered,Visual Density / Clutter
+697,1326,1,The visualization seems hard to interpret,Aesthetics-Clarity-Comparison
+705,1499,3,marks are not labeled,Labels-Titles-Legend-Scale
+709,1576,2,The charts seem a bit cluttered ,Visual Density / Clutter
+710,1581,2,"The chart augments the visualization, as it provides information for white space or about the right and left panel, but it does not talk about the overall trend",Trend / Pattern Depiction
+723,1750,1,marks used in the chart are not labeled,Labels-Titles-Legend-Scale
+724,1751,2,The visualization is cluttered,Visual Density / Clutter
+728,1777,3,marks used in the chart are not labeled,Labels-Titles-Legend-Scale
+735,1838,2,The visualization seems a bit cluttered,Visual Density / Clutter
+750,2007,2,cluttered visualization,Visual Density / Clutter
+755,2049,2,marks used in the chart are not labeled,Labels-Titles-Legend-Scale
+760,2061,1,marks in the visualization overlap,Visual Density / Clutter
+762,2064,1,Cluttered and hard to interpret,Visual Density / Clutter
+765,2074,2,New color is added without any indication of what it presents,Labels-Titles-Legend-Scale
+768,2117,3,axis indices of the 3D visualization is confusing,Labels-Titles-Legend-Scale
+771,2138,2,Visualization is cluttered,Visual Density / Clutter
+774,2163,3,Visualization seems a bit cluttered,Visual Density / Clutter
+778,2215,2,The 1st visualization seems confusing,Aesthetics-Clarity-Comparison
+783,1749,2,Marks used in in the visualization are not clearly labeled,Labels-Titles-Legend-Scale
+784,2253,1,The visualization is cluttered,Visual Density / Clutter
+790,2293,3,Visualization is cluttered,Visual Density / Clutter
+796,2357,2,seems a bit confusing,Aesthetics-Clarity-Comparison
