@@ -23,6 +23,8 @@ export interface CaptionInfo {
   l2?: number,
   l3?: number,
   l4?: number,
+  vectorLen?: number,
+  agreement: number,
 }
 
 export interface CaptionInfoRead {
@@ -35,4 +37,6 @@ export interface CaptionInfoRead {
   keyword_vector: string;
   l1_l4_cluster: string;
   l1_l4_vector: string;
+  sentence_count: string;
+  Agreement: string;
 }

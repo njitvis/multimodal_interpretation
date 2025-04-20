@@ -3,6 +3,20 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
+def save_distribution_individual(file):
+	df = pd.read_csv(f"../data/average_rating{file}.csv")
+
+	for col in df.columns:
+		if (col != 'image_id') & (col != 'mean_rating'):
+			sub = df[["image_id", col]]
+			plt.figure(figsize=(8, 6))
+			sns.histplot(data=sub, x=col, bins=8, kde=False)
+			plt.title("Distribution of Mean Rating")
+			plt.xlabel("Mean Rating")
+			plt.ylabel("Frequency")
+			plt.savefig(f"./output/rating_vs/rating_distribution_{col}.png", dpi=300)
+			plt.close()
+
 def save_distribution(file):
 	df = pd.read_csv(f"../data/average_rating{file}.csv")
 
@@ -18,3 +32,5 @@ def save_distribution(file):
 files = ["_rest", "_ug", ""]
 for file in files:
 	save_distribution(file)
+	if file != "":
+		save_distribution_individual(file)

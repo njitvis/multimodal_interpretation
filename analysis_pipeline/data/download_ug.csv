@@ -1,0 +1,202 @@
+image_id,l1_l4_vector,keyword_vector,domain,chart_type,views,clarity,complexity,mean_rating,sentence_count
+112,"[0, 0, 1.0, 0.0]","[1, 0, 0, 0, 2, 2]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,3.0,1
+126,"[2, 1, 2.0, 4.0]","[9, 5, 7, 4, 1, 10]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,9
+139,"[0, 0, 0.0, 3.0]","[2, 0, 0, 1, 1, 5]",Climate Science,Bar Graph,composite views,Low Clarity,Low Complexity,4.5,3
+148,"[2, 0, 2.0, 4.0]","[3, 7, 4, 0, 6, 28]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.5,8
+149,"[1, 0, 0.0, 1.0]","[1, 0, 0, 1, 5, 1]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,1.5,2
+152,"[0, 0, 3.0, 3.0]","[1, 1, 1, 4, 7, 6]",Energy,Line Chart,composite views,Low Clarity,High Complexity,1.0,7
+184,"[0, 1, 2.0, 1.0]","[2, 3, 3, 0, 4, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,4
+188,"[0, 0, 2.0, 1.0]","[1, 2, 1, 0, 1, 5]",Energy,Line Chart,composite views,Low Clarity,High Complexity,2.5,4
+196,"[3, 0, 1.0, 1.0]","[7, 0, 5, 0, 7, 2]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,4.0,5
+203,"[0, 1, 4.0, 2.0]","[8, 0, 5, 5, 8, 2]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,4.5,7
+213,"[3, 0, 0.0, 0.0]","[2, 0, 2, 0, 4, 4]",Energy,Scatter Plot,composite views,Low Clarity,High Complexity,2.0,3
+220,"[0, 1, 1.0, 1.0]","[3, 0, 3, 0, 10, 3]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.5,3
+236,"[4, 1, 1.0, 3.0]","[3, 9, 11, 2, 8, 25]",Energy,Bar Graph,single view,Low Clarity,High Complexity,2.0,9
+242,"[2, 0, 1.0, 1.0]","[2, 2, 0, 1, 2, 14]",Energy,Line Chart,single view,Low Clarity,High Complexity,2.0,4
+290,"[1, 0, 5.0, 2.0]","[0, 0, 8, 2, 7, 7]",Energy,Bar Graph,composite views,High Clarity,High Complexity,4.0,8
+292,"[1, 2, 0.0, 2.0]","[4, 2, 4, 0, 2, 2]",Energy,Heat Map,composite views,High Clarity,High Complexity,2.5,5
+297,"[2, 1, 0.0, 2.0]","[2, 1, 4, 0, 5, 6]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.0,5
+304,"[3, 0, 3.0, 10.0]","[8, 2, 6, 1, 32, 9]",Climate Science,Heat Map,single view,Low Clarity,High Complexity,3.5,16
+317,"[0, 1, 4.0, 5.0]","[6, 1, 4, 0, 4, 12]",Climate Science,"Area Chart,Line Chart",single view,Low Clarity,High Complexity,4.5,12
+324,"[0, 0, 3.0, 1.0]","[0, 0, 2, 1, 4, 2]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,5.0,3
+330,"[0, 0, 3.0, 0.0]","[1, 0, 3, 0, 2, 1]",Energy,"Line Chart,Heat Map",composite views,Low Clarity,High Complexity,4.5,3
+332,"[1, 0, 0.0, 0.0]","[0, 0, 2, 0, 1, 2]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,1
+337,"[2, 0, 2.0, 4.0]","[3, 0, 3, 0, 3, 9]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,5.0,8
+339,"[0, 0, 1.0, 0.0]","[0, 0, 0, 0, 1, 3]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,4.5,1
+380,"[0, 1, 1.0, 1.0]","[3, 0, 3, 0, 3, 8]",Energy,Line Chart,single view,Low Clarity,High Complexity,3.5,3
+407,"[3, 0, 0.0, 2.0]","[6, 4, 8, 0, 6, 15]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.0,6
+413,"[0, 0, 0.0, 1.0]","[3, 2, 3, 1, 4, 3]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,2.0,1
+433,"[1, 0, 1.0, 1.0]","[4, 0, 3, 0, 2, 3]",Climate Science,Scatter Plot,single view,Low Clarity,Low Complexity,4.5,4
+436,"[2, 1, 0.0, 0.0]","[3, 0, 2, 0, 6, 3]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.5,3
+442,"[1, 0, 1.0, 2.0]","[0, 0, 3, 2, 3, 1]",Climate Science,"Bar Graph,Line Chart",composite views,Low Clarity,High Complexity,1.5,4
+447,"[0, 0, 1.0, 0.0]","[0, 1, 1, 0, 3, 1]",Energy,Line Chart,single view,Low Clarity,High Complexity,4.5,1
+491,"[0, 0, 2.0, 2.0]","[0, 0, 2, 1, 3, 16]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,4.5,5
+492,"[0, 1, 0.0, 4.0]","[2, 0, 3, 7, 6, 1]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.0,6
+494,"[2, 2, 4.0, 4.0]","[0, 4, 6, 0, 13, 11]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,2.5,13
+497,"[2, 0, 0.0, 1.0]","[0, 2, 1, 0, 1, 4]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,5.0,3
+502,"[1, 1, 1.0, 1.0]","[3, 1, 3, 0, 3, 3]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,5.0,4
+547,"[2, 2, 0.0, 0.0]","[3, 2, 7, 0, 4, 12]",Energy,"Line Chart,Heat Map",composite views,Low Clarity,High Complexity,2.5,4
+572,"[0, 2, 1.0, 2.0]","[6, 1, 5, 0, 5, 3]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,5.0,8
+604,"[8, 0, 1.0, 3.0]","[12, 5, 10, 4, 9, 25]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,2.5,13
+610,"[0, 0, 1.0, 0.0]","[1, 2, 2, 0, 3, 5]",Energy,Line Chart,single view,Low Clarity,High Complexity,4.5,1
+614,"[1, 0, 1.0, 2.0]","[4, 1, 5, 2, 10, 3]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,3.5,4
+639,"[1, 0, 2.0, 4.0]","[0, 1, 2, 2, 1, 6]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.5,8
+643,"[2, 0, 0.0, 1.0]","[0, 1, 2, 0, 1, 10]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,3.5,3
+650,"[0, 1, 0.0, 2.0]","[2, 3, 4, 0, 1, 3]",Energy,Bar Graph,single view,Low Clarity,High Complexity,5.0,3
+658,"[1, 1, 1.0, 0.0]","[2, 1, 1, 0, 4, 2]",Energy,Bar Graph,composite views,High Clarity,Low Complexity,4.5,3
+660,"[1, 0, 4.0, 3.0]","[4, 0, 2, 0, 12, 9]",Climate Science,Line Chart,single view,Low Clarity,Low Complexity,4.5,8
+676,"[0, 0, 1.0, 0.0]","[1, 0, 2, 0, 4, 9]",Energy,Line Chart,composite views,Low Clarity,High Complexity,2.0,1
+690,"[1, 0, 2.0, 2.0]","[0, 0, 2, 1, 1, 3]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,5.0,5
+736,"[1, 2, 0.0, 1.0]","[3, 0, 5, 1, 2, 3]",Energy,Area Chart,composite views,Low Clarity,High Complexity,4.0,4
+754,"[2, 0, 2.0, 2.0]","[7, 3, 3, 0, 6, 15]",Energy,"Bar Graph,Line Chart",composite views,Low Clarity,High Complexity,4.0,6
+758,"[4, 1, 1.0, 1.0]","[0, 3, 7, 0, 6, 25]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,2.0,7
+765,"[1, 0, 1.0, 4.0]","[2, 0, 2, 1, 6, 14]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,2.0,8
+790,"[0, 2, 0.0, 5.0]","[0, 6, 1, 0, 5, 2]",Energy,Bar Graph,single view,Low Clarity,High Complexity,5.0,7
+828,"[1, 0, 1.0, 2.0]","[5, 0, 3, 2, 1, 1]",Energy,Line Chart,single view,Low Clarity,High Complexity,2.5,4
+839,"[1, 1, 0.0, 1.0]","[5, 1, 5, 0, 1, 1]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.5,3
+846,"[2, 0, 0.0, 1.0]","[2, 0, 2, 1, 1, 1]",Energy,Bar Graph,single view,Low Clarity,High Complexity,3.5,3
+859,"[0, 0, 1.0, 1.0]","[0, 0, 0, 0, 2, 1]",Energy,Line Chart,single view,Low Clarity,High Complexity,3.5,2
+869,"[2, 0, 3.0, 2.0]","[4, 2, 13, 5, 11, 13]",Climate Science,"Bar Graph,Scatter Plot",composite views,Low Clarity,High Complexity,3.0,8
+882,"[2, 0, 0.0, 2.0]","[0, 0, 0, 0, 2, 12]",Energy,Line Chart,single view,Low Clarity,Low Complexity,3.5,5
+898,"[0, 0, 0.0, 2.0]","[2, 0, 1, 0, 1, 10]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,3.5,4
+904,"[0, 1, 1.0, 1.0]","[3, 0, 3, 0, 10, 3]",Energy,Line Chart,single view,Low Clarity,High Complexity,4.5,3
+909,"[5, 1, 5.0, 9.0]","[13, 16, 11, 0, 15, 12]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,2.5,20
+920,"[0, 0, 1.0, 2.0]","[2, 0, 2, 0, 1, 1]",Energy,Bar Graph,single view,Low Clarity,High Complexity,5.0,3
+937,"[2, 0, 0.0, 1.0]","[3, 2, 4, 0, 3, 8]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,3
+950,"[0, 0, 0.0, 2.0]","[5, 0, 2, 1, 8, 4]",Climate Science,Area Chart,composite views,Low Clarity,High Complexity,1.0,2
+994,"[0, 0, 2.0, 2.0]","[3, 0, 6, 0, 12, 8]",Energy,Line Chart,single view,Low Clarity,High Complexity,5.0,4
+998,"[0, 1, 1.0, 1.0]","[7, 0, 5, 0, 3, 8]",Climate Science,Scatter Plot,single view,Low Clarity,Low Complexity,3.5,3
+999,"[1, 1, 1.0, 2.0]","[4, 0, 9, 2, 3, 2]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,5.0,5
+1006,"[0, 0, 1.0, 1.0]","[1, 2, 1, 0, 1, 1]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,3.0,2
+1011,"[1, 0, 1.0, 1.0]","[1, 5, 5, 1, 8, 8]",Energy,Bar Graph,single view,Low Clarity,High Complexity,4.0,3
+1044,"[1, 2, 2.0, 1.0]","[10, 0, 7, 2, 3, 7]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.5,9
+1068,"[2, 0, 1.0, 0.0]","[0, 1, 2, 1, 4, 8]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,1.0,3
+1081,"[0, 2, 2.0, 2.0]","[10, 1, 11, 0, 2, 7]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,5.0,7
+1087,"[2, 2, 0.0, 0.0]","[3, 2, 4, 0, 5, 9]",Energy,Line Chart,single view,High Clarity,High Complexity,2.5,4
+1100,"[2, 0, 3.0, 5.0]","[1, 3, 4, 4, 11, 6]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,2.0,10
+1112,"[2, 1, 0.0, 1.0]","[0, 0, 6, 2, 2, 5]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,1.5,4
+1143,"[0, 0, 0.0, 1.0]","[1, 0, 0, 1, 4, 8]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,2.5,2
+1146,"[1, 0, 0.0, 2.0]","[4, 3, 5, 2, 2, 17]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,2.5,3
+1153,"[1, 0, 0.0, 1.0]","[4, 1, 0, 0, 1, 1]",Energy,"Bar Graph,Line Chart",single view,Low Clarity,High Complexity,3.0,2
+1177,"[1, 1, 0.0, 2.0]","[3, 0, 5, 0, 5, 2]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,1.0,4
+1178,"[1, 1, 0.0, 2.0]","[1, 1, 3, 0, 1, 4]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,1.5,6
+1192,"[3, 0, 0.0, 1.0]","[2, 0, 5, 2, 3, 6]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,3.0,4
+1205,"[0, 0, 2.0, 2.0]","[6, 0, 2, 2, 6, 4]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,1.5,4
+1206,"[1, 0, 4.0, 2.0]","[1, 5, 4, 0, 9, 5]",Energy,Bar Graph,single view,Low Clarity,High Complexity,3.5,7
+1214,"[0, 2, 1.0, 1.0]","[10, 1, 5, 5, 10, 4]",Climate Science,"Bar Graph,Line Chart,Scatter Plot",composite views,Low Clarity,High Complexity,4.0,5
+1215,"[0, 2, 2.0, 2.0]","[5, 3, 9, 0, 3, 5]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,4.0,6
+1225,"[1, 0, 2.0, 0.0]","[1, 0, 1, 0, 1, 2]",Energy,Heat Map,composite views,High Clarity,High Complexity,1.0,3
+1232,"[1, 0, 3.0, 3.0]","[1, 4, 5, 2, 8, 10]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,1.0,7
+1246,"[1, 1, 0.0, 2.0]","[3, 0, 5, 0, 5, 2]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,1.0,4
+1251,"[0, 0, 2.0, 2.0]","[6, 2, 6, 0, 7, 1]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,5.0,4
+1277,"[0, 0, 1.0, 0.0]","[1, 3, 4, 0, 1, 3]",Energy,Bar Graph,single view,Low Clarity,High Complexity,4.5,1
+1285,"[0, 3, 1.0, 0.0]","[3, 4, 2, 0, 3, 9]",Energy,Line Chart,single view,High Clarity,High Complexity,5.0,7
+1294,"[5, 1, 2.0, 3.0]","[9, 6, 5, 3, 3, 12]",Energy,Bar Graph,single view,High Clarity,High Complexity,1.0,12
+1295,"[0, 1, 1.0, 1.0]","[2, 3, 3, 0, 4, 17]",Energy,Line Chart,single view,Low Clarity,High Complexity,5.0,5
+1301,"[4, 1, 0.0, 1.0]","[6, 2, 10, 0, 4, 22]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,4.0,6
+1303,"[0, 0, 0.0, 1.0]","[0, 0, 0, 0, 1, 1]",Energy,Bar Graph,single view,Low Clarity,High Complexity,5.0,1
+1326,"[6, 0, 1.0, 1.0]","[1, 0, 6, 0, 1, 10]",Climate Science,Pie Chart,composite views,High Clarity,High Complexity,1.0,8
+1388,"[1, 0, 2.0, 2.0]","[1, 1, 3, 0, 6, 3]",Energy,Line Chart,single view,Low Clarity,High Complexity,4.5,5
+1400,"[0, 0, 1.0, 2.0]","[0, 0, 4, 1, 7, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,1.5,3
+1428,"[1, 0, 0.0, 2.0]","[0, 4, 0, 0, 2, 2]",Energy,Bar Graph,single view,Low Clarity,High Complexity,4.0,4
+1439,"[0, 0, 1.0, 1.0]","[1, 0, 0, 0, 2, 3]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,4.0,3
+1453,"[0, 0, 0.0, 2.0]","[4, 0, 1, 1, 4, 1]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,4.5,2
+1465,"[0, 0, 0.0, 3.0]","[1, 0, 1, 2, 1, 1]",Climate Science,Heat Map,single view,Low Clarity,High Complexity,4.0,4
+1499,"[3, 0, 0.0, 2.0]","[5, 1, 2, 1, 4, 9]",Climate Science,Bar Graph,single view,Low Clarity,Low Complexity,4.5,5
+1503,"[1, 2, 1.0, 2.0]","[13, 3, 11, 2, 4, 6]",Climate Science,Heat Map,single view,Low Clarity,High Complexity,4.0,8
+1510,"[0, 0, 1.0, 1.0]","[3, 0, 1, 0, 2, 1]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,2
+1519,"[2, 0, 1.0, 1.0]","[4, 0, 0, 2, 4, 4]",Energy,Line Chart,single view,Low Clarity,High Complexity,4.5,5
+1576,"[1, 2, 1.0, 7.0]","[8, 1, 6, 0, 12, 12]",Energy,Line Chart,composite views,Low Clarity,High Complexity,1.0,31
+1581,"[2, 1, 1.0, 0.0]","[4, 3, 4, 0, 2, 8]",Energy,Heat Map,composite views,Low Clarity,High Complexity,3.0,4
+1601,"[0, 0, 1.0, 1.0]","[1, 0, 2, 2, 3, 2]",Energy,Line Chart,single view,Low Clarity,High Complexity,5.0,2
+1615,"[0, 0, 2.0, 3.0]","[4, 3, 9, 0, 10, 6]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.0,5
+1626,"[1, 0, 0.0, 1.0]","[2, 0, 2, 1, 5, 2]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,4.5,3
+1633,"[3, 2, 1.0, 2.0]","[4, 3, 1, 3, 9, 19]",Energy,Line Chart,composite views,High Clarity,High Complexity,3.0,8
+1659,"[0, 2, 1.0, 1.0]","[11, 3, 9, 1, 5, 5]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,1.5,4
+1697,"[3, 0, 1.0, 1.0]","[6, 2, 4, 2, 3, 3]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.0,5
+1711,"[2, 1, 0.0, 1.0]","[5, 0, 4, 0, 4, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.5,6
+1712,"[2, 0, 0.0, 1.0]","[2, 0, 0, 0, 6, 2]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,5.0,3
+1715,"[1, 1, 0.0, 0.0]","[2, 3, 4, 1, 1, 6]",Energy,Bar Graph,single view,Low Clarity,High Complexity,4.5,2
+1718,"[1, 0, 0.0, 0.0]","[0, 1, 0, 1, 2, 2]",Energy,Bar Graph,single view,Low Clarity,High Complexity,3.5,1
+1726,"[3, 0, 0.0, 5.0]","[6, 0, 4, 0, 1, 1]",Climate Science,Pie Chart,single view,Low Clarity,High Complexity,4.5,8
+1748,"[1, 1, 3.0, 4.0]","[6, 3, 7, 1, 9, 8]",Climate Science,Line Chart,composite views,High Clarity,High Complexity,3.0,16
+1748,"[1, 1, 3.0, 4.0]","[6, 3, 7, 1, 9, 8]",Climate Science,Line Chart,composite views,High Clarity,High Complexity,3.0,6
+1750,"[0, 2, 0.0, 2.0]","[8, 2, 6, 0, 5, 4]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,3.5,5
+1751,"[5, 2, 0.0, 1.0]","[3, 0, 12, 1, 1, 14]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,2.5,9
+1755,"[1, 1, 2.0, 2.0]","[11, 0, 14, 1, 1, 12]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,7
+1757,"[1, 0, 1.0, 2.0]","[2, 3, 1, 0, 1, 7]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.5,4
+1761,"[1, 0, 2.0, 0.0]","[2, 6, 3, 0, 4, 2]",Energy,Bar Graph,single view,Low Clarity,High Complexity,5.0,3
+1777,"[4, 1, 1.0, 1.0]","[12, 4, 8, 5, 3, 8]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,4.5,8
+1779,"[3, 0, 3.0, 2.0]","[1, 1, 2, 3, 8, 3]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,5.0,8
+1790,"[0, 1, 1.0, 3.0]","[9, 3, 9, 1, 2, 5]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,4.0,6
+1802,"[1, 0, 4.0, 3.0]","[7, 3, 11, 1, 13, 15]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,3.0,8
+1803,"[2, 0, 0.0, 4.0]","[3, 2, 2, 2, 5, 5]",Climate Science,Bar Graph,single view,Low Clarity,High Complexity,5.0,7
+1818,"[1, 0, 1.0, 1.0]","[4, 2, 2, 0, 2, 4]",Climate Science,Bar Graph,single view,Low Clarity,Low Complexity,5.0,3
+1821,"[3, 0, 2.0, 1.0]","[0, 0, 2, 1, 5, 6]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,1.5,6
+1838,"[2, 0, 0.0, 2.0]","[1, 5, 2, 2, 2, 3]",Energy,"Bar Graph,Line Chart",composite views,Low Clarity,High Complexity,3.5,11
+1839,"[0, 0, 0.0, 2.0]","[3, 0, 2, 2, 4, 3]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,5.0,1
+1861,"[1, 1, 1.0, 0.0]","[5, 2, 3, 1, 1, 6]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,4
+1874,"[2, 2, 0.0, 4.0]","[3, 0, 6, 2, 5, 9]",Climate Science,Line Chart,single view,Low Clarity,High Complexity,4.5,10
+1894,"[0, 1, 0.0, 1.0]","[0, 1, 3, 0, 1, 1]",Energy,Bar Graph,single view,Low Clarity,High Complexity,4.5,3
+1911,"[3, 0, 3.0, 2.0]","[3, 1, 8, 2, 2, 14]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,3.0,9
+1915,"[0, 0, 1.0, 0.0]","[5, 1, 0, 0, 5, 3]",Energy,"Line Chart,Heat Map",composite views,Low Clarity,High Complexity,4.0,1
+1917,"[3, 0, 8.0, 2.0]","[3, 0, 4, 1, 6, 5]",Climate Science,"Line Chart,Scatter Plot",composite views,Low Clarity,High Complexity,2.5,13
+1925,"[2, 1, 0.0, 2.0]","[4, 1, 7, 0, 12, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.0,5
+1945,"[1, 0, 0.0, 0.0]","[1, 0, 1, 0, 2, 1]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,4.5,1
+1946,"[3, 2, 5.0, 3.0]","[6, 4, 12, 2, 12, 21]",Energy,Line Chart,composite views,Low Clarity,High Complexity,2.5,21
+1947,"[1, 5, 4.0, 1.0]","[12, 3, 17, 1, 16, 7]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,13
+1953,"[0, 2, 2.0, 1.0]","[2, 1, 8, 2, 3, 4]",Climate Science,Scatter Plot,single view,Low Clarity,High Complexity,2.5,7
+1963,"[1, 1, 3.0, 4.0]","[0, 1, 12, 2, 1, 11]",Climate Science,Scatter Plot,composite views,Low Clarity,Low Complexity,2.5,11
+1979,"[0, 0, 2.0, 3.0]","[3, 1, 4, 2, 3, 1]",Climate Science,Heat Map,composite views,High Clarity,High Complexity,4.5,5
+2007,"[5, 1, 3.0, 3.0]","[4, 6, 9, 11, 17, 15]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.0,12
+2008,"[0, 0, 1.0, 3.0]","[6, 2, 4, 2, 3, 3]",Energy,Line Chart,composite views,Low Clarity,High Complexity,2.5,5
+2016,"[1, 0, 0.0, 1.0]","[4, 0, 0, 0, 3, 4]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.0,2
+2018,"[1, 0, 1.0, 3.0]","[7, 1, 5, 1, 19, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,6
+2025,"[4, 1, 0.0, 3.0]","[7, 4, 8, 0, 1, 9]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,1.5,9
+2049,"[2, 0, 1.0, 1.0]","[1, 1, 0, 0, 1, 3]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,4.0,4
+2050,"[0, 0, 2.0, 1.0]","[1, 0, 0, 0, 4, 9]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,3.0,3
+2052,"[4, 1, 0.0, 1.0]","[2, 1, 6, 0, 1, 6]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,1.0,7
+2054,"[1, 0, 2.0, 2.0]","[2, 1, 5, 2, 11, 3]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.5,6
+2060,"[2, 2, 0.0, 0.0]","[5, 0, 11, 0, 6, 3]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,4.5,4
+2061,"[0, 0, 0.0, 1.0]","[0, 0, 1, 2, 1, 1]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,4.0,1
+2062,"[1, 1, 2.0, 2.0]","[4, 1, 1, 1, 4, 5]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,5.0,8
+2064,"[0, 1, 12.0, 4.0]","[5, 8, 12, 1, 17, 17]",Energy,Line Chart,composite views,Low Clarity,High Complexity,2.0,21
+2065,"[0, 1, 1.0, 0.0]","[0, 1, 2, 0, 3, 8]",Energy,Bar Graph,composite views,Low Clarity,High Complexity,5.0,2
+2071,"[1, 2, 3.0, 4.0]","[7, 2, 7, 0, 2, 8]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.0,11
+2074,"[0, 0, 0.0, 1.0]","[1, 0, 0, 1, 5, 1]",Energy,Bar Graph,single view,Low Clarity,High Complexity,2.5,1
+2103,"[1, 0, 3.0, 1.0]","[4, 2, 4, 0, 2, 5]",Climate Science,Scatter Plot,composite views,Low Clarity,High Complexity,1.5,5
+2105,"[1, 0, 2.0, 2.0]","[5, 1, 4, 0, 1, 7]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,5
+2117,"[2, 2, 0.0, 0.0]","[5, 1, 7, 1, 5, 11]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,4
+2124,"[0, 0, 2.0, 0.0]","[1, 0, 2, 0, 3, 2]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,5.0,2
+2125,"[4, 1, 4.0, 2.0]","[3, 1, 10, 2, 7, 6]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,11
+2138,"[2, 0, 0.0, 4.0]","[1, 0, 6, 0, 3, 2]",Energy,Scatter Plot,single view,Low Clarity,High Complexity,2.0,6
+2141,"[0, 0, 3.0, 3.0]","[5, 3, 3, 1, 10, 3]",Climate Science,Line Chart,composite views,High Clarity,High Complexity,3.5,6
+2152,"[0, 1, 2.0, 2.0]","[1, 3, 5, 0, 1, 6]",Climate Science,Line Chart,composite views,High Clarity,High Complexity,3.5,5
+2163,"[1, 1, 1.0, 0.0]","[1, 0, 3, 3, 7, 23]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.0,3
+2194,"[7, 2, 4.0, 5.0]","[19, 16, 14, 0, 5, 19]",Climate Science,"Bar Graph,Line Chart",composite views,Low Clarity,High Complexity,3.5,19
+2211,"[1, 3, 1.0, 3.0]","[0, 1, 4, 1, 7, 3]",Energy,"Bar Graph,Scatter Plot",composite views,High Clarity,High Complexity,2.0,9
+2213,"[3, 1, 1.0, 3.0]","[4, 3, 11, 0, 2, 11]",Energy,"Bar Graph,Line Chart",composite views,High Clarity,High Complexity,4.5,10
+2215,"[4, 1, 0.0, 1.0]","[3, 1, 8, 0, 3, 5]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.0,10
+2218,"[0, 0, 2.0, 0.0]","[3, 1, 1, 0, 4, 2]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,4.5,2
+2220,"[2, 0, 0.0, 2.0]","[2, 2, 0, 1, 2, 14]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.5,4
+2223,"[3, 1, 1.0, 2.0]","[2, 1, 16, 0, 9, 10]",Energy,Line Chart,composite views,High Clarity,High Complexity,4.0,8
+2251,"[2, 1, 0.0, 3.0]","[4, 0, 5, 1, 3, 14]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,1.0,6
+2253,"[3, 0, 1.0, 0.0]","[1, 1, 3, 2, 2, 1]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.0,4
+2254,"[3, 0, 3.0, 4.0]","[9, 3, 6, 14, 6, 12]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.0,12
+2262,"[1, 0, 0.0, 4.0]","[4, 0, 7, 2, 5, 4]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.0,5
+2271,"[1, 0, 1.0, 3.0]","[7, 3, 3, 0, 6, 15]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,4.5,6
+2276,"[0, 0, 2.0, 1.0]","[2, 0, 0, 0, 3, 2]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.0,3
+2289,"[2, 2, 2.0, 0.0]","[5, 0, 9, 1, 4, 12]",Climate Science,Bar Graph,composite views,Low Clarity,High Complexity,5.0,6
+2293,"[0, 0, 2.0, 2.0]","[6, 0, 2, 2, 6, 4]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,4
+2300,"[2, 1, 5.0, 2.0]","[6, 3, 3, 2, 9, 10]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,3.5,11
+2327,"[0, 0, 4.0, 0.0]","[1, 0, 4, 0, 7, 6]",Energy,Line Chart,composite views,Low Clarity,High Complexity,3.0,4
+2348,"[3, 0, 0.0, 1.0]","[1, 0, 2, 0, 4, 6]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,2.5,4
+2354,"[0, 0, 2.0, 2.0]","[2, 0, 3, 1, 2, 5]",Energy,Line Chart,composite views,High Clarity,High Complexity,4.0,4
+2356,"[1, 0, 2.0, 2.0]","[8, 1, 8, 1, 4, 5]",Energy,"Line Chart,Heat Map",composite views,Low Clarity,High Complexity,4.0,5
+2357,"[2, 0, 1.0, 1.0]","[0, 0, 0, 0, 4, 7]",Energy,Scatter Plot,composite views,Low Clarity,High Complexity,4.5,4
+2360,"[1, 1, 0.0, 4.0]","[2, 5, 7, 0, 11, 4]",Energy,Line Chart,composite views,Low Clarity,High Complexity,4.5,6
+2364,"[2, 0, 0.0, 2.0]","[6, 1, 1, 1, 3, 3]",Climate Science,Line Chart,composite views,Low Clarity,High Complexity,2.5,5
+1845,"[1, 2, 0, 0]",,Energy,Line Chart,single view,High Clarity,High Complexity,4.0,5
+1949,"[1, 0, 0, 0]",,Energy,Line Chart,single view,Low Clarity,High Complexity,2.0,3
+2028,"[2, 1, 0, 0]",,Climate Science,Line Chart,single view,High Clarity,High Complexity,3.5,3
+1749,"[3, 1, 0, 1]",,Climate Science,"Bar Graph,Scatter Plot",composite views,High Clarity,Low Complexity,4.0,5

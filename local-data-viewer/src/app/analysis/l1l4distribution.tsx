@@ -13,9 +13,11 @@ import { Input } from "@/components/ui/input";
 const L1l4Distribution = () => {
 	const [captionInfo, setCaptionInfo] = useState<CaptionInfo[]>([]);
 	const [sortKey, setSortKey] = useState<keyof CaptionInfo>("interpretability_rating");
+	const [secondarySortKey, setSecondarySortKey] = useState<keyof CaptionInfo | null>(null);
 	const [sortOrder, setSortOrder] = useState<"asc" | "desc">("desc");
 	const [filterMin, setFilterMin] = useState<number | null>(null);
 	const [filterMax, setFilterMax] = useState<number | null>(null);
+	const [agreement, setAgreement] = useState<number | null>(null);
 
 	useEffect(() => {
 		const loadData = async () => {
@@ -25,19 +27,21 @@ const L1l4Distribution = () => {
 					.substring(1, data.l1_l4_vector.length - 1)
 					.split(', ').map(vector => parseInt(vector));
 
-				const vec_total = vector.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
-
+				const vec_total = data.sentence_count;
+				
 				const caption: CaptionInfo = {
 					chart_type: data.chart_type,
 					clarity: data.clarity,
 					complexity: data.complexity,
 					imageid: data.image_id,
-					interpretability_rating: parseInt(data.mean_rating),
+					interpretability_rating: parseFloat(data.mean_rating),
 					l1_l4_vector: vector,
+					vectorLen: parseInt(vec_total),
 					l1: vector[0] / vec_total,
 					l2: vector[1] / vec_total,
 					l3: vector[2] / vec_total,
 					l4: vector[3] / vec_total,
+					agreement: parseInt(data.Agreement)
 				};
 				readCaptionInfo.push(caption);
 			});
@@ -47,17 +51,47 @@ const L1l4Distribution = () => {
 				filteredData = filteredData.filter(item => item.interpretability_rating >= filterMin && item.interpretability_rating <= filterMax);
 			}
 
+			if (agreement !== null) {
+				filteredData = filteredData.filter(item => {
+					return item.agreement <= agreement
+				});
+			}
+
 			if (sortOrder === "asc") {
-				filteredData.sort((a, b) => a[sortKey] - b[sortKey]);
+				filteredData.sort((a, b) => {
+					let A;
+					let B;
+					if (secondarySortKey) {
+						A = a[sortKey] + a[secondarySortKey];
+						B = b[sortKey] + b[secondarySortKey];
+					} else {
+						A = a[sortKey];
+						B = b[sortKey];
+					}
+					
+					return A - B
+				});
 			} else {
-				filteredData.sort((a, b) => b[sortKey] - a[sortKey]);
+				filteredData.sort((a, b) => {
+					let A;
+					let B;
+					if (secondarySortKey) {
+						A = a[sortKey] + a[secondarySortKey];
+						B = b[sortKey] + b[secondarySortKey];
+					} else {
+						A = a[sortKey];
+						B = b[sortKey];
+					}
+					
+					return B - A
+				});
 			}
 
 			setCaptionInfo(filteredData);
 		};
 
 		loadData();
-	}, [sortKey, sortOrder, filterMin, filterMax]);
+	}, [sortKey, secondarySortKey, sortOrder, filterMin, filterMax, agreement]);
 
 	return (
 		<Analysis
@@ -101,6 +135,19 @@ const L1l4Distribution = () => {
 
 					<DropdownMenu>
 						<DropdownMenuTrigger asChild>
+							<Button variant="outline">Sort by 2: {secondarySortKey}</Button>
+						</DropdownMenuTrigger>
+						<DropdownMenuContent>
+							{["imageid", "interpretability_rating", "l1", "l2", "l3", "l4"].map((key) => (
+								<DropdownMenuItem key={key} onClick={() => setSecondarySortKey(key as keyof CaptionInfo)}>
+									{key.replace(/_/g, " ")}
+								</DropdownMenuItem>
+							))}
+						</DropdownMenuContent>
+					</DropdownMenu>
+
+					<DropdownMenu>
+						<DropdownMenuTrigger asChild>
 							<Button variant="outline">Order: {sortOrder}</Button>
 						</DropdownMenuTrigger>
 						<DropdownMenuContent>
@@ -124,6 +171,17 @@ const L1l4Distribution = () => {
 							className="w-40"
 							value={filterMax ?? ''} onChange={(e) => setFilterMax(e.target.value ? parseInt(e.target.value) : null)}
 						/>
+						<div style={{flexDirection: "column"}}>
+							<Input
+								min={1} max={4}
+								type="number"
+								placeholder="Agreement"
+								className="w-40"
+								value={agreement ?? ''} onChange={(e) => setAgreement(e.target.value ? parseInt(e.target.value) : null)}
+							/>
+							<p>1 = all agree to the rating</p>
+							<p>4 = everyone has different rating</p>
+						</div>
 					</div>
 				</div>
 
@@ -131,7 +189,7 @@ const L1l4Distribution = () => {
 				<div className="grid grid-cols-[3fr_1fr] h-full w-full">
 					<div>
 						<Heatmap
-							data={captionInfo.map(c => ({ 'id': c.imageid, 'vectors': c.l1_l4_vector }))}
+							data={captionInfo.map(c => ({ 'id': c.imageid, 'vectors': c.l1_l4_vector, 'total': c.vectorLen }))}
 							x_cat={["L1", "L2", "L3", "L4"]}
 						/>
 					</div>

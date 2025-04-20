@@ -37,7 +37,7 @@ def classify_segments(segments):
 
     for segment in segments:
         result = classifier(segment, candidate_labels, multi_label=True)
-        best_label = result["labels"][0]  # Take the highest confidence label
+        best_label = result["labels"][0] 
         classifications.append((segment, best_label))
 
     return classifications

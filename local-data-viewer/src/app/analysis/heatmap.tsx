@@ -14,7 +14,11 @@ const Heatmap = ({ data, x_cat }: HeatmapProps) => {
 		setFormattedData(
 			data.map(d => {
 				const vectors = d["vectors"].reduce((acc: number[], item: number, index: number) => {
-					acc[index + 1] = item / d["vectors"].reduce((accumulator, current) => accumulator + current, 0);
+					if (d["total"]) {
+						acc[index + 1] = item / d["total"];
+					} else {
+						acc[index + 1] = item / d["vectors"].reduce((accumulator, current) => accumulator + current, 0);
+					}
 					return acc;
 				}, {} as { [key: number]: number });
 
