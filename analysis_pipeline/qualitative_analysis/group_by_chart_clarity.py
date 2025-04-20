@@ -80,13 +80,9 @@ Label: """
     return response.json()["response"].strip()
 
 print("🧠 Thematic Coding Results:\n")
-i = 0 
+
 for idx, reason in reasons.iterrows():
-    if i > 10:
-        break
-    reasons.at[idx, "usefulness"] = get_code(reason['reason'])
-    i+= 1
+    reasons.at[idx, "sentiment"] = get_code(reason['reason'])
     time.sleep(1)
 
-print(reasons)
-# reasons.to_csv("./data/reasons_caption_segment.csv", index=False)
+reasons.to_csv("./data/reasons_caption_segment.csv", index=False)
