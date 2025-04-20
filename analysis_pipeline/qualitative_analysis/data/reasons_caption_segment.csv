@@ -1,345 +1,555 @@
-reason_id,image_id,rating,reason
-8,324,5,Caption summarizes the main trend
-10,337,5,"Detailed caption that provides the main key takeaway 
- The charts are well labeled"
-11,339,5,Detailed caption and
-12,436,5,Clear representations with detailed caption that includes the symbols and
-15,572,5,caption summarizes main takeaway
-16,610,5,the caption is informative .
-17,650,5,Caption helps in understanding annotations used in the chart . Caption clearly states the takeaway message and provides required context to read the cahrt .
-18,660,5,The detailed caption provides a clear takeaway
-19,690,5,labeled which helps with understanding the main takeaway .
-20,765,2,Caption does not provide any context or takeaway message . Caption does not describe observed patterns .
-22,859,3,Caption does not add any value .
-23,882,4,low level message is easy to grasp
-24,920,5,caption summarizes the main trend
-25,937,5,Clear visualization with detailed caption .
-26,994,5,Clear visualization with detailed caption .
-28,1081,5,understand the main takeaway by reading the caption .
-30,1277,5,the caption provides good details to interpret the graph .
-31,1285,5,The caption provides detailed context explaining the CI and
-32,1295,5,The caption provides detailed context explaining the CI and
-33,1303,5,The captions explains the main trend and
-39,1779,5,The chart 's caption is long but
-42,1839,5,The caption also provides detailed context about the source data .
-44,2062,5,"Although the caption is long ,"
-49,112,4,Clear takeaway was not given
-50,126,4,Caption does n't fully summarize the main trends .
-53,330,4,Clear visual representation with a detailed caption
-54,380,4,"The caption is detailed ,"
-55,433,4,the caption explains what the different lines mean along with providing detailed information .
-56,447,4,Detailed caption but the caption does not clear summarize the main takeaway .
-57,491,4,"- Caption provides a good explanation for what the dots mean 
- - The use of labels helps in understanding the main takeaways"
-58,492,4,detailed caption
-59,547,4,"Detailed caption helps in understanding main takeaway ,"
-61,639,4,The caption provides the main takeaways while the chart uses color coding to help understand the caption
-62,643,4,labeled .
-64,736,4,Informative caption but
-65,828,4,Informative caption .
-67,904,4,the captions helps with the interpretation .
-69,1044,4,the detailed information in the caption helps .
-70,1301,4,"The caption provided is extensive ,"
-71,1388,4,Clear explanation in the caption and
-72,1428,4,The caption provides enough information to interpret the graph .
-74,1499,4,The caption summarizes the key trend and
-80,1726,4,Detailed caption but
-81,1755,4,the caption provides thorough information about each panel which is informative .
-83,1777,4,it can take a while to understand the context about the takeaway .
-84,1790,4,The caption provides thorough information about the scenarios and
-85,1861,4,The caption makes it easy to understand the main key takeaway .
-86,1874,4,the caption is long so can take a little time to   understand the context of the chart .
-87,1894,4,The caption is informative and provides necessary context .
-89,1925,4,The caption provided is gives detailed information about the data shown in the chart .
-90,1947,4,"The caption provides context about the data sources ,"
-91,1979,4,The caption provides more information about the chart which makes it somewhat interpretable .
-94,2054,4,"The caption is informative ,"
-97,2074,2,Caption does not give the necessary context . Takeaway message is not clearly mentioned in the caption .
-98,2103,2,definition of shaded region in the caption helps understand the chart but does not give a clear idea of the intent .
-99,2138,2,Caption mentions source of the but is not a valuable information .
-100,2141,3,Caption clearly states the takeaway message and
-103,2354,4,Caption clearly concludes the takeaway message .
-106,2213,4,The caption provides thorough context about the data sources and
-108,2223,4,The overall presentation is somewhat interpretable with the given context found in the caption .
-109,2251,1,Caption provides important information but chart legend is repeated in the caption which is distracting .
-110,184,3,Complex caption and
-112,297,3,the caption provides a summary of the key trends .
-113,407,3,The caption is detailed but
-115,754,3,Informative caption but
-116,1011,3,Detailed caption but
-118,1215,3,the caption provides detailed information about the each element but
-120,149,1,the context required to understand the annotations are not given in the caption . Difficult to connect caption to the chart .
-121,152,1,is not mentioned in the caption . The caption also does not summarize the takeaway message .
-122,188,2,caption does not explain the trend so the takeaway message is not clear .
-123,213,2,Caption does not fully summarize the main points .
-125,292,2,Caption does not summarize the main trends .
-128,604,2,Detailed caption but
-131,846,2,While the caption provides detailed information about the scenarios .
-134,1100,2,what do they mean . The caption is detailed which helps in understanding the graph 's context .
-135,1112,2,The detailed caption makes it a little easier to understand the potential economic growth over time .
-137,1206,2,"despite the detailed caption ,"
-139,1510,2,The caption provides little information about the main takeaway .
-140,1615,2,The caption provides context about the factors and contributions which is informative .
-141,1633,2,"The caption is very detailed about the visualization ,"
-142,1659,2,the caption is very detailed about the context and
-143,1748,2,The caption is detailed but
-144,1750,2,The caption provides extensive context about the experiments and
-146,1838,2,"The caption provides a detailed description of the each panel ,"
-148,2050,2,The caption does n't summarize the main trend .
-149,2105,2,Although the caption explains what the lines mean it is still hard to get an overall picture of the main trend .
-150,2125,2,The caption is complex and
-151,2254,2,"The caption is too long ,"
-152,2262,2,"The caption provided gives detailed context about the data sources ,"
-153,2276,2,The caption also does not summarize the main trend .
-154,2300,2,"The caption does a good job of explaining what the trends are ,"
-156,2152,2,The caption provides thorough context but
-158,2215,2,the caption provides detailed context about the dat .
-159,2252,2,the caption is needed .
-161,909,1,"Caption is too long ,"
-163,1068,1,"even though there is a legend ,"
-164,1087,1,"While the caption explains the context ,"
-165,1146,1,"The caption is detailed however the overall layout is cluttered with many bars ,"
-167,1178,1,"While the caption provides detailed context ,"
-168,1192,1,"While the caption provides details context ,"
-169,1205,1,While the caption provides detailed context about the different location and
-170,1232,1,"While the caption provides context ,"
-172,1294,1,"The caption is too detailed ,"
-177,1946,1,The caption is long and
-178,1953,1,While the caption is concise and
-186,2064,1,"The caption is long ,"
-192,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but
-193,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message .
-194,1225,1,The caption does not provide information required to understand the visible patterns . Caption provides context of the graph through data description but
-195,1465,4,The caption does not state the takeaway message .
-196,1503,4,the caption
-197,1581,3,Caption does not clearly mention the key takeaway message .
-198,1917,3,Caption explains the methodology but not bserved patterns of takeaway message . Context must be present in the cantion to understand the visualization .
-199,2211,2,Caption is lengthy without a clear takeaway message .
-0,82,4,The caption is a little unclear and
-2,148,4,the caption can be improved to be more straight - forward .
-3,196,5,caption are easy to understand .
-5,290,4,the caption is very wordy .
-7,2360,4,"The caption explains the graph markings ,"
-8,324,5,the caption can do better at explaining the trend .
-9,332,4,"The caption does n't explain the second graph well ,"
-10,337,5,caption are understandable .
-12,436,4,"The caption explains the graph ,"
-15,572,5,the caption can be less wordy .
-17,650,5,Caption helps in understanding annotations used in the chart . Caption clearly states the takeaway message and provides required context to read the cahrt .
-20,765,2,Caption does not provide any context or takeaway message . Caption does not describe observed patterns .
-22,859,4,Caption does not add any value .
-23,882,3,low level message is easy to grasp
-25,937,4,titles are hard to read .
-30,1277,4,"The caption can better explain the trend ,"
-35,1711,4,"The caption can better by explaining the trend ,"
-43,1945,4,the caption should include more context for the situation and
-47,2129,5,the caption needs to explain the trend and context more .
-50,126,3,the captions are very long - winded .
-51,304,3,"The caption is very wordy ,"
-55,433,5,the caption are easy to understand .
-58,492,4,"Caption is very wordy ,"
-60,614,3,"The caption explains the situation ,"
-64,736,4,"The caption describes the graphs well ,"
-68,1006,2,"The caption should explain the trend better ,"
-70,1301,4,"caption are good ,"
-72,1428,4,the caption can explain the trend better .
-77,1697,4,"The caption explains the graph pretty well ,"
-78,1715,5,the caption can be better at explaining the context .
-79,1718,3,The caption should be improved to explain the trend and
-82,1757,5,the caption should explain the trend .
-84,1790,4,"The caption is good ,"
-85,1861,5,the caption can better explain the trend / context .
-88,1915,4,"The caption is straightforward ,"
-89,1925,4,"The caption is good ,"
-92,2016,4,The caption needs to be improved to explain the context and
-93,2049,4,"The caption is good ,"
-94,2054,5,the caption can be better .
-95,2061,4,The caption can explain the context and
-96,2071,4,"The caption is good ,"
-97,2074,3,Caption does not give the necessary context . Takeaway message is not clearly mentioned in the caption .
-98,2103,1,definition of shaded region in the caption helps understand the chart but does not give a clear idea of the intent .
-99,2138,2,Caption mentions source of the but is not a valuable information .
-100,2141,4,Caption clearly states the takeaway message and
-101,2271,5,The captions and
-103,2354,4,Caption clearly concludes the takeaway message .
-105,2357,5,caption should explain the trend better .
-107,2220,3,"The caption explains the graph pretty well ,"
-109,2251,1,Caption provides important information but chart legend is repeated in the caption which is distracting .
-110,184,4,The caption does n't describe the trend well .
-111,220,4,The caption is very wordy and
-113,407,3,"The caption explains the graph ,"
-114,494,2,"explains the situation ,"
-117,1143,2,"The different colors are explained in the caption ,"
-119,1439,5,the caption can be better .
-120,149,2,the context required to understand the annotations are not given in the caption . Difficult to connect caption to the chart .
-121,152,1,is not mentioned in the caption . The caption also does not summarize the takeaway message .
-122,188,3,caption does not explain the trend so the takeaway message is not clear .
-123,213,2,"The caption does n't describe the trend ,"
-125,292,4,the caption can better explain the situation .
-126,413,1,"The caption does n't explain what each line represents ,"
-128,604,3,"The caption is very long - winded ,"
-130,758,2,"labels ,"
-134,1100,2,"The caption is good ,"
-135,1112,1,"The caption does n't explain the graph well ,"
-136,1153,4,"The caption can better explain the trend ,"
-138,1400,1,"The caption is okay ,"
-141,1633,4,"The caption is good ,"
-142,1659,1,"The caption is okay ,"
-145,1802,4,"The caption is okay ,"
-147,1911,4,"The caption is okay ,"
-148,2050,4,"The caption should explain the context better ,"
-152,2262,4,The caption is good .
-153,2276,4,"The caption does n't explain the trend of the graphs well ,"
-155,2327,4,the caption should explain the trend .
-157,2194,5,"The caption is very lengthy ,"
-158,2215,4,"The caption is good ,"
-159,2252,3,"The caption is good ,"
-160,242,3,the caption does n't explain the trend .
-161,909,4,the caption can be more straight to the point .
-162,950,1,"The caption is good ,"
-163,1068,1,"The caption does n't explain the trend ,"
-166,1177,1,it has no structure .
-167,1178,2,"The caption can better explain the trend ,"
-169,1205,2,"The caption is okay ,"
-170,1232,1,"The caption is good ,"
-171,1246,1,"The caption can better explain the trend ,"
-172,1294,1,"The caption can explain the trend better ,"
-173,1326,1,"The caption is good ,"
-174,1576,1,"The caption can be more straight - forward ,"
-175,1751,4,"The caption is good ,"
-176,1821,2,The caption can be improved to explain the context and
-177,1946,4,"The caption is good ,"
-178,1953,4,"The caption is okay ,"
-179,1963,4,"The caption is good ,"
-181,2008,4,the caption is good .
-182,2018,2,The caption should explain the trend better .
-183,2025,1,The caption should explain the trend better .
-184,2052,1,The caption does n't explain the context or trend .
-185,2060,4,The caption and
-186,2064,3,"The caption attempts to explain the graph ,"
-187,2117,5,the caption can explain the trend better .
-188,2163,2,"The caption is good ,"
-189,2253,4,"The caption is good ,"
-190,2293,1,"The caption should explain the trend better between the different simulations ,"
-191,2364,2,"The caption does n't explain the context or trend well ,"
-192,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but
-193,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message .
-194,1225,1,The caption does not provide information required to understand the visible patterns . Caption provides context of the graph through data description but
-195,1465,4,The caption does not state the takeaway message .
-196,1503,4,the caption
-197,1581,3,Caption does not clearly mention the key takeaway message .
-198,1917,2,Caption explains the methodology but not bserved patterns of takeaway message . Context must be present in the cantion to understand the visualization .
-199,2211,2,Caption is lengthy without a clear takeaway message .
-3,196,4,"The caption is lengthy ,"
-4,203,2,"The caption is very lengthy ,"
-5,290,3,the caption is too large .
-6,2289,4,Caption can be shortened
-10,337,2,Caption is too long and
-15,572,4,"Large caption ,"
-18,660,4,Large caption .
-20,765,4,caption is too large
-21,790,4,Large caption
-26,994,3,Caption is too big
-39,1779,5,The caption is too big .
-44,2062,4,Caption can be improved
-49,112,4,"I need to read the caption twice to understand the visualization fully ,"
-50,126,4,the caption is too large .
-51,304,2,the caption is too long
-52,317,4,The caption quality is not up to the mark
-56,447,1,The caption seems fine
-58,492,3,The caption is a bit lengthy
-59,547,4,The caption is a bit large .
-60,614,3,The caption is also too large .
-67,904,4,Caption can be improved
-69,1044,4,Caption can be improved
-80,1726,4,The caption can be a bit small
-81,1755,4,The caption can be improved
-86,1874,4,The caption is too big
-90,1947,3,The caption is too large
-111,220,3,"The caption is lengthy ,"
-114,494,2,caption look cluttered to me
-115,754,4,The caption can be improved
-116,1011,4,Caption can be improved
-121,152,3,also the caption is a bit lengthy .
-122,188,5,captions are precise and
-124,236,2,"The caption is too lengthy ,"
-125,292,5,caption are clear
-126,413,4,"The caption seems fine ,"
-128,604,3,the caption is too big
-129,676,3,caption is monotonous
-130,758,3,also the caption is monotonous
-134,1100,3,Caption is too big
-141,1633,4,Caption can be bit smaller
-145,1802,4,The caption can be improved
-147,1911,4,The caption can be improved
-151,2254,3,Caption can be shortened
-157,2194,2,The caption should be short
-159,2252,3,Caption can be improved
-160,242,1,The caption is lengthy ( but
-161,909,3,The caption is too large
-170,1232,2,also the caption is too large
-172,1294,2,large caption
-177,1946,2,the caption is unnecessarily large
-180,2007,2,large caption
-182,2018,4,Caption can be shortened
-184,2052,3,The caption should be more informative .
-188,2163,3,caption seems a bit long with irrelevant information
-192,869,2,"Too large caption ,"
-195,1465,2,The caption should contain more information
-199,2211,3,Caption can be improved
-1,139,2,Caption does not summarize main trend
-4,203,4,I think citations in the captions are not necessary
-7,2360,5,Caption augments with chart
-8,324,4,Caption does not summarize main trend
-26,994,4,Caption summarize the chart
-28,1081,5,The caption does not fully say the chart
-30,1277,4,require caption just to read the y - axis label
-34,1601,5,caption augments with chart
-37,1756,4,labels are clearly mentioned
-42,1839,5,Caption summarizes the chart
-48,2218,1,The label says -20 % but
-49,112,3,Caption does not summarize main trend
-54,380,4,Caption does not summarize main trend
-62,643,3,caption do not summarize main trend .
-65,828,3,caption
-67,904,3,caption does not summarize main trend
-69,1044,5,caption summarize the chart
-71,1388,5,caption does not summarize well
-72,1428,5,Caption does not summarize main trend
-73,1453,4,labels are not mentioned both in caption and
-74,1499,5,Easy to understand caption not required
-79,1718,2,"The caption does not summarize main trend ,"
-80,1726,5,Labels are clearly mentioned and
-81,1755,5,than reading through entire caption
-89,1925,5,Caption summarize trends in chart
-90,1947,5,Caption summarize trends in chart
-91,1979,5,Caption summarize the trend in charts
-92,2016,5,Caption augments the understanding of chart
-96,2071,4,Caption is explaining in detail about the chart
-99,2138,5,Caption summarizes the chart
-100,2141,5,Caption summarize the chart
-103,2354,4,Caption augments with chart
-105,2357,4,Caption summarize the chart
-106,2213,4,Caption summarizes the chart
-107,2220,5,The caption is not summarizing the chart
-108,2223,4,The caption is not summarizing charts well
-109,2251,5,Caption summarizes the charts
-111,220,4,Caption summarize the chart
-119,1439,5,Caption explain the chart
-126,413,5,Caption does not summarize main trend
-131,846,4,caption is unclear
-145,1802,2,caption it is not clear .
-148,2050,4,Caption provides more information regarding the chart
-150,2125,5,Caption augments charts
-151,2254,2,no label mentioned what color means
-154,2300,5,The captions summarize the charts
-158,2215,4,Caption and
-161,909,5,Caption clearly explains chart
-166,1177,5,caption summarize the chart
-169,1205,5,Caption augment chart
-174,1576,2,Caption have too many citations lost while reading caption and
-177,1946,5,Caption summarize trends in chart
-181,2008,5,Caption summarize trends in charts
-182,2018,4,not the comparison between them
-187,2117,5,The caption and
-189,2253,5,Easy to compare the charts using caption
+reason_id,image_id,rating,reason,usefulness
+3,139,2,"The caption is detailed and provides important context, does not clearly summarize the main takeaway",not_useful
+5,148,4,the caption can be improved to be more straight-forward,neutral
+6,148,3,the caption is long and complex without clear summary of the main takeaway. It makes it difficult to grasp the key message.,not_useful
+9,203,3,The caption provides a lot of context but not summarizing the main takeaway or highlighting the important parts.,not_useful
+13,2360,5,see the main trends without looking at the caption,neutral
+14,2360,4,"The caption explains the graph markings not the trend,",not_useful
+15,2360,4,"the caption does not fully summarize the main trend, the caption is informative it does not have a clear takeaway",not_useful
+16,324,5,Caption summarizes the main trend,useful
+17,324,5,the caption can do better at explaining the trend,not_useful
+18,324,1,Caption does not seem to be helping here to understand,not_useful
+20,332,4,"The caption doesn't explain the second graph well,",not_useful
+21,332,1,the caption does not clearly summarize the chart,not_useful
+22,337,5,"Detailed caption that provides the main key takeaway
+The charts are well labeled",useful
+23,337,5,caption are understandable,neutral
+25,339,5,Detailed caption,neutral
+27,339,4,caption does not add any value in explaining the trend or describing the chart,not_useful
+28,436,5,detailed caption that includes the symbols and lines (shown in chart) Clear representations with detailed caption that includes the symbols,useful
+29,436,4,"The caption explains the graph,",neutral
+30,436,2,"The chart and caption does not mention about the extra dots between the years, where caption specifies it as annual mean, but not clear",not_useful
+33,497,3,"The caption does not specify the trend, and only explain about the labels.",not_useful
+37,572,5,caption summarizes main takeaway,useful
+38,572,5,the caption can be less wordy,neutral
+39,572,4,"The caption explains about the chart, but there is no clear takeaway mentioned.",neutral
+40,610,5,the caption is informative . the caption is informative,neutral
+41,610,4,The caption doesn't explain the trend present in the graph,not_useful
+43,660,5,The detailed caption provides a clear takeaway,useful
+46,690,5,The caption helps with interpretation of the chart,useful
+48,690,3,"caption is useful to interpret the result, but it lacks mentionining some trends about the labels observed.",useful
+51,790,2,Clear explanations are not provided in the captions,not_useful
+52,920,5,caption summarizes the main trend,useful
+54,920,1,The caption does not mention the goal of the chart/ takeaway. It mentions what is mentioned in the charts,not_useful
+55,937,5,detailed caption,neutral
+57,937,4,The caption does not mention about the trend having the labels little unclear,not_useful
+58,994,5,detailed caption,neutral
+60,994,4,Caption summarize the chart,neutral
+63,999,4,Require both caption,neutral
+64,1081,5,understand the main takeaway by reading the caption,neutral
+66,1081,4,"The caption does not fully say the about the chart, but mentions some part of trend",not_useful
+69,1251,3,"The caption does not state any trends in the chart, and no clear takeaways",not_useful
+70,1277,5,the caption provides good details to interpret the graph,useful
+71,1277,4,"The caption can better explain the trend,",neutral
+72,1277,2,"Require caption just to read the y-axis label, there are no clear takeaway mentioned",not_useful
+73,1285,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful
+76,1295,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful
+79,1303,5,The captions explains the main trend and the graph is easy to interpret The captions explains the main trend,useful
+84,1601,5,caption augments with chart,neutral
+86,1711,4,"The caption can better by explaining the trend,",not_useful
+87,1711,3,captions require some effort to get some message,neutral
+90,1712,4,"Caption provides useful context about the data and methodology, it is somewhat dense and does not clearly summarize the main takeaway.",useful
+93,1761,4,"Though the caption clearly explains about the what is being measured and how the data compiled, but it does not clearly summarize the main takeaway or highlight the important trends.",not_useful
+94,1779,5,The chart's caption is long but includes an overview of the data,neutral
+96,1779,4,caption does not fully capture the summary of the chart,not_useful
+99,1803,4,"the caption provides details about the terms and data, but does not fully give the main takeaway",useful
+100,1818,5,"Clear takeaway with detailed context, making it easy to interpret",useful
+103,1839,5,The caption also provides detailed context about the source data,useful
+105,1839,4,Caption represent some details but not fully summarize the trend,not_useful
+107,1945,4,the caption should include more context for the situation and trend.,useful
+108,1945,3,the caption can be more informative and also express trends in the chart,useful
+109,2062,5,"Although the caption is long, it expands on each of the studies making it easier to understand the main takeaway",useful
+111,2062,3,caption does mention the terms it does not mention any takeaway message,not_useful
+117,2124,3,caption does not seem to provide a clear explanations,not_useful
+121,112,4,Clear takeaway was not given,not_useful
+123,112,3,The caption does not explain any trends observed in the charts,not_useful
+124,126,4,Caption doesn't fully summarize the main trends,not_useful
+125,126,3,the captions are very long-winded,not_useful
+128,304,3,"The caption is very wordy,",not_useful
+130,317,4,The caption provides details information about the chart,useful
+132,317,3,"The caption only explains about the labels inside the chart, but it is not clearly stating the trend and what should be interpreted.",not_useful
+135,330,3,"The chart a caption does not explain clearly the takeaway, chart b caption has mentioned the takeaway",not_useful
+136,380,4,"The caption is detailed, but does not provide the clear takeaway The caption is detailed,",not_useful
+138,380,3,The caption does not summarize chart main trend,not_useful
+139,433,4,the caption explains what the different lines mean along with providing detailed information,useful
+140,433,5,the caption are easy to understand,useful
+141,433,3,"The caption provides an explanation about the lines, but does not clearly explain the comparison between the trends.",not_useful
+142,447,4,Detailed caption but the caption does not clear summarize the main takeaway Detailed caption the caption does not clear summarize the main takeaway,not_useful
+144,447,3,The labels are not explained in caption,not_useful
+145,491,4,"Caption provides a good explanation for what the dots mean - Caption provides a good explanation for what the dots mean
+- The use of labels helps in understanding the main takeaways",useful
+148,492,4,detailed caption,neutral
+149,492,4,"Caption is very wordy,",not_useful
+150,492,4,"caption clearly explain the labels used, caption is lost in translation",neutral
+152,614,3,"The caption explains the situation,",neutral
+154,639,4,The caption provides the main takeaways,useful
+157,643,4,The different bars in the chart are not easy to comprehend without reading the captions,neutral
+159,643,3,caption do not summarize main trend,not_useful
+162,658,4,less caption is given,not_useful
+163,736,4,Informative caption but complex data requires interpretation Informative caption,neutral
+164,736,4,"The caption describes the graphs well,",useful
+165,736,4,"caption capture the trend,",neutral
+166,828,4,Informative caption,neutral
+167,828,1,"The caption doesn't explain what the different colors mean, and doesn't explain the trend. ",not_useful
+168,828,3,caption does not explain missing labels,not_useful
+171,839,2,Fluctuations are not clearly mentioned in the caption,not_useful
+172,904,4,Detailed caption. the captions helps with the interpretation. the captions helps with the interpretation,useful
+174,904,3,caption does not summarize main trend,not_useful
+175,1006,4,Clear context with color-coded regions,useful
+176,1006,2,"The caption should explain the trend better,",not_useful
+178,1044,4,the detailed information in the caption helps,useful
+180,1044,5,caption summarize the chart,neutral
+181,1301,4,"The caption provided is extensive, which is informative but it adds to the complexity The caption provided is extensive, which is informative",neutral
+182,1301,4,"caption are good,",neutral
+183,1301,3,"The caption is not required, because caption tells to look in the chart explanations for more details",useful
+184,1388,4,Clear explanation in the caption,useful
+186,1388,4,"Caption mentions about the chart and trend, but it can improved with more adding in more details and highlighting the takeaway message",useful
+187,1428,4,The caption provides enough information to interpret the graph,useful
+188,1428,4,the caption can explain the trend better,useful
+189,1428,1,"The caption does not have any information only references,",not_useful
+192,1453,3,"caption mentions about different lines, but no straight forward takeaway",neutral
+193,1499,4,The caption summarizes the key trend,useful
+195,1499,4,"The black lines are not fully mentioned in caption, but could be infered as error lines",not_useful
+198,1519,3,"The caption does provide detailed context about the data sources and methods, but does not clearly summarize the main takeaway or highlight the key trend.",not_useful
+203,1697,4,"The caption explains the graph pretty well,",neutral
+205,1715,4,detailed context add complexity making it somewhat confusing,not_useful
+206,1715,5,the caption can be better at explaining the context,neutral
+207,1715,3,The caption does not clearly summarize the main trend,not_useful
+209,1718,3,The caption should be improved to explain the trend context,not_useful
+210,1718,2,"The caption does not summarize main trend, because it says current report but 2050 year is colored in blue which is previous report",not_useful
+211,1726,4,Detailed caption,neutral
+214,1755,4,the caption provides thorough information about each panel which is informative,useful
+216,1755,3,The caption is lengthy and does not clearly summarize main takeaway or maybe highlight the important trend.,not_useful
+217,1757,4,chart is hard to understand without the help of the detailed context in caption it can be hard to understand without the help of the detailed context,neutral
+218,1757,5,the caption should explain the trend,not_useful
+219,1757,3,"The caption have mentioned many details, but did not clearly mention or summarize the main takeaway",not_useful
+220,1777,4,"The caption provides thorough information about the anomalies, but it can take a while to understand the context about the takeaway The caption provides thorough information about the anomalies, it can take a while to understand the context about the takeaway",neutral
+223,1790,4,The caption provides thorough information about the scenarios and error bars The caption provides thorough information about the scenarios,useful
+224,1790,4,"The caption is good,",neutral
+225,1790,4,The caption is dense and does not fully summarize the main takeaway.,not_useful
+226,1861,4,The caption makes it easy to understand the main key takeaway,useful
+227,1861,5,"Both are easy to understand, the caption can better explain the trend/context",neutral
+228,1861,3,The caption is lengthy but does not fully summarize the trend,not_useful
+229,1874,4,"the caption is long so can take a little time to  understand the context of the chart. Also, the caption is long so can take a little time to  understand the context of the chart",neutral
+231,1874,4,the key message could be more directly stated in the caption,neutral
+232,1894,4,The caption is informative and provides necessary context The caption is informative provides necessary context,useful
+236,1915,4,"The caption is straightforward,",neutral
+237,1915,4,The caption is simple and does not fully explain the chart and also key takeaway could be stated in the caption,not_useful
+238,1925,4,The caption provided is gives detailed information about the data shown in the chart,useful
+239,1925,4,"The caption is good,",neutral
+240,1925,5,Caption summarize trends in chart,neutral
+241,1947,4,"The caption provides context about the data sources, scenarios, and an explanation of the main trends. It is long and informative, but adds complexity to the interpretation. The caption provides context about the data sources, scenarios, an explanation of the main trends Despite the detailed context, the visual clarity makes the charts somewhat interpretable",useful
+243,1947,3,There are many details in caption I did not find any clear takeaway,not_useful
+244,1979,4,The caption provides more information about the chart which makes it somewhat interpretable,useful
+246,1979,3,"caption does not contain any clear takeaway, it mentions some trends and relationships, but no clear summary",not_useful
+248,2016,4,The caption needs to be improved to explain the context and trend,not_useful
+249,2016,3,"And caption does not seem to explain the chart clearly, and no clear takeaway is mentioned.",not_useful
+250,2049,4,annotations might make it harder to interpret the small specific finding without any additional context,not_useful
+251,2049,4,"The caption is good,",neutral
+252,2049,2,Caption does not represent any trends and also comparison between the trends are not discussed. No clear takeaway,not_useful
+253,2054,4,"The caption is informative, it also has some unnecessary information that might not be needed to interpret the charts",useful
+254,2054,5,the caption can be better,not_useful
+255,2054,4,"The caption does mention some trends,",neutral
+256,2061,4,require more context for full understanding,not_useful
+257,2061,4,The caption can explain the context and trend better.,neutral
+258,2061,3,The caption does not explain about the trend observed and also the takeaway message is clearly missing.,not_useful
+260,2071,4,"The caption is good,",neutral
+261,2071,3,"The caption is lengthy and explains about the terms and about the chart, but no clear takeaway message is mentioned and also comparison between the lines are not mentioned",not_useful
+263,2271,5,The captions is interpretable,neutral
+264,2271,3,"The caption does explain about the chart, but does not explain about the takeaway",not_useful
+265,2356,4,detailed context,neutral
+267,2356,4,key message could be mentioned in the caption,neutral
+269,2357,5,caption should explain the trend better,not_useful
+270,2357,4,Caption summarize the chart,neutral
+271,2213,4,The caption provides thorough context about the data sources and the variables shown in each panel. The detailed context also might take time to interpret The caption provides thorough context about the data sources The detailed context also might take time to interpret,useful
+273,2213,3,"The caption mentions about the calculations that are used to prepare the subcharts, but no takeaway",not_useful
+274,2220,4,The caption is needed to fully make an interpretation of the chart,useful
+275,2220,3,"The caption explains the graph pretty well,",neutral
+277,2223,4,The overall presentation is somewhat interpretable with the given context found in the caption,useful
+279,2223,4,"The caption is lengthy and provides the methodology, but is not able to clearly summarize the main trend",not_useful
+280,184,3,Complex caption,neutral
+281,184,4,The caption doesn't describe the trend well,not_useful
+282,184,2,There are many technical terms that are not fully explained in the caption. The caption does not summarize the main takeaway or important trends.,not_useful
+284,220,4,The caption is very wordy and doesn't explain the trend present in the graphs.,not_useful
+285,220,4,Caption summarize the chart,neutral
+286,297,3,"There is no visual clutter, the caption provides a summary of the key trends",useful
+288,297,2,"caption tell about the labels used and how they are formed, but there is no mention what the intent for the chart is.",neutral
+289,407,3,The caption is detailed,neutral
+290,407,3,"The caption explains the graph,",neutral
+292,494,3,detailed caption highlights what the chart shows,useful
+293,494,2,"The caption is very wordy, but explains the situation, ",neutral
+295,754,3,Informative caption,neutral
+298,1011,3,Detailed caption,neutral
+302,1143,2,"The different colors are explained in the caption,",neutral
+303,1143,1,"There is no clear explanation about the comparison between the trend lines, and no takeaway can be taken from caption",not_useful
+304,1215,3,"Furthermore, the caption provides detailed information about the each element but it takes time to understand",useful
+307,1439,3,"While the legend and the caption provide the needed context, the multiple data points and lines can be a little confusing to interpret at first glance the caption provide the needed context, the multiple data points",useful
+308,1439,5,the caption can be better,not_useful
+309,1439,2,The comparison between the lines are not clearly mentioned in the caption,not_useful
+310,213,2,Caption does not fully summarize the main points,not_useful
+311,213,2,"The caption doesn't describe the trend,",not_useful
+312,213,2,it is not straight forward to get the trend without proper context provided,not_useful
+316,604,2,Detailed caption but hard to compare the categories Detailed caption,neutral
+317,604,3,"The caption is very long-winded,",not_useful
+323,758,2,"The caption explains the graph labels well,",useful
+325,846,2,While the caption provides detailed information about the scenarios,neutral
+327,846,1,There is no clear explanation about the chart and also no clear takeaway mentioned in the caption.,not_useful
+330,898,1,No clear trend explained in the caption,not_useful
+334,1100,2,The caption is detailed which helps in understanding the graph's context,useful
+335,1100,2,"The caption is good,",neutral
+337,1112,2,The detailed caption makes it a little easier to understand the potential economic growth over time,useful
+338,1112,1,"The caption doesn't explain the graph well,",not_useful
+340,1153,2,The caption does not summarize the main trend of the graph,not_useful
+341,1153,4,"The caption can better explain the trend,",neutral
+342,1153,1,"The caption does not justify chart, no clear explanation and takeaways provided",not_useful
+343,1206,2,"despite the detailed caption, the overall presentation requires significant effort to comprehend the main takeaways",not_useful
+346,1400,2,detailed context makes it somewhat confusing,not_useful
+347,1400,1,"The caption is okay,",neutral
+348,1400,3,The lines are clearly not mentioned in the caption,not_useful
+349,1510,2,The caption provides little information about the main takeaway,not_useful
+351,1510,3,"The caption doesn't seem to mention trends in the chart, and what to follow in the chart. Caption is too small without any details",not_useful
+352,1615,2,The caption provides context about the factors,useful
+354,1615,4,Caption is lengthy providing detailed context but not enough to summarize the main takeawat or highlighting the most important trend.,neutral
+355,1633,2,"The caption is very detailed about the visualization, it is too long it read",not_useful
+356,1633,4,"The caption is good,",neutral
+357,1633,4,caption is lengthy without clearly summarizing the main trend The main takeaway could be more highlighted in the caption,not_useful
+358,1659,2,"Furthermore, the caption is very detailed about the context while it is informative, the detailed context is hard to interpret",neutral
+359,1659,1,"The caption is okay,",neutral
+360,1659,2,Caption does not mention any key trend,not_useful
+361,1748,2,The caption is detailed,neutral
+364,1750,2,The caption provides extensive context about the experiments,useful
+366,1750,2,the caption does provide details about the terms,useful
+367,1802,2,detailed context adds to the complexity,neutral
+368,1802,4,"The caption is okay,",neutral
+369,1802,2,Even after close look in chart and caption it is not clear.,not_useful
+370,1838,2,"The caption provides a detailed description of the each panel,",useful
+372,1838,3,the caption is comprehensive but it does not clearly summarize the main takeaway,neutral
+374,1911,4,"The caption is okay,",neutral
+376,2050,2,The caption doesn't summarize the main trend,not_useful
+377,2050,4,"The caption should explain the context better,",not_useful
+378,2050,2,"Caption provides information regarding the chart, but does not mention any trends, and comparison of various charts since they are combined. No clear takeaway",not_useful
+379,2105,2,Although the caption explains what the lines mean it is still hard to get an overall picture of the main trend,neutral
+382,2125,2,The caption is complex takes time to interpret,not_useful
+384,2125,3,"The caption provides the process, but does not provide clear explanation of the trends and comparisons.",not_useful
+385,2254,2,The caption is too long and  it takes time to interpret the main findings.,not_useful
+388,2262,2,"The caption provided gives detailed context about the data sources,",useful
+389,2262,4,The caption is good,neutral
+390,2262,2,require a takeaway message not mentioned in the caption,not_useful
+391,2276,2,The caption also does not summarize the main trend,not_useful
+392,2276,4,"The caption doesn't explain the trend of the graphs well,",not_useful
+394,2300,2,"The caption does a good job of explaining what the trends are, the detailed context adds complexity",neutral
+396,2300,4,"The caption does mention some trends relating the charts, but does not give overall takeaway",not_useful
+398,2327,4,the caption should explain the trend,useful
+399,2327,4,"The caption mentions how the charts are related to each other, but not fully mention the clear takeaway message",not_useful
+400,2152,2,The use of technical terms makes it somewhat confusing. The caption provides thorough context but the details add more complexity.,not_useful
+402,2152,3,caption does not provide any clear takeaway message,not_useful
+403,2194,2,The detailed information can be too much for some viewers,neutral
+404,2194,5,"The caption is very lengthy,",not_useful
+406,2215,2,"the caption provides detailed context about the data. While it is informative, it also adds complexity",neutral
+407,2215,4,"The caption is good,",neutral
+410,242,3,the caption doesn't explain the trend,not_useful
+412,909,1,Caption is too long,not_useful
+413,909,4,the caption can be more straight to the point,not_useful
+414,909,3,"The caption does not fully interpret the trends in the chart, though it explains about the labels and wordings used and their relations, there is no clear explanation provided",not_useful
+416,950,1,"The caption is good,",useful
+419,1068,1,"The caption doesn't explain the trend,",not_useful
+421,1087,1,While the caption explains the context,useful
+423,1087,1,caption is not in sync with the chart,not_useful
+424,1146,1,The caption is detailed,neutral
+428,1177,1,"The caption can better describe the context,",not_useful
+429,1177,2,"The caption does not state any trends in the chart, and no clear takeaways",not_useful
+430,1178,1,While the caption provides detailed context,useful
+431,1178,2,"The caption can better explain the trend,",not_useful
+432,1178,3,"The caption explained the elements used inside the chart like the process of calculations, but takeaway are not clearly mentioned",not_useful
+433,1192,1,While the caption provides details context,useful
+435,1192,3,"The caption mentioned about the terms in graph like N, N bar but the obvious trend is not explained",not_useful
+436,1205,1,While the caption provides detailed context about the different location,useful
+437,1205,2,"The caption is okay,",neutral
+438,1205,3,"The caption provide some trends in the charts, but often refers to other charts or tables for more information",neutral
+439,1232,1,"While the caption provides context, it is too long to read",neutral
+440,1232,1,"The caption is good,",neutral
+443,1246,1,"The caption can better explain the trend,",neutral
+444,1246,2,"The caption does not state any trends in the chart,",not_useful
+445,1294,1,"The caption is too long, The caption is too detailed,",not_useful
+446,1294,1,"The caption can explain the trend better,",neutral
+449,1326,1,"The caption is good,",neutral
+452,1576,1,"The caption can be more straight-forward,",neutral
+453,1576,2,Caption have too many citations lost reading caption,not_useful
+454,1751,1,detailed context make it confusing to understand,not_useful
+455,1751,4,"The caption is good,",neutral
+458,1821,2,The caption can be improved to explain the context and trend better,neutral
+460,1946,1,"The caption is long and although it is informative, it can be confusing to understand",not_useful
+461,1946,4,"The caption is good,",neutral
+462,1946,3,"The caption is comprehensive and provides detailed methodology, but it is lengthy and does not summarize key takeaway",not_useful
+463,1953,1,"While the caption is concise and informative, understanding the data points and different variables can be overwhelming. ",neutral
+464,1953,4,"The caption is okay,",neutral
+465,1953,2,caption is lengthy and does not summarize takeaway,not_useful
+467,1963,4,"The caption is good,",neutral
+468,1963,3,Caption does not summarize takeaway clearly,not_useful
+473,2008,4,the caption is good,neutral
+474,2008,5,Caption summarize trends in charts,useful
+476,2052,1,The caption doesn't explain the context or trend,not_useful
+478,2074,2,Caption does not give the necessary context Takeaway message is not clearly mentioned in the caption,not_useful
+479,2074,3,Caption does not give the necessary context Takeaway message is not clearly mentioned in the caption,not_useful
+481,2103,2,"Caption does not clearly state the takeaway message, does not expalin the observed pattern The caption does not clarify what chart components represent definition of shaded region in the caption helps understand the chart",not_useful
+482,2103,1,"The caption does not clarify what chart components represent. Caption does not clearly state the takeaway message, does not expalin the observed pattern. definition of shaded region in the caption helps understand the chart but does not give a clear idea of the intent.",not_useful
+484,2138,2,Caption mentions source of the is not a valuable information,not_useful
+485,2138,2,Caption mentions source of the but is not a valuable information.,neutral
+486,2138,3,caption does not mention clear takeaway message,not_useful
+487,2141,3,Caption clearly states the takeaway message and summarizes the observed patterns in the graph making it highly interpretable,useful
+488,2141,4,Caption clearly states the takeaway message and summarizes the observed patterns in the graph making it highly interpretable.,useful
+489,2141,2,"Though the caption does mention some trends, but there are no clear comparison or takeaway message which can be drawn from caption",not_useful
+491,2348,2,caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart.,not_useful
+492,2348,3,Caption does not summarize the clear takeaway message,not_useful
+493,2354,4,Caption clearly concludes the takeaway message,useful
+494,2354,4,Caption clearly concludes the takeaway message,useful
+495,2354,3,"The caption does provide methodology, but does not explain the takeaway message.",not_useful
+496,2251,1,Caption provides important information. chart legend is repeated in the caption which is distracting,useful
+497,2251,1,Caption provides important information but chart legend is repeated in the caption which is distracting.,not_useful
+498,2251,3,caption is lengthy and does not provide takeaway message,not_useful
+499,149,1,"the context required to understand the annotations are not given in the caption, Difficult to connect caption to the chart",not_useful
+500,149,2,the context required to understand the annotations are not given in the caption,not_useful
+501,149,2,The caption provide some summary but does not summarize the main takeaway,not_useful
+502,152,1,is not mentioned in the caption The caption also does not summarize the takeaway message Caption does not provide context necessary to understand the chart,not_useful
+503,152,1,Goal of visualization is not mentioned in the caption. The caption also does not summarize the takeaway message. Caption does not provide context necessary to understand the chart.,not_useful
+504,152,2,"Caption provides context and explains what is being compared, it doesn't summarize the takeaway",neutral
+505,188,2,caption does not explain the trend so the takeaway message is not clear Caption does not provide anay context necessary to understand the chart,not_useful
+506,188,3,caption does not explain the trend so the takeaway message is not clear Caption does not provide anay context necessary to understand the chart,not_useful
+507,188,2,"Caption provides some context about the data sources and a note about an outlier, there is no clear summary of main trends",not_useful
+509,196,4,Caption summarizes the visualization Caption expands on the visualization components,neutral
+510,196,4,"However, caption is dense uses technical terms, which is making to read the caption again or taking more effort to read them. The takeaway requires some re-readings",neutral
+511,290,4,caption is detailed and explains labels of the chart data used to create the visualization. Caption guides in reading the chart which helps in getting the takeaway message,useful
+512,290,4,caption is detailed and explains labels of the chart and data used to create the visualization. Caption guides in reading the chart which helps in getting the takeaway message.,useful
+514,650,5,Caption helps in understanding annotations used in the chart. Caption clearly states the takeaway message provides required context to read the chart,useful
+515,650,5,Caption helps in understanding annotations used in the chart. Caption clearly states the takeaway message and provides required context to read the cahrt.,useful
+516,650,2,The caption does not fully represent the chart,not_useful
+517,765,2,Caption describe the chart and helps to grasp low level messages. Caption does not provide any context or takeaway message Caption does not describe observed patterns,neutral
+518,765,2,Caption describe the chart and helps to grasp low level messages. Caption does not provide any context or takeaway message. Caption does not describe observed patterns.,neutral
+519,765,3,"The caption provides the context of the labels and its uses, not clearly explaining the comparison between the categories",neutral
+520,859,3,Caption does not add any value,not_useful
+521,859,4,Caption does not add any value.,not_useful
+523,882,4,"Caption summarizes the message shown in the chart however, domain knowledge is required to get a clear takeaway message",neutral
+524,882,3,"Caption summarizes the message shown in the chart however, domain knowledge is required to get a clear takeaway message",neutral
+526,547,3,"title of subplots in the visualization are included in the caption, caption does not provide sufficient context of the chart",not_useful
+527,547,2,title of subplots in the visualization are included in the caption. caption does not provide sufficient context of the chart.,not_useful
+531,292,1,"not clearly explained in the caption, and no clear takeaway",not_useful
+532,413,2,caption only describes the chart Key takeaway of the visualization is not mentioned in the caption,not_useful
+533,413,2,caption only describes the chart. Key takeaway of the visualization is not mentioned in the caption.,not_useful
+534,413,1,caption is not useful to interpret the trend. caption does not provide a takeaway,not_useful
+535,442,2,Caption does not describe the visualization. Caption does not prodive context of the data,not_useful
+536,442,1,Caption does not describe the visualization. Caption does not prodive context of the data.,not_useful
+538,2018,4,Caption has data source which isn’t important Caption describes trend which adds to length which is distracting Caption provides context but doesn’t have enough information. Caption does not indicate the takeaway message,not_useful
+539,2018,3,Caption has data source which isn’t important Caption describes trend which adds to length which is distracting Caption provides context but doesn’t have enough information Caption does not indicate the takeaway message,not_useful
+540,2018,3,"The caption explains about the trends hidden in brackets with just one wording, but not explaining the high level takeaway using all the charts",not_useful
+541,2025,2,Caption does not describe the trend or takeaway is needed Caption has reference to the context. Caption describes chart components inline summary of context would be useful,neutral
+542,2025,1,Caption describes chart components. Caption does not describe the trend or takeaway is needed. Caption has reference to the context but inline summary of context would be useful.,neutral
+543,2025,2,"also no clear trend mentioned in the caption. Caption contains explanation of terms used like box plot, and  what lines are drawn for no clear takeaway",not_useful
+544,2060,4,Caption describes the visualization. Caption does not explain the trend,not_useful
+545,2060,5,Caption describes the visualization. Caption does not explain the trend.,neutral
+546,2060,3,Caption doesn't seem to mention about the comparison between the bars and also what to infer from the charts,not_useful
+547,2064,2,Details about the source of the data in the caption is distracting Caption does not mention the key takeaway Caption is difficult to understand. Caption defines the components used in the visualization Some claims made in the caption cannot be observed in the chart,not_useful
+548,2064,2,Details about the source of the data in the caption is distracting. Caption defines the components used in the visualization. Caption does not mention the key takeaway and or summarize the trend. Caption is difficult to understand. Some claims made in the caption cannot be observed in the chart.,not_useful
+549,2064,4,caption are useful,neutral
+550,2117,3,Caption contains context required to understand the visualization Caption explain the chart well Caption does not mention the key takeaway message,useful
+551,2117,4,Caption contains context required to understand the visualization Caption explain the chart well Caption does not mention the key takeaway message,useful
+552,2117,1,"caption mentions some terms and time-series chart, no clear takeaway",not_useful
+553,2163,4,Caption describes the labels and patterns observed which is useful,useful
+554,2163,4,Caption describes the labels and patterns observed which is useful.,useful
+555,2163,4,the caption represent a clear takeaway message,useful
+556,2253,4,Caption gives context required to read the visualization Caption does not clearly state the takeaway message,useful
+557,2253,4,Caption gives context required to read the visualization Caption does not clearly state the takeaway message,useful
+558,2253,3,caption does not have summary,not_useful
+559,2293,4,Caption includes references to the data source which is not helpful. The caption summarizes the visualization,neutral
+560,2293,3,The caption summarizes the visualization. Caption includes references to the data source which is not helpful.,not_useful
+562,2364,2,Caption is wordy and uses a lot os domain specific technical terms references. Caption does not explain the abberviations used in the chart Caption does not contain useful message,not_useful
+563,2364,3,Caption is wordy and uses a lot of domain specific technical terms and references. Caption does not explain the abberviations used in the chart. Caption does not contain useful message.,not_useful
+564,2364,2,"Caption does not clearly mention about the trend lines in the chart, more focused on the references",not_useful
+565,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but does not clearly state a takeaway message,neutral
+566,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but does not clearly state a takeaway message.,not_useful
+568,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message,useful
+569,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message.,useful
+571,1225,1,The caption does not provide information required to understand the visible patterns Caption provides context of the graph through data description but does not help in understanding the overall take away message,not_useful
+572,1225,1,The caption does not provide information required to understand the visible patterns. Caption provides context of the graph through data description but does not help in understanding the overall take away message.,not_useful
+574,1465,4,The caption clearly mentions the visualization task but describes the labels used in the graph. The caption does not state the takeaway message,neutral
+575,1465,4,The caption clearly mentions the visualization task and describes the labels used in the graph. The caption does not state the takeaway message.,useful
+576,1465,2,No trend is mentioned in the caption,not_useful
+577,1503,4,Caption provides domain knowledge by explaining the meaning of axes labels. The length of the caption creates confusion the caption,not_useful
+578,1503,4,Caption provides domain knowledge by explaining the meaning of axes labels. The length of the caption creates confusion.,neutral
+579,1503,2,"However, chart contains dense technical terms and abbreviations that are not fully explained in caption",not_useful
+580,1581,3,caption contains information missing in the graph and also provides information about how the data was processed. Caption does not clearly mention the key takeaway message,useful
+581,1581,3,caption contains information missing in the graph and also provides information about how the data was processed. Caption does not clearly mention the key takeaway message.,useful
+583,1917,2,Caption explains the methodology but not observed patterns of takeaway message. Context must be present in the caption to understand the visualization,not_useful
+584,1917,3,Caption explains the methodology but not bserved patterns of takeaway message. Context must be present in the cantion to understand the visualization.,not_useful
+586,2211,2,The caption is not valuable as it only explains the data and methodology. Caption is lengthy without a clear takeaway message,not_useful
+587,2211,2,The caption is not valuable as it only explains the data and methodology. Caption is lengthy without a clear takeaway message.,not_useful
+588,2211,3,"The caption is lengthy, and also does not mention clear takeaway message",not_useful
+589,2028,3,Caption describes the marks used in the chart Caption explains the relationship between the two axes in the dual axis,useful
+590,2028,4,Caption describes the marks used in the chart. Caption explains the relationship between the two axes in the dual axis.,useful
+591,2028,4,does not clearly state key message directly in the caption,not_useful
+592,1845,4,caption explains statistics of the data shown in the chart which helps in reading the chart the caption describes the chart and included labels required to understand the chart . The caption does not contain information that helps in understanding the takeaway message,useful
+593,1845,4,caption explains statistics of the data shown in the chart which helps in reading the chart. the caption describes the chart and included labels required to understand the chart. The caption does not contain information that helps in understanding the takeaway message.,neutral
+594,1845,4,the key message could be stated in the caption,neutral
+595,1949,2,"Caption describes the data used for creating the chart and also includes references to the source of data, which is not helpful in understanding the intended message. Caption does not explain the patterns visible in the chart",not_useful
+596,1949,2,"Caption describes the data used for creating the chart and also includes references to the source of data, which is not helpful in understanding the intended message. Caption does not explain the patterns visible in the chart. ",not_useful
+597,1949,2,caption does not fully summarize and address main takeaway trend,not_useful
+598,1749,4,Caption further explains the components of the chart. Caption summarizes two of the subpolts and gives detailed explanation of one. Caption has a lot of information. Caption does not mention the takeaway message.,useful
+599,1749,4,Caption further explains the components of the chart. Caption summarizes two of the subpolts and gives detailed explanation of one. Caption has a lot of information. Caption does not mention the takeaway message.,useful
+600,1749,2,caption is lengthly and does not provide clear takeaway message,not_useful
+601,112,2,trend or pattern not explained in caption,not_useful
+602,126,2,caption does not summarize a takeaway message,not_useful
+603,139,4,wordy caption,not_useful
+604,148,3,"The caption helps to interpret the , providing information which are helpful
+But it does not mention the main takeaway",not_useful
+605,149,3,caption does not provide enough information,not_useful
+606,152,3,the caption is a bit lengthy,neutral
+607,184,2,No separate information regarding chart no: C is provided,not_useful
+608,188,3,"No explanation of the trend is provided, which is needed to interpret the chart",not_useful
+609,196,3,"caption does not explain trends
+caption does not include takeaway message from the observed trends",not_useful
+612,220,3,"The caption is lengthy, and also there can be a common legend in the chart.",neutral
+613,236,2,"The caption is too lengthy, ",not_useful
+614,242,1,The caption is lengthy but informative,neutral
+615,290,3,the caption is too large,not_useful
+616,292,3,The main takeaway is missing. More detailed caption would be helpful,not_useful
+617,297,4,caption does not explain the trend,not_useful
+618,304,2,caption is too long,not_useful
+619,317,2,"caption does not state the main takeaway
+Caption does not explain the observed trend",not_useful
+621,330,3,caption does not explain observed pattern,not_useful
+622,332,4,The main takeaway is missing in the caption and the caption does not augment the visualization that much,not_useful
+623,337,2,Caption is too long,not_useful
+624,339,3,observed pattern is not explained in the caption,not_useful
+625,380,3,"Caption described encoding used in the chart.
+Caption fails to summarize the intent",not_useful
+627,413,2,Caption reiterates the in detail which is not helpful in getting an overall understanding,not_useful
+631,447,1,The caption seems fine,neutral
+632,491,4,observed trend is not explained in the caption,not_useful
+633,492,3,The caption is a bit lengthy,neutral
+634,494,2,caption has too much information,not_useful
+635,497,3,"The caption does not augment the visualization.The main takeaway and an explanation behind it  is missing,",not_useful
+637,547,3,The main takeaway is missing in the caption,not_useful
+638,572,3,caption explains the chart components well. Caption fails to summarize the observed trend,useful
+639,604,3,the caption is too big,not_useful
+640,610,2,Caption explains the components of the chart well,useful
+641,614,3,The caption is also too large,not_useful
+642,639,3,"The caption should talk about the trends, also should do comparison among them",useful
+646,660,4,Large caption,neutral
+647,676,3,caption is monotonous,not_useful
+648,690,2,The caption should compare the results of the models (the major takeaway),useful
+649,736,3,The caption talks in detailed regarding the simulation scenarios but the main takeaway is missing,not_useful
+650,754,2,The caption does not complement the chart. It should mention and explain the upward trends.,not_useful
+651,758,3,the caption is monotonous,not_useful
+652,765,4,caption is too large,not_useful
+653,790,2,"The caption provides information regarding the charts that helps, but it should also explain comparative patterns observed in the chart.",useful
+654,828,1,And the caption does not explain it as well,not_useful
+655,839,3,The main takeaway is missing in the caption,not_useful
+656,846,2,The main takeaway and the explanation of the discrepancy are not provided,not_useful
+657,859,4,Caption does not elaborate on abberviations used in the chart,not_useful
+658,869,2,long caption,neutral
+659,882,2,"The caption does not explain the visualization, nor it mention the main takeaway.",not_useful
+660,898,2,"The caption does not talk about the main takeaway
+Caption does not explain the trend observed",not_useful
+661,904,4,Caption can be improved,neutral
+662,909,3,The caption is too large,not_useful
+663,920,3,The main takeaway is missing in the caption,not_useful
+664,937,2,"Caption does not explain the trends observed
+Caption does not explain the corelation between two data expressed in the",not_useful
+666,994,3,Caption is too big,not_useful
+667,998,2,Caption does not explain the corelation between two data expressed in the,useful
+668,999,4,The caption is not helpful to interpret the visualization.,not_useful
+670,1011,1,The caption does not complement the chart and does not help to interpret it.,not_useful
+671,1044,2,"The caption provides information regarding the chart, but it should mention explain, and compare the trends",useful
+673,1081,2,"The caption does not mention the main takeaway (the trend).
+Caption does not not contain context required to grasp the takeaway message. Caption explain methodology used to process the data",not_useful
+675,1100,3,Caption is too big,not_useful
+679,1153,2,The caption does not mention the main takeaway,not_useful
+680,1177,4,"The caption does not expand on observed trend
+Caption does not mention the causal effect",not_useful
+682,1192,2,The main takeaway and an explanation is missing,not_useful
+687,1225,4,The caption mentions the main takeaway,useful
+688,1232,2,caption does not explain the trend observed,not_useful
+690,1251,3,The caption does not augment the visualization that much. The main takeaway is missing in the caption. Also an explanation would be helpful.,not_useful
+692,1285,4,An explanation of the trend would be helpful,useful
+693,1294,2,CLuttered and large caption,not_useful
+694,1295,4,"The caption is quite informative and augment the visualization, but including the overall takeaway would be helpful",useful
+696,1303,4,"The main takeaway is missing in the caption, so it does not help in the interpretation of the that much",not_useful
+701,1428,2,"Caption complements the
+Caption does not state the main takeaway
+caption does not explain the relation between data categories",not_useful
+702,1439,2,"The caption does not include the gist of the , also does not explain correlation between data attributes",not_useful
+703,1453,2,caption does not explain the observed trend,not_useful
+704,1465,2,The caption should contain more information,not_useful
+706,1503,2,"Caption complements the by providing context
+Caption does not mention the main takeaway",neutral
+707,1510,3,"Caption does not augment the
+Caption does not explain the trend observed in the
+Caption does not explain the correlation between data attributes",not_useful
+709,1576,2,long caption,neutral
+712,1615,3,"The caption surely augments the , but the problem is it does not describe the trend or provide an explanation for that",not_useful
+713,1626,3,"Overall takeaway and explanation of the trend is missing in the caption, but it provides context for the visialization",not_useful
+714,1633,4,lengthy caption,neutral
+715,1659,3,The caption explains abberviations used. caption does not include the overall takeaway,not_useful
+716,1697,3,The caption describe the background information for the chart. Caption does not talk about the main takeaway.,neutral
+717,1711,3,The caption does not talk about the overall trend and also does not explain it,not_useful
+718,1712,3,The caption does not contain context necessary to understand the trend observed. Caption does not describe the trend,not_useful
+719,1715,2,The caption does not explain the color encoding used in the charts. It also does not describe trend observed,not_useful
+720,1718,2,The caption does not describe the takeaway,not_useful
+721,1726,2,Do not provide information regarding the main takeaway,not_useful
+722,1748,3,caption does not describe the trend,not_useful
+724,1751,2,the caption does not describe small upward trend and does not compare the two,not_useful
+725,1755,3,"The caption does not describe the trend, also it should elaborate on how the multiple charts are related",not_useful
+726,1757,3,The caption does not describe the overall takeaway and it does not describe the trend,not_useful
+727,1761,2,The caption does not include statistical description of the data,not_useful
+729,1779,5,The caption is too big,not_useful
+731,1802,2,caption does not state the main takeaway message. Caption does not describe the pattern observed,not_useful
+733,1818,5,"The caption does provide information regarding the major takeaway (the trend), also does not provide explanation",neutral
+735,1838,2,the caption does not describe the trends or compare the three models,not_useful
+737,1861,2,"The caption does not talk about the main takeaway, also it does not compare different categories of the data",not_useful
+738,1874,4,The caption is too big,not_useful
+739,1894,2,caption does not summarize the visualization,not_useful
+740,1911,3,"The caption describes the well, but including the main takeaway would be more helpful",not_useful
+742,1917,2,The caption should describe the main takeaway (the trends in each ) and also the relationship among the trends,useful
+744,1945,2,The caption should include the overall downward trends and should compare and explain the reason behind the trends,useful
+745,1946,2,"The overall trend is easily noticeable, but the caption is unnecessarily large",neutral
+746,1947,3,The caption is too large,not_useful
+748,1963,2,The caption does not include the main takeaway and the comparison between the data of different plots (how the trends from different plot correlate),not_useful
+749,1979,2,the captions does not include the main takeaway,not_useful
+750,2007,2,lengthy caption,neutral
+752,2016,2,"The caption does not augment the figures that much, it does not describe the trend or the major takeaway.",not_useful
+753,2018,3,The caption describe the trends for the plots individually but does not compare the plots or explain the reason behind the trends,not_useful
+754,2025,2,"The caption should talk about the discrepency in the correlation of interquirtile range and max-min range, also the overall trend and the comparison between the trends",useful
+755,2049,2,the caption do not talk about thew major takeaway,not_useful
+757,2052,3,The caption should be more informative,not_useful
+758,2054,2,The caption should mention the upward trends and explain the reason behind that,useful
+759,2060,1,"The caption does not explain the table, which make it tough to interpret",not_useful
+760,2061,1,"The caption does not talk about the major takeaway, ",not_useful
+761,2062,2,The caption does not talk about the major takeaway,not_useful
+763,2065,5,"The caption does not summarize the scenarios shown in the chart, nor it talks about the trend or any takeaways",not_useful
+764,2071,2,"The caption should talk about the trends, and also the relationship between variables shown in the chart",useful
+766,2103,2,"The caption should talk about the trends, compare them and explain the reason behind the trends",useful
+767,2105,2,It does not talk about the main gist. ,not_useful
+769,2124,2,"The caption does not augment the plots
+It does not talk about the major takeaway, ",not_useful
+770,2125,2,The caption does not compare the correlation in data,not_useful
+773,2152,2,The caption should include the main gist of the figures.,useful
+774,2163,3,caption seems a bit long with irrelevant information,not_useful
+775,2194,2,The caption should be short,neutral
+776,2211,3,Caption can be improved,not_useful
+777,2213,2,"The caption should compare the trends, which are missing",useful
+779,2218,1,"The caption does not augment the visualization, it should talk about the trends, compare the trends, also should talk about the correlation observed in data.",not_useful
+780,2220,1,"Caption should state the statistical description of data, also the should compare the trends between them",useful
+782,2251,2,"Caption should mention the overall trends of different plots, should include how they correlate",useful
+783,1749,2,The caption complement the charts,neutral
+784,2253,1,caption should talk about the correlation between uncertainty observed in the chart,neutral
+785,2254,3,Caption can be shortened,neutral
+786,2262,2,It should talk about the trends and also correlate between variables plotted,not_useful
+787,2271,2,The caption should talk about the gist of the plots also should compare the two trends,useful
+788,2276,1,The caption does not complement the plots. It should add the main takeaway from the visualization,useful
+789,2289,1,The caption should describe the trends also should talk about the similarities between the trends (how they correlated),useful
+792,2327,1,"The caption should include the main takeaway, compare the trends and explain it",useful
+793,2348,1,The caption does not talk about the trends and how they correlate,not_useful
+794,2354,1,The caption missed the gist and did not talk about the discrepancy in the comparison of the trends seen between the two plots,not_useful
+797,2360,2,The caption should include the main gist of the visualization and also compare or talk about the similarity of the trends.,useful
+798,1845,2,"The caption does not mention the main takeaway, also does not explain it",not_useful
+799,1949,2,The caption does not complement the chart. The main takeaway is missing,not_useful
+800,2028,3,The caption complements the,neutral

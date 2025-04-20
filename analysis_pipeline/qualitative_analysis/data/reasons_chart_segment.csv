@@ -1,472 +1,520 @@
 reason_id,image_id,rating,reason
-0,82,5,Easy to compare categories
 1,139,5,Easy to compare categories
-2,148,5,Easy to compare stabilization categories
-4,203,5,Easy to compare ranges of yield change .
-6,2289,5,"Although the bars overlap , it is easy to compare the categories and find the main differences between dataset ."
-7,2360,5,Easy to interpret the chart and see the main trends without looking at the caption .
-9,332,5,compare the categories to understand the relationship between capacity factor and investment costs
-11,339,5,a clear chart makes it easy to understand the main trend
-12,436,5,lines ( shown in chart )
-13,497,5,offshore categories
-14,502,5,"Easy to read the labels , color categorization makes it easy to identify the main takeaway ."
-15,572,5,"Clear time series and labeled axes ,"
-16,610,5,"The chart has color coding ,"
-17,650,5,Pattern of trend in chart is easy to understand .
-18,660,5,The graph uses colors to represent 3 different categories making it easy to follow each line .
-19,690,5,The caption helps with interpretation of the chart . The chart is organized and
-20,765,2,Chart does not include legend for encodings .
-22,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message .
-23,882,4,"Caption summarizes the message shown in the chart however , domain knowledge is required to get a clear takeaway message . Chart is easy to read and"
-24,920,5,Easy to compare categories and
-25,937,5,the total range of models .
-26,994,5,The different lines along with the shaded area conveys the main takeaway .
-28,1081,5,Easy to see the annual average and
-29,1251,5,understand the difference between the color coded bars .
-30,1277,5,The words on the side explaining the y - axis is cut off but
-31,1285,5,data source . The clear labels from the average time periods help in understanding the main trend .
-32,1295,5,data source . The clear labels from the average time periods help in understanding the main trend .
-33,1303,5,the graph is easy to interpret .
-34,1601,5,compare the pH levels .
-35,1711,5,Easy to compare the categories
-36,1712,5,Easy to see the heat content changing .
-37,1756,5,The chart uses colors for different risk factors and diseases which helps to differentiate between the data clearly .
-38,1761,5,Easy to compare categories and read the labels .
-39,1779,5,includes an overview of the data .
-40,1803,5,"Despite a lot of elements , the chart shows the main trend with using different colors and symbols to help differentiate between data clearly ."
-42,1839,5,Clear representation makes it easy to interpret .
-43,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions .
-44,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them .
-45,2065,5,the chart includes two different time periods and
-46,2124,5,Easy to compare the categories and see the main trend .
-47,2129,5,Easy to compare the categories and see the main trend .
-48,2218,5,Easy to compare the categories and see the main trends .
-49,112,4,clarity can be improved .
-51,304,4,The chart provides useful information to understand the data .
-54,380,4,does not provide the clear takeaway
-55,433,4,"No legend included ,"
-59,547,4,no labels were included
-60,614,4,It is difficult to grasp the key points since there are too many words on the chart .
-62,643,4,The different bars in the chart are not easy to comprehend without reading the captions
-63,658,4,Clear representation with a clear break down of cost and efficiency improvements . The format of this chart is not the standard
-65,828,4,Overlapping lines makes it difficult to interpret . But the annual mean is shown which helps .
-66,839,4,Clear visualization that shows temperature changes .
-67,904,4,No legend is present .
-68,1006,4,Clear context with color - coded regions but multiple lines make the chart somewhat complex .
-69,1044,4,"Too many lines and shaded regions makes the chart more complicated ,"
-70,1301,4,the blue / grey shaded areas add additional visual elements .
-71,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given .
-72,1428,4,"The use of multiple sources makes the chart somewhat clutters ,"
-73,1453,4,The chart conveys the main takeaway but the multiple components and no legend for the different symbols and colors found in the chart make it a little hard to interpret .
-74,1499,4,the graph includes a legend and it is somewhat easy to understand the errors bars . This visualization effectively shows the differences between the categories .
-76,1626,4,You can see the overall trend by looking at the regression line and the r^2 .
-77,1697,4,Somewhat easy to compare the categories
-78,1715,4,detailed context add complexity making it somewhat confusing .
-79,1718,4,"Clear representation with consistent color coding ,"
-82,1757,4,it can be hard to understand without the help of the detailed context .
-83,1777,4,The visualization includes multiple panels for different regions and periods .
-84,1790,4,error bars .
-85,1861,4,well - defined axes make the charts somewhat interpretable .
-86,1874,4,"the data points and arrows clearly show the trends . The use of symbols helps to differentiate the data points .. Also ,"
-87,1894,4,"The addition of the error bars also adds another layer of information , which can complicate the overall interpretation ."
-88,1915,4,"it does provide an overall overview of the data given . The color - coded map shows the positive and negative trends . The line graph can be a little difficult to interpret since there are overlapping lines ,"
-89,1925,4,The cline graphs show the trends for both hemispheres with different symbols . The linear trends provides more clarity about the main trends .
-90,1947,4,"adds complexity to the interpretation . The chart shows different panels for different scenarios . Despite the detailed context , the visual clarity makes the charts somewhat interpretable ."
-91,1979,4,"The chart shows the main key takeaways ,"
-92,2016,4,The chart lacks detailed labels that could help in the interpretation .
-93,2049,4,"The graphs contain a lot of data points and trend lines that are presented clearly . Although the chart effectively conveys the main trends , the lack of detailed labels and annotations might make it harder to interpret the small specific finding without any additional context ."
-94,2054,4,clear representations make it charts somewhat interpretable .
-95,2061,4,many require more context for full understanding .
-96,2071,4,"There is no legend present in the chart , making it difficult to understand what each color means . Each panel presents data using different symbols and colors to represent the different measurements . However , the complexity of the data can make it somewhat challenging to graph the main trends ."
-97,2074,2,"multiple panels would have made it easier to read the chart , stacking charts with different labels for y - axis makes it difficult to read . Individual components of the chart are easy to read . A lot of information is encoded in the chart making it overwhelming to look at ."
-98,2103,2,does not expalin the observed pattern .
-99,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows .
-100,2141,3,"clutter in the chart is overwhelming . Shared axis show use the same scale and unit making it easy to read the chart . since color and spatial regions are used to encode an attribute , it is easy to read the chart even if a legend for color usage is not provided ."
-101,2271,4,"However , this adds more complexity to the interpretation of the chart ."
-102,2348,3,"caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart . Althought the chart looks cluttered , trend is clearly visible in the chart leading to an easily interpretable takeaway message . The chart uses inconsistent y - axis so the observed increase rate is not reliable ."
-103,2354,4,The clutter in the chart is ovewhelming .
-104,2356,4,The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable .
-105,2357,4,The multiple components make the interpretation a little complex .
-106,2213,4,the technical nature of the content might be overwhelming . The detailed context also might take time to interpret .
-107,2220,4,line styles helps compare the categories . The bars at the end represents the ranges and helps interpretating the chart . The caption is needed to fully make an interpretation of the chart .
-108,2223,4,"The visualization has 2 panels , which adds complexity ,"
-109,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret . Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable .
-110,184,3,the different colored line do n't have a clear definition .
-111,220,3,Complex representation of the CO2 injection scenarios
-112,297,3,No legend is present to explain the non - linear lines
-113,407,3,"the chart is blurry , Difficult to read the chart"
-114,494,3,"Hard to interpret the multiple categories on the chart , detailed caption highlights what the chart shows"
-115,754,3,overlapping lines adds more complexity
-116,1011,3,multiple bars and no legend for the colors of the bars makes it somewhat confusing .
-117,1143,3,"Overlapping data and no legend found in the graph , this makes it difficult to fully understand the main takeaway ."
-118,1215,3,it takes time to understand . Visual elements make it somewhat confusing .
-120,149,1,legend for colors used in the chart are not defined . Axes used in the chart are nod labeled . The chart is annotated but
-121,152,1,Caption does not provide context necessary to understand the chart .
-122,188,2,Caption does not provide anay context necessary to understand the chart .
-124,236,2,Difficult   to interpret the representation of temperature projections .
-126,413,2,Two different scales are used which becomes confusing to read .
-127,442,2,"Chart is blurry , multiple panels makes it difficult to interpret"
-128,604,2,hard to compare the categories
-129,676,2,- There is no legend for the different colored lines .
-130,758,2,symbols help but
-131,846,2,use of different colors add more to the confusion .
-132,898,2,"Although there is a legend in the chart , the multiple lines representing different regions is confusing . The dual y - axes add more to the complexity , making it harder to quickly analyze the chart ."
-133,998,2,"horizontal dashes line , increase the complexity of the data as the reader has to interpret multiple aspects of the chart ."
-134,1100,2,"The graph 's resolution is low , the graph is blurry . There is no legend present , explaining the different colors and"
-135,1112,2,Multiple lines and different colors make it hard to interpret the main takeaway .
-136,1153,2,The caption does not summarize the main trend of the graph and overlapping lines with the different data sets makes it hard to follow the trends .
-137,1206,2,the overall presentation requires significant effort to comprehend the main takeaways .
-138,1400,2,detailed context makes it somewhat confusing .
-139,1510,2,details to focus on make it somewhat confusing .
-140,1615,2,making the comparisons between the different factors makes it difficult to interpret .
-141,1633,2,"it is too long it read , although it summarizes the main trend . I have to zoom in to see the dashed lines and the solid lines to make any interpretation ."
-142,1659,2,careful interpretation to understand the difference between the models .
-143,1748,2,Multiple panels make it hard analyze the full context of these graphs .
-144,1750,2,"scenarios , which is informative but also adds to the overall complexity ."
-145,1802,2,detailed context adds to the complexity .
-146,1838,2,it can be hard to compare each panel and compare data . The complexity in the last panel makes it somewhat confusing .
-147,1911,2,There are multiple components and details that need to be focused on which make it somewhat confusing . The legend does n't include what the solid and dashed lines mean . Confusing to find the main trend of the chart .
-148,2050,2,The chart includes many panels which adds to the complexity and makes it harder to get an overall main takeaway of the date .
-149,2105,2,d make it hard to interpret which makes it somewhat confusing .
-150,2125,2,"However , just looking at the chart wo n't help in the interpretation . The bar on the right side is also hard to see and see the ranges ."
-151,2254,2,it takes time to interpret the main findings .
-152,2262,2,it is hard to find a main key takeaway without spending some time understanding what each line style / colors mean .
-153,2276,2,The chart uses different scales to represent the different datasets which makes it somewhat confusing to interpret the data .
-154,2300,2,the chart includes grey region that the lines go into which also makes it somewhat confusing .
-155,2327,2,lines make it somewhat challenging to grasp the main trends .
-156,2152,2,the details add more complexity .
-157,2194,2,different symbols help in understanding the data but it is also difficult to see the error bars for ( a ) . The detailed information can be too much for some viewers .
-158,2215,2,"The visualization includes 2 panels , the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends ."
-159,2252,2,"Each panel shows the data using different colors to represent different categories . However , there is no legend present explaining what each color means . Previous knowledge is needed to full understand , adding to the confusion ."
-160,242,1,Difficult to interpret the main takeaway . There is no legend . The bars at the end of the orange envelope are blurry .
-161,909,1,"multiple bars and categories make it confusing to understand what the main takeaways are . Although , the chart is labeled the layout is dense ."
-162,950,1,"graph is blurry , low resolution . Multiple bar plots and"
-163,1068,1,multiple data points and symbols make it difficult to interpret .
-164,1087,1,the graph itself is very complex with multiple overlapping lines representing different time periods . The error bars also makes it more difficult to grasp the main takeaway .
-165,1146,1,colors codes and error bars . The dense information make it difficult to quickly understand takeaway .
-166,1177,1,the lines all over the graph makes it hard to understand the visualization .
-167,1178,1,the graph has too many lines that overlap which makes it difficult to graph the main trends .
-168,1192,1,complex data sources make it very confusing .
-169,1205,1,the overall layout makes it very confusing to interpret the main takeaway .
-170,1232,1,it is too long to read .
-171,1246,1,Multiple categories and visual elements with various lines makes it confusing . This visualization requires a lot of effort to interpret the main takeaway .
-172,1294,1,the compares multiple models which requires careful interpretation .
-173,1326,1,"Too much information is provided in 1 graph . If possible , it would be helpful to see 4 different graphs to help understand the information better . The image is very blurry so it 's hard to read ."
-174,1576,1,"The chart has 4 graphs with different information presented in each , making it difficult to interpret them easily . The multiple components make it difficult to find it 's distinctions between the time and"
-175,1751,1,detailed context make it confusing to understand .
-176,1821,1,"There are multiple panels in this visualization , it is hard to tell what each colors mean . Too much information to process so can not find a main clear takeaway ."
-177,1946,1,it can be confusing to understand . Trying to get a main takeaway can be hard .
-178,1953,1,understanding the data points and different variables can be overwhelming .
-179,1963,1,"There are six scatter plots divided into two panels , showing different relationships between observed vs model values . This adds complexity to the chart , making it difficult to interpret the data . The chart also uses dashed lines which make it hard to understand what the main takeaway is ."
-180,2007,1,Too many pixelated colors on each panel makes it very difficult to understand the main takeaway .
-181,2008,1,"The chart contains a lot of information in one visualization , which can be overwhelming . The color scale also makes it difficult to quickly graph the importance of variations shown in the charts ."
-182,2018,1,"The chart has too much information given , making it very difficult to compare categories . It also lacks detailed annotations that can help the reader understand the data more easily ."
-183,2025,1,Too much information present in this visualization . Hard to compare the categories and the charts are blurry .
-184,2052,1,it is hard to interpret anything
-185,2060,1,This should not be in one visualization .
-186,2064,1,this makes it overwhelming to find information about the graph .
-187,2117,1,"The 3D plot uses greyscale background , whereas the 2D plot uses two different colors to show the timer series of decadal variability and decadal mean . It is somewhat difficult to interpret both the charts and find a main takeaway . The 3D plot has a lot of elements to it , which adds to the complexity to the interpretation ."
-188,2163,1,Too much information is found in this visualization . It is difficult to understand the main takeaway .
-189,2253,1,the detailed context it can be difficult to interpret the charts . It depends on the reader 's familiarity with the material .
-190,2293,1,it is hard to understand anything .
-191,2364,1,the use of multiple lines makes it very confusing to understand what the main key takeaway .
-192,869,3,does not clearly state a takeaway message .
-193,1214,4,The graph alone is sufficient to get an overall message . Use of color encoding along z - axis of the 3D chart aids in identification task . Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message .
-194,1225,1,does not help in understanding the overall take away message .
-195,1465,4,describes the labels used in the graph .
-196,1503,4,The takeaway message is clear after looking at both the chart and
-197,1581,3,the overall takeaway message is clear from the chart . the use of intuitive color scale for temperature in the chart is helpful .
-198,1917,3,Use of multiple panels in the graph is confusing . Use of shapes to encode categorical values in the graph is confusing . The chart does not containg legend for colors used .
-199,2211,2,Chart organization is confusing .
-0,82,4,not very readable .
-1,139,4,The takeaway is not very clear .
-2,148,4,"The trend is understandable ,"
-3,196,5,The graph and
-4,203,4,The graph is hard to extract information from .
-5,290,4,"The graph is easy to understand ,"
-7,2360,4,the graph should have a key explaining the solid and dotted line difference .
-8,324,5,"The graph is easy to understand ,"
-9,332,4,the labels on the graph could be differentiated more .
-10,337,5,The graph and
-11,339,4,Hard to interpret what the symbols are representing on y - axis .
-12,436,4,the graph should have a key .
-16,610,4,The caption does n't explain the trend present in the graph .
-17,650,5,Pattern of trend in chart is easy to understand .
-18,660,4,The graph is a little hard to read .
-20,765,2,Chart does not include legend for encodings .
-22,859,4,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message .
-23,882,3,"Caption summarizes the message shown in the chart however , domain knowledge is required to get a clear takeaway message . Chart is easy to read and"
-25,937,4,the x - y labels and
-30,1277,4,the labels are not visible .
-35,1711,4,the graph labels are small .
-41,1818,5,the trend is clear .
-43,1945,4,trend .
-48,2218,4,the graph labels are unclear .
-49,112,2,Difficult to understand the trends
-50,126,3,"The graphs are easy to understand ,"
-51,304,3,the labels are hard to read on the graph .
-53,330,5,The graphs are easy to understand .
-54,380,3,The graph labels are hard to read .
-55,433,5,The graph and
-59,547,4,The graph is somewhat hard to understand .
-60,614,3,the graph is very wordy and
-62,643,3,The graph is hard to understand .
-64,736,4,the graphs a little unclear and
-68,1006,2,the graph is very hard to read and tell the difference between the many labels .
-69,1044,5,the colors are clear on the graph .
-70,1301,4,some labels are small .
-72,1428,4,the graph labels are a little small and
-77,1697,4,some of the labels are blurry on the graph .
-79,1718,3,the different year labels .
-81,1755,5,the graph should have a title .
-84,1790,4,"the graph labels and ranges are very small , so it is hard to tell what value they correlate to ."
-88,1915,4,the bottom graph should include axis labels .
-89,1925,4,the graph should include a key to explain the different lines .
-92,2016,4,trend . The graph is pretty good .
-93,2049,4,the graph data does n't have a key for the symbols .
-95,2061,4,the graph is pretty understandable .
-96,2071,4,the graph should have a key for the colors .
-97,2074,3,"multiple panels would have made it easier to read the chart , stacking charts with different labels for y - axis makes it difficult to read . Individual components of the chart are easy to read . A lot of information is encoded in the chart making it overwhelming to look at ."
-98,2103,1,does not expalin the observed pattern .
-99,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows .
-100,2141,4,"clutter in the chart is overwhelming . Shared axis show use the same scale and unit making it easy to read the chart . since color and spatial regions are used to encode an attribute , it is easy to read the chart even if a legend for color usage is not provided ."
-101,2271,5,graphs are interpretable .
-102,2348,2,"caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart . Althought the chart looks cluttered , trend is clearly visible in the chart leading to an easily interpretable takeaway message . The chart uses inconsistent y - axis so the observed increase rate is not reliable ."
-103,2354,4,The clutter in the chart is ovewhelming .
-104,2356,4,the graph should have a key .
-106,2213,5,"the trend is present in the graph well ,"
-107,2220,3,"the graph formatting is a little confusing ,"
-108,2223,4,the graph needs a key .
-109,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret . Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable .
-111,220,4,does n't explain the trend present in the graphs .
-112,297,5,The graph is easy to understand .
-113,407,3,the graph labels are hard to read .
-114,494,2,the graph is very hard to read .
-115,754,5,The graphs and
-117,1143,2,the graph hard to read with the label intersections
-120,149,2,legend for colors used in the chart are not defined . Axes used in the chart are nod labeled . The chart is annotated but
-121,152,1,Caption does not provide context necessary to understand the chart .
-122,188,3,Caption does not provide anay context necessary to understand the chart .
-123,213,2,the graph is hard to read .
-124,236,2,The graph is very hard to read with all the tiny symbols .
-125,292,4,"The graphs are understandable ,"
-126,413,1,the graph is hard to read with all the different lines .
-127,442,2,The graph is very hard to read .
-128,604,3,the graph labels are hard to read .
-129,676,2,The graph is very hard to read .
-130,758,2,whisker plot .
-134,1100,2,the graph labels are hard to read .
-135,1112,1,the graph is very hard to read with the many unlabeled intersecting lines .
-136,1153,4,the graph is a little hard to read but
-138,1400,1,the graph lines are very hard to understand . The differences in representation is very small that it is hard to tell .
-140,1615,4,in the first graph the black and red are hard to read .
-141,1633,4,the graphs are a little small .
-142,1659,1,labels on the graph are hard to read .
-143,1748,4,the labels can be bigger .
-145,1802,4,the graph format should be different .
-147,1911,4,format the data differently visually .
-148,2050,4,the graph should have a key for each data point .
-151,2254,4,a few labels on the graph are blurry .
-152,2262,4,the lines overlap a lot .
-153,2276,4,the graphs should be separated    instead of placed together on the same axis .
-155,2327,4,"For the bottom graph , some of the graph lines are hard to read ,"
-156,2152,5,display the trend well .
-158,2215,4,the graph formatting could be better .
-159,2252,3,the graph labels are not readable at all .
-160,242,3,"The graph is hard to read ,"
-161,909,4,"The graph is well made ,"
-162,950,1,"the graphs are very hard to read , especially the smaller ones ."
-163,1068,1,the graph is very hard to read with the many labels intersecting each other . Even the graph key is hard to read .
-164,1087,4,its a little hard to to tell the numbers corresponding to the labels .
-165,1146,4,the graphs could be bigger .
-166,1177,1,"the graph arrangement is hard to read ,"
-167,1178,2,green intersect a lot .
-169,1205,2,the graph is very hard to read with the lines intersecting that much .
-170,1232,1,"the graphs are very hard to read with the intersecting labels , especially the bottom two ."
-171,1246,1,the graph structure is very hard to understand .
-172,1294,1,the graph is very hard to read with all the different symbols and lines close together .
-173,1326,1,the graphs are completely unreadable . None of the labels and points can be seen clearly .
-174,1576,1,the graphs are unreadable with all the symbols and colors intersecting .
-175,1751,4,the graph points / lines are hard to differentiate .
-176,1821,2,clustered .
-177,1946,4,the graph lines are very clustered and
-178,1953,4,the graph points are hard to read .
-179,1963,4,the graph should also have a key for the different lines .
-181,2008,4,"The data on the graph is overlaps a lot , so it is a little hard to read ,"
-182,2018,2,"the labels are very small , so it 's hard to read ."
-183,2025,1,"overlaps a lot , so it very hard to tell what each symbol correlates to ."
-184,2052,1,the entire graph is very hard to read .
-186,2064,3,the graph is formatted in a confusing way .
-188,2163,2,it should show what the blue line means in the graph .
-189,2253,4,"the graph lines are hard to differentiate , it should use color differences instead of dotted ."
-190,2293,1,"are very clustered , so it 's unreadable ."
-191,2364,2,"graph lines are very small on the graph , so it is hard to read ."
-192,869,3,does not clearly state a takeaway message .
-193,1214,4,The graph alone is sufficient to get an overall message . Use of color encoding along z - axis of the 3D chart aids in identification task . Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message .
-194,1225,1,does not help in understanding the overall take away message .
-195,1465,4,describes the labels used in the graph .
-196,1503,4,The takeaway message is clear after looking at both the chart and
-197,1581,3,the overall takeaway message is clear from the chart . the use of intuitive color scale for temperature in the chart is helpful .
-198,1917,2,Use of multiple panels in the graph is confusing . Use of shapes to encode categorical values in the graph is confusing . The chart does not containg legend for colors used .
-199,2211,2,Chart organization is confusing .
-0,82,5,the visualization are very clear
-2,148,3,It is too lengthy
-3,196,4,the caption information is also important to understand the chart .
-4,203,2,"the chart is confusing as well ,"
-8,324,4,could be better
-10,337,2,the chart looks cluttered
-13,497,5,Precise
-16,610,4,There should be a color legend
-39,1779,5,It could be improved
-49,112,4,as there are many indicators and information in the visualization .
-50,126,4,The chart is quite straight forward but
-51,304,2,"The chart is quite interpretable ,"
-56,447,1,which makes the chart hard to interpret .
-60,614,3,there are too many texts in the chart .
-61,639,4,can be improved
-62,643,4,too much information
-65,828,4,Seems a bit cluttered
-70,1301,3,Too many information make the charts cluttered
-74,1499,3,For some bars the corresponding gas name are missing I guess
-78,1715,5,Precise
-83,1777,3,"( a ) , ( b ) indications in the charts are missing"
-84,1790,2,Could not find : green ; 16 CMIP5 models and blue ; 14 CMIP5 models
-93,2049,4,Have not talked about different shapes for the mark
-97,2074,2,New color is added without any indication of what it presents
-105,2357,2,seems a bit confusing
-107,2220,4,Color legend inside the vis would be helpful
-110,184,2,No separate information regarding chart no : C is provided .
-111,220,3,also there can be a common legend in the chart .
-112,297,5,precise
-118,1215,2,seems a bit cluttered to me
-120,149,5,The chart and
-121,152,3,"The visualization is cluttered ,"
-122,188,5,Charts and
-123,213,1,The chart seems very confusing . It does not have proper y - axis legend
-124,236,2,the charts are cluttered but
-126,413,4,the chart is a bit cluttered
-127,442,2,explanation / context / legend is not given
-128,604,3,Chart is a bit cluttered and
-129,676,3,"chart is cluttered ,"
-130,758,3,The chart seems cluttered to me and
-135,1112,1,Cluttered without propoer legend
-143,1748,4,( a ) chart seems cluttered
-158,2215,2,The 1st visualization seems confusing
-160,242,1,bars over to each other
-162,950,2,Seems cluttered to me
-169,1205,3,A bit cluttered
-170,1232,2,The pattern is visible but
-173,1326,1,The visualization seems hard to interpret
-174,1576,2,The charts seem a bit cluttered with large captions
-175,1751,4,Charts are a bit cluttered .
-177,1946,2,"The overall trend is easily noticeable ,"
-186,2064,1,hard to interpret
-187,2117,3,axis indices of the 3D visualization is a bit confused
-188,2163,3,"Visualization seems a bit cluttered ,"
-192,869,2,"the charts can be improved , proper axis labels seems missing which make it confused to interpret"
-194,1225,4,b should be indicated in the charts
-198,1917,4,The visualization is a bit cluttered
-0,82,4,Easy to compare categories
-2,148,4,Easy to compare categories
-5,290,3,Difficult to read labels in chart
-6,2289,5,The chart is more explainable
-13,497,5,Easy to compare categories
-14,502,4,Easy to compare categories
-20,765,4,Easy to compare the categories
-31,1285,4,Point of start is unclear for green line
-36,1712,3,good in comparison
-38,1761,5,Chart is more understandable than caption
-40,1803,5,chart go together
-43,1945,5,Chart is easy to interpret without caption
-44,2062,4,The caption is useful to explain more about the chart ( augment )
-45,2065,5,Easy to compare the categories
-46,2124,5,Chart itself is enough caption not required
-47,2129,3,very less context is provided for the charts
-48,2218,1,it is confusing in the chart
-50,126,4,Easy to compare categories
-51,304,3,Difficult to read labels
-52,317,4,Easy to compare categories
-53,330,4,Easy to compare categories
-56,447,3,The labels are not clear and not represented in caption
-57,491,5,Easy to compare categories
-59,547,3,Difficult to read labels
-63,658,4,less caption is given
-65,828,3,No proper labeling is stated in chart and
-66,839,4,Fluctuations are not mentioned
-68,1006,2,labels are not clear
-73,1453,4,chart
-75,1519,5,"The start point of flux transport simulations is not clear ,"
-76,1626,2,The labels are not mentioned in the chart
-77,1697,2,labels are not clearly mentioned for the first chart
-78,1715,5,Easy to compare categories
-79,1718,2,2050 year is colored in blue which is previous report
-81,1755,5,"Chart itself is easy to understand ,"
-83,1777,2,The charts in the right does not clearly interpret
-84,1790,5,Caption is required to understand chart in this case
-86,1874,5,chart help to interpret
-87,1894,2,The label in x - axis is confusing to understand there are 4 groups but only 3 wordings / labels
-88,1915,5,Chart is self explainable
-93,2049,4,"There is a small triangle in the depth chart ,"
-95,2061,5,The chart is self explanatory
-97,2074,2,The chart is confusing because the series in x - axis are not consistent
-98,2103,2,The temperature is described in different in way in both the sides
-102,2348,5,Caption is enough to summarize chart
-104,2356,5,Easy to compare categories
-110,184,5,Easy to compare categories
-113,407,5,Easy to compare categories
-114,494,4,Easy to compare categories
-115,754,5,Some inconsistency in graphs not represented in caption
-120,149,2,Visualization is little confusing to understand
-121,152,1,The right chart is unclear with a sudden starting points
-122,188,4,Difficult to interpret labels
-123,213,3,The y - axis scale is confusing
-124,236,3,Difficult to read labels
-127,442,3,Difficult to read labels
-128,604,4,Easy to compare categories
-130,758,3,Labels are not clear
-133,998,4,The reference lines along y - axis is little confusing
-134,1100,4,Easy to compare categories
-135,1112,4,labels are not clear
-137,1206,4,Easy to compare categories
-138,1400,3,Difficult to interpret labels used in chart
-139,1510,5,Easy to interpret charts without caption requirement
-140,1615,5,"Chart itself is easy to interpret ,"
-141,1633,5,Easy to understand chart without caption .
-143,1748,1,"The year are not consistent between the left top ( a ) and bottom charts ( b , c ) , which in overview inferring same years ."
-144,1750,4,making less interpretable
-145,1802,2,Even after close look in chart and
-146,1838,4,chart are required for understanding the context
-147,1911,4,Takes some time to understand there are different countries
-149,2105,2,The bell curves are drawn in different time range which is difficult to compare or understand
-151,2254,2,"The chart represented in different colors ,"
-153,2276,4,It is better to have separate lines in between different categories to increase interpretability in my opinion
-156,2152,4,The bottom chart is little less interpretable
-157,2194,1,The x - axis label is very confusing unable to determine the ticks with years
-158,2215,4,chart both are required to interpret
-159,2252,4,The labels are not clearly visible
-162,950,3,Difficult to read labels in chart
-163,1068,1,Many labels confusing
-168,1192,4,Easy to compare the lines
-171,1246,5,easy to compare categories
-172,1294,4,Easy to compare categories
-173,1326,4,Difficult to read labels
-175,1751,2,The labels are not clearly mentioned in charts
-176,1821,5,The chart is self explanatory
-178,1953,4,somewhat interpretable
-179,1963,5,chart are useful to interpret
-180,2007,2,"The range in the color scale are different ,"
-182,2018,4,"The chart is good to interpret the trends ,"
-183,2025,4,The chart seems to be cluttered little bit
-184,2052,2,labels are not clear
-185,2060,3,So much information and
-186,2064,4,chart are useful
-187,2117,5,charts go well together
-188,2163,3,"Too many labels ,"
-190,2293,2,"The visualization is cluttered ,"
-191,2364,4,Easy to compare categories
-193,1214,3,Inconsistent scale use ( year )
-194,1225,4,difficult to read labels
-196,1503,5,The chart is easy to interpret / understand
-197,1581,4,Easy to compare between different oceans
-198,1917,3,"The years are not consistent across the charts , initially inferring all are in same scale"
-199,2211,4,It is better to rotate the chart by 90 degrees to have more interpretability
+2,139,4,The takeaway is not very clear
+3,139,2,chart is dense
+4,148,5,Easy to compare stabilization categories
+5,148,4,"The trend is understandable,"
+6,148,3,"Chart is dense, uses technical terms"
+7,203,5,Easy to compare ranges of yield change
+8,203,4,The graph is hard to extract information from
+9,203,3,It uses good color coding to show the percentage of crop yield projections across different ranges
+10,2289,5,"Although the bars overlap, it is easy to compare the categories and find the main differences between dataset Although the bars overlap, it is easy to compare the categories find the main differences between dataset"
+11,2289,5,Both are easy to understand
+12,2289,5,The chart is more explainable
+13,2360,5,Easy to interpret the chart and see the main trends without looking at the caption. Easy to interpret the chart
+14,2360,4,the graph should have a key explaining the solid dotted line difference
+15,2360,4,"The visualization is clear,"
+17,324,5,"The graph is easy to understand,"
+18,324,1,"Chart a and c tells the same information, not sure why they are represented twice"
+19,332,5,Easy to read labels and compare the categories to understand the relationship between capacity factor and investment costs Easy to read labels compare the categories to understand the relationship between capacity factor investment costs
+20,332,4,the labels on the graph could be differentiated more
+21,332,1,"Why both charts are similar, what is the comparison between them"
+23,337,5,The graph is understandable
+25,339,5,a clear chart makes it easy to understand the main trend
+26,339,4,Hard to interpret what the symbols are representing on y-axis
+27,339,4,"Chart itself is sufficient to interpret it,"
+28,436,5,Clear representations lines (shown in chart)
+29,436,4,the graph should have a key
+30,436,2,The chart does not mention about the extra dots between the years
+31,497,5,Easy to compare the onshore and offshore categories Easy to compare the onshore offshore categories
+33,497,3,"The chart does not show the trend clearly, and only explain about the labels. "
+34,502,5,"Easy to read the labels, color categorization makes it easy to identify the main takeaway"
+37,572,5,"Clear time series and labeled axes, Clear time series"
+40,610,5,"The chart has color coding, it is well-organized . The chart has color coding, it is well-organized"
+43,660,5,The graph uses colors to represent 3 different categories making it easy to follow each line
+44,660,4,The graph is a little hard to read
+46,690,5,The chart is organized and labeled which helps with understanding the main takeaway The chart is organized labeled which helps with understanding the main takeaway
+48,690,3,chart is useful to interpret the result
+49,790,5,Easy to understand clear takeaway
+52,920,5,Easy to compare categories
+55,937,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The chart uses color coding thick lines to show the medians, the total range of models"
+56,937,4,the x-y labels and titles are hard to read.
+58,994,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The different lines along with the shaded area conveys the main takeaway"
+61,999,5,Clear takeaway easy to interpret
+63,999,4,"chart to interpret the takeaway, the line is clearly not mentioned in the chart"
+64,1081,5,Easy to see the annual average
+67,1251,5,Easy to get the main takeaway and understand the difference between the color coded bars Easy to get the main takeaway understand the difference between the color coded bars
+70,1277,5,The legend further helps in understanding the main takeaway. The words on the side explaining the y-axis is cut off. The words on the side explaining the y-axis is cut off The legend further helps in understanding the main takeaway
+71,1277,4,the labels are not visible
+73,1285,5,The chart shows the time series of the global annual ocean with color-code lines for different categories . The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend
+75,1285,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors"
+76,1295,5,The chart shows the time series of the global annual ocean with color-code lines for different categories The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend
+78,1295,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors"
+79,1303,5,the graph is easy to interpret
+82,1601,5,Easy to read the labels and compare the pH levels Easy to read the labels compare the pH levels
+85,1711,5,Easy to compare the categories
+86,1711,4,the graph labels are small
+87,1711,3,both charts
+88,1712,5,Easy to see the heat content changing
+91,1761,5,Easy to compare categories and read the labels Easy to compare categories read the labels
+94,1779,5,The chart shows the comparison between the simulations and observations Each panel is well laid out and labeled so it is easy to compare the scenarios The chart shows the comparison between the simulations observations Each panel is well laid out labeled so it is easy to compare the scenarios includes an overview of the data
+95,1779,5,the model's shadow shows the differences well
+96,1779,4,"The visualization is clear,"
+97,1803,5,"Despite a lot of elements, the chart shows the main trend with using different colors and symbols to help differentiate between data clearly Despite a lot of elements, the chart shows the main trend with using different colors symbols to help differentiate between data clearly"
+99,1803,4,The horizontal bar chart is clear with error bars
+103,1839,5,The scatter plot shows the relationship between the x and y axis The line of best fit clearly shows the trend. Clear representation makes it easy to interpret The scatter plot shows the relationship between the x y axis The line of best fit clearly shows the trend Clear representation makes it easy to interpret
+105,1839,4,"The axis are well labeled, and the use of colors make it more interpretable. "
+106,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions Easy to compare the categories analyze the potential for CO2 reduction across different regions
+108,1945,3,The chart is interpretable
+109,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them Easy to compare categories the use of colors to represent data makes it easier to compare them
+111,2062,3,Chart have many terms and abbreviations
+112,2065,5,"The use of 2 box plots to show the two scenarios makes it easy compare them. Furthermore, the chart includes two different time periods and multiple technologies While this adds complexity, it also provides a good overview of the data The use of 2 box plots to show the two scenarios makes it easy compare them Furthermore, the chart includes two different time periods multiple technologies While this adds complexity, it also provides a good overview of the data"
+114,2065,3,The chart is easy to understand
+115,2124,5,Easy to compare the categories and see the main trend Easy to compare the categories see the main trend
+117,2124,3,"The chart have some trends, not sure which trend to look at,"
+118,2218,5,Easy to compare the categories and see the main trends Easy to compare the categories see the main trends
+119,2218,4,the graph labels are unclear
+120,2218,1,The label says -20% it is confusing in the chart
+121,112,4,The design and clarity can be improved. The design clarity can be improved
+122,112,2,Difficult to understand the trends
+125,126,3,"The graphs are easy to understand,"
+126,126,3,Different color are used to represent in different charts for the same label And also the axis scale is different
+127,304,4,The chart provides useful information to understand the data
+128,304,3,the labels are hard to read on the graph
+129,304,3,Difficult to read labels
+130,317,4,Colors and labels are used effectively to convey the main takeaway Colors labels are used effectively to convey the main takeaway
+131,317,5,The graph is well made easy to understand
+134,330,5,The graphs are easy to understand
+136,380,4,does not provide the clear takeaway
+137,380,3,The graph labels are hard to read
+139,433,4,No legend included
+140,433,5,The graph is easy to understand
+144,447,3,The labels are not clear
+145,491,4,The use of labels helps in understanding the main takeaways
+147,491,5,Easy to compare categories
+148,492,4,Easy to interpret with use of labels
+149,492,4,graph is understandable
+150,492,4,The chart clearly explains the labels
+151,614,4,It is difficult to grasp the key points since there are too many words on the chart
+152,614,3,the graph is very wordy hard to read
+154,639,4,the chart uses color coding to help understand the caption
+156,639,4,Easy to compare
+157,643,4,"Too many categories are present in the chart, but they are well organized and labeled Too many categories are present in the chart, they are well organized labeled"
+158,643,3,The graph is hard to understand
+159,643,3,Difficult to understand
+160,658,4,Clear representation with a clear break down of cost and efficiency improvements The format of this chart is not the standard Clear representation with a clear break down of cost efficiency improvements The format of this chart is not the standard
+161,658,5,The graph is very well made
+163,736,4,complex data requires interpretation
+164,736,4,the graphs a little unclear hard to read
+165,736,4,"The chart capture the trend, but the chart is little complex to understand"
+166,828,4,Overlapping lines makes it difficult to interpret But the annual mean is shown which helps Overlapping lines makes it difficult to interpret But the annual mean is shown which helps
+167,828,1,"It is extremely hard to differentiate the colors on the graph, we don't know what each color represents"
+168,828,3,No proper labeling is stated in chart
+169,839,4,Clear visualization that shows temperature changes
+172,904,4,"chart has different curves representing different depths and locations. The x-axis and y-axis are clear, and the captions helps with the interpretation. No legend is present. locations The x-axis y-axis are clear, No legend is present"
+175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex
+176,1006,2,the graph is very hard to read tell the difference between the many labels
+177,1006,2,labels are not clear
+178,1044,4,"Too many lines and shaded regions makes the chart more complicated, Too many lines shaded regions makes the chart more complicated,"
+179,1044,5,the colors are clear on the graph
+181,1301,4,"The chart includes various components represent by different patterns and colors Furthermore, the blue/grey shaded areas add additional visual elements The chart includes various components represent by different patterns colors it adds to the complexity Furthermore, the blue/grey shaded areas add additional visual elements"
+182,1301,4,The graph some labels are small
+184,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given
+187,1428,4,"The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns. The use of multiple sources makes the chart somewhat clutters, but it is interpretable The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns The use of multiple sources makes the chart somewhat clutters, it is interpretable"
+188,1428,4,"Both are okay, the graph labels are a little small"
+189,1428,1,bars inside the chart is little confusing
+190,1453,4,The chart conveys the main takeaway but the multiple components and no legend for the different symbols and colors found in the chart make it a little hard to interpret The chart conveys the main takeaway the multiple components no legend for the different symbols colors found in the chart make it a little hard to interpret
+192,1453,3,The chart no straight forward takeaway
+193,1499,4,the graph includes a legend and it is somewhat easy to understand the errors bars. the graph includes a legend it is somewhat easy to understand the errors bars This visualization effectively shows the differences between the categories
+195,1499,4,The black lines are not fully mentioned in chart but could be infered as error lines
+196,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable
+199,1626,4,"Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line and the r^2 Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line the r^2"
+201,1626,2,The labels are not mentioned in the chart
+202,1697,4,Somewhat easy to compare the categories
+203,1697,4,some of the labels are blurry on the graph
+204,1697,2,labels are not clearly mentioned for the first chart
+205,1715,4,Multiple panels and detailed context add complexity making it somewhat confusing Multiple panels
+207,1715,3,The chart contains multiple ranges which is confusing in the first glance
+208,1718,4,"Clear representation with consistent color coding, making it somewhat interpretable"
+209,1718,3,"The graph is kind of confusing with the red blue, the different year labels"
+211,1726,4,the multiple elements make it somewhat interpretable
+213,1726,5,Labels are clearly mentioned easy to understand
+214,1755,4,The graph is easy to understand
+215,1755,5,the graph should have a title
+217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,"
+220,1777,4,The visualization includes multiple panels for different regions and periods. The use of these panels adds to the complexity The visualization includes multiple panels for different regions periods The use of these panels adds to the complexity
+222,1777,2,The charts in the right does not clearly interpret
+223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars"
+224,1790,4,"the graph labels ranges are very small, so it is hard to tell what value they correlate to"
+226,1861,4,The legend and well-defined axes make the charts somewhat interpretable The legend well-defined axes make the charts somewhat interpretable
+228,1861,3,"The chart does seem to use some symbols like triangle, circle that are not fully explained within the visualization itself and require very large caption."
+229,1874,4,"clearly observable trend. The use of symbols helps to differentiate the data points. The scatter plot shows the relationship between the x y axis, the data points arrows clearly show the trends The use of symbols helps to differentiate the data points"
+231,1874,4,"The visualization is clear allows for comparison,"
+232,1894,4,"The chart has annotations and different comparison lines making it harder to quickly understand the main takeaway. The use of specific scientific terms might not be immediately clear to everyone. The addition of the error bars also adds another layer of information, which can complicate the overall interpretation The chart has annotations different comparison lines making it harder to quickly understand the main takeaway The use of specific scientific terms might not be immediately clear to everyone The addition of the error bars also adds another layer of information, which can complicate the overall interpretation"
+234,1894,2,The label in x-axis is confusing to understand there are 4 groups only 3 wordings/labels
+235,1915,4,"The chart has two parts, the addition of these panels makes it complex, but it does provide an overall overview of the data given. The color-coded map shows the positive and negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable The chart has two parts, the addition of these panels makes it complex, it does provide an overall overview of the data given The color-coded map shows the positive negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable"
+236,1915,4,"the top graph is understandable, the bottom graph should include axis labels"
+238,1925,4,The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends
+239,1925,4,the graph should include a key to explain the different lines
+241,1947,4,"The chart shows different panels for different scenarios Despite the detailed context, the visual clarity makes the charts somewhat interpretable It is long informative, adds complexity to the interpretation The chart shows different panels for different scenarios"
+243,1947,3,There are many details in chart I did not find any clear takeaway
+244,1979,4,"The chart shows the main key takeaways, but the multiple components make it complex The chart shows the main key takeaways, the multiple components make it complex"
+246,1979,3,"The chart is easy to interpret, "
+247,2016,4,"The use of color coding in the map helps see the variations in the anomalies. But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values and blue bars are the negative values. Despite the detailed information, the representation is clear. The chart lacks detailed labels that could help in the interpretation. The use of color coding in the map helps see the variations in the anomalies But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values blue bars are the negative values Despite the detailed information, the representation is clear The chart lacks detailed labels that could help in the interpretation"
+248,2016,4,The graph is pretty good
+249,2016,3,"The chart does not mention about the color scale used for world map, need to have some assumptions of the color scale for chart only"
+250,2049,4,"The graphs contain a lot of data points and trend lines that are presented clearly. Although the chart effectively conveys the main trends, the lack of detailed labels and annotations might make it harder to interpret the small specific finding without any additional context. The graphs contain a lot of data points trend lines that are presented clearly Although the chart effectively conveys the main trends, the lack of detailed labels"
+251,2049,4,the graph data doesn't have a key for the symbols
+253,2054,4,The legend and clear representations make it charts somewhat interpretable The legend clear representations make it charts somewhat interpretable
+255,2054,4,the color scale in the chart is little bit confusing
+256,2061,4,"The chart's use of consistent color coding and multiple types of vehicles adds to the complexity but provides a good overview of the data. The clear axes and legend help in the interpretation, but many require more context for full understanding The chart's use of consistent color coding multiple types of vehicles adds to the complexity provides a good overview of the data The clear axes legend help in the interpretation,"
+257,2061,4,the graph is pretty understandable
+259,2071,4,"There is no legend present in the chart, making it difficult to understand what each color means. Each panel presents data using different symbols and colors to represent the different measurements. However, the complexity of the data can make it somewhat challenging to graph the main trends There is no legend present in the chart, making it difficult to understand what each color means Each panel presents data using different symbols colors to represent the different measurements However, the complexity of the data can make it somewhat challenging to graph the main trends"
+260,2071,4,the graph should have a key for the colors
+262,2271,4,"The chart has a clear representation with 2 panels, but each panel uses different line styles and bard to represent the different datasets However, this adds more complexity to the interpretation of the chart The chart has a clear representation with 2 panels, each panel uses different line styles bard to represent the different datasets However, this adds more complexity to the interpretation of the chart"
+263,2271,5,graphs are interpretable
+265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable"
+266,2356,4,the graph should have a key
+267,2356,4,"The chart is clear allows for comparison,"
+268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex
+271,2213,4,"The charts show the long-term trends and provides a comparison. The clear axes and legends help in the understanding of the data, but the technical nature of the content might be overwhelming. the variables shown in each panel The charts show the long-term trends provides a comparison The clear axes legends help in the understanding of the data, the technical nature of the content might be overwhelming"
+272,2213,5,"the trend is present in the graph well,"
+274,2220,4,The use of different colors and line styles helps compare the categories The bars at the end represents the ranges and helps interpretating the chart The use of different colors line styles helps compare the categories The bars at the end represents the ranges helps interpretating the chart
+275,2220,3,"the graph formatting is a little confusing, it needs a key"
+276,2220,4,"The chart is clear allows for comparison, the main takeaway or highlight of important trend is not mentioned"
+277,2223,4,"The visualization has 2 panels, which adds complexity, but it also gives a good overview of the data The visualization has 2 panels, which adds complexity, it also gives a good overview of the data"
+278,2223,4,the graph needs a key
+280,184,3,the different colored line don't have a clear definition
+282,184,2,"There are many labels and legend in the axis, and the means in note immediately clear. "
+283,220,3,Complex representation of the CO2 injection scenarios
+286,297,3,No legend is present to explain the non-linear lines
+287,297,5,The graph is easy to understand
+288,297,2,"chart tell about the labels used, but there is no mention what the intent for the chart is."
+289,407,3,"the chart is blurry, 
+Difficult to read the chart"
+290,407,3,the graph labels are hard to read
+291,407,5,Easy to compare categories
+292,494,3,"Hard to interpret the multiple categories on the chart, 
+"
+293,494,2,the graph is very hard to read
+294,494,4,Easy to compare categories
+295,754,3,overlapping lines adds more complexity
+297,754,3,"Some inconsistency inside the charts are not mentioned properly like the suddent spike in red bars, the reasoning is not provided"
+298,1011,3,multiple bars no legend for the colors of the bars makes it somewhat confusing
+300,1011,1,"The chart is more prone to misinterpreting the change, it would be better to keep the change in vertical instead of horizontal because it is more interpretable as increasing"
+301,1143,3,"Overlapping data and no legend found in the graph, this makes it difficult to fully understand the main takeaway "
+302,1143,2,"it is better to have a key, the graph hard to read with the label intersections"
+303,1143,1,"trend lines are visible, but no takeaway can be taken from chart"
+304,1215,3,"The chart presents various categories using box plots, symbols like diamonds and individual data points. The graphs uses colors and symbols which adds complexity Visual elements make it somewhat confusing. The chart presents various categories using box plots, symbols like diamonds individual data points. The graphs uses colors symbols which adds complexity it takes time to understand. Visual elements make it somewhat confusing"
+306,1215,2,The mention of min max in the bar graph is little misleading when checking the bottom bars for negative change
+307,1439,3,The chart uses different symbols and color to represent various ranges The chart uses different symbols color to represent various ranges While the legend lines can be a little confusing to interpret at first glance
+311,213,2,the graph is hard to read
+312,213,2,the trend in the chart is visible
+313,236,2,Difficult  to interpret the representation of temperature projections
+314,236,2,The graph is very hard to read with all the tiny symbols
+315,236,3,Difficult to read labels
+316,604,2,hard to compare the categories
+317,604,3,the graph labels are hard to read
+318,604,4,Easy to compare categories
+319,676,2,"- Hard to understand the graph, as there are 2 graphs in the big graph 
+- The chart has 2 y-axis and it is visually complex - There is no legend for the different colored lines - Hard to understand the graph, as there are 2 graphs in the big graph 
+- The chart has 2 y-axis it is visually complex - There is no legend for the different colored lines"
+320,676,2,The graph is very hard to read
+321,676,4,Easy to understand
+322,758,2,Multiple elements makes it confusing and also the clarity of the second graph is not clear even after zooming in. The color coding and symbols help but the complexity of the data require effort to interpret.
+323,758,2,"the graph is hard to read It is hard to tell the difference in colors labels, especially in the box whisker plot"
+324,758,3,Labels are not clear
+325,846,2,"Complex bar chart under multiple scenarios for the year of 2050. But the chart itself is cluttered with multiple bars for each region and scenarios, making it difficult to grasp what is the main takeaway. The overlapping data and use of different colors add more to the confusion. "
+326,846,5,the color coding is well done
+328,898,2,"Although there is a legend in the chart, the multiple lines representing different regions is confusing. The dual y-axes add more to the complexity, making it harder to quickly analyze the chart. "
+331,998,2,"Multiple data points the vertical horizontal dashes line, increase the complexity of the data as the reader has to interpret multiple aspects of the chart"
+333,998,3,The chart is confusing to understand also the reference lines along y-axis is little confusing
+334,1100,2,"The graph's resolution is low, the graph is blurry There is no legend present, explaining the different colors what do they mean"
+335,1100,2,the graph labels are hard to read
+336,1100,4,Easy to compare categories
+337,1112,2,Multiple lines different colors make it hard to interpret the main takeaway
+338,1112,1,the graph is very hard to read with the many unlabeled intersecting lines
+339,1112,2,"The lines are overlapping on each other mentioning of some axis notation on the right side, which is not clear"
+340,1153,2,overlapping lines with the different data sets makes it hard to follow the trends
+341,1153,4,the graph is a little hard to read understandable
+343,1206,2,"The chart includes multiple categories with detailed visual elements, overlapping data points, addition symbols like red diamonds, all of which make it hard to interpret"
+345,1206,4,Easy to compare categories
+346,1400,2,The chart includes comparisons between pink blue countries across different time periods The comparison between the different scenarios takes careful interpretation to understand the main takeaways Multiple elements makes it somewhat confusing
+347,1400,1,the graph lines are very hard to understand The differences in representation is very small that it is hard to tell
+348,1400,3,Lines are not labeled
+349,1510,2,"The visualization includes multiple categories such as causes, consequences, costs separated into 3 sections for developing, developed, global totals Each section includes graphs for sub-categories for dryland loss, wetland loss, etc While the visualization effectively conveys the potential impacts, the multiple elements details to focus on make it somewhat confusing"
+352,1615,2,"The chart has 1 main panel with 4 additional panels This adds complexity contributions which is informative But, making the comparisons between the different factors makes it difficult to interpret"
+353,1615,4,the first graph the black red are hard to read
+355,1633,2,"The visualization has multiple panels, making it difficult to focus on one panel The different changes are shown each panel uses different colors since there are too many of the little panels, it becomes hard to make any observations , although it summarizes the main trend I have to zoom in to see the dashed lines the solid lines to make any interpretation"
+356,1633,4,the graphs are a little small
+357,1633,4,"The visualization is complex,"
+358,1659,2,"The visualization includes 4 panels showing different precipitations for different countries The use of multiple panels adds to the complexity The chart shows different ratios for each panel, it takes time careful interpretation to understand the difference between the models"
+359,1659,1,the symbols labels on the graph are hard to read
+360,1659,2,"The legend seems to be crowded, making it difficult to distinguish between the models, overlapping datapoints add some visual clutter"
+361,1748,2,Multiple panels make it hard analyze the full context of these graphs
+362,1748,4,the graph labels can be bigger
+363,1748,1,"The year are not consistent between the left top (a) bottom charts (b,c), which in overview inferring same years"
+364,1750,2,"This visualization includes multiple 3D bar graphs with the use of multiple components adds complexity scenarios, which is informative also adds to the overall complexity"
+366,1750,2,"The 3D charts are making it difficult to compare values, color encoding is not intuitive, does not summarize the main takeaway"
+367,1802,2,The scatterplot involves technical terms which require background knowledge to fully understand
+368,1802,4,the graph format should be different
+370,1838,2,it can be hard to compare each panel compare data The complexity in the last panel makes it somewhat confusing
+372,1838,3,"The charts are very dense, with overlapping lines, "
+373,1911,2,There are multiple components details that need to be focused on which make it somewhat confusing The legend doesn't include what the solid dashed lines mean Confusing to find the main trend of the chart
+374,1911,4,"the graph should include info about what the vertical lines stand for, format the data differently visually"
+375,1911,4,Takes some time to understand there are different countries
+376,2050,2,"Different colors symbols are used for different purposes, it can be confusing to understand what they mean The chart includes many panels which adds to the complexity makes it harder to get an overall main takeaway of the date"
+377,2050,4,the graph should have a key for each data point
+379,2105,2,"The chart shows a comparison between the historical observations, present simulations, future climate projects however, the multiple components, the lines on b,c,and d make it hard to interpret which makes it somewhat confusing"
+381,2105,2,The bell curves are drawn in different time range which is difficult to compare or understand
+382,2125,2,"The charts use different colors lines to show the historical project changes The clear axes legends somewhat help in understanding However, just looking at the chart won't help in the interpretation The bar on the right side is also hard to see see the ranges"
+385,2254,2,The chart has labels that are hard to read. There is no legend present in the chart.
+386,2254,4,a few labels on the graph are blurry
+387,2254,2,"The chart represented in different colors, no label mentioned what color means"
+388,2262,2,it is hard to find a main key takeaway without spending some time understanding what each line style/colors mean
+389,2262,4,"The graph should include a key to explain the colors, the lines overlap a lot"
+390,2262,2,There are many overlapping lines in the charts
+391,2276,2,The chart uses different scales to represent the different datasets which makes it somewhat confusing to interpret the data
+392,2276,4,the graphs should be separated   instead of placed together on the same axis
+393,2276,4,It is better to have separate lines in between different categories to increase interpretability in my opinion
+394,2300,2,"The 3 panels show different results, it hard to compare them Furthermore, the chart includes grey region that the lines go into which also makes it somewhat confusing"
+397,2327,2,"Each panel uses different colored lines symbols to represent different models However, the use of multiple colors lines make it somewhat challenging to grasp the main trends"
+398,2327,4,"For the bottom graph, some of the graph lines are hard to read,"
+400,2152,2,The use of multiple components adds to the complexity of interpretation.
+401,2152,5,display the trend well
+402,2152,3,The bottom chart is less interpretable
+403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a)
+405,2194,1,The x-axis label is very confusing unable to determine the ticks with years
+406,2215,2,"The visualization includes 2 panels, the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends "
+407,2215,4,the graph formatting could be better
+409,242,1,Difficult to interpret the main takeaway There is no legend The bars at the end of the orange envelope are blurry
+410,242,3,"The graph is hard to read,"
+411,242,3,More details are required to know about the takeaway for the chart
+412,909,1,"multiple bars and categories make it confusing to understand what the main takeaways are Although, the chart is labeled the layout is dense"
+413,909,4,"The graph is well made,"
+415,950,1,"Too many graphs, graph is blurry, low resolution Multiple bar plots scenarios add to the complexity"
+416,950,1,"the graphs are very hard to read, especially the smaller ones"
+417,950,3,Difficult to read labels in chart
+418,1068,1,"Too much information is provided in the chart, even though there is a legend, multiple data points symbols make it difficult to interpret"
+419,1068,1,the graph is very hard to read with the many labels intersecting each other Even the graph key is hard to read
+420,1068,1,Many labels confusing
+421,1087,1,The graph itself is very complex with multiple overlapping lines representing different time periods. The error bars also makes it more difficult to grasp the main takeaway
+422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels"
+424,1146,1,"This visualization consists of 6 bar graphs, broken down into different regions aerosols error bars. However the overall layout is cluttered with many bars, colors codes and error bars. The dense information make it difficult to quickly understand takeaway"
+425,1146,4,the graphs could be bigger
+426,1146,4,Easy to understand
+427,1177,1,The graph includes multiple lines representing the different region the scale bar the lines all over the graph makes it hard to understand the visualization
+428,1177,1,"the graph arrangement is hard to read, it has no structure"
+430,1178,1,the graph has too many lines that overlap which makes it difficult to graph the main trends
+431,1178,2,"the graph lines are hard to read, especially since the blue green intersect a lot"
+433,1192,1,the graph includes multiple lines and double axes and complex data sources make it very confusing
+436,1205,1,"The chart includes multiple overlapping lines representing different regions uses both double x-axis y-axis scales, adding to the complexity The 4 charts make it hard to understanding the main trends data sources, the overall layout makes it very confusing to interpret the main takeaway"
+437,1205,2,the graph is very hard to read with the lines intersecting that much
+439,1232,1,"There are 4 different panels with different scenarios models, which adds complexity. Each panel contains multiple lines representing different models further makes it complex"
+440,1232,1,"the graphs are very hard to read with the intersecting labels, especially the bottom two"
+442,1246,1,Multiple categories visual elements with various lines makes it confusing This visualization requires a lot of effort to interpret the main takeaway
+443,1246,1,the graph structure is very hard to understand
+445,1294,1,"the graph has multiple elements that represent with vertical bars with various colors lines symbols, making it hard to read it takes time to interpret the information Furthermore, the compares multiple models which requires careful interpretation"
+446,1294,1,the graph is very hard to read with all the different symbols lines close together
+447,1294,4,Easy to compare categories
+448,1326,1,"Too much information is provided in 1 graph If possible, it would be helpful to see 4 different graphs to help understand the information better The image is very blurry so it's hard to read"
+449,1326,1,the graphs are completely unreadable None of the labels points can be seen clearly
+450,1326,2,Difficult to read labels in the chart
+451,1576,1,"I cannot see the symbols as it is overlapped are also cluttered The chart has 4 graphs with different information presented in each, making it difficult to interpret them easily The multiple components make it difficult to find it's distinctions between the time reconstructions"
+452,1576,1,the graphs are unreadable with all the symbols colors intersecting
+453,1576,2,many visual elements present
+454,1751,1,There are different colored triangles shown in one of the graphs is confusing Making a comparison between the two graphs is confusing Multiple elements
+455,1751,4,the graph points/lines are hard to differentiate
+456,1751,2,The labels are not clearly mentioned in charts
+457,1821,1,"There are multiple panels in this visualization, it is hard to tell what each colors mean Too much information to process so cannot find a main clear takeaway"
+458,1821,2,"the various graph symbols and colors are hard to interpret, especially since they are small and clustered."
+459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand"
+460,1946,1,"There are multiple lines that overlap, there are variations of lines (dashed, dotted, straight) which is difficult to see  Trying to get a main takeaway can be hard"
+461,1946,4,the graph lines are very clustered hard to read
+462,1946,3,"The chart is visually dense, with overlapping lines there are many abbreviations "
+463,1953,1,The various data points for different models the alternate observational datasets adds to the complexity of chart
+464,1953,4,the graph points are hard to read
+465,1953,2,"The chart is visually cluttered, with overlapping points numbers The radial axis does require some more indepth understanding "
+466,1963,1,"There are six scatter plots divided into two panels, showing different relationships between observed vs model values This adds complexity to the chart, making it difficult to interpret the data The chart also uses dashed lines which make it hard to understand what the main takeaway is"
+467,1963,4,the graph should also have a key for the different lines
+468,1963,3,The chart is visually dense also there is some logarithamic axis which is getting covered by data points
+469,2007,1,Too many pixelated colors on each panel makes it very difficult to understand the main takeaway It is also somewhat blurry
+471,2007,2,"The range in the color scale are different, which is confusing when looking together"
+472,2008,1,"The chart contains a lot of information in one visualization, which can be overwhelming The color scale also makes it difficult to quickly graph the importance of variations shown in the charts"
+473,2008,4,"The data on the graph is overlaps a lot, so it is a little hard to read,"
+475,2052,1,"The chart is very blurry, it is hard to interpret anything"
+476,2052,1,"The graph is very blurry, the data overlaps a lot, the entire graph is very hard to read"
+477,2052,2,labels are not clear
+478,2074,2,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at"
+479,2074,3,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at"
+480,2074,1,label is not clear
+481,2103,2,chart shows different attributes in a shared y-axis Chart would be easire to read if it was divided into multiple panels Legend required to understand chart components in not available in the chart Use of dual axis makes it more confusing to read the charts does not give a clear idea of the intent
+482,2103,1,chart shows different attributes in a shared y-axis. Chart would be easire to read if it was divided into multiple panels. Legend required to understand chart components in not available in the chart. Use of dual axis makes it more confusing to read the charts.
+483,2103,1,"addition to my previous response, the left part gives the difference from the years, not clear about the representation on the right side"
+484,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows
+485,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows.
+486,2138,3,low level interpretation can be made from the chart but takeaway message is unclear
+487,2141,3,"clutter in the chart is overwhelming Shared axis show use the same scale unit making it easy to read the chart since color spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided "
+488,2141,4,"clutter in the chart is overwhelming. Shared axis show use the same scale and unit making it easy to read the chart. since color and spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided."
+490,2348,3,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message The chart uses inconsistent y-axis so the observed increase rate is not reliable"
+491,2348,2,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message. The chart uses inconsistent y-axis so the observed increase rate is not reliable. "
+493,2354,4,The clutter in the chart is ovewhelming
+494,2354,4,The clutter in the chart is ovewhelming
+495,2354,3,chart is having many overlapping lines
+496,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret Trend is easy to read in the chart multiple axes with different ticks makes the observed trend unreliable
+497,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret. Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable.
+498,2251,3,"The are many charts with overlapping lines hard to track across many charts, "
+499,149,1,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated
+500,149,2,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated
+501,149,2,The slanted lines clustering of points make it hard to follow trends or get clear takeaway
+502,152,1,chart is exteremely cluttered lack proper labels Goal of the visualization is unclear
+503,152,1,chart is exteremely cluttered and lack proper labels. Goal of the visualization is unclear
+504,152,2,"The visualization contains many overlapping lines, making it difficult to identify trends It is visually cluttered "
+507,188,2,"There are many labels mentioned in the chart, also shown inside the visualization, it is confusing because the are no proper starting line or only a single point "
+508,196,4,Components of the chart are clearly labeled well annotated
+509,196,4,Components of the chart are clearly labeled well annotated
+510,196,4,The bar chart clearly explains the change in trends using the color-coded segments triangle to indicate total change
+511,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear
+512,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear
+513,290,2,I am not able to compare between the bars it is difficult to compare categories
+514,650,5,Pattern of trend in chart is easy to understand
+515,650,5,Pattern of trend in chart is easy to understand
+516,650,2,also little unclear about B2 scenarios
+517,765,2,Chart does not include legend for encodings
+518,765,2,Chart does not include legend for encodings.
+520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message
+521,859,4,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message.
+522,859,4,Easy to compare
+523,882,4,Chart is easy to read low level message is easy to grasp
+524,882,3,Chart is easy to read low level message is easy to grasp
+525,882,5,clear takeaway
+526,547,3,Chart does not have legend of the colors used
+527,547,2,Chart does not have legend of the colors used
+528,547,3,Difficult to read labels
+529,292,2,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels
+530,292,3,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels
+531,292,1,"The chart mentions some dots in the charts which is not clearly explained in the caption,"
+532,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart
+533,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart
+534,413,1,"chart is not useful to interpret the trend also labels are missing in chart,"
+535,442,2,Marks in the chart overlap causing visual clutter Abberviations used in the chart are unclear Multiple plots are placed close to each other in the chart legend for multiple symbols used in the chart are not given
+536,442,1,Marks in the chart overlap causing visual clutter. Abberviations used in the chart are unclear.  Multiple plots are placed close to each other in the chart. legend for multiple symbols used in the chart are not given.
+537,442,3,Difficult to read labels
+538,2018,4,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear
+539,2018,3,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear
+540,2018,3,And also the labels are not clearly mentioned
+541,2025,2,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand
+542,2025,1,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand
+543,2025,2,"The chart seems to be cluttered,"
+544,2060,4,Lack of domain knowledge makes it difficult to read the chart Key takeaway is not clear looking at both Shared x-axis in the chart helps to compare the different data attributes plotted in the chart
+545,2060,5,Shared x-axis in the chart helps to compare the different data attributes plotted in the chart
+546,2060,3,also what to infer from the charts
+547,2064,2,The chart is cluttered or summarize the trend
+548,2064,2,The chart is cluttered
+549,2064,4,chart are useful
+550,2117,3,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message
+551,2117,4,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message
+552,2117,1,"The chart is 3D which is difficult to get the exact comparison between the years, "
+553,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message A pattern can be observed in the chart the intended message is not clear
+554,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message. A pattern can be observed in the chart but the intended message is not clear.
+555,2163,4,"Though there are too many labels mentioned in the chart, chart represent a clear takeaway message"
+556,2253,4,Chart uses different shapes to encode categorical information which is difficult to read The goal of the visualization is clear using both
+557,2253,4,Chart uses different shapes to encode categorical information which is difficult to read
+558,2253,3,"The chart is visually dense because of some similar labelling,"
+559,2293,4,Collective trend outliers are easy to detect in the chart making the overall message clear
+560,2293,3,Collective trend outliers are easy to detect in the chart making the overall message clear
+561,2293,2,"The visualization is cluttered, overwhelming"
+562,2364,2,Use of abberviations in the chart makes it difficult to understand Lack of domain knowledge makes it difficult to understand the goal of the visualization
+563,2364,3,Use of abberviations in the chart makes it difficult to understand.
+565,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels
+566,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels.
+567,869,1,The chart is too complex with many visual elements to compare between labels are kept in between two charts making it difficult to interpret for which chart it is
+568,1214,4,The graph alone is sufficient to get an overall message Use of color encoding along z-axis of the 3D chart aids in identification task Use of multiple charts in a single panel requires remembering a lot of information reading all the chart to get the over all message
+569,1214,4,The graph alone is sufficient to get an overall message. Use of color encoding along z-axis of the 3D chart aids in identification task. Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message.
+570,1214,3,Inconsistent scale use (year)
+571,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph
+572,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph.
+573,1225,2,Difficult to read labels
+574,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message
+575,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message
+576,1465,2,No trend is highlighted in chart
+577,1503,4,The takeaway message is clear after looking at both the chart
+579,1503,2,The heatmap visualizes multiple elements using color gradients to indicate error magnitude. The color scale is also not common practice
+580,1581,3,the overall takeaway message is clear from the chart the use of intuitive color scale for temperature in the chart is helpful
+581,1581,3,the overall takeaway message is clear from the chart. the use of intuitive color scale for temperature in the chart is helpful.
+582,1581,4,Easy to compare between different oceans
+583,1917,2,Use of multiple panels in the graph is confusing Use of shapes to encode categorical values in the graph is confusing The chart does not containg legend for colors used
+584,1917,3,Use of multiple panels in the graph is confusing. Use of shapes to encode categorical values in the graph is confusing. The chart does not containg legend for colors used.
+585,1917,3,"The years are not consistent across the charts, initially inferring all are in same scale"
+586,2211,2,Chart organization is confusing
+587,2211,2,Chart organization is confusing.
+589,2028,3,Chart doesnot contain labels for different mark types used Chart uses dual axis making difficult to interpret the takeaway message shared axis makes it easy to compart across charts
+590,2028,4,Chart doesnot contain labels for different mark types used. Chart uses dual axis making difficult to interpret the takeaway message. shared axis makes it easy to compare across charts.
+591,2028,4,"The inverted axis in the y-axis is not visible in the first glance, overall the visualization is clear,"
+592,1845,4,The chart does not contain labels for marks used
+593,1845,4,The chart does not contain labels for marks used.
+594,1845,4,"The visualization is clear good for comparison,"
+595,1949,2,Annotations used in the chart are not understandable Patterns visible in the chart are prominent easy to read the message shown by those patterns are unclear Multiple charts used in the visualization are easy to comprehend because they are related
+596,1949,2,Annotations used in the chart are not understandable. Patterns visible in the chart are prominent and easy to read but the message shown by those patterns are unclear. Multiple charts used in the visualization are easy to comprehend because they are related.
+597,1949,2,The lines overlap between the months in y-axis
+598,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.
+599,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.
+600,1749,2,"The axes are labeled, interpreting the relationships and extracting the main trends is difficult, "
+602,126,2,trend can be observed in the chart
+603,139,4,not all axes in the chart are labeled
+605,149,3,The visualization seems cluttered
+606,152,3,"The visualization is cluttered, "
+611,213,1,"The chart seems very confusing
+It does not have proper y-axis legend"
+613,236,2, charts are cluttered but still interpretable
+614,242,1,the visualization is very cluttered and marks overlap
+615,290,3,"The chart is precise and clear,"
+618,304,2,The chart is quite interpretable
+623,337,2,chart looks cluttered
+625,380,3,"chart does not contain legend for colors used
+"
+626,407,3,cluttered visualization
+628,433,4,A bit long and cluttered but understandable
+630,442,2,"The visualization indicates a lot of information, but legend is not given"
+631,447,1,"legend information is not given, which makes the chart hard to interpret"
+634,494,2,chart is cluttered
+639,604,3,Chart is a bit cluttered 
+640,610,2,"chart does not include legend
+"
+641,614,3,"The chart is interpretable, but there are too many texts in the chart"
+643,643,3,The main takeaway is missing
+647,676,3,chart is cluttered
+651,758,3,The chart seems cluttered 
+654,828,1,The visualization seems cluttered
+658,869,2,axes labels are not included in the chart
+665,950,2,Seems cluttered to me
+669,1006,2,cluttered
+672,1068,1,very cluttered
+674,1087,4,The main takeaway is missing
+676,1112,1,Cluttered without proper legend
+680,1177,4,A common trend is observed in the chart
+683,1205,3,A bit cluttered
+686,1215,2,cluttered visualization
+688,1232,2,"The visualization is a bit cluttered, "
+695,1301,3,Too many information make the charts cluttered
+697,1326,1,The visualization seems hard to interpret
+705,1499,3,marks are not labeled
+709,1576,2,The charts seem a bit cluttered 
+710,1581,2,"The chart augments the visualization, as it provides information for white space or about the right and left panel, but it does not talk about the overall trend"
+723,1750,1,marks used in the chart are not labeled
+724,1751,2,The visualization is cluttered
+728,1777,3,marks used in the chart are not labeled
+735,1838,2,The visualization seems a bit cluttered
+750,2007,2,cluttered visualization
+755,2049,2,marks used in the chart are not labeled
+760,2061,1,marks in the visualization overlap
+762,2064,1,Cluttered and hard to interpret
+765,2074,2,New color is added without any indication of what it presents
+768,2117,3,axis indices of the 3D visualization is confusing
+771,2138,2,Visualization is cluttered
+774,2163,3,Visualization seems a bit cluttered
+778,2215,2,The 1st visualization seems confusing
+783,1749,2,Marks used in in the visualization are not clearly labeled
+784,2253,1,The visualization is cluttered
+790,2293,3,Visualization is cluttered
+796,2357,2,seems a bit confusing

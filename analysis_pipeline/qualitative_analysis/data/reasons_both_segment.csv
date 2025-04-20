@@ -1,466 +1,130 @@
 reason_id,image_id,rating,reason
-3,196,5,Clear takeaway
-5,290,5,Clear takeaway
-9,332,5,Easy to read labels and
-13,497,5,Easy to compare the onshore and
-16,610,5,it is well - organized and
-21,790,5,Easy to understand and clear takeaway
-25,937,5,and
-27,999,5,Clear takeaway and easy to interpret .
-29,1251,5,Easy to get the main takeaway and
-30,1277,5,The legend further helps in understanding the main takeaway .
-34,1601,5,Easy to read the labels and
-37,1756,5,Easy to find a clear takeaway and make comparisons .
-39,1779,5,Each panel is well laid out and
-41,1818,5,"Clear takeaway with detailed context , making it easy to interpret ."
-44,2062,5,it expands on each of the studies making it easier to understand the main takeaway .
-45,2065,5,"multiple technologies . While this adds complexity , it also provides a good overview of the data ."
-49,112,4,The design and
-54,380,4,but
-58,492,4,Easy to interpret with use of labels and
-59,547,4,Use of Panels and
-62,643,4,but they are well organized and
-64,736,4,complex data requires interpretation
-66,839,4,Clear takeaway
-67,904,4,and
-69,1044,4,but
-70,1301,4,"it adds to the complexity . Furthermore ,"
-72,1428,4,but it is interpretable .
-75,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable .
-76,1626,4,making it somewhat interpretable .
-78,1715,4,Multiple panels and
-79,1718,4,making it somewhat interpretable
-80,1726,4,the multiple elements make it somewhat interpretable
-81,1755,4,The graph is easy to understand and
-82,1757,4,but
-83,1777,4,but
-84,1790,4,and it is somewhat easy to understand .
-85,1861,4,The legend and
-86,1874,4,and
-88,1915,4,making it somewhat interpretable .
-90,1947,4,"It is long and informative , but"
-91,1979,4,but the multiple components make it complex .
-92,2016,4,the representation is clear .
-94,2054,4,The legend and
-95,2061,4,"legend help in the interpretation , but"
-100,2141,3,summarizes the observed patterns in the graph making it highly interpretable .
-101,2271,4,bard to represent the different datasets .
-104,2356,4,it is somewhat interpretable .
-105,2357,4,legends also make the information more interpretable .
-106,2213,4,"legends help in the understanding of the data , but"
-107,2220,4,The use of different colors and
-108,2223,4,but it also gives a good overview of the data .
-118,1215,3,"The graphs uses colors and symbols which adds complexity . Furthermore ,"
-121,152,1,lack proper labels .
-125,292,2,Complex representation
-129,676,2,it is visually complex .
-130,758,2,the complexity of the data require effort to interpret .
-131,846,2,The overlapping data and
-133,998,2,the vertical and
-137,1206,2,and
-138,1400,2,Multiple elements and
-139,1510,2,the multiple elements and
-140,1615,2,"But ,"
-141,1633,2,but
-142,1659,2,and it takes time and
-143,1748,2,it takes time to analyze .
-144,1750,2,This visualization includes multiple 3D bar graphs with the use of multiple components adds complexity .
-145,1802,2,The scatterplot involves technical terms which require previous knowledge to fully understand .
-146,1838,2,but
-148,2050,2,but
-149,2105,2,and
-150,2125,2,legends somewhat help in understanding .
-151,2254,2,and
-152,2262,2,but
-154,2300,2,"but the detailed context adds complexity . Furthermore ,"
-155,2327,2,the use of multiple colors and
-157,2194,2,The use of error bars and
-158,2215,2,"While it is informative , it also adds complexity ."
-159,2252,2,hard to read .
-162,950,1,scenarios add to the complexity .
-165,1146,1,aerosols .
-166,1177,1,the scale bar and
-168,1192,1,double axes and
-169,1205,1,but
-170,1232,1,further makes it complex .
-172,1294,1,"Furthermore ,"
-174,1576,1,reconstructions .
-175,1751,1,Multiple elements and
-177,1946,1,"although it is informative ,"
-178,1953,1,"informative ,"
-180,2007,1,It is also somewhat blurry .
-184,2052,1,and
-185,2060,1,Too much information is given in Table 9.2 which makes it difficult to understand .
-186,2064,1,and
-189,2253,1,The use of asterisks and diamonds also adds to the visual complexity .
-190,2293,1,"Although there is a legend present ,"
-191,2364,1,and
-192,869,3,.
-195,1465,4,Simple representation of the graph makes it easy to perform low level information extraction .
-199,2211,2,methodology .
-2,148,4,but
-5,290,4,but
-6,2289,5,Both are easy to understand .
-7,2360,4,and
-8,324,5,but
-9,332,4,and
-12,436,4,but
-13,497,5,Both are easy to understand .
-14,502,5,Both are easy to understand .
-15,572,5,"Both are easy to understand , but"
-19,690,5,Both are easy to understand .
-21,790,5,Both are easy to interpret .
-24,920,5,Both are very easy to understand .
-25,937,4,"graph design is good , but"
-26,994,5,Both are easy to understand .
-27,999,5,Both are easy to interpret .
-28,1081,5,Both are easy to interpret .
-29,1251,5,Both are easy to understand .
-30,1277,4,"and the graph is good , but"
-31,1285,5,Both are pretty easy to understand .
-32,1295,5,Both are easy to understand .
-33,1303,5,Both are easy to understand .
-34,1601,5,Both are easy to understand .
-35,1711,4,and
-36,1712,5,Both are easy to understand .
-37,1756,5,Both are easy to interpret .
-38,1761,5,Both are easy to understand .
-39,1779,5,"Both are easy to understand , the model 's shadow shows the differences well ."
-40,1803,5,Both are easy to understand .
-41,1818,5,"Both are easy to understand , and"
-42,1839,5,Both are easy to interpret .
-43,1945,4,"Both are understandable , but"
-44,2062,5,Both are pretty easy to understand .
-45,2065,5,Both are pretty easy to understand .
-46,2124,5,Both are easy to understand .
-47,2129,5,"The graph is good , but"
-48,2218,4,"Both are understandable , but"
-50,126,3,but
-51,304,3,and
-52,317,5,The graph is well made and easy to understand .
-56,447,5,Both easy to understand .
-57,491,5,Both are easy to understand .
-58,492,4,but graph is understandable .
-60,614,3,hard to read .
-61,639,5,Both are easy to understand .
-63,658,5,The graph is very well made .
-64,736,4,hard to read .
-66,839,5,Both are easy to interpret .
-67,904,5,Both are easy to understand .
-68,1006,2,and
-69,1044,5,"Both are easy to understand , and"
-70,1301,4,but
-71,1388,5,Both are pretty easy to understand .
-72,1428,4,"Both are okay , but"
-73,1453,5,Both are pretty easy to understand .
-74,1499,5,Both are easy to interpret .
-75,1519,5,Both are good and easy to interpret .
-76,1626,5,Both are easy to understand .
-77,1697,4,but
-78,1715,5,"Both are easy to understand , but"
-79,1718,3,context .
-80,1726,5,Both are easy to understand .
-81,1755,5,"Both are easy to understand , but"
-82,1757,5,"Both are easy to understand , but"
-83,1777,5,Both are easy to interpret .
-84,1790,4,but
-85,1861,5,"Both are easy to understand ,"
-86,1874,5,Both are pretty easy to understand .
-87,1894,5,Both are easy to interpret .
-88,1915,4,but
-89,1925,4,but
-90,1947,5,Both are pretty easy to understand .
-91,1979,5,Both are pretty easy to understand .
-93,2049,4,but
-94,2054,5,"Both are pretty understandable , but"
-95,2061,4,and
-96,2071,4,but
-100,2141,4,summarizes the observed patterns in the graph making it highly interpretable .
-104,2356,4,"Both are pretty understandable , but"
-105,2357,5,"Both are understandable , but"
-106,2213,5,"Both are understandable ,"
-107,2220,3,and it needs a key .
-108,2223,4,"Both are understandable , but"
-113,407,3,but
-114,494,2,and
-115,754,5,chart are both easy to interpret and clear to understand .
-116,1011,5,Both are pretty understandable .
-117,1143,2,"but it is better to have a key , and"
-118,1215,5,Both are pretty easy to understand .
-119,1439,5,"Both are pretty easy to understand , but"
-121,152,1,lack proper labels .
-123,213,2,and
-125,292,4,but
-126,413,1,and
-128,604,3,and
-130,758,2,especially in the box and
-131,846,5,"Both are easy to interpret , the color coding is well done ."
-132,898,5,Both are easy to interpret .
-133,998,5,Both are easy to understand .
-134,1100,2,but
-135,1112,1,and
-136,1153,4,understandable .
-137,1206,5,Both are easy to understand .
-138,1400,1,but
-139,1510,5,Both are easy to understand .
-140,1615,4,"Both are pretty good , but"
-141,1633,4,but
-142,1659,1,but the symbols and
-143,1748,4,"Both are easy to understand , but"
-144,1750,5,Both are easy to interpret .
-145,1802,4,but
-146,1838,5,Both are pretty easy to understand .
-147,1911,4,and
-148,2050,4,and
-149,2105,5,Both are understandable .
-150,2125,5,Both are easy to understand .
-151,2254,4,"Both are pretty easy to understand , but"
-152,2262,4,and
-153,2276,4,and
-154,2300,5,Both are pretty understandable .
-155,2327,4,and
-156,2152,5,"Both are easy to interpret , and"
-157,2194,5,but both are understandable .
-158,2215,4,but
-159,2252,3,but
-160,242,3,and
-161,909,4,but
-162,950,1,but
-163,1068,1,and
-164,1087,4,but
-165,1146,4,"Both are pretty easy to understand , but"
-166,1177,1,and
-167,1178,2,especially since the blue and
-168,1192,5,Both are easy to interpret .
-169,1205,2,but
-170,1232,1,but
-171,1246,1,and
-172,1294,1,and
-173,1326,1,but
-174,1576,1,and
-175,1751,4,but
-176,1821,2,especially since they are small and
-177,1946,4,hard to read .
-178,1953,4,but
-179,1963,4,but
-180,2007,5,Both are pretty understandable .
-181,2008,4,and
-182,2018,2,and
-183,2025,1,and
-184,2052,1,and
-185,2060,4,"graph are good , but the table information is very small ."
-186,2064,3,but
-187,2117,5,"Both are easy to understand , but"
-188,2163,2,and
-189,2253,4,but
-190,2293,1,and the graphs lines overlap a lot and
-191,2364,2,and the text and
-192,869,3,.
-195,1465,4,Simple representation of the graph makes it easy to perform low level information extraction .
-199,2211,2,methodology .
-0,82,5,Both the caption and
-3,196,4,"But it is interpretable , and"
-4,203,2,but it is somewhat understandable .
-5,290,3,"The chart is precise and clear , but"
-7,2360,4,Interpretable
-8,324,4,caption both are interpretable but
-9,332,5,Both are precise
-11,339,5,Very precise
-12,436,5,Precise and clear
-14,502,5,It 's interpretable
-15,572,4,but interpretable
-17,650,5,easy to interpret
-19,690,4,a bit cluttered but interpretable
-22,859,5,easily interpretable
-23,882,4,interpretable
-24,920,5,easy
-25,937,4,interpretable
-27,999,5,easily interpretable
-28,1081,4,interpretable
-29,1251,5,easily interpretable
-30,1277,4,interpretable
-31,1285,5,interpretable
-32,1295,5,interpretable
-33,1303,5,interpretable
-34,1601,5,Easy
-35,1711,5,easy
-36,1712,4,Interpretable
-37,1756,5,Easy
-38,1761,5,Easy
-40,1803,5,Easy
-41,1818,5,Easy
-42,1839,5,Easy
-43,1945,5,Easily Interpretable
-45,2065,5,Easy
-46,2124,5,Easy
-47,2129,5,Easy
-48,2218,5,Easy
-51,304,2,but
-53,330,5,Interpretable
-54,380,4,A bit long and cluttered
-55,433,4,A bit long and cluttered but understandable
-57,491,5,Seems fine
-60,614,3,but
-62,643,4,"It 's interpretable , but"
-63,658,4,Interpretable
-64,736,5,Easy
-66,839,5,Clear
-68,1006,2,cluttered
-71,1388,4,Interpretable
-72,1428,4,Interpretable
-73,1453,4,interpretable
-75,1519,2,A bit confusing
-76,1626,5,Easy
-77,1697,4,Interpretable
-79,1718,5,Easy
-82,1757,5,Easy
-85,1861,5,Easy
-87,1894,5,Easy
-88,1915,5,Easily interpretable
-89,1925,5,Easily interpretable
-91,1979,5,easy
-92,2016,5,Easy
-94,2054,5,Easy
-95,2061,5,"A bit overlapping , but it is interpretable"
-96,2071,4,Interpretable
-98,2103,5,easy
-99,2138,2,Visualization is cluttered
-100,2141,4,Interpretable
-101,2271,4,Interpretable
-102,2348,5,Easy
-103,2354,4,Interpretable
-104,2356,5,Easy
-106,2213,5,Easy
-108,2223,4,Interpretable
-109,2251,4,Interpretable
-111,220,3,and
-112,297,5,Clear and
-113,407,3,Long and a bit cluttered
-114,494,2,Both the chart and
-117,1143,5,easily interpretable
-119,1439,4,Interpretable
-120,149,5,caption are precise and clear
-121,152,3,and
-122,188,5,clear .
-124,236,2,still interpretable .
-125,292,5,Both the chart and
-126,413,4,but
-127,442,2,but
-131,846,5,clear
-132,898,4,interpretable
-133,998,4,interpretable
-136,1153,4,Interpretable
-137,1206,3,takes time but understandable
-138,1400,3,"Bit cluttered ,"
-139,1510,5,easy
-140,1615,5,Easy
-142,1659,4,Interpretable
-144,1750,5,Easy
-146,1838,5,Easy
-148,2050,5,easy
-149,2105,5,Easy
-150,2125,4,Interpretable
-152,2262,4,Interpretable
-153,2276,5,Easy
-154,2300,2,A bit confusing
-155,2327,4,Interpretable
-156,2152,5,Easy
-160,242,1,having envelopes and
-163,1068,1,very cluttered
-164,1087,5,easlity interpretable
-165,1146,3,takes time but interpretable
-166,1177,4,Interpretable
-167,1178,4,Understandable
-168,1192,5,easlity interpretable
-170,1232,2,it 's cluttered .
-171,1246,4,interpretable
-172,1294,2,CLuttered and
-176,1821,4,Interpretable
-177,1946,2,but
-178,1953,5,Easily interpretable
-179,1963,4,Interpretable
-180,2007,2,"Seems cluttered , and"
-181,2008,4,Interpretable
-183,2025,2,A bit confusing
-185,2060,4,Interpretable
-186,2064,1,Cluttered and
-189,2253,4,interpretable
-190,2293,3,Visualization is cluttered
-191,2364,4,Interpretable
-192,869,2,and
-193,1214,3,"it also takes time , but interpretable"
-194,1225,4,a and
-196,1503,4,Interpretable
-197,1581,4,interpretable
-3,196,5,Clear takeaway
-9,332,4,Clear takeaway
-10,337,4,Easy to understand
-11,339,5,Clear takeaway
-12,436,5,clear takeaway
-15,572,5,clear takeaway
-16,610,5,clear takeaway
-17,650,5,Easy to understand
-18,660,5,Easy takeaway
-19,690,5,Easy takeaway
-21,790,4,clear takeaway
-22,859,4,Easy to compare
-23,882,5,clear takeaway
-24,920,5,clear takeaway
-25,937,5,clear understanding
-27,999,5,clear takeaway
-29,1251,5,Clear takeaway
-32,1295,4,clear interpretation
-33,1303,4,clear takeaway
-35,1711,5,clear takeaway
-36,1712,3,but
-37,1756,4,Easy to understand and
-39,1779,5,clear labels are mentioned and easy to understand
-40,1803,5,Both caption and
-41,1818,5,Easy takeaway
-55,433,4,Easy to understand
-58,492,5,clear takeaway
-60,614,5,clear takeaway
-61,639,4,Easy to compare
-62,643,3,Difficult to understand and
-64,736,5,Easy takeaway
-70,1301,5,clear takeaway
-75,1519,5,but easy to understand
-79,1718,2,because it says current report but
-80,1726,5,easy to understand
-82,1757,5,clear takeaway
-85,1861,5,Easy takeaway
-86,1874,5,Both caption and
-93,2049,4,little bit confusing
-94,2054,4,The scale on both sides make it confusing
-101,2271,5,Easy takeaway
-112,297,5,Clear takeaway
-116,1011,5,clear takeaway
-117,1143,5,clear takeaway
-118,1215,4,clear takeaway
-125,292,4,Easy to understand
-129,676,4,Easy to understand
-132,898,5,clear takeaway
-136,1153,5,clear takeaway
-140,1615,5,caption not required .
-142,1659,5,The scales are consistent and well structured
-144,1750,4,"The 3D plot is hiding some bar behind them ,"
-146,1838,4,Both caption and
-151,2254,2,but
-152,2262,5,Easy takeaway
-155,2327,5,Easy takeaway
-160,242,4,clear takeaway
-164,1087,5,clear takeaway
-165,1146,4,Easy to understand
-167,1178,4,clear understanding
-170,1232,5,clear takeaway
-174,1576,2,also many visual elements present
-178,1953,4,but
-179,1963,5,Both caption and
-180,2007,2,which is confusing when looking together
-182,2018,4,but
-185,2060,3,little cluttered
-186,2064,4,Both caption and
-188,2163,3,overwhelming
-190,2293,2,and overwhelming
-192,869,5,clear takeaway
-195,1465,5,Easy to understand
+24,337,4,Easy to understand
+32,497,5,Both are easy to understand
+33,497,3,No clear takeaway.
+35,502,5,Both are easy to understand
+36,502,4,Easy to compare categories
+37,572,5,"labeled axes, caption summarizes main takeaway"
+38,572,5,"Both are easy to understand,"
+42,610,1,The trend or comparison is not clearly mentioned in both chart and caption
+45,660,5,Easy takeaway
+47,690,5,Both are easy to understand
+49,790,5,Easy to understand and clear takeaway
+50,790,5,Both are easy to interpret
+53,920,5,Both are very easy to understand
+59,994,5,Both are easy to understand
+61,999,5,Clear takeaway and easy to interpret
+62,999,5,Both are easy to interpret
+65,1081,5,Both are easy to interpret
+68,1251,5,Both are easy to understand
+74,1285,5,Both are pretty easy to understand
+77,1295,5,Both are easy to understand
+80,1303,5,Both are easy to understand
+81,1303,2,There is no clear takeaway that can be infered from the caption and also from the chart
+83,1601,5,Both are easy to understand
+87,1711,3,The caption does not fully cover the main trend from the charts
+89,1712,5,Both are easy to understand
+92,1761,5,Both are easy to understand
+94,1779,5,The chart's caption is long
+95,1779,5,"Both are easy to understand, "
+98,1803,5,Both are easy to understand
+101,1818,5,"Both are easy to understand, the trend is clear"
+102,1818,5,Easy takeaway
+104,1839,5,Both are easy to interpret
+107,1945,4,Both are understandable
+110,2062,5,Both are pretty easy to understand
+113,2065,5,Both are pretty easy to understand
+114,2065,3,the main takeaway is clearly not mentioned in both chart and caption.
+116,2124,5,Both are easy to understand
+133,330,4,Clear visual representation with a detailed caption
+139,433,4,"No legend included, the caption explains what the different lines mean along with providing detailed information"
+143,447,5,Both easy to understand
+146,491,5,Both are easy to understand
+153,614,5,clear takeaway
+154,639,4,The caption provides the main takeaways while the chart uses color coding to help understand the caption
+155,639,5,Both are easy to understand
+169,839,4,Clear takeaway
+170,839,5,Both are easy to interpret
+173,904,5,Both are easy to understand
+179,1044,5,"Both are easy to understand, "
+185,1388,5,Both are pretty easy to understand
+191,1453,5,Both are pretty easy to understand
+194,1499,5,Both are easy to interpret
+197,1519,5,Both are good easy to interpret
+200,1626,5,Both are easy to understand
+206,1715,5,"Both are easy to understand,"
+212,1726,5,Both are easy to understand
+221,1777,5,Both are easy to interpret
+230,1874,5,Both are pretty easy to understand
+233,1894,5,Both are easy to interpret
+242,1947,5,Both are pretty easy to understand
+245,1979,5,Both are pretty easy to understand
+254,2054,5,"Both are pretty understandable,"
+266,2356,4,"Both are pretty understandable, "
+269,2357,5,"Both are understandable,"
+272,2213,5,"Both are understandable, "
+278,2223,4,"Both are understandable, "
+296,754,5,The graphs chart are both easy to interpret clear to understand
+299,1011,5,Both are pretty understandable
+305,1215,5,Both are pretty easy to understand
+308,1439,5,"Both are pretty easy to understand,"
+326,846,5,"Both are easy to interpret, "
+329,898,5,Both are easy to interpret
+332,998,5,Both are easy to understand
+344,1206,5,Both are easy to understand
+350,1510,5,Both are easy to understand
+365,1750,5,Both are easy to interpret
+371,1838,5,Both are pretty easy to understand
+380,2105,5,Both are understandable
+383,2125,5,Both are easy to understand
+395,2300,5,Both are pretty understandable
+404,2194,5,both are understandable
+408,2215,4,Caption and chart both are required to interpret
+425,1146,4,"Both are pretty easy to understand,"
+434,1192,5,Both are easy to interpret
+441,1232,5,clear takeaway
+444,1246,2,no clear takeaways
+459,1821,4,No clear takeaway
+470,2007,5,Both are pretty understandable
+480,2074,1,no clear takeaway message
+490,2348,3,caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart
+496,2251,1,chart legend is repeated in the caption which is distracting
+500,149,2,Difficult to connect caption to the chart
+508,196,4,Caption summarizes the visualization Caption expands on the visualization components
+517,765,2,Caption describe the chart
+520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern
+535,442,2,Caption does not describe the visualization
+543,2025,2,"Caption contains explanation of terms used like box plot,"
+545,2060,5,Lack of domain knowledge makes it difficult to read the chart. Key takeaway is not clear looking at both.
+557,2253,4,The goal of the visualization is clear using both.
+563,2364,3,Lack of domain knowledge makes it difficult to understand the goal of the visualization.
+574,1465,4,The caption clearly mentions the visualization task
+578,1503,4,The takeaway message is clear after looking at both the chart and the caption
+580,1581,3,caption contains information missing in the graph
+595,1949,2,Caption describes the data used for creating the chart
+629,436,5,Precise and clear
+636,502,5,It's interpretable
+644,650,5,easy to interpret
+645,658,4,Interpretable
+677,1143,5,easily interpretable
+681,1178,4,Understandable
+689,1246,4,interpretable
+691,1277,4,interpretable
+698,1388,4,Interpretable
+699,2364,4,Interpretable
+700,1400,3,"Bit cluttered,"
+708,1519,2,A bit confusing
+711,1601,5,Easy
+732,1803,5,Easy
+734,1821,4,Interpretable
+736,1839,5,Easy
+741,1915,5,Easily interpretable
+743,1925,5,Easily interpretable
+747,1953,5,Easily interpretable
+751,2008,4,Interpretable
+756,2050,5,easy
+772,2141,4,Interpretable
+781,2223,4,Interpretable
+791,2300,2,A bit confusing
+795,2356,5,Easy
+796,2357,2,seems a bit confusing
