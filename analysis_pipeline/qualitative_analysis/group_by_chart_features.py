@@ -77,20 +77,8 @@ Label: """
     )
     return response.json()["response"].strip()
 
-def extract_label(sentence):
-    match = re.search(r'\b(useful|not_useful|neutral)\b', sentence, re.IGNORECASE)
-    if match:
-        return match.group(1).lower()
-    return None
-
-print("🧠 Thematic Coding Results:\n")
-i = 0
 for idx, reason in reasons.iterrows():
-    if i > 10:
-        break
-    # code = get_code(reason['reason'])
-    # reasons.at[idx, "usefulness"] = extract_label(code)
-    print(get_code(reason['reason']))
+    reasons.at[idx, "feature"] = get_code(reason['reason'])
     time.sleep(1)
 
-# reasons.to_csv("./data/reasons_chart_segment.csv", index=False)
+reasons.to_csv("./data/reasons_chart_segment.csv", index=False)
