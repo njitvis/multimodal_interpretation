@@ -85,4 +85,4 @@ for idx, reason in reasons.iterrows():
     reasons.at[idx, "sentiment"] = get_code(reason['reason'])
     time.sleep(1)
 
-reasons.to_csv("./data/reasons_caption_segment.csv", index=False)
+reasons.to_csv("./data/reasons_chart_segment.csv", index=False)

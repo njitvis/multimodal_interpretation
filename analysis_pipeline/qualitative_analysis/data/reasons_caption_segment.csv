@@ -1,520 +1,539 @@
-reason_id,image_id,rating,reason,feature,sentiment
-1,139,5,Easy to compare categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-2,139,4,The takeaway is not very clear,Aesthetics-Clarity-Comparison,Moderate Negative
-3,139,2,chart is dense,Visual Density / Clutter,**Moderate Negative**
-4,148,5,Easy to compare stabilization categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-5,148,4,"The trend is understandable,",Trend / Pattern Depiction,Neutral
-6,148,3,"Chart is dense, uses technical terms",Visual Density / Clutter,**Moderate Negative**
-7,203,5,Easy to compare ranges of yield change,Aesthetics-Clarity-Comparison,**Moderate Positive**
-8,203,4,The graph is hard to extract information from,Visual Density / Clutter,**Moderate Negative**
-9,203,3,It uses good color coding to show the percentage of crop yield projections across different ranges,Labels‑Titles‑Legend‑Scale,Moderate Positive
-10,2289,5,"Although the bars overlap, it is easy to compare the categories and find the main differences between dataset",Visual Density / Clutter,**Moderate Positive**
-11,2289,5,Both are easy to understand,Aesthetics-Clarity-Comparison,**Neutral**
-12,2289,5,The chart is more explainable,Aesthetics-Clarity-Comparison,**Moderate Positive**
-13,2360,5,Easy to interpret the chart and see the main trends without looking at the caption. Easy to interpret the chart,Aesthetics-Clarity-Comparison,**Moderate Positive**
-14,2360,4,the graph should have a key explaining the solid dotted line difference,Labels-Titles-Legend-Scale,**Moderate Negative**
-15,2360,4,"The visualization is clear,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-17,324,5,"The graph is easy to understand,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-18,324,1,"Chart a and c tells the same information, not sure why they are represented twice",Chart Type & Layout Choice,**Neutral**
-19,332,5,Easy to read labels and compare the categories to understand the relationship between capacity factor and investment costs ,Labels‑Titles‑Legend‑Scale,**Moderate Positive**
-20,332,4,the labels on the graph could be differentiated more,Labels-Titles-Legend-Scale,**Moderate Negative**
-21,332,1,"Why both charts are similar, what is the comparison between them",Aesthetics-Clarity-Comparison,**Neutral**
-23,337,5,The graph is understandable,Aesthetics-Clarity-Comparison,Neutral
-25,339,5,a clear chart makes it easy to understand the main trend,Aesthetics-Clarity-Comparison,**Moderate Positive**
-26,339,4,Hard to interpret what the symbols are representing on y-axis,Labels-Titles-Legend-Scale,Moderate Negative
-27,339,4,"Chart itself is sufficient to interpret it,",Aesthetics-Clarity-Comparison,Neutral
-28,436,5,Clear representations lines (shown in chart),Aesthetics-Clarity-Comparison,**Neutral**
-29,436,4,the graph should have a key,Labels-Titles-Legend-Scale,**Moderate Negative**
-30,436,2,The chart does not mention about the extra dots between the years,Labels-Titles-Legend-Scale,**Moderate Negative**
-31,497,5,Easy to compare the onshore and offshore categories Easy to compare the onshore offshore categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-33,497,3,"The chart does not show the trend clearly, and only explain about the labels. ",Trend / Pattern Depiction,**Moderate Negative**
-34,502,5,"Easy to read the labels, color categorization makes it easy to identify the main takeaway",Labels‑Titles‑Legend‑Scale,**Moderate Positive**
-37,572,5,"Clear time series and labeled axes, Clear time series",Aesthetics-Clarity-Comparison,**Moderate Positive**
-40,610,5,"The chart has color coding, it is well-organized . The chart has color coding, it is well-organized",Labels‑Titles‑Legend‑Scale,Moderate Positive
-43,660,5,The graph uses colors to represent 3 different categories making it easy to follow each line,Labels‑Titles‑Legend‑Scale,**Moderate Positive**
-44,660,4,The graph is a little hard to read,Aesthetics-Clarity-Comparison,**Moderate Negative**
-46,690,5,The chart is organized and labeled which helps with understanding the main takeaway The chart is organized labeled which helps with understanding the main takeaway,Aesthetics-Clarity-Comparison,**Moderate Positive**
-48,690,3,chart is useful to interpret the result,Aesthetics-Clarity-Comparison,**Moderate Positive**
-49,790,5,Easy to understand clear takeaway,Aesthetics-Clarity-Comparison,**Moderate Positive**
-52,920,5,Easy to compare categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-55,937,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The chart uses color coding thick lines to show the medians, the total range of models",Labels‑Titles‑Legend‑Scale,Neutral
-56,937,4,the x-y labels and titles are hard to read.,Labels-Titles-Legend-Scale,**Moderate Negative**
-58,994,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The different lines along with the shaded area conveys the main takeaway",Labels‑Titles‑Legend‑Scale,**Moderate Positive**
-61,999,5,Clear takeaway easy to interpret,Aesthetics-Clarity-Comparison,**Moderate Positive**
-63,999,4,"chart to interpret the takeaway, the line is clearly not mentioned in the chart",Aesthetics-Clarity-Comparison,**Moderate Negative**
-64,1081,5,Easy to see the annual average,Trend / Pattern Depiction,**Moderate Positive**
-67,1251,5,Easy to get the main takeaway and understand the difference between the color coded bars Easy to get the main takeaway understand the difference between the color coded bars,Labels‑Titles‑Legend‑Scale,**Moderate Positive**
-70,1277,5,The legend further helps in understanding the main takeaway. The words on the side explaining the y-axis is cut off. The words on the side explaining the y-axis is cut off The legend further helps in understanding the main takeaway,Labels-Titles-Legend-Scale,**Moderate Positive**
-71,1277,4,the labels are not visible,Labels-Titles-Legend-Scale,**Moderate Negative**
-73,1285,5,The chart shows the time series of the global annual ocean with color-code lines for different categories . The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,Trend / Pattern Depiction,**Moderate Positive**
-75,1285,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",Labels-Titles-Legend-Scale,**Moderate Negative**
-76,1295,5,The chart shows the time series of the global annual ocean with color-code lines for different categories The clear labels from the average time periods help in understanding the main trend The chart shows the time series of the global annual ocean with color-code lines for different categories data source The clear labels from the average time periods help in understanding the main trend,Trend / Pattern Depiction,**Neutral**
-78,1295,1,"The chart does mention the error region, it is not clear about the range of the confidence interval or why is it kept with different colors",Labels-Titles-Legend-Scale,**Moderate Negative**
-79,1303,5,the graph is easy to interpret,Aesthetics-Clarity-Comparison,**Moderate Positive**
-82,1601,5,Easy to read the labels and compare the pH levels Easy to read the labels compare the pH levels,Aesthetics-Clarity-Comparison,**Moderate Positive**
-85,1711,5,Easy to compare the categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-86,1711,4,the graph labels are small,Labels-Titles-Legend-Scale,**Moderate Negative**
-87,1711,3,both charts,Chart Type & Layout Choice,Neutral
-88,1712,5,Easy to see the heat content changing,Trend / Pattern Depiction,**Moderate Positive**
-91,1761,5,Easy to compare categories and read the labels Easy to compare categories read the labels,Aesthetics-Clarity-Comparison,**Moderate Positive**
-94,1779,5,The chart shows the comparison between the simulations and observations Each panel is well laid out and labeled so it is easy to compare the scenarios The chart shows the comparison between the simulations observations Each panel is well laid out labeled so it is easy to compare the scenarios includes an overview of the data,Aesthetics-Clarity-Comparison,**Moderate Positive**
-95,1779,5,the model's shadow shows the differences well,Trend / Pattern Depiction,**Moderate Positive**
-96,1779,4,"The visualization is clear,",Aesthetics-Clarity-Comparison,Moderate Positive
-97,1803,5,"Despite a lot of elements, the chart shows the main trend with using different colors and symbols to help differentiate between data clearly",Trend / Pattern Depiction,Moderate Positive
-99,1803,4,The horizontal bar chart is clear with error bars,Aesthetics-Clarity-Comparison,**Moderate Positive**
-103,1839,5,The scatter plot shows the relationship between the x and y axis The line of best fit clearly shows the trend. Clear representation makes it easy to interpret,Aesthetics-Clarity-Comparison,**Moderate Positive**
-105,1839,4,"The axis are well labeled, and the use of colors make it more interpretable. ",Labels-Titles-Legend-Scale,**Moderate Positive**
-106,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions,Aesthetics-Clarity-Comparison,**Moderate Positive**
-108,1945,3,The chart is interpretable,Aesthetics-Clarity-Comparison,**Neutral**
-109,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them,Aesthetics-Clarity-Comparison,**Moderate Positive**
-111,2062,3,Chart have many terms and abbreviations,Labels-Titles-Legend-Scale,**Neutral**
-112,2065,5,"The use of 2 box plots to show the two scenarios makes it easy compare them. Furthermore, the chart includes two different time periods and multiple technologies While this adds complexity, it also provides a good overview of the data",Aesthetics-Clarity-Comparison,**Moderate Positive**
-114,2065,3,The chart is easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-115,2124,5,Easy to compare the categories and see the main trend Easy to compare the categories see the main trend,Aesthetics-Clarity-Comparison,**Moderate Positive**
-117,2124,3,"The chart have some trends, not sure which trend to look at,",Trend / Pattern Depiction,Neutral
-118,2218,5,Easy to compare the categories and see the main trends Easy to compare the categories see the main trends,Aesthetics-Clarity-Comparison,**Moderate Positive**
-119,2218,4,the graph labels are unclear,Labels-Titles-Legend-Scale,**Moderate Negative**
-120,2218,1,The label says -20% it is confusing in the chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-121,112,4,The design and clarity can be improved. The design clarity can be improved,Aesthetics-Clarity-Comparison,**Moderate Negative**
-122,112,2,Difficult to understand the trends,Trend / Pattern Depiction,**Moderate Negative**
-125,126,3,"The graphs are easy to understand,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-126,126,3,Different color are used to represent in different charts for the same label And also the axis scale is different,Labels-Titles-Legend-Scale,**Neutral**
-127,304,4,The chart provides useful information to understand the data,Aesthetics-Clarity-Comparison,Moderate Positive
-128,304,3,the labels are hard to read on the graph,Labels-Titles-Legend-Scale,**Moderate Negative**
-129,304,3,Difficult to read labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-130,317,4,Colors and labels are used effectively to convey the main takeaway Colors labels are used effectively to convey the main takeaway,Labels-Titles-Legend-Scale,**Moderate Positive**
-131,317,5,The graph is well made easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-134,330,5,The graphs are easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-136,380,4,does not provide the clear takeaway,Aesthetics-Clarity-Comparison,**Moderate Negative**
-137,380,3,The graph labels are hard to read,Labels-Titles-Legend-Scale,Moderate Negative
-139,433,4,No legend included,Labels-Titles-Legend-Scale,**Moderate Negative**
-140,433,5,The graph is easy to understand,Aesthetics-Clarity-Comparison,Moderate Positive
-144,447,3,The labels are not clear,Labels-Titles-Legend-Scale,Moderate Negative
-145,491,4,The use of labels helps in understanding the main takeaways,Labels-Titles-Legend-Scale,**Moderate Positive**
-147,491,5,Easy to compare categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-148,492,4,Easy to interpret with use of labels,Labels-Titles-Legend-Scale,**Moderate Positive**
-149,492,4,graph is understandable,Aesthetics-Clarity-Comparison,Neutral
-150,492,4,The chart clearly explains the labels,Labels-Titles-Legend-Scale,**Moderate Positive**
-151,614,4,It is difficult to grasp the key points since there are too many words on the chart,Visual Density / Clutter,**Moderate Negative**
-152,614,3,the graph is very wordy hard to read,Visual Density / Clutter,**Strong Negative**
-154,639,4,the chart uses color coding to help understand the caption,Labels-Titles-Legend-Scale,**Neutral**
-156,639,4,Easy to compare,Aesthetics-Clarity-Comparison,**Moderate Positive**
-157,643,4,"Too many categories are present in the chart, but they are well organized and labeled Too many categories are present in the chart, they are well organized labeled",Visual Density / Clutter,**Moderate Negative**
-158,643,3,The graph is hard to understand,Aesthetics-Clarity-Comparison,**Moderate Negative**
-159,643,3,Difficult to understand,Aesthetics-Clarity-Comparison,**Moderate Negative**
-160,658,4,Clear representation with a clear break down of cost and efficiency improvements The format of this chart is not the standard Clear representation with a clear break down of cost efficiency improvements The format of this chart is not the standard,Chart Type & Layout Choice,Moderate Positive
-161,658,5,The graph is very well made,Aesthetics-Clarity-Comparison,**Strong Positive**
-163,736,4,complex data requires interpretation,Aesthetics-Clarity-Comparison,**Neutral**
-164,736,4,the graphs a little unclear hard to read,Aesthetics-Clarity-Comparison,**Moderate Negative**
-165,736,4,"The chart capture the trend, but the chart is little complex to understand",Aesthetics-Clarity-Comparison,**Moderate Negative**
-166,828,4,Overlapping lines makes it difficult to interpret But the annual mean is shown which helps Overlapping lines makes it difficult to interpret But the annual mean is shown which helps,Visual Density / Clutter,**Moderate Negative**
-167,828,1,"It is extremely hard to differentiate the colors on the graph, we don't know what each color represents",Labels-Titles-Legend-Scale,**Strong Negative**
-168,828,3,No proper labeling is stated in chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-169,839,4,Clear visualization that shows temperature changes,Aesthetics-Clarity-Comparison,Moderate Positive
-172,904,4,"chart has different curves representing different depths and locations. The x-axis and y-axis are clear, and the captions helps with the interpretation. No legend is present. locations The x-axis y-axis are clear, No legend is present",Labels-Titles-Legend-Scale,**Neutral**
-175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex,Labels‑Titles‑Legend‑Scale,**Moderate Neutral**
-176,1006,2,the graph is very hard to read tell the difference between the many labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-177,1006,2,labels are not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
-178,1044,4,"Too many lines and shaded regions makes the chart more complicated, Too many lines shaded regions makes the chart more complicated,",Visual Density / Clutter,**Moderate Negative**
-179,1044,5,the colors are clear on the graph,Labels-Titles-Legend-Scale,Moderate Positive
-181,1301,4,"The chart includes various components represent by different patterns and colors Furthermore, the blue/grey shaded areas add additional visual elements The chart includes various components represent by different patterns colors it adds to the complexity Furthermore, the blue/grey shaded areas add additional visual elements",Visual Density / Clutter,**Neutral**
-182,1301,4,The graph some labels are small,Labels-Titles-Legend-Scale,**Moderate Negative**
-184,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given,Trend / Pattern Depiction,**Moderate Positive**
-187,1428,4,"The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns. The use of multiple sources makes the chart somewhat clutters, but it is interpretable The chart effectively shows the ranges of lifecycle GHG emissions for various fuel categories using different patterns The use of multiple sources makes the chart somewhat clutters, it is interpretable",Aesthetics-Clarity-Comparison,**Moderate Positive**
-188,1428,4,"Both are okay, the graph labels are a little small",Labels-Titles-Legend-Scale,**Neutral**
-189,1428,1,bars inside the chart is little confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-190,1453,4,The chart conveys the main takeaway but the multiple components and no legend for the different symbols and colors found in the chart make it a little hard to interpret The chart conveys the main takeaway the multiple components no legend for the different symbols colors found in the chart make it a little hard to interpret,Aesthetics-Clarity-Comparison,**Moderate Negative**
-192,1453,3,The chart no straight forward takeaway,Aesthetics-Clarity-Comparison,Moderate Negative
-193,1499,4,the graph includes a legend and it is somewhat easy to understand the errors bars. the graph includes a legend it is somewhat easy to understand the errors bars This visualization effectively shows the differences between the categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-195,1499,4,The black lines are not fully mentioned in chart but could be infered as error lines,Aesthetics-Clarity-Comparison,**Moderate Negative**
-196,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable,Trend / Pattern Depiction,**Moderate Positive**
-199,1626,4,"Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line and the r^2 Clear representation with some complexity, no legend is present in the graph, making it somewhat interpretable You can see the overall trend by looking at the regression line the r^2",Aesthetics-Clarity-Comparison,**Moderate Positive**
-201,1626,2,The labels are not mentioned in the chart,Labels-Titles-Legend-Scale,Moderate Negative
-202,1697,4,Somewhat easy to compare the categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-203,1697,4,some of the labels are blurry on the graph,Labels-Titles-Legend-Scale,Moderate Negative
-204,1697,2,labels are not clearly mentioned for the first chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-205,1715,4,Multiple panels and detailed context add complexity making it somewhat confusing Multiple panels,Visual Density / Clutter,**Moderate Negative**
-207,1715,3,The chart contains multiple ranges which is confusing in the first glance,Aesthetics-Clarity-Comparison,**Moderate Negative**
-208,1718,4,"Clear representation with consistent color coding, making it somewhat interpretable",Aesthetics-Clarity-Comparison,**Moderate Positive**
-209,1718,3,"The graph is kind of confusing with the red blue, the different year labels",Labels-Titles-Legend-Scale,**Moderate Negative**
-211,1726,4,the multiple elements make it somewhat interpretable,Visual Density / Clutter,**Neutral**
-213,1726,5,Labels are clearly mentioned easy to understand,Labels-Titles-Legend-Scale,**Moderate Positive**
-214,1755,4,The graph is easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-215,1755,5,the graph should have a title,Labels-Titles-Legend-Scale,Neutral
-217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,",Labels-Titles-Legend-Scale,**Moderate Positive**
-220,1777,4,The visualization includes multiple panels for different regions and periods. The use of these panels adds to the complexity The visualization includes multiple panels for different regions periods The use of these panels adds to the complexity,Chart Type & Layout Choice,**Moderate Negative**
-222,1777,2,The charts in the right does not clearly interpret,Labels-Titles-Legend-Scale,**Moderate Negative**
-223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars",Aesthetics-Clarity-Comparison,**Moderate Neutral**
-224,1790,4,"the graph labels ranges are very small, so it is hard to tell what value they correlate to",Labels-Titles-Legend-Scale,**Moderate Negative**
-226,1861,4,The legend and well-defined axes make the charts somewhat interpretable The legend well-defined axes make the charts somewhat interpretable,Labels-Titles-Legend-Scale,**Neutral**
-228,1861,3,"The chart does seem to use some symbols like triangle, circle that are not fully explained within the visualization itself and require very large caption.",Labels-Titles-Legend-Scale,Moderate Negative
-229,1874,4,"clearly observable trend. The use of symbols helps to differentiate the data points. The scatter plot shows the relationship between the x y axis, the data points arrows clearly show the trends The use of symbols helps to differentiate the data points",Trend / Pattern Depiction,**Moderate Positive**
-231,1874,4,"The visualization is clear allows for comparison,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-232,1894,4,"The chart has annotations and different comparison lines making it harder to quickly understand the main takeaway. The use of specific scientific terms might not be immediately clear to everyone. The addition of the error bars also adds another layer of information, which can complicate the overall interpretation The chart has annotations different comparison lines making it harder to quickly understand the main takeaway The use of specific scientific terms might not be immediately clear to everyone The addition of the error bars also adds another layer of information, which can complicate the overall interpretation",Aesthetics-Clarity-Comparison,**Moderate Negative**
-234,1894,2,The label in x-axis is confusing to understand there are 4 groups only 3 wordings/labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-235,1915,4,"The chart has two parts, the addition of these panels makes it complex, but it does provide an overall overview of the data given. The color-coded map shows the positive and negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable The chart has two parts, the addition of these panels makes it complex, it does provide an overall overview of the data given The color-coded map shows the positive negative trends The line graph can be a little difficult to interpret since there are overlapping lines, making it somewhat interpretable",Visual Density / Clutter,**Moderate Negative**
-236,1915,4,"the top graph is understandable, the bottom graph should include axis labels",Labels-Titles-Legend-Scale,**Moderate Positive**
-238,1925,4,The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends The cline graphs show the trends for both hemispheres with different symbols The linear trends provides more clarity about the main trends,Trend / Pattern Depiction,**Neutral**
-239,1925,4,the graph should include a key to explain the different lines,Labels-Titles-Legend-Scale,**Neutral**
-241,1947,4,"The chart shows different panels for different scenarios Despite the detailed context, the visual clarity makes the charts somewhat interpretable It is long informative, adds complexity to the interpretation The chart shows different panels for different scenarios",Visual Density / Clutter,**Moderate Positive**
-243,1947,3,There are many details in chart I did not find any clear takeaway,Visual Density / Clutter,**Moderate Negative**
-244,1979,4,"The chart shows the main key takeaways, but the multiple components make it complex The chart shows the main key takeaways, the multiple components make it complex",Visual Density / Clutter,**Moderate Negative**
-246,1979,3,"The chart is easy to interpret, ",Aesthetics-Clarity-Comparison,Moderate Positive
-247,2016,4,"The use of color coding in the map helps see the variations in the anomalies. But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values and blue bars are the negative values. Despite the detailed information, the representation is clear. The chart lacks detailed labels that could help in the interpretation. The use of color coding in the map helps see the variations in the anomalies But the time graph can be confusing to understand, using the visual clues it can be seen that red bars is for positive values blue bars are the negative values Despite the detailed information, the representation is clear The chart lacks detailed labels that could help in the interpretation",Aesthetics-Clarity-Comparison,**Moderate Positive**
-248,2016,4,The graph is pretty good,Aesthetics-Clarity-Comparison,Moderate Positive
-249,2016,3,"The chart does not mention about the color scale used for world map, need to have some assumptions of the color scale for chart only",Labels-Titles-Legend-Scale,Moderate Negative
-250,2049,4,"The graphs contain a lot of data points and trend lines that are presented clearly. Although the chart effectively conveys the main trends, the lack of detailed labels and annotations might make it harder to interpret the small specific finding without any additional context. The graphs contain a lot of data points trend lines that are presented clearly Although the chart effectively conveys the main trends, the lack of detailed labels",Aesthetics-Clarity-Comparison,**Moderate Positive**
-251,2049,4,the graph data doesn't have a key for the symbols,Labels-Titles-Legend-Scale,**Moderate Negative**
-253,2054,4,The legend and clear representations make it charts somewhat interpretable The legend clear representations make it charts somewhat interpretable,Labels-Titles-Legend-Scale,**Neutral**
-255,2054,4,the color scale in the chart is little bit confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-256,2061,4,"The chart's use of consistent color coding and multiple types of vehicles adds to the complexity but provides a good overview of the data. The clear axes and legend help in the interpretation, but many require more context for full understanding The chart's use of consistent color coding multiple types of vehicles adds to the complexity provides a good overview of the data The clear axes legend help in the interpretation,",Aesthetics-Clarity-Comparison,Moderate Positive
-257,2061,4,the graph is pretty understandable,Aesthetics-Clarity-Comparison,Moderate Positive
-259,2071,4,"There is no legend present in the chart, making it difficult to understand what each color means. Each panel presents data using different symbols and colors to represent the different measurements. However, the complexity of the data can make it somewhat challenging to graph the main trends There is no legend present in the chart, making it difficult to understand what each color means Each panel presents data using different symbols colors to represent the different measurements However, the complexity of the data can make it somewhat challenging to graph the main trends",Labels-Titles-Legend-Scale,**Moderate Negative**
-260,2071,4,the graph should have a key for the colors,Labels-Titles-Legend-Scale,**Moderate Negative**
-262,2271,4,"The chart has a clear representation with 2 panels, but each panel uses different line styles and bard to represent the different datasets However, this adds more complexity to the interpretation of the chart The chart has a clear representation with 2 panels, each panel uses different line styles bard to represent the different datasets However, this adds more complexity to the interpretation of the chart",Chart Type & Layout Choice,**Moderate Negative**
-263,2271,5,graphs are interpretable,Aesthetics-Clarity-Comparison,**Neutral**
-265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable",Aesthetics-Clarity-Comparison,**Moderate Neutral**
-266,2356,4,the graph should have a key,Labels-Titles-Legend-Scale,**Neutral**
-267,2356,4,"The chart is clear allows for comparison,",Aesthetics-Clarity-Comparison,Moderate Positive
-268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex,Aesthetics-Clarity-Comparison,**Moderate Positive**
-271,2213,4,"The charts show the long-term trends and provides a comparison. The clear axes and legends help in the understanding of the data, but the technical nature of the content might be overwhelming. the variables shown in each panel The charts show the long-term trends provides a comparison The clear axes legends help in the understanding of the data, the technical nature of the content might be overwhelming",Aesthetics-Clarity-Comparison,**Moderate Positive**
-272,2213,5,"the trend is present in the graph well,",Trend / Pattern Depiction,Neutral
-274,2220,4,The use of different colors and line styles helps compare the categories The bars at the end represents the ranges and helps interpretating the chart The use of different colors line styles helps compare the categories The bars at the end represents the ranges helps interpretating the chart,Aesthetics-Clarity-Comparison,**Moderate Positive**
-275,2220,3,"the graph formatting is a little confusing, it needs a key",Labels-Titles-Legend-Scale,**Moderate Negative**
-276,2220,4,"The chart is clear allows for comparison, the main takeaway or highlight of important trend is not mentioned",Aesthetics-Clarity-Comparison,**Moderate Negative**
-277,2223,4,"The visualization has 2 panels, which adds complexity, but it also gives a good overview of the data The visualization has 2 panels, which adds complexity, it also gives a good overview of the data",Chart Type & Layout Choice,**Moderate Positive**
-278,2223,4,the graph needs a key,Labels-Titles-Legend-Scale,**Moderate Negative**
-280,184,3,the different colored line don't have a clear definition,Labels-Titles-Legend-Scale,Moderate Negative
-282,184,2,"There are many labels and legend in the axis, and the means in note immediately clear. ",Labels-Titles-Legend-Scale,**Moderate Negative**
-283,220,3,Complex representation of the CO2 injection scenarios,Chart Type & Layout Choice,**Neutral**
-286,297,3,No legend is present to explain the non-linear lines,Labels-Titles-Legend-Scale,**Moderate Negative**
-287,297,5,The graph is easy to understand,Aesthetics-Clarity-Comparison,Moderate Positive
-288,297,2,"chart tell about the labels used, but there is no mention what the intent for the chart is.",Labels-Titles-Legend-Scale,**Neutral**
-289,407,3,"the chart is blurry, 
-Difficult to read the chart",Aesthetics-Clarity-Comparison,**Moderate Negative**
-290,407,3,the graph labels are hard to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-291,407,5,Easy to compare categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-292,494,3,"Hard to interpret the multiple categories on the chart, 
-",Visual Density / Clutter,Moderate Negative
-293,494,2,the graph is very hard to read,Aesthetics-Clarity-Comparison,**Strong Negative**
-294,494,4,Easy to compare categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-295,754,3,overlapping lines adds more complexity,Visual Density / Clutter,**Moderate Negative**
-297,754,3,"Some inconsistency inside the charts are not mentioned properly like the suddent spike in red bars, the reasoning is not provided",Aesthetics-Clarity-Comparison,Moderate Negative
-298,1011,3,multiple bars no legend for the colors of the bars makes it somewhat confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-300,1011,1,"The chart is more prone to misinterpreting the change, it would be better to keep the change in vertical instead of horizontal because it is more interpretable as increasing",Trend / Pattern Depiction,**Moderate Negative**
-301,1143,3,"Overlapping data and no legend found in the graph, this makes it difficult to fully understand the main takeaway ",Visual Density / Clutter,**Moderate Negative**
-302,1143,2,"it is better to have a key, the graph hard to read with the label intersections",Labels-Titles-Legend-Scale,**Moderate Negative**
-303,1143,1,"trend lines are visible, but no takeaway can be taken from chart",Trend / Pattern Depiction,**Neutral**
-304,1215,3,"The chart presents various categories using box plots, symbols like diamonds and individual data points. The graphs uses colors and symbols which adds complexity Visual elements make it somewhat confusing. The chart presents various categories using box plots, symbols like diamonds individual data points. The graphs uses colors symbols which adds complexity it takes time to understand. Visual elements make it somewhat confusing",Aesthetics-Clarity-Comparison,**Moderate Negative**
-306,1215,2,The mention of min max in the bar graph is little misleading when checking the bottom bars for negative change,Labels-Titles-Legend-Scale,**Moderate Negative**
-307,1439,3,The chart uses different symbols and color to represent various ranges The chart uses different symbols color to represent various ranges While the legend lines can be a little confusing to interpret at first glance,Labels-Titles-Legend-Scale,Moderate Negative
-311,213,2,the graph is hard to read,Aesthetics-Clarity-Comparison,**Moderate Negative**
-312,213,2,the trend in the chart is visible,Trend / Pattern Depiction,Neutral
-313,236,2,Difficult  to interpret the representation of temperature projections,Aesthetics-Clarity-Comparison,**Moderate Negative**
-314,236,2,The graph is very hard to read with all the tiny symbols,Visual Density / Clutter,**Strong Negative**
-315,236,3,Difficult to read labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-316,604,2,hard to compare the categories,Aesthetics-Clarity-Comparison,Moderate Negative
-317,604,3,the graph labels are hard to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-318,604,4,Easy to compare categories,Aesthetics-Clarity-Comparison,**Moderate Positive**
-319,676,2,"- Hard to understand the graph, as there are 2 graphs in the big graph 
-- The chart has 2 y-axis and it is visually complex - There is no legend for the different colored lines - Hard to understand the graph, as there are 2 graphs in the big graph 
-- The chart has 2 y-axis it is visually complex - There is no legend for the different colored lines",Visual Density / Clutter,**Moderate Negative**
-320,676,2,The graph is very hard to read,Visual Density / Clutter,**Strong Negative**
-321,676,4,Easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-322,758,2,Multiple elements makes it confusing and also the clarity of the second graph is not clear even after zooming in. The color coding and symbols help but the complexity of the data require effort to interpret.,Aesthetics-Clarity-Comparison,**Moderate Negative**
-323,758,2,"the graph is hard to read It is hard to tell the difference in colors labels, especially in the box whisker plot",Labels-Titles-Legend-Scale,**Moderate Negative**
-324,758,3,Labels are not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
-325,846,2,"Complex bar chart under multiple scenarios for the year of 2050. But the chart itself is cluttered with multiple bars for each region and scenarios, making it difficult to grasp what is the main takeaway. The overlapping data and use of different colors add more to the confusion.",Visual Density / Clutter,**Moderate Negative**
-326,846,5,the color coding is well done,Labels-Titles-Legend-Scale,**Moderate Positive**
-328,898,2,"Although there is a legend in the chart, the multiple lines representing different regions is confusing. The dual y-axes add more to the complexity, making it harder to quickly analyze the chart. ",Labels-Titles-Legend-Scale,**Moderate Negative**
-331,998,2,"Multiple data points the vertical horizontal dashes line, increase the complexity of the data as the reader has to interpret multiple aspects of the chart",Visual Density / Clutter,**Moderate Negative**
-333,998,3,The chart is confusing to understand also the reference lines along y-axis is little confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-334,1100,2,"The graph's resolution is low, the graph is blurry There is no legend present, explaining the different colors what do they mean",Labels-Titles-Legend-Scale,**Moderate Negative**
-335,1100,2,the graph labels are hard to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-336,1100,4,Easy to compare categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-337,1112,2,Multiple lines different colors make it hard to interpret the main takeaway,Aesthetics-Clarity-Comparison,**Moderate Negative**
-338,1112,1,the graph is very hard to read with the many unlabeled intersecting lines,Visual Density / Clutter,**Strong Negative**
-339,1112,2,"The lines are overlapping on each other mentioning of some axis notation on the right side, which is not clear",Visual Density / Clutter,**Moderate Negative**
-340,1153,2,overlapping lines with the different data sets makes it hard to follow the trends,Visual Density / Clutter,**Moderate Negative**
-341,1153,4,the graph is a little hard to read understandable,Aesthetics-Clarity-Comparison,**Neutral**
-343,1206,2,"The chart includes multiple categories with detailed visual elements, overlapping data points, addition symbols like red diamonds, all of which make it hard to interpret",Visual Density / Clutter,**Moderate Negative**
-345,1206,4,Easy to compare categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-346,1400,2,The chart includes comparisons between pink blue countries across different time periods The comparison between the different scenarios takes careful interpretation to understand the main takeaways Multiple elements makes it somewhat confusing,Aesthetics-Clarity-Comparison,**Moderate Negative**
-347,1400,1,the graph lines are very hard to understand The differences in representation is very small that it is hard to tell,Aesthetics-Clarity-Comparison,**Moderate Negative**
-348,1400,3,Lines are not labeled,Labels-Titles-Legend-Scale,Moderate Negative
-349,1510,2,"The visualization includes multiple categories such as causes, consequences, costs separated into 3 sections for developing, developed, global totals Each section includes graphs for sub-categories for dryland loss, wetland loss, etc While the visualization effectively conveys the potential impacts, the multiple elements details to focus on make it somewhat confusing",Visual Density / Clutter,**Moderate Negative**
-352,1615,2,"The chart has 1 main panel with 4 additional panels This adds complexity contributions which is informative But, making the comparisons between the different factors makes it difficult to interpret",Chart Type & Layout Choice,**Moderate Negative**
-353,1615,4,the first graph the black red are hard to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-355,1633,2,"The visualization has multiple panels, making it difficult to focus on one panel The different changes are shown each panel uses different colors since there are too many of the little panels, it becomes hard to make any observations , although it summarizes the main trend I have to zoom in to see the dashed lines the solid lines to make any interpretation",Visual Density / Clutter,**Moderate Negative**
-356,1633,4,the graphs are a little small,Chart Type & Layout Choice,**Moderate Negative**
-357,1633,4,"The visualization is complex,",Visual Density / Clutter,**Moderate Negative**
-358,1659,2,"The visualization includes 4 panels showing different precipitations for different countries The use of multiple panels adds to the complexity The chart shows different ratios for each panel, it takes time careful interpretation to understand the difference between the models",Chart Type & Layout Choice,**Moderate Negative**
-359,1659,1,the symbols labels on the graph are hard to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-360,1659,2,"The legend seems to be crowded, making it difficult to distinguish between the models, overlapping datapoints add some visual clutter",Visual Density / Clutter,**Moderate Negative**
-361,1748,2,Multiple panels make it hard analyze the full context of these graphs,Chart Type & Layout Choice,**Moderate Negative**
-362,1748,4,the graph labels can be bigger,Labels-Titles-Legend-Scale,**Moderate Positive**
-363,1748,1,"The year are not consistent between the left top (a) bottom charts (b,c), which in overview inferring same years",Labels-Titles-Legend-Scale,**Moderate Negative**
-364,1750,2,"This visualization includes multiple 3D bar graphs with the use of multiple components adds complexity scenarios, which is informative also adds to the overall complexity",Chart Type & Layout Choice,**Moderate Negative**
-366,1750,2,"The 3D charts are making it difficult to compare values, color encoding is not intuitive, does not summarize the main takeaway",Aesthetics-Clarity-Comparison,**Moderate Negative**
-367,1802,2,The scatterplot involves technical terms which require background knowledge to fully understand,Labels-Titles-Legend-Scale,**Neutral**
-368,1802,4,the graph format should be different,Chart Type & Layout Choice,**Moderate Negative**
-370,1838,2,it can be hard to compare each panel compare data The complexity in the last panel makes it somewhat confusing,Aesthetics-Clarity-Comparison,**Moderate Negative**
-372,1838,3,"The charts are very dense, with overlapping lines, ",Visual Density / Clutter,**Moderate Negative**
-373,1911,2,There are multiple components details that need to be focused on which make it somewhat confusing The legend doesn't include what the solid dashed lines mean Confusing to find the main trend of the chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-374,1911,4,"the graph should include info about what the vertical lines stand for, format the data differently visually",Labels-Titles-Legend-Scale,Moderate Negative
-375,1911,4,Takes some time to understand there are different countries,Aesthetics-Clarity-Comparison,Neutral
-376,2050,2,"Different colors symbols are used for different purposes, it can be confusing to understand what they mean The chart includes many panels which adds to the complexity makes it harder to get an overall main takeaway of the date",Labels-Titles-Legend-Scale,**Moderate Negative**
-377,2050,4,the graph should have a key for each data point,Labels-Titles-Legend-Scale,**Neutral**
-379,2105,2,"The chart shows a comparison between the historical observations, present simulations, future climate projects however, the multiple components, the lines on b,c,and d make it hard to interpret which makes it somewhat confusing",Visual Density / Clutter,**Moderate Negative**
-381,2105,2,The bell curves are drawn in different time range which is difficult to compare or understand,Aesthetics-Clarity-Comparison,Moderate Negative
-382,2125,2,"The charts use different colors lines to show the historical project changes The clear axes legends somewhat help in understanding However, just looking at the chart won't help in the interpretation The bar on the right side is also hard to see see the ranges",Aesthetics-Clarity-Comparison,**Moderate Negative**
-385,2254,2,The chart has labels that are hard to read. There is no legend present in the chart.,Labels-Titles-Legend-Scale,**Moderate Negative**
-386,2254,4,a few labels on the graph are blurry,Labels-Titles-Legend-Scale,Moderate Negative
-387,2254,2,"The chart represented in different colors, no label mentioned what color means",Labels-Titles-Legend-Scale,**Neutral**
-388,2262,2,it is hard to find a main key takeaway without spending some time understanding what each line style/colors mean,Labels-Titles-Legend-Scale,**Moderate Negative**
-389,2262,4,"The graph should include a key to explain the colors, the lines overlap a lot",Labels-Titles-Legend-Scale,**Moderate Negative**
-390,2262,2,There are many overlapping lines in the charts,Visual Density / Clutter,**Moderate Negative**
-391,2276,2,The chart uses different scales to represent the different datasets which makes it somewhat confusing to interpret the data,Labels-Titles-Legend-Scale,**Moderate Negative**
-392,2276,4,the graphs should be separated   instead of placed together on the same axis,Chart Type & Layout Choice,**Moderate Negative**
-393,2276,4,It is better to have separate lines in between different categories to increase interpretability in my opinion,Aesthetics-Clarity-Comparison,**Moderate Positive**
-394,2300,2,"The 3 panels show different results, it hard to compare them Furthermore, the chart includes grey region that the lines go into which also makes it somewhat confusing",Aesthetics-Clarity-Comparison,Moderate Negative
-397,2327,2,"Each panel uses different colored lines symbols to represent different models However, the use of multiple colors lines make it somewhat challenging to grasp the main trends",Visual Density / Clutter,**Moderate Negative**
-398,2327,4,"For the bottom graph, some of the graph lines are hard to read,",Aesthetics-Clarity-Comparison,**Moderate Negative**
-400,2152,2,The use of multiple components adds to the complexity of interpretation.,Visual Density / Clutter,**Moderate Negative**
-401,2152,5,display the trend well,Trend / Pattern Depiction,**Moderate Positive**
-402,2152,3,The bottom chart is less interpretable,Aesthetics-Clarity-Comparison,Moderate Negative
-403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a),Visual Density / Clutter,**Moderate Neutral**
-405,2194,1,The x-axis label is very confusing unable to determine the ticks with years,Labels-Titles-Legend-Scale,**Moderate Negative**
-406,2215,2,"The visualization includes 2 panels, the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends",Visual Density / Clutter,**Moderate Negative**
-407,2215,4,the graph formatting could be better,Chart Type & Layout Choice,**Moderate Negative**
-409,242,1,Difficult to interpret the main takeaway There is no legend The bars at the end of the orange envelope are blurry,Labels-Titles-Legend-Scale,**Moderate Negative**
-410,242,3,"The graph is hard to read,",Aesthetics-Clarity-Comparison,**Moderate Negative**
-411,242,3,More details are required to know about the takeaway for the chart,Aesthetics-Clarity-Comparison,**Neutral**
-412,909,1,"multiple bars and categories make it confusing to understand what the main takeaways are Although, the chart is labeled the layout is dense",Visual Density / Clutter,**Moderate Negative**
-413,909,4,"The graph is well made,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-415,950,1,"Too many graphs, graph is blurry, low resolution Multiple bar plots scenarios add to the complexity",Visual Density / Clutter,**Moderate Negative**
-416,950,1,"the graphs are very hard to read, especially the smaller ones",Visual Density / Clutter,**Moderate Negative**
-417,950,3,Difficult to read labels in chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-418,1068,1,"Too much information is provided in the chart, even though there is a legend, multiple data points symbols make it difficult to interpret",Visual Density / Clutter,**Moderate Negative**
-419,1068,1,the graph is very hard to read with the many labels intersecting each other Even the graph key is hard to read,Visual Density / Clutter,**Moderate Negative**
-420,1068,1,Many labels confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-421,1087,1,The graph itself is very complex with multiple overlapping lines representing different time periods. The error bars also makes it more difficult to grasp the main takeaway,Visual Density / Clutter,**Moderate Negative**
-422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels",Trend / Pattern Depiction,**Moderate Neutral**
-424,1146,1,"This visualization consists of 6 bar graphs, broken down into different regions aerosols error bars. However the overall layout is cluttered with many bars, colors codes and error bars. The dense information make it difficult to quickly understand takeaway",Visual Density / Clutter,**Moderate Negative**
-425,1146,4,the graphs could be bigger,Visual Density / Clutter,**Moderate Negative**
-426,1146,4,Easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
-427,1177,1,The graph includes multiple lines representing the different region the scale bar the lines all over the graph makes it hard to understand the visualization,Visual Density / Clutter,Moderate Negative
-428,1177,1,"the graph arrangement is hard to read, it has no structure",Chart Type & Layout Choice,**Moderate Negative**
-430,1178,1,the graph has too many lines that overlap which makes it difficult to graph the main trends,Visual Density / Clutter,**Moderate Negative**
-431,1178,2,"the graph lines are hard to read, especially since the blue green intersect a lot",Labels-Titles-Legend-Scale,**Moderate Negative**
-433,1192,1,the graph includes multiple lines and double axes and complex data sources make it very confusing,Labels-Titles-Legend-Scale,**Strong Negative**
-436,1205,1,"The chart includes multiple overlapping lines representing different regions uses both double x-axis y-axis scales, adding to the complexity The 4 charts make it hard to understanding the main trends data sources, the overall layout makes it very confusing to interpret the main takeaway",Visual Density / Clutter,**Strong Negative**
-437,1205,2,the graph is very hard to read with the lines intersecting that much,Visual Density / Clutter,**Moderate Negative**
-439,1232,1,"There are 4 different panels with different scenarios models, which adds complexity. Each panel contains multiple lines representing different models further makes it complex",Visual Density / Clutter,Moderate Negative
-440,1232,1,"the graphs are very hard to read with the intersecting labels, especially the bottom two",Visual Density / Clutter,**Moderate Negative**
-442,1246,1,Multiple categories visual elements with various lines makes it confusing This visualization requires a lot of effort to interpret the main takeaway,Visual Density / Clutter,**Moderate Negative**
-443,1246,1,the graph structure is very hard to understand,Aesthetics-Clarity-Comparison,**Strong Negative**
-445,1294,1,"the graph has multiple elements that represent with vertical bars with various colors lines symbols, making it hard to read it takes time to interpret the information Furthermore, the compares multiple models which requires careful interpretation",Visual Density / Clutter,**Moderate Negative**
-446,1294,1,the graph is very hard to read with all the different symbols lines close together,Visual Density / Clutter,**Strong Negative**
-447,1294,4,Easy to compare categories,Aesthetics-Clarity-Comparison,**Strong Positive**
-448,1326,1,"Too much information is provided in 1 graph If possible, it would be helpful to see 4 different graphs to help understand the information better The image is very blurry so it's hard to read",Visual Density / Clutter,**Moderate Negative**
-449,1326,1,the graphs are completely unreadable None of the labels points can be seen clearly,Visual Density / Clutter,**Strong Negative**
-450,1326,2,Difficult to read labels in the chart,Labels-Titles-Legend-Scale,**Moderate Negative**
-451,1576,1,"I cannot see the symbols as it is overlapped are also cluttered The chart has 4 graphs with different information presented in each, making it difficult to interpret them easily The multiple components make it difficult to find it's distinctions between the time reconstructions",Visual Density / Clutter,**Strong Negative**
-452,1576,1,the graphs are unreadable with all the symbols colors intersecting,Visual Density / Clutter,**Strong Negative**
-453,1576,2,many visual elements present,Visual Density / Clutter,Neutral
-454,1751,1,There are different colored triangles shown in one of the graphs is confusing Making a comparison between the two graphs is confusing Multiple elements,Visual Density / Clutter,**Moderate Negative**
-455,1751,4,the graph points/lines are hard to differentiate,Labels-Titles-Legend-Scale,**Moderate Negative**
-456,1751,2,The labels are not clearly mentioned in charts,Labels-Titles-Legend-Scale,**Moderate Negative**
-457,1821,1,"There are multiple panels in this visualization, it is hard to tell what each colors mean Too much information to process so cannot find a main clear takeaway",Aesthetics-Clarity-Comparison,**Moderate Negative**
-458,1821,2,"the various graph symbols and colors are hard to interpret, especially since they are small and clustered.",Visual Density / Clutter,Moderate Negative
-459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand",Aesthetics-Clarity-Comparison,**Moderate Neutral**
-460,1946,1,"There are multiple lines that overlap, there are variations of lines (dashed, dotted, straight) which is difficult to see  Trying to get a main takeaway can be hard",Visual Density / Clutter,**Moderate Negative**
-461,1946,4,the graph lines are very clustered hard to read,Visual Density / Clutter,**Moderate Negative**
-462,1946,3,"The chart is visually dense, with overlapping lines there are many abbreviations ",Visual Density / Clutter,Moderate Negative
-463,1953,1,The various data points for different models the alternate observational datasets adds to the complexity of chart,Visual Density / Clutter,Moderate Negative
-464,1953,4,the graph points are hard to read,Aesthetics-Clarity-Comparison,**Moderate Negative**
-465,1953,2,"The chart is visually cluttered, with overlapping points numbers The radial axis does require some more indepth understanding ",Visual Density / Clutter,**Moderate Negative**
-466,1963,1,"There are six scatter plots divided into two panels, showing different relationships between observed vs model values This adds complexity to the chart, making it difficult to interpret the data The chart also uses dashed lines which make it hard to understand what the main takeaway is",Visual Density / Clutter,Moderate Negative
-467,1963,4,the graph should also have a key for the different lines,Labels-Titles-Legend-Scale,**Neutral**
-468,1963,3,The chart is visually dense also there is some logarithamic axis which is getting covered by data points,Visual Density / Clutter,**Moderate Negative**
-469,2007,1,Too many pixelated colors on each panel makes it very difficult to understand the main takeaway It is also somewhat blurry,Aesthetics-Clarity-Comparison,**Strong Negative**
-471,2007,2,"The range in the color scale are different, which is confusing when looking together",Labels-Titles-Legend-Scale,Moderate Negative
-472,2008,1,"The chart contains a lot of information in one visualization, which can be overwhelming The color scale also makes it difficult to quickly graph the importance of variations shown in the charts",Visual Density / Clutter,**Moderate Negative**
-473,2008,4,"The data on the graph is overlaps a lot, so it is a little hard to read,",Visual Density / Clutter,**Moderate Negative**
-475,2052,1,"The chart is very blurry, it is hard to interpret anything",Aesthetics-Clarity-Comparison,**Strong Negative**
-476,2052,1,"The graph is very blurry, the data overlaps a lot, the entire graph is very hard to read",Visual Density / Clutter,**Strong Negative**
-477,2052,2,labels are not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
-478,2074,2,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",Aesthetics-Clarity-Comparison,**Moderate Negative**
-479,2074,3,"multiple panels would have made it easier to read the chart, stacking charts with different labels for y-axis makes it difficult to read Individual components of the chart are easy to read A lot of information is encoded in the chart making it overwhelming to look at",Aesthetics-Clarity-Comparison,**Moderate Negative**
-480,2074,1,label is not clear,Labels-Titles-Legend-Scale,Moderate Negative
-481,2103,2,chart shows different attributes in a shared y-axis Chart would be easire to read if it was divided into multiple panels Legend required to understand chart components in not available in the chart Use of dual axis makes it more confusing to read the charts does not give a clear idea of the intent,Aesthetics-Clarity-Comparison,**Moderate Negative**
-482,2103,1,chart shows different attributes in a shared y-axis. Chart would be easire to read if it was divided into multiple panels. Legend required to understand chart components in not available in the chart. Use of dual axis makes it more confusing to read the charts.,Aesthetics-Clarity-Comparison,**Moderate Negative**
-483,2103,1,"addition to my previous response, the left part gives the difference from the years, not clear about the representation on the right side",Labels-Titles-Legend-Scale,**Moderate Negative**
-484,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows,Labels-Titles-Legend-Scale,**Moderate Negative**
-485,2138,2,Use of different encoding techniques to represent data in the chart makes it difficult to understand what each point shows.,Labels-Titles-Legend-Scale,Moderate Negative
-486,2138,3,low level interpretation can be made from the chart but takeaway message is unclear,Aesthetics-Clarity-Comparison,Moderate Negative
-487,2141,3,"clutter in the chart is overwhelming Shared axis show use the same scale unit making it easy to read the chart since color spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided ",Visual Density / Clutter,**Neutral**
-488,2141,4,"clutter in the chart is overwhelming. Shared axis show use the same scale and unit making it easy to read the chart. since color and spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided.",Visual Density / Clutter,Moderate Positive
-490,2348,3,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message The chart uses inconsistent y-axis so the observed increase rate is not reliable",Visual Density / Clutter,**Moderate Negative**
-491,2348,2,"Althought the chart looks cluttered, trend is clearly visible in the chart leading to an easily interpretable takeaway message. The chart uses inconsistent y-axis so the observed increase rate is not reliable. ",Visual Density / Clutter,**Moderate Negative**
-493,2354,4,The clutter in the chart is ovewhelming,Visual Density / Clutter,**Strong Negative**
-494,2354,4,The clutter in the chart is ovewhelming,Visual Density / Clutter,**Strong Negative**
-495,2354,3,chart is having many overlapping lines,Visual Density / Clutter,**Moderate Negative**
-496,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret Trend is easy to read in the chart multiple axes with different ticks makes the observed trend unreliable,Trend / Pattern Depiction,**Moderate Negative**
-497,2251,1,Restructuring the chart to highlight takeway message would make it easier to interpret. Trend is easy to read in the chart but multiple axes with different ticks makes the observed trend unreliable.,Trend / Pattern Depiction,Moderate Negative
-498,2251,3,"The are many charts with overlapping lines hard to track across many charts, ",Visual Density / Clutter,**Moderate Negative**
-499,149,1,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,Labels-Titles-Legend-Scale,**Neutral**
-500,149,2,legend for colors used in the chart are not defined Axes used in the chart are nod labeled The chart is annotated,Labels-Titles-Legend-Scale,**Neutral**
-501,149,2,The slanted lines clustering of points make it hard to follow trends or get clear takeaway,Trend / Pattern Depiction,**Moderate Negative**
-502,152,1,chart is exteremely cluttered lack proper labels Goal of the visualization is unclear,Visual Density / Clutter,**Strong Negative**
-503,152,1,chart is exteremely cluttered and lack proper labels. Goal of the visualization is unclear,Visual Density / Clutter,**Strong Negative**
-504,152,2,"The visualization contains many overlapping lines, making it difficult to identify trends It is visually cluttered ",Visual Density / Clutter,**Moderate Negative**
-507,188,2,"There are many labels mentioned in the chart, also shown inside the visualization, it is confusing because the are no proper starting line or only a single point ",Labels-Titles-Legend-Scale,**Moderate Negative**
-508,196,4,Components of the chart are clearly labeled well annotated,Labels-Titles-Legend-Scale,**Moderate Positive**
-509,196,4,Components of the chart are clearly labeled well annotated,Labels-Titles-Legend-Scale,Moderate Positive
-510,196,4,The bar chart clearly explains the change in trends using the color-coded segments triangle to indicate total change,Trend / Pattern Depiction,**Moderate Positive**
-511,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,Aesthetics-Clarity-Comparison,**Moderate Negative**
-512,290,4,Use of grid in the 3D chart makes it easy to read The chart has prominent patterns takeaway message is not clear,Aesthetics-Clarity-Comparison,**Moderate Positive**
-513,290,2,I am not able to compare between the bars it is difficult to compare categories,Aesthetics-Clarity-Comparison,**Moderate Negative**
-514,650,5,Pattern of trend in chart is easy to understand,Trend / Pattern Depiction,**Moderate Positive**
-515,650,5,Pattern of trend in chart is easy to understand,Trend / Pattern Depiction,Moderate Positive
-516,650,2,also little unclear about B2 scenarios,Labels-Titles-Legend-Scale,**Moderate Negative**
-517,765,2,Chart does not include legend for encodings,Labels-Titles-Legend-Scale,**Moderate Negative**
-518,765,2,Chart does not include legend for encodings.,Labels-Titles-Legend-Scale,Moderate Negative
-520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message,Labels-Titles-Legend-Scale,**Moderate Positive**
-521,859,4,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message.,Labels-Titles-Legend-Scale,**Moderate Positive**
-522,859,4,Easy to compare,Aesthetics-Clarity-Comparison,**Moderate Positive**
-523,882,4,Chart is easy to read low level message is easy to grasp,Aesthetics-Clarity-Comparison,Moderate Positive
-524,882,3,Chart is easy to read low level message is easy to grasp,Aesthetics-Clarity-Comparison,Moderate Positive
-525,882,5,clear takeaway,Aesthetics-Clarity-Comparison,**Neutral**
-526,547,3,Chart does not have legend of the colors used,Labels-Titles-Legend-Scale,**Moderate Negative**
-527,547,2,Chart does not have legend of the colors used,Labels-Titles-Legend-Scale,Moderate Negative
-528,547,3,Difficult to read labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-529,292,2,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-530,292,3,Patterns in the chart are prominent a takeaway message is unclear Chart does not have axes labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-531,292,1,"The chart mentions some dots in the charts which is not clearly explained in the caption,",Labels-Titles-Legend-Scale,**Moderate Negative**
-532,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,Labels-Titles-Legend-Scale,**Moderate Positive**
-533,413,2,chart does not include legend for colors used Low level message is easy to grasp from the chart,Labels-Titles-Legend-Scale,**Neutral**
-534,413,1,"chart is not useful to interpret the trend also labels are missing in chart,",Trend / Pattern Depiction,**Moderate Negative**
-535,442,2,Marks in the chart overlap causing visual clutter Abberviations used in the chart are unclear Multiple plots are placed close to each other in the chart legend for multiple symbols used in the chart are not given,Visual Density / Clutter,**Moderate Negative**
-536,442,1,Marks in the chart overlap causing visual clutter. Abberviations used in the chart are unclear.  Multiple plots are placed close to each other in the chart. legend for multiple symbols used in the chart are not given.,Visual Density / Clutter,**Moderate Negative**
-537,442,3,Difficult to read labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-538,2018,4,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
-539,2018,3,the chart has difficult to see axes labels trend show easy takeaway Chart does not have legend for colors used Multiple graphs used relation between them is not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
-540,2018,3,And also the labels are not clearly mentioned,Labels-Titles-Legend-Scale,**Moderate Negative**
-541,2025,2,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,Visual Density / Clutter,**Moderate Negative**
-542,2025,1,multiple graphs in one view are difficult to read Visual clutter makes it difficult to read the chart The visualization is complex difficult to understand,Visual Density / Clutter,**Moderate Negative**
-543,2025,2,"The chart seems to be cluttered,",Visual Density / Clutter,**Moderate Negative**
-544,2060,4,Lack of domain knowledge makes it difficult to read the chart Key takeaway is not clear looking at both Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,Aesthetics-Clarity-Comparison,**Moderate Negative**
-545,2060,5,Shared x-axis in the chart helps to compare the different data attributes plotted in the chart,Labels-Titles-Legend-Scale,**Moderate Positive**
-546,2060,3,also what to infer from the charts,Aesthetics-Clarity-Comparison,Neutral
-547,2064,2,The chart is cluttered or summarize the trend,Visual Density / Clutter,**Moderate Negative**
-548,2064,2,The chart is cluttered,Visual Density / Clutter,**Strong Negative**
-549,2064,4,chart are useful,Chart Type & Layout Choice,**Neutral**
-550,2117,3,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,Chart Type & Layout Choice,**Moderate Negative**
-551,2117,4,Use of 3D visualization in the chart makes it difficult to extract values in the z-axis The chart gives an idea of the key takeaway message,Chart Type & Layout Choice,**Moderate Negative**
-552,2117,1,"The chart is 3D which is difficult to get the exact comparison between the years,",Chart Type & Layout Choice,**Moderate Negative**
-553,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message A pattern can be observed in the chart the intended message is not clear,Visual Density / Clutter,**Moderate Negative**
-554,2163,4,The chart is extremely cluttered making it difficult to grasp the key takeaway message. A pattern can be observed in the chart but the intended message is not clear.,Visual Density / Clutter,**Moderate Negative**
-555,2163,4,"Though there are too many labels mentioned in the chart, chart represent a clear takeaway message",Aesthetics-Clarity-Comparison,**Moderate Positive**
-556,2253,4,Chart uses different shapes to encode categorical information which is difficult to read The goal of the visualization is clear using both,Aesthetics-Clarity-Comparison,**Moderate Negative**
-557,2253,4,Chart uses different shapes to encode categorical information which is difficult to read,Labels-Titles-Legend-Scale,**Moderate Negative**
-558,2253,3,"The chart is visually dense because of some similar labelling,",Visual Density / Clutter,**Moderate Negative**
-559,2293,4,Collective trend outliers are easy to detect in the chart making the overall message clear,Trend / Pattern Depiction,**Moderate Positive**
-560,2293,3,Collective trend outliers are easy to detect in the chart making the overall message clear,Trend / Pattern Depiction,**Moderate Positive**
-561,2293,2,"The visualization is cluttered, overwhelming",Visual Density / Clutter,**Strong Negative**
-562,2364,2,Use of abberviations in the chart makes it difficult to understand Lack of domain knowledge makes it difficult to understand the goal of the visualization,Labels-Titles-Legend-Scale,**Moderate Negative**
-563,2364,3,Use of abberviations in the chart makes it difficult to understand.,Labels-Titles-Legend-Scale,**Moderate Negative**
-565,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels,Aesthetics-Clarity-Comparison,**Moderate Positive**
-566,869,3,Low level understanding is easy to grasp as the graph uses shared color encoding across multiple panels.,Aesthetics-Clarity-Comparison,**Moderate Positive**
-567,869,1,The chart is too complex with many visual elements to compare between labels are kept in between two charts making it difficult to interpret for which chart it is,Visual Density / Clutter,**Moderate Negative**
-568,1214,4,The graph alone is sufficient to get an overall message Use of color encoding along z-axis of the 3D chart aids in identification task Use of multiple charts in a single panel requires remembering a lot of information reading all the chart to get the over all message,Aesthetics-Clarity-Comparison,**Moderate Positive**
-569,1214,4,The graph alone is sufficient to get an overall message. Use of color encoding along z-axis of the 3D chart aids in identification task. Use of multiple charts in a single panel requires remembering a lot of information while reading all the chart to get the over all message.,Aesthetics-Clarity-Comparison,**Moderate Positive**
-570,1214,3,Inconsistent scale use (year),Labels-Titles-Legend-Scale,**Moderate Negative**
-571,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph,Labels-Titles-Legend-Scale,**Moderate Negative**
-572,1225,1,The labels in the graph have low resolution which makes it difficult to understand the pattern visible in the graph.,Labels-Titles-Legend-Scale,**Moderate Negative**
-573,1225,2,Difficult to read labels,Labels-Titles-Legend-Scale,**Moderate Negative**
-574,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,Labels-Titles-Legend-Scale,**Moderate Negative**
-575,1465,4,Simple representation of the graph makes it easy to perform low level information extraction The graph does not label the color legend used making it difficult to get a clear takeaway message,Labels-Titles-Legend-Scale,**Moderate Negative**
-576,1465,2,No trend is highlighted in chart,Trend / Pattern Depiction,**Neutral**
-577,1503,4,The takeaway message is clear after looking at both the chart,Aesthetics-Clarity-Comparison,**Moderate Positive**
-579,1503,2,The heatmap visualizes multiple elements using color gradients to indicate error magnitude. The color scale is also not common practice,Labels-Titles-Legend-Scale,**Moderate Negative**
-580,1581,3,the overall takeaway message is clear from the chart the use of intuitive color scale for temperature in the chart is helpful,Aesthetics-Clarity-Comparison,**Moderate Positive**
-581,1581,3,the overall takeaway message is clear from the chart. the use of intuitive color scale for temperature in the chart is helpful.,Aesthetics-Clarity-Comparison,**Moderate Positive**
-582,1581,4,Easy to compare between different oceans,Aesthetics-Clarity-Comparison,**Moderate Positive**
-583,1917,2,Use of multiple panels in the graph is confusing Use of shapes to encode categorical values in the graph is confusing The chart does not containg legend for colors used,Labels-Titles-Legend-Scale,**Moderate Negative**
-584,1917,3,Use of multiple panels in the graph is confusing. Use of shapes to encode categorical values in the graph is confusing. The chart does not containg legend for colors used.,Labels-Titles-Legend-Scale,**Moderate Negative**
-585,1917,3,"The years are not consistent across the charts, initially inferring all are in same scale",Chart Type & Layout Choice,Moderate Negative
-586,2211,2,Chart organization is confusing,Chart Type & Layout Choice,**Moderate Negative**
-587,2211,2,Chart organization is confusing.,Chart Type & Layout Choice,**Moderate Negative**
-589,2028,3,Chart doesnot contain labels for different mark types used Chart uses dual axis making difficult to interpret the takeaway message shared axis makes it easy to compart across charts,Labels-Titles-Legend-Scale,**Moderate Negative**
-590,2028,4,Chart doesnot contain labels for different mark types used. Chart uses dual axis making difficult to interpret the takeaway message. shared axis makes it easy to compare across charts.,Labels-Titles-Legend-Scale,**Moderate Negative**
-591,2028,4,"The inverted axis in the y-axis is not visible in the first glance, overall the visualization is clear,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-592,1845,4,The chart does not contain labels for marks used,Labels-Titles-Legend-Scale,**Moderate Negative**
-593,1845,4,The chart does not contain labels for marks used.,Labels-Titles-Legend-Scale,**Moderate Negative**
-594,1845,4,"The visualization is clear good for comparison,",Aesthetics-Clarity-Comparison,**Moderate Positive**
-595,1949,2,Annotations used in the chart are not understandable Patterns visible in the chart are prominent easy to read the message shown by those patterns are unclear Multiple charts used in the visualization are easy to comprehend because they are related,Aesthetics-Clarity-Comparison,**Neutral**
-596,1949,2,Annotations used in the chart are not understandable. Patterns visible in the chart are prominent and easy to read but the message shown by those patterns are unclear. Multiple charts used in the visualization are easy to comprehend because they are related.,Aesthetics-Clarity-Comparison,**Moderate Negative**
-597,1949,2,The lines overlap between the months in y-axis,Visual Density / Clutter,**Moderate Negative**
-598,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,Visual Density / Clutter,Moderate Negative
-599,1749,4,Chart is cluttered. chart has clear description of components used. color used in one of the subplots is not clearly visible.,Visual Density / Clutter,**Moderate Negative**
-600,1749,2,"The axes are labeled, interpreting the relationships and extracting the main trends is difficult, ",Labels-Titles-Legend-Scale,Moderate Negative
-602,126,2,trend can be observed in the chart,Trend / Pattern Depiction,Neutral
-603,139,4,not all axes in the chart are labeled,Labels-Titles-Legend-Scale,**Neutral**
-605,149,3,The visualization seems cluttered,Visual Density / Clutter,**Moderate Negative**
-606,152,3,"The visualization is cluttered, ",Visual Density / Clutter,**Strong Negative**
-611,213,1,"The chart seems very confusing
-It does not have proper y-axis legend",Labels-Titles-Legend-Scale,**Moderate Negative**
-613,236,2, charts are cluttered but still interpretable,Visual Density / Clutter,Moderate Negative
-614,242,1,the visualization is very cluttered and marks overlap,Visual Density / Clutter,**Strong Negative**
-615,290,3,"The chart is precise and clear,",Aesthetics-Clarity-Comparison,Moderate Positive
-618,304,2,The chart is quite interpretable,Aesthetics-Clarity-Comparison,**Moderate Positive**
-623,337,2,chart looks cluttered,Visual Density / Clutter,**Moderate Negative**
-625,380,3,"chart does not contain legend for colors used
-",Labels-Titles-Legend-Scale,Moderate Negative
-626,407,3,cluttered visualization,Visual Density / Clutter,**Strong Negative**
-628,433,4,A bit long and cluttered but understandable,Visual Density / Clutter,**Moderate Negative**
-630,442,2,"The visualization indicates a lot of information, but legend is not given",Labels-Titles-Legend-Scale,**Moderate Negative**
-631,447,1,"legend information is not given, which makes the chart hard to interpret",Labels-Titles-Legend-Scale,**Moderate Negative**
-634,494,2,chart is cluttered,Visual Density / Clutter,**Strong Negative**
-639,604,3,Chart is a bit cluttered ,Visual Density / Clutter,**Moderate Negative**
-640,610,2,"chart does not include legend
-",Labels-Titles-Legend-Scale,**Moderate Negative**
-641,614,3,"The chart is interpretable, but there are too many texts in the chart",Visual Density / Clutter,**Moderate Negative**
-643,643,3,The main takeaway is missing,Aesthetics-Clarity-Comparison,**Moderate Negative**
-647,676,3,chart is cluttered,Visual Density / Clutter,**Moderate Negative**
-651,758,3,The chart seems cluttered ,Visual Density / Clutter,**Moderate Negative**
-654,828,1,The visualization seems cluttered,Visual Density / Clutter,**Moderate Negative**
-658,869,2,axes labels are not included in the chart,Labels-Titles-Legend-Scale,**Neutral**
-665,950,2,Seems cluttered to me,Visual Density / Clutter,**Moderate Negative**
-669,1006,2,cluttered,Visual Density / Clutter,**Strong Negative**
-672,1068,1,very cluttered,Visual Density / Clutter,**Strong Negative**
-674,1087,4,The main takeaway is missing,Aesthetics-Clarity-Comparison,**Moderate Negative**
-676,1112,1,Cluttered without proper legend,Labels-Titles-Legend-Scale,**Moderate Negative**
-680,1177,4,A common trend is observed in the chart,Trend / Pattern Depiction,Neutral
-683,1205,3,A bit cluttered,Visual Density / Clutter,**Moderate Negative**
-686,1215,2,cluttered visualization,Visual Density / Clutter,**Strong Negative**
-688,1232,2,"The visualization is a bit cluttered, ",Visual Density / Clutter,**Moderate Negative**
-695,1301,3,Too many information make the charts cluttered,Visual Density / Clutter,**Moderate Negative**
-697,1326,1,The visualization seems hard to interpret,Aesthetics-Clarity-Comparison,**Moderate Negative**
-705,1499,3,marks are not labeled,Labels-Titles-Legend-Scale,**Moderate Negative**
-709,1576,2,The charts seem a bit cluttered ,Visual Density / Clutter,**Moderate Negative**
-710,1581,2,"The chart augments the visualization, as it provides information for white space or about the right and left panel, but it does not talk about the overall trend",Trend / Pattern Depiction,**Neutral**
-723,1750,1,marks used in the chart are not labeled,Labels-Titles-Legend-Scale,Moderate Negative
-724,1751,2,The visualization is cluttered,Visual Density / Clutter,**Strong Negative**
-728,1777,3,marks used in the chart are not labeled,Labels-Titles-Legend-Scale,**Moderate Negative**
-735,1838,2,The visualization seems a bit cluttered,Visual Density / Clutter,**Moderate Negative**
-750,2007,2,cluttered visualization,Visual Density / Clutter,**Strong Negative**
-755,2049,2,marks used in the chart are not labeled,Labels-Titles-Legend-Scale,**Moderate Negative**
-760,2061,1,marks in the visualization overlap,Visual Density / Clutter,**Neutral**
-762,2064,1,Cluttered and hard to interpret,Visual Density / Clutter,**Moderate Negative**
-765,2074,2,New color is added without any indication of what it presents,Labels-Titles-Legend-Scale,**Moderate Negative**
-768,2117,3,axis indices of the 3D visualization is confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
-771,2138,2,Visualization is cluttered,Visual Density / Clutter,**Strong Negative**
-774,2163,3,Visualization seems a bit cluttered,Visual Density / Clutter,Moderate Negative
-778,2215,2,The 1st visualization seems confusing,Aesthetics-Clarity-Comparison,**Moderate Negative**
-783,1749,2,Marks used in in the visualization are not clearly labeled,Labels-Titles-Legend-Scale,Moderate Negative
-784,2253,1,The visualization is cluttered,Visual Density / Clutter,**Strong Negative**
-790,2293,3,Visualization is cluttered,Visual Density / Clutter,**Strong Negative**
-796,2357,2,seems a bit confusing,Aesthetics-Clarity-Comparison,**Neutral**
+reason_id,image_id,rating,reason,usefulness
+3,139,2,"The caption is detailed and provides important context, does not clearly summarize the main takeaway",not_useful
+5,148,4,the caption can be improved to be more straight-forward,neutral
+6,148,3,the caption is long and complex without clear summary of the main takeaway. It makes it difficult to grasp the key message.,not_useful
+9,203,3,The caption provides a lot of context but not summarizing the main takeaway or highlighting the important parts.,not_useful
+13,2360,5,see the main trends without looking at the caption,neutral
+14,2360,4,"The caption explains the graph markings not the trend,",not_useful
+15,2360,4,"the caption does not fully summarize the main trend, the caption is informative it does not have a clear takeaway",not_useful
+16,324,5,Caption summarizes the main trend,useful
+17,324,5,the caption can do better at explaining the trend,not_useful
+18,324,1,Caption does not seem to be helping here to understand,not_useful
+20,332,4,"The caption doesn't explain the second graph well,",not_useful
+21,332,1,the caption does not clearly summarize the chart,not_useful
+22,337,5,"Detailed caption that provides the main key takeaway",useful
+23,337,5,caption are understandable,neutral
+25,339,5,Detailed caption,neutral
+27,339,4,caption does not add any value in explaining the trend or describing the chart,not_useful
+28,436,5,detailed caption that includes the symbols and lines (shown in chart) Clear representations with detailed caption that includes the symbols,useful
+29,436,4,"The caption explains the graph,",neutral
+30,436,2,"The chart and caption does not mention about the extra dots between the years, where caption specifies it as annual mean, but not clear",not_useful
+33,497,3,"The caption does not specify the trend, and only explain about the labels.",not_useful
+37,572,5,caption summarizes main takeaway,useful
+38,572,5,the caption can be less wordy,neutral
+39,572,4,"The caption explains about the chart, but there is no clear takeaway mentioned.",neutral
+40,610,5,the caption is informative . the caption is informative,neutral
+41,610,4,The caption doesn't explain the trend present in the graph,not_useful
+43,660,5,The detailed caption provides a clear takeaway,useful
+46,690,5,The caption helps with interpretation of the chart,useful
+48,690,3,"caption is useful to interpret the result, but it lacks mentionining some trends about the labels observed.",useful
+51,790,2,Clear explanations are not provided in the captions,not_useful
+52,920,5,caption summarizes the main trend,useful
+54,920,1,The caption does not mention the goal of the chart/ takeaway. It mentions what is mentioned in the charts,not_useful
+55,937,5,detailed caption,neutral
+57,937,4,The caption does not mention about the trend having the labels little unclear,not_useful
+58,994,5,detailed caption,neutral
+60,994,4,Caption summarize the chart,neutral
+63,999,4,Require both caption,neutral
+64,1081,5,understand the main takeaway by reading the caption,neutral
+66,1081,4,"The caption does not fully say the about the chart, but mentions some part of trend",not_useful
+69,1251,3,"The caption does not state any trends in the chart, and no clear takeaways",not_useful
+70,1277,5,the caption provides good details to interpret the graph,useful
+71,1277,4,"The caption can better explain the trend,",neutral
+72,1277,2,"Require caption just to read the y-axis label, there are no clear takeaway mentioned",not_useful
+73,1285,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful
+76,1295,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful
+79,1303,5,The captions explains the main trend and the graph is easy to interpret The captions explains the main trend,useful
+84,1601,5,caption augments with chart,neutral
+86,1711,4,"The caption can better by explaining the trend,",not_useful
+87,1711,3,captions require some effort to get some message,neutral
+90,1712,4,"Caption provides useful context about the data and methodology, it is somewhat dense and does not clearly summarize the main takeaway.",useful
+93,1761,4,"Though the caption clearly explains about the what is being measured and how the data compiled, but it does not clearly summarize the main takeaway or highlight the important trends.",not_useful
+94,1779,5,The chart's caption is long but includes an overview of the data,neutral
+96,1779,4,caption does not fully capture the summary of the chart,not_useful
+99,1803,4,"the caption provides details about the terms and data, but does not fully give the main takeaway",useful
+100,1818,5,"Clear takeaway with detailed context, making it easy to interpret",useful
+103,1839,5,The caption also provides detailed context about the source data,useful
+105,1839,4,Caption represent some details but not fully summarize the trend,not_useful
+107,1945,4,the caption should include more context for the situation and trend.,useful
+108,1945,3,the caption can be more informative and also express trends in the chart,useful
+109,2062,5,"Although the caption is long, it expands on each of the studies making it easier to understand the main takeaway",useful
+111,2062,3,caption does mention the terms it does not mention any takeaway message,not_useful
+117,2124,3,caption does not seem to provide a clear explanations,not_useful
+121,112,4,Clear takeaway was not given,not_useful
+123,112,3,The caption does not explain any trends observed in the charts,not_useful
+124,126,4,Caption doesn't fully summarize the main trends,not_useful
+125,126,3,the captions are very long-winded,not_useful
+128,304,3,"The caption is very wordy,",not_useful
+130,317,4,The caption provides details information about the chart,useful
+132,317,3,"The caption only explains about the labels inside the chart, but it is not clearly stating the trend and what should be interpreted.",not_useful
+135,330,3,"The chart a caption does not explain clearly the takeaway, chart b caption has mentioned the takeaway",not_useful
+136,380,4,"The caption is detailed, but does not provide the clear takeaway The caption is detailed,",not_useful
+138,380,3,The caption does not summarize chart main trend,not_useful
+139,433,4,the caption explains what the different lines mean along with providing detailed information,useful
+140,433,5,the caption are easy to understand,useful
+141,433,3,"The caption provides an explanation about the lines, but does not clearly explain the comparison between the trends.",not_useful
+142,447,4,Detailed caption but the caption does not clear summarize the main takeaway Detailed caption the caption does not clear summarize the main takeaway,not_useful
+144,447,3,The labels are not explained in caption,not_useful
+145,491,4,"Caption provides a good explanation for what the dots mean. Caption provides a good explanation for what the dots mean. The use of labels helps in understanding the main takeaways",useful
+148,492,4,detailed caption,neutral
+149,492,4,"Caption is very wordy,",not_useful
+150,492,4,"caption clearly explain the labels used, caption is lost in translation",neutral
+152,614,3,"The caption explains the situation,",neutral
+154,639,4,The caption provides the main takeaways,useful
+157,643,4,The different bars in the chart are not easy to comprehend without reading the captions,neutral
+159,643,3,caption do not summarize main trend,not_useful
+162,658,4,less caption is given,not_useful
+163,736,4,Informative caption but complex data requires interpretation Informative caption,neutral
+164,736,4,"The caption describes the graphs well,",useful
+165,736,4,"caption capture the trend,",neutral
+166,828,4,Informative caption,neutral
+167,828,1,"The caption doesn't explain what the different colors mean, and doesn't explain the trend. ",not_useful
+168,828,3,caption does not explain missing labels,not_useful
+171,839,2,Fluctuations are not clearly mentioned in the caption,not_useful
+172,904,4,Detailed caption. the captions helps with the interpretation. the captions helps with the interpretation,useful
+174,904,3,caption does not summarize main trend,not_useful
+175,1006,4,Clear context with color-coded regions,useful
+176,1006,2,"The caption should explain the trend better,",not_useful
+178,1044,4,the detailed information in the caption helps,useful
+180,1044,5,caption summarize the chart,neutral
+181,1301,4,"The caption provided is extensive, which is informative but it adds to the complexity The caption provided is extensive, which is informative",neutral
+182,1301,4,"caption are good,",neutral
+183,1301,3,"The caption is not required, because caption tells to look in the chart explanations for more details",useful
+184,1388,4,Clear explanation in the caption,useful
+186,1388,4,"Caption mentions about the chart and trend, but it can improved with more adding in more details and highlighting the takeaway message",useful
+187,1428,4,The caption provides enough information to interpret the graph,useful
+188,1428,4,the caption can explain the trend better,useful
+189,1428,1,"The caption does not have any information only references,",not_useful
+192,1453,3,"caption mentions about different lines, but no straight forward takeaway",neutral
+193,1499,4,The caption summarizes the key trend,useful
+195,1499,4,"The black lines are not fully mentioned in caption, but could be infered as error lines",not_useful
+198,1519,3,"The caption does provide detailed context about the data sources and methods, but does not clearly summarize the main takeaway or highlight the key trend.",not_useful
+203,1697,4,"The caption explains the graph pretty well,",neutral
+205,1715,4,detailed context add complexity making it somewhat confusing,not_useful
+206,1715,5,the caption can be better at explaining the context,neutral
+207,1715,3,The caption does not clearly summarize the main trend,not_useful
+209,1718,3,The caption should be improved to explain the trend context,not_useful
+210,1718,2,"The caption does not summarize main trend, because it says current report but 2050 year is colored in blue which is previous report",not_useful
+211,1726,4,Detailed caption,neutral
+214,1755,4,the caption provides thorough information about each panel which is informative,useful
+216,1755,3,The caption is lengthy and does not clearly summarize main takeaway or maybe highlight the important trend.,not_useful
+217,1757,4,chart is hard to understand without the help of the detailed context in caption it can be hard to understand without the help of the detailed context,neutral
+218,1757,5,the caption should explain the trend,not_useful
+219,1757,3,"The caption have mentioned many details, but did not clearly mention or summarize the main takeaway",not_useful
+220,1777,4,"The caption provides thorough information about the anomalies, but it can take a while to understand the context about the takeaway The caption provides thorough information about the anomalies, it can take a while to understand the context about the takeaway",neutral
+223,1790,4,The caption provides thorough information about the scenarios and error bars The caption provides thorough information about the scenarios,useful
+224,1790,4,"The caption is good,",neutral
+225,1790,4,The caption is dense and does not fully summarize the main takeaway.,not_useful
+226,1861,4,The caption makes it easy to understand the main key takeaway,useful
+227,1861,5,"Both are easy to understand, the caption can better explain the trend/context",neutral
+228,1861,3,The caption is lengthy but does not fully summarize the trend,not_useful
+229,1874,4,"the caption is long so can take a little time to  understand the context of the chart. Also, the caption is long so can take a little time to  understand the context of the chart",neutral
+231,1874,4,the key message could be more directly stated in the caption,neutral
+232,1894,4,The caption is informative and provides necessary context The caption is informative provides necessary context,useful
+236,1915,4,"The caption is straightforward,",neutral
+237,1915,4,The caption is simple and does not fully explain the chart and also key takeaway could be stated in the caption,not_useful
+238,1925,4,The caption provided is gives detailed information about the data shown in the chart,useful
+239,1925,4,"The caption is good,",neutral
+240,1925,5,Caption summarize trends in chart,neutral
+241,1947,4,"The caption provides context about the data sources, scenarios, and an explanation of the main trends. It is long and informative, but adds complexity to the interpretation. The caption provides context about the data sources, scenarios, an explanation of the main trends Despite the detailed context, the visual clarity makes the charts somewhat interpretable",useful
+243,1947,3,There are many details in caption I did not find any clear takeaway,not_useful
+244,1979,4,The caption provides more information about the chart which makes it somewhat interpretable,useful
+246,1979,3,"caption does not contain any clear takeaway, it mentions some trends and relationships, but no clear summary",not_useful
+248,2016,4,The caption needs to be improved to explain the context and trend,not_useful
+249,2016,3,"And caption does not seem to explain the chart clearly, and no clear takeaway is mentioned.",not_useful
+250,2049,4,annotations might make it harder to interpret the small specific finding without any additional context,not_useful
+251,2049,4,"The caption is good,",neutral
+252,2049,2,Caption does not represent any trends and also comparison between the trends are not discussed. No clear takeaway,not_useful
+253,2054,4,"The caption is informative, it also has some unnecessary information that might not be needed to interpret the charts",useful
+254,2054,5,the caption can be better,not_useful
+255,2054,4,"The caption does mention some trends,",neutral
+256,2061,4,require more context for full understanding,not_useful
+257,2061,4,The caption can explain the context and trend better.,neutral
+258,2061,3,The caption does not explain about the trend observed and also the takeaway message is clearly missing.,not_useful
+260,2071,4,"The caption is good,",neutral
+261,2071,3,"The caption is lengthy and explains about the terms and about the chart, but no clear takeaway message is mentioned and also comparison between the lines are not mentioned",not_useful
+263,2271,5,The captions is interpretable,neutral
+264,2271,3,"The caption does explain about the chart, but does not explain about the takeaway",not_useful
+265,2356,4,detailed context,neutral
+267,2356,4,key message could be mentioned in the caption,neutral
+269,2357,5,caption should explain the trend better,not_useful
+270,2357,4,Caption summarize the chart,neutral
+271,2213,4,The caption provides thorough context about the data sources and the variables shown in each panel. The detailed context also might take time to interpret The caption provides thorough context about the data sources The detailed context also might take time to interpret,useful
+273,2213,3,"The caption mentions about the calculations that are used to prepare the subcharts, but no takeaway",not_useful
+274,2220,4,The caption is needed to fully make an interpretation of the chart,useful
+275,2220,3,"The caption explains the graph pretty well,",neutral
+277,2223,4,The overall presentation is somewhat interpretable with the given context found in the caption,useful
+279,2223,4,"The caption is lengthy and provides the methodology, but is not able to clearly summarize the main trend",not_useful
+280,184,3,Complex caption,neutral
+281,184,4,The caption doesn't describe the trend well,not_useful
+282,184,2,There are many technical terms that are not fully explained in the caption. The caption does not summarize the main takeaway or important trends.,not_useful
+284,220,4,The caption is very wordy and doesn't explain the trend present in the graphs.,not_useful
+285,220,4,Caption summarize the chart,neutral
+286,297,3,"There is no visual clutter, the caption provides a summary of the key trends",useful
+288,297,2,"caption tell about the labels used and how they are formed, but there is no mention what the intent for the chart is.",neutral
+289,407,3,The caption is detailed,neutral
+290,407,3,"The caption explains the graph,",neutral
+292,494,3,detailed caption highlights what the chart shows,useful
+293,494,2,"The caption is very wordy, but explains the situation, ",neutral
+295,754,3,Informative caption,neutral
+298,1011,3,Detailed caption,neutral
+302,1143,2,"The different colors are explained in the caption,",neutral
+303,1143,1,"There is no clear explanation about the comparison between the trend lines, and no takeaway can be taken from caption",not_useful
+304,1215,3,"Furthermore, the caption provides detailed information about the each element but it takes time to understand",useful
+307,1439,3,"While the legend and the caption provide the needed context, the multiple data points and lines can be a little confusing to interpret at first glance the caption provide the needed context, the multiple data points",useful
+308,1439,5,the caption can be better,not_useful
+309,1439,2,The comparison between the lines are not clearly mentioned in the caption,not_useful
+310,213,2,Caption does not fully summarize the main points,not_useful
+311,213,2,"The caption doesn't describe the trend,",not_useful
+312,213,2,it is not straight forward to get the trend without proper context provided,not_useful
+316,604,2,Detailed caption but hard to compare the categories Detailed caption,neutral
+317,604,3,"The caption is very long-winded,",not_useful
+323,758,2,"The caption explains the graph labels well,",useful
+325,846,2,While the caption provides detailed information about the scenarios,neutral
+327,846,1,There is no clear explanation about the chart and also no clear takeaway mentioned in the caption.,not_useful
+330,898,1,No clear trend explained in the caption,not_useful
+334,1100,2,The caption is detailed which helps in understanding the graph's context,useful
+335,1100,2,"The caption is good,",neutral
+337,1112,2,The detailed caption makes it a little easier to understand the potential economic growth over time,useful
+338,1112,1,"The caption doesn't explain the graph well,",not_useful
+340,1153,2,The caption does not summarize the main trend of the graph,not_useful
+341,1153,4,"The caption can better explain the trend,",neutral
+342,1153,1,"The caption does not justify chart, no clear explanation and takeaways provided",not_useful
+343,1206,2,"despite the detailed caption, the overall presentation requires significant effort to comprehend the main takeaways",not_useful
+346,1400,2,detailed context makes it somewhat confusing,not_useful
+347,1400,1,"The caption is okay,",neutral
+348,1400,3,The lines are clearly not mentioned in the caption,not_useful
+349,1510,2,The caption provides little information about the main takeaway,not_useful
+351,1510,3,"The caption doesn't seem to mention trends in the chart, and what to follow in the chart. Caption is too small without any details",not_useful
+352,1615,2,The caption provides context about the factors,useful
+354,1615,4,Caption is lengthy providing detailed context but not enough to summarize the main takeawat or highlighting the most important trend.,neutral
+355,1633,2,"The caption is very detailed about the visualization, it is too long it read",not_useful
+356,1633,4,"The caption is good,",neutral
+357,1633,4,caption is lengthy without clearly summarizing the main trend The main takeaway could be more highlighted in the caption,not_useful
+358,1659,2,"Furthermore, the caption is very detailed about the context while it is informative, the detailed context is hard to interpret",neutral
+359,1659,1,"The caption is okay,",neutral
+360,1659,2,Caption does not mention any key trend,not_useful
+361,1748,2,The caption is detailed,neutral
+364,1750,2,The caption provides extensive context about the experiments,useful
+366,1750,2,the caption does provide details about the terms,useful
+367,1802,2,detailed context adds to the complexity,neutral
+368,1802,4,"The caption is okay,",neutral
+369,1802,2,Even after close look in chart and caption it is not clear.,not_useful
+370,1838,2,"The caption provides a detailed description of the each panel,",useful
+372,1838,3,the caption is comprehensive but it does not clearly summarize the main takeaway,neutral
+374,1911,4,"The caption is okay,",neutral
+376,2050,2,The caption doesn't summarize the main trend,not_useful
+377,2050,4,"The caption should explain the context better,",not_useful
+378,2050,2,"Caption provides information regarding the chart, but does not mention any trends, and comparison of various charts since they are combined. No clear takeaway",not_useful
+379,2105,2,Although the caption explains what the lines mean it is still hard to get an overall picture of the main trend,neutral
+382,2125,2,The caption is complex takes time to interpret,not_useful
+384,2125,3,"The caption provides the process, but does not provide clear explanation of the trends and comparisons.",not_useful
+385,2254,2,The caption is too long and  it takes time to interpret the main findings.,not_useful
+388,2262,2,"The caption provided gives detailed context about the data sources,",useful
+389,2262,4,The caption is good,neutral
+390,2262,2,require a takeaway message not mentioned in the caption,not_useful
+391,2276,2,The caption also does not summarize the main trend,not_useful
+392,2276,4,"The caption doesn't explain the trend of the graphs well,",not_useful
+394,2300,2,"The caption does a good job of explaining what the trends are, the detailed context adds complexity",neutral
+396,2300,4,"The caption does mention some trends relating the charts, but does not give overall takeaway",not_useful
+398,2327,4,the caption should explain the trend,useful
+399,2327,4,"The caption mentions how the charts are related to each other, but not fully mention the clear takeaway message",not_useful
+400,2152,2,The use of technical terms makes it somewhat confusing. The caption provides thorough context but the details add more complexity.,not_useful
+402,2152,3,caption does not provide any clear takeaway message,not_useful
+403,2194,2,The detailed information can be too much for some viewers,neutral
+404,2194,5,"The caption is very lengthy,",not_useful
+406,2215,2,"the caption provides detailed context about the data. While it is informative, it also adds complexity",neutral
+407,2215,4,"The caption is good,",neutral
+410,242,3,the caption doesn't explain the trend,not_useful
+412,909,1,Caption is too long,not_useful
+413,909,4,the caption can be more straight to the point,not_useful
+414,909,3,"The caption does not fully interpret the trends in the chart, though it explains about the labels and wordings used and their relations, there is no clear explanation provided",not_useful
+416,950,1,"The caption is good,",useful
+419,1068,1,"The caption doesn't explain the trend,",not_useful
+421,1087,1,While the caption explains the context,useful
+423,1087,1,caption is not in sync with the chart,not_useful
+424,1146,1,The caption is detailed,neutral
+428,1177,1,"The caption can better describe the context,",not_useful
+429,1177,2,"The caption does not state any trends in the chart, and no clear takeaways",not_useful
+430,1178,1,While the caption provides detailed context,useful
+431,1178,2,"The caption can better explain the trend,",not_useful
+432,1178,3,"The caption explained the elements used inside the chart like the process of calculations, but takeaway are not clearly mentioned",not_useful
+433,1192,1,While the caption provides details context,useful
+435,1192,3,"The caption mentioned about the terms in graph like N, N bar but the obvious trend is not explained",not_useful
+436,1205,1,While the caption provides detailed context about the different location,useful
+437,1205,2,"The caption is okay,",neutral
+438,1205,3,"The caption provide some trends in the charts, but often refers to other charts or tables for more information",neutral
+439,1232,1,"While the caption provides context, it is too long to read",neutral
+440,1232,1,"The caption is good,",neutral
+443,1246,1,"The caption can better explain the trend,",neutral
+444,1246,2,"The caption does not state any trends in the chart,",not_useful
+445,1294,1,"The caption is too long, The caption is too detailed,",not_useful
+446,1294,1,"The caption can explain the trend better,",neutral
+449,1326,1,"The caption is good,",neutral
+452,1576,1,"The caption can be more straight-forward,",neutral
+453,1576,2,Caption have too many citations lost reading caption,not_useful
+454,1751,1,detailed context make it confusing to understand,not_useful
+455,1751,4,"The caption is good,",neutral
+458,1821,2,The caption can be improved to explain the context and trend better,neutral
+460,1946,1,"The caption is long and although it is informative, it can be confusing to understand",not_useful
+461,1946,4,"The caption is good,",neutral
+462,1946,3,"The caption is comprehensive and provides detailed methodology, but it is lengthy and does not summarize key takeaway",not_useful
+463,1953,1,"While the caption is concise and informative, understanding the data points and different variables can be overwhelming. ",neutral
+464,1953,4,"The caption is okay,",neutral
+465,1953,2,caption is lengthy and does not summarize takeaway,not_useful
+467,1963,4,"The caption is good,",neutral
+468,1963,3,Caption does not summarize takeaway clearly,not_useful
+473,2008,4,the caption is good,neutral
+474,2008,5,Caption summarize trends in charts,useful
+476,2052,1,The caption doesn't explain the context or trend,not_useful
+478,2074,2,Caption does not give the necessary context Takeaway message is not clearly mentioned in the caption,not_useful
+479,2074,3,Caption does not give the necessary context Takeaway message is not clearly mentioned in the caption,not_useful
+481,2103,2,"Caption does not clearly state the takeaway message, does not expalin the observed pattern The caption does not clarify what chart components represent definition of shaded region in the caption helps understand the chart",not_useful
+482,2103,1,"The caption does not clarify what chart components represent. Caption does not clearly state the takeaway message, does not expalin the observed pattern. definition of shaded region in the caption helps understand the chart but does not give a clear idea of the intent.",not_useful
+484,2138,2,Caption mentions source of the is not a valuable information,not_useful
+485,2138,2,Caption mentions source of the but is not a valuable information.,neutral
+486,2138,3,caption does not mention clear takeaway message,not_useful
+487,2141,3,Caption clearly states the takeaway message and summarizes the observed patterns in the graph making it highly interpretable,useful
+488,2141,4,Caption clearly states the takeaway message and summarizes the observed patterns in the graph making it highly interpretable.,useful
+489,2141,2,"Though the caption does mention some trends, but there are no clear comparison or takeaway message which can be drawn from caption",not_useful
+491,2348,2,caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart.,not_useful
+492,2348,3,Caption does not summarize the clear takeaway message,not_useful
+493,2354,4,Caption clearly concludes the takeaway message,useful
+494,2354,4,Caption clearly concludes the takeaway message,useful
+495,2354,3,"The caption does provide methodology, but does not explain the takeaway message.",not_useful
+496,2251,1,Caption provides important information. chart legend is repeated in the caption which is distracting,useful
+497,2251,1,Caption provides important information but chart legend is repeated in the caption which is distracting.,not_useful
+498,2251,3,caption is lengthy and does not provide takeaway message,not_useful
+499,149,1,"the context required to understand the annotations are not given in the caption, Difficult to connect caption to the chart",not_useful
+500,149,2,the context required to understand the annotations are not given in the caption,not_useful
+501,149,2,The caption provide some summary but does not summarize the main takeaway,not_useful
+502,152,1,is not mentioned in the caption The caption also does not summarize the takeaway message Caption does not provide context necessary to understand the chart,not_useful
+503,152,1,Goal of visualization is not mentioned in the caption. The caption also does not summarize the takeaway message. Caption does not provide context necessary to understand the chart.,not_useful
+504,152,2,"Caption provides context and explains what is being compared, it doesn't summarize the takeaway",neutral
+505,188,2,caption does not explain the trend so the takeaway message is not clear Caption does not provide anay context necessary to understand the chart,not_useful
+506,188,3,caption does not explain the trend so the takeaway message is not clear Caption does not provide anay context necessary to understand the chart,not_useful
+507,188,2,"Caption provides some context about the data sources and a note about an outlier, there is no clear summary of main trends",not_useful
+509,196,4,Caption summarizes the visualization Caption expands on the visualization components,neutral
+510,196,4,"However, caption is dense uses technical terms, which is making to read the caption again or taking more effort to read them. The takeaway requires some re-readings",neutral
+511,290,4,caption is detailed and explains labels of the chart data used to create the visualization. Caption guides in reading the chart which helps in getting the takeaway message,useful
+512,290,4,caption is detailed and explains labels of the chart and data used to create the visualization. Caption guides in reading the chart which helps in getting the takeaway message.,useful
+514,650,5,Caption helps in understanding annotations used in the chart. Caption clearly states the takeaway message provides required context to read the chart,useful
+515,650,5,Caption helps in understanding annotations used in the chart. Caption clearly states the takeaway message and provides required context to read the cahrt.,useful
+516,650,2,The caption does not fully represent the chart,not_useful
+517,765,2,Caption describe the chart and helps to grasp low level messages. Caption does not provide any context or takeaway message Caption does not describe observed patterns,neutral
+518,765,2,Caption describe the chart and helps to grasp low level messages. Caption does not provide any context or takeaway message. Caption does not describe observed patterns.,neutral
+519,765,3,"The caption provides the context of the labels and its uses, not clearly explaining the comparison between the categories",neutral
+520,859,3,Caption does not add any value,not_useful
+521,859,4,Caption does not add any value.,not_useful
+523,882,4,"Caption summarizes the message shown in the chart however, domain knowledge is required to get a clear takeaway message",neutral
+524,882,3,"Caption summarizes the message shown in the chart however, domain knowledge is required to get a clear takeaway message",neutral
+526,547,3,"title of subplots in the visualization are included in the caption, caption does not provide sufficient context of the chart",not_useful
+527,547,2,title of subplots in the visualization are included in the caption. caption does not provide sufficient context of the chart.,not_useful
+531,292,1,"not clearly explained in the caption, and no clear takeaway",not_useful
+532,413,2,caption only describes the chart Key takeaway of the visualization is not mentioned in the caption,not_useful
+533,413,2,caption only describes the chart. Key takeaway of the visualization is not mentioned in the caption.,not_useful
+534,413,1,caption is not useful to interpret the trend. caption does not provide a takeaway,not_useful
+535,442,2,Caption does not describe the visualization. Caption does not prodive context of the data,not_useful
+536,442,1,Caption does not describe the visualization. Caption does not prodive context of the data.,not_useful
+538,2018,4,Caption has data source which isn’t important Caption describes trend which adds to length which is distracting Caption provides context but doesn’t have enough information. Caption does not indicate the takeaway message,not_useful
+539,2018,3,Caption has data source which isn’t important Caption describes trend which adds to length which is distracting Caption provides context but doesn’t have enough information Caption does not indicate the takeaway message,not_useful
+540,2018,3,"The caption explains about the trends hidden in brackets with just one wording, but not explaining the high level takeaway using all the charts",not_useful
+541,2025,2,Caption does not describe the trend or takeaway is needed Caption has reference to the context. Caption describes chart components inline summary of context would be useful,neutral
+542,2025,1,Caption describes chart components. Caption does not describe the trend or takeaway is needed. Caption has reference to the context but inline summary of context would be useful.,neutral
+543,2025,2,"also no clear trend mentioned in the caption. Caption contains explanation of terms used like box plot, and  what lines are drawn for no clear takeaway",not_useful
+544,2060,4,Caption describes the visualization. Caption does not explain the trend,not_useful
+545,2060,5,Caption describes the visualization. Caption does not explain the trend.,neutral
+546,2060,3,Caption doesn't seem to mention about the comparison between the bars and also what to infer from the charts,not_useful
+547,2064,2,Details about the source of the data in the caption is distracting Caption does not mention the key takeaway Caption is difficult to understand. Caption defines the components used in the visualization Some claims made in the caption cannot be observed in the chart,not_useful
+548,2064,2,Details about the source of the data in the caption is distracting. Caption defines the components used in the visualization. Caption does not mention the key takeaway and or summarize the trend. Caption is difficult to understand. Some claims made in the caption cannot be observed in the chart.,not_useful
+549,2064,4,caption are useful,neutral
+550,2117,3,Caption contains context required to understand the visualization Caption explain the chart well Caption does not mention the key takeaway message,useful
+551,2117,4,Caption contains context required to understand the visualization Caption explain the chart well Caption does not mention the key takeaway message,useful
+552,2117,1,"caption mentions some terms and time-series chart, no clear takeaway",not_useful
+553,2163,4,Caption describes the labels and patterns observed which is useful,useful
+554,2163,4,Caption describes the labels and patterns observed which is useful.,useful
+555,2163,4,the caption represent a clear takeaway message,useful
+556,2253,4,Caption gives context required to read the visualization Caption does not clearly state the takeaway message,useful
+557,2253,4,Caption gives context required to read the visualization Caption does not clearly state the takeaway message,useful
+558,2253,3,caption does not have summary,not_useful
+559,2293,4,Caption includes references to the data source which is not helpful. The caption summarizes the visualization,neutral
+560,2293,3,The caption summarizes the visualization. Caption includes references to the data source which is not helpful.,not_useful
+562,2364,2,Caption is wordy and uses a lot os domain specific technical terms references. Caption does not explain the abberviations used in the chart Caption does not contain useful message,not_useful
+563,2364,3,Caption is wordy and uses a lot of domain specific technical terms and references. Caption does not explain the abberviations used in the chart. Caption does not contain useful message.,not_useful
+564,2364,2,"Caption does not clearly mention about the trend lines in the chart, more focused on the references",not_useful
+565,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but does not clearly state a takeaway message,neutral
+566,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but does not clearly state a takeaway message.,not_useful
+568,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message,useful
+569,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message.,useful
+571,1225,1,The caption does not provide information required to understand the visible patterns Caption provides context of the graph through data description but does not help in understanding the overall take away message,not_useful
+572,1225,1,The caption does not provide information required to understand the visible patterns. Caption provides context of the graph through data description but does not help in understanding the overall take away message.,not_useful
+574,1465,4,The caption clearly mentions the visualization task but describes the labels used in the graph. The caption does not state the takeaway message,neutral
+575,1465,4,The caption clearly mentions the visualization task and describes the labels used in the graph. The caption does not state the takeaway message.,useful
+576,1465,2,No trend is mentioned in the caption,not_useful
+577,1503,4,Caption provides domain knowledge by explaining the meaning of axes labels. The length of the caption creates confusion the caption,not_useful
+578,1503,4,Caption provides domain knowledge by explaining the meaning of axes labels. The length of the caption creates confusion.,neutral
+579,1503,2,"However, chart contains dense technical terms and abbreviations that are not fully explained in caption",not_useful
+580,1581,3,caption contains information missing in the graph and also provides information about how the data was processed. Caption does not clearly mention the key takeaway message,useful
+581,1581,3,caption contains information missing in the graph and also provides information about how the data was processed. Caption does not clearly mention the key takeaway message.,useful
+583,1917,2,Caption explains the methodology but not observed patterns of takeaway message. Context must be present in the caption to understand the visualization,not_useful
+584,1917,3,Caption explains the methodology but not bserved patterns of takeaway message. Context must be present in the cantion to understand the visualization.,not_useful
+586,2211,2,The caption is not valuable as it only explains the data and methodology. Caption is lengthy without a clear takeaway message,not_useful
+587,2211,2,The caption is not valuable as it only explains the data and methodology. Caption is lengthy without a clear takeaway message.,not_useful
+588,2211,3,"The caption is lengthy, and also does not mention clear takeaway message",not_useful
+589,2028,3,Caption describes the marks used in the chart Caption explains the relationship between the two axes in the dual axis,useful
+590,2028,4,Caption describes the marks used in the chart. Caption explains the relationship between the two axes in the dual axis.,useful
+591,2028,4,does not clearly state key message directly in the caption,not_useful
+592,1845,4,caption explains statistics of the data shown in the chart which helps in reading the chart the caption describes the chart and included labels required to understand the chart . The caption does not contain information that helps in understanding the takeaway message,useful
+593,1845,4,caption explains statistics of the data shown in the chart which helps in reading the chart. the caption describes the chart and included labels required to understand the chart. The caption does not contain information that helps in understanding the takeaway message.,neutral
+594,1845,4,the key message could be stated in the caption,neutral
+595,1949,2,"Caption describes the data used for creating the chart and also includes references to the source of data, which is not helpful in understanding the intended message. Caption does not explain the patterns visible in the chart",not_useful
+596,1949,2,"Caption describes the data used for creating the chart and also includes references to the source of data, which is not helpful in understanding the intended message. Caption does not explain the patterns visible in the chart. ",not_useful
+597,1949,2,caption does not fully summarize and address main takeaway trend,not_useful
+598,1749,4,Caption further explains the components of the chart. Caption summarizes two of the subpolts and gives detailed explanation of one. Caption has a lot of information. Caption does not mention the takeaway message.,useful
+599,1749,4,Caption further explains the components of the chart. Caption summarizes two of the subpolts and gives detailed explanation of one. Caption has a lot of information. Caption does not mention the takeaway message.,useful
+600,1749,2,caption is lengthly and does not provide clear takeaway message,not_useful
+601,112,2,trend or pattern not explained in caption,not_useful
+602,126,2,caption does not summarize a takeaway message,not_useful
+603,139,4,wordy caption,not_useful
+604,148,3,"The caption helps to interpret the , providing information which are helpful But it does not mention the main takeaway",not_useful
+605,149,3,caption does not provide enough information,not_useful
+606,152,3,the caption is a bit lengthy,neutral
+607,184,2,No separate information regarding chart no: C is provided,not_useful
+608,188,3,"No explanation of the trend is provided, which is needed to interpret the chart",not_useful
+609,196,3,"caption does not explain trends. caption does not include takeaway message from the observed trends",not_useful
+612,220,3,"The caption is lengthy, and also there can be a common legend in the chart.",neutral
+613,236,2,"The caption is too lengthy, ",not_useful
+614,242,1,The caption is lengthy but informative,neutral
+615,290,3,the caption is too large,not_useful
+616,292,3,The main takeaway is missing. More detailed caption would be helpful,not_useful
+617,297,4,caption does not explain the trend,not_useful
+618,304,2,caption is too long,not_useful
+619,317,2,"caption does not state the main takeaway. Caption does not explain the observed trend",not_useful
+621,330,3,caption does not explain observed pattern,not_useful
+622,332,4,The main takeaway is missing in the caption and the caption does not augment the visualization that much,not_useful
+623,337,2,Caption is too long,not_useful
+624,339,3,observed pattern is not explained in the caption,not_useful
+625,380,3,"Caption described encoding used in the chart. Caption fails to summarize the intent",not_useful
+627,413,2,Caption reiterates the in detail which is not helpful in getting an overall understanding,not_useful
+631,447,1,The caption seems fine,neutral
+632,491,4,observed trend is not explained in the caption,not_useful
+633,492,3,The caption is a bit lengthy,neutral
+634,494,2,caption has too much information,not_useful
+635,497,3,"The caption does not augment the visualization.The main takeaway and an explanation behind it  is missing,",not_useful
+637,547,3,The main takeaway is missing in the caption,not_useful
+638,572,3,caption explains the chart components well. Caption fails to summarize the observed trend,useful
+639,604,3,the caption is too big,not_useful
+640,610,2,Caption explains the components of the chart well,useful
+641,614,3,The caption is also too large,not_useful
+642,639,3,"The caption should talk about the trends, also should do comparison among them",useful
+646,660,4,Large caption,neutral
+647,676,3,caption is monotonous,not_useful
+648,690,2,The caption should compare the results of the models (the major takeaway),useful
+649,736,3,The caption talks in detailed regarding the simulation scenarios but the main takeaway is missing,not_useful
+650,754,2,The caption does not complement the chart. It should mention and explain the upward trends.,not_useful
+651,758,3,the caption is monotonous,not_useful
+652,765,4,caption is too large,not_useful
+653,790,2,"The caption provides information regarding the charts that helps, but it should also explain comparative patterns observed in the chart.",useful
+654,828,1,And the caption does not explain it as well,not_useful
+655,839,3,The main takeaway is missing in the caption,not_useful
+656,846,2,The main takeaway and the explanation of the discrepancy are not provided,not_useful
+657,859,4,Caption does not elaborate on abberviations used in the chart,not_useful
+658,869,2,long caption,neutral
+659,882,2,"The caption does not explain the visualization, nor it mention the main takeaway.",not_useful
+660,898,2,"The caption does not talk about the main takeaway. Caption does not explain the trend observed",not_useful
+661,904,4,Caption can be improved,neutral
+662,909,3,The caption is too large,not_useful
+663,920,3,The main takeaway is missing in the caption,not_useful
+664,937,2,"Caption does not explain the trends observed. Caption does not explain the corelation between two data expressed in the",not_useful
+666,994,3,Caption is too big,not_useful
+667,998,2,Caption does not explain the corelation between two data expressed in the,useful
+668,999,4,The caption is not helpful to interpret the visualization.,not_useful
+670,1011,1,The caption does not complement the chart and does not help to interpret it.,not_useful
+671,1044,2,"The caption provides information regarding the chart, but it should mention explain, and compare the trends",useful
+673,1081,2,"The caption does not mention the main takeaway (the trend). Caption does not not contain context required to grasp the takeaway message. Caption explain methodology used to process the data",not_useful
+675,1100,3,Caption is too big,not_useful
+679,1153,2,The caption does not mention the main takeaway,not_useful
+680,1177,4,"The caption does not expand on observed trend. Caption does not mention the causal effect",not_useful
+682,1192,2,The main takeaway and an explanation is missing,not_useful
+687,1225,4,The caption mentions the main takeaway,useful
+688,1232,2,caption does not explain the trend observed,not_useful
+690,1251,3,The caption does not augment the visualization that much. The main takeaway is missing in the caption. Also an explanation would be helpful.,not_useful
+692,1285,4,An explanation of the trend would be helpful,useful
+693,1294,2,CLuttered and large caption,not_useful
+694,1295,4,"The caption is quite informative and augment the visualization, but including the overall takeaway would be helpful",useful
+696,1303,4,"The main takeaway is missing in the caption, so it does not help in the interpretation of the that much",not_useful
+701,1428,2,"Caption complements the. Caption does not state the main takeaway. caption does not explain the relation between data categories",not_useful
+702,1439,2,"The caption does not include the gist of the , also does not explain correlation between data attributes",not_useful
+703,1453,2,caption does not explain the observed trend,not_useful
+704,1465,2,The caption should contain more information,not_useful
+706,1503,2,"Caption complements the by providing context. Caption does not mention the main takeaway",neutral
+707,1510,3,"Caption does not augment the chart. Caption does not explain the trend observed in the chart. Caption does not explain the correlation between data attributes",not_useful
+709,1576,2,long caption,neutral
+712,1615,3,"The caption surely augments the , but the problem is it does not describe the trend or provide an explanation for that",not_useful
+713,1626,3,"Overall takeaway and explanation of the trend is missing in the caption, but it provides context for the visialization",not_useful
+714,1633,4,lengthy caption,neutral
+715,1659,3,The caption explains abberviations used. caption does not include the overall takeaway,not_useful
+716,1697,3,The caption describe the background information for the chart. Caption does not talk about the main takeaway.,neutral
+717,1711,3,The caption does not talk about the overall trend and also does not explain it,not_useful
+718,1712,3,The caption does not contain context necessary to understand the trend observed. Caption does not describe the trend,not_useful
+719,1715,2,The caption does not explain the color encoding used in the charts. It also does not describe trend observed,not_useful
+720,1718,2,The caption does not describe the takeaway,not_useful
+721,1726,2,Do not provide information regarding the main takeaway,not_useful
+722,1748,3,caption does not describe the trend,not_useful
+724,1751,2,the caption does not describe small upward trend and does not compare the two,not_useful
+725,1755,3,"The caption does not describe the trend, also it should elaborate on how the multiple charts are related",not_useful
+726,1757,3,The caption does not describe the overall takeaway and it does not describe the trend,not_useful
+727,1761,2,The caption does not include statistical description of the data,not_useful
+729,1779,5,The caption is too big,not_useful
+731,1802,2,caption does not state the main takeaway message. Caption does not describe the pattern observed,not_useful
+733,1818,5,"The caption does provide information regarding the major takeaway (the trend), also does not provide explanation",neutral
+735,1838,2,the caption does not describe the trends or compare the three models,not_useful
+737,1861,2,"The caption does not talk about the main takeaway, also it does not compare different categories of the data",not_useful
+738,1874,4,The caption is too big,not_useful
+739,1894,2,caption does not summarize the visualization,not_useful
+740,1911,3,"The caption describes the well, but including the main takeaway would be more helpful",not_useful
+742,1917,2,The caption should describe the main takeaway (the trends in each ) and also the relationship among the trends,useful
+744,1945,2,The caption should include the overall downward trends and should compare and explain the reason behind the trends,useful
+745,1946,2,"The overall trend is easily noticeable, but the caption is unnecessarily large",neutral
+746,1947,3,The caption is too large,not_useful
+748,1963,2,The caption does not include the main takeaway and the comparison between the data of different plots (how the trends from different plot correlate),not_useful
+749,1979,2,the captions does not include the main takeaway,not_useful
+750,2007,2,lengthy caption,neutral
+752,2016,2,"The caption does not augment the figures that much, it does not describe the trend or the major takeaway.",not_useful
+753,2018,3,The caption describe the trends for the plots individually but does not compare the plots or explain the reason behind the trends,not_useful
+754,2025,2,"The caption should talk about the discrepency in the correlation of interquirtile range and max-min range, also the overall trend and the comparison between the trends",useful
+755,2049,2,the caption do not talk about thew major takeaway,not_useful
+757,2052,3,The caption should be more informative,not_useful
+758,2054,2,The caption should mention the upward trends and explain the reason behind that,useful
+759,2060,1,"The caption does not explain the table, which make it tough to interpret",not_useful
+760,2061,1,"The caption does not talk about the major takeaway, ",not_useful
+761,2062,2,The caption does not talk about the major takeaway,not_useful
+763,2065,5,"The caption does not summarize the scenarios shown in the chart, nor it talks about the trend or any takeaways",not_useful
+764,2071,2,"The caption should talk about the trends, and also the relationship between variables shown in the chart",useful
+766,2103,2,"The caption should talk about the trends, compare them and explain the reason behind the trends",useful
+767,2105,2,It does not talk about the main gist. ,not_useful
+769,2124,2,"The caption does not augment the plots. It does not talk about the major takeaway, ",not_useful
+770,2125,2,The caption does not compare the correlation in data,not_useful
+773,2152,2,The caption should include the main gist of the figures.,useful
+774,2163,3,caption seems a bit long with irrelevant information,not_useful
+775,2194,2,The caption should be short,neutral
+776,2211,3,Caption can be improved,not_useful
+777,2213,2,"The caption should compare the trends, which are missing",useful
+779,2218,1,"The caption does not augment the visualization, it should talk about the trends, compare the trends, also should talk about the correlation observed in data.",not_useful
+780,2220,1,"Caption should state the statistical description of data, also the should compare the trends between them",useful
+782,2251,2,"Caption should mention the overall trends of different plots, should include how they correlate",useful
+783,1749,2,The caption complement the charts,neutral
+784,2253,1,caption should talk about the correlation between uncertainty observed in the chart,neutral
+785,2254,3,Caption can be shortened,neutral
+786,2262,2,It should talk about the trends and also correlate between variables plotted,not_useful
+787,2271,2,The caption should talk about the gist of the plots also should compare the two trends,useful
+788,2276,1,The caption does not complement the plots. It should add the main takeaway from the visualization,useful
+789,2289,1,The caption should describe the trends also should talk about the similarities between the trends (how they correlated),useful
+792,2327,1,"The caption should include the main takeaway, compare the trends and explain it",useful
+793,2348,1,The caption does not talk about the trends and how they correlate,not_useful
+794,2354,1,The caption missed the gist and did not talk about the discrepancy in the comparison of the trends seen between the two plots,not_useful
+797,2360,2,The caption should include the main gist of the visualization and also compare or talk about the similarity of the trends.,useful
+798,1845,2,"The caption does not mention the main takeaway, also does not explain it",not_useful
+799,1949,2,The caption does not complement the chart. The main takeaway is missing,not_useful
+800,2028,3,The caption complements the,neutral
