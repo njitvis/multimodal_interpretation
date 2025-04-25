@@ -40,5 +40,5 @@ chart_caption_context_extractor/extracted_charts
 chart_caption_context_extractor/models
 
 *.pth
-bilstm/checkpoint/tokenizer
-bilstm_kwfreq/checkpoint/tokenizer
+automated_l1_l4/evaluate_bilstm/bilstm/checkpoint/tokenizer
+automated_l1_l4/evaluate_bilstm_kwfreq/bilstm_kwfreq/checkpoint/tokenizer
