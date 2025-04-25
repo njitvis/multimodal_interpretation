@@ -38,3 +38,5 @@ train_yolo/datasets/charts/
 chart_caption_context_extractor/datasets
 chart_caption_context_extractor/extracted_charts
 chart_caption_context_extractor/models
+
+*.pth
