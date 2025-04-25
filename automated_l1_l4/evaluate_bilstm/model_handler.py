@@ -1,11 +1,13 @@
 import torch
 import torch.nn as nn
-from transformers import BertTokenizer
+from transformers import BertTokenizer, BertTokenizerFast
 import numpy as np
 from sklearn.preprocessing import MultiLabelBinarizer
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from torch.optim.lr_scheduler import StepLR
+import os
+import joblib
 
 from model_def import BiLSTMWithBERT
 
@@ -47,7 +49,9 @@ class ModelHandler:
         self.tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
         self.mlb = MultiLabelBinarizer()
 
-    def load_model(self, path: str) -> None:
+    def load_model(self, path: str, tokenizer_path: str, binarizer_path: str = "./bilstm/mlb.joblib") -> None:
+        self.tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
+        self.mlb = joblib.load(binarizer_path)
         state = torch.load(path, map_location=self.device)
         self.model.load_state_dict(state)
         self.model.to(self.device)
@@ -59,7 +63,8 @@ class ModelHandler:
         true_labels,
         epochs: int = 100,
         batch_size: int = 64,
-        lr: float = 1e-4
+        lr: float = 1e-4,
+        binarizer_path: str = "./bilstm/mlb.joblib"
     ) -> None:
         encodings = self.tokenizer(
             texts,
@@ -72,6 +77,9 @@ class ModelHandler:
 
         labels = self.mlb.fit_transform(true_labels)
         labels_tensor = torch.tensor(labels, dtype=torch.float)
+
+        joblib.dump(self.mlb, binarizer_path)
+        print(f">>> Binarizer saved to {binarizer_path}")
 
         dataset = TensorDataset(input_ids, attention_mask, labels_tensor)
         loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
@@ -130,6 +138,9 @@ class ModelHandler:
         preds = (all_probs >= 0.5).astype(int)
         return preds
     
-    def save(self, path: str) -> None:
+    def save(self, path: str, tokenizer_path: str) -> None:
         torch.save(self.model.state_dict(), path)
         print(f">>> Model saved to {path}")
+        os.makedirs(tokenizer_path, exist_ok=True)
+        self.tokenizer.save_pretrained(tokenizer_path)
+        print(f">>> Tokenizer saved to {tokenizer_path}")

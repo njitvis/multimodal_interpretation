@@ -1,11 +1,13 @@
 import torch
 import torch.nn as nn
-from transformers import BertTokenizer
+from transformers import BertTokenizer, BertTokenizerFast
 import numpy as np
 from sklearn.preprocessing import MultiLabelBinarizer
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from torch.optim.lr_scheduler import StepLR
+import os
+import joblib
 
 from model_def import BiLSTMWithBERT
 
@@ -34,7 +36,8 @@ class ModelHandler:
     def __init__(
         self,
         hidden_dim: int,
-        num_labels: int
+        num_labels: int,
+        num_categories: int
     ):
         self.hidden_dim = hidden_dim
         self.num_labels = num_labels
@@ -43,11 +46,13 @@ class ModelHandler:
             torch.cuda.set_device(0)
             self.device = torch.device("cuda:0")
         print(self.device)
-        self.model = BiLSTMWithBERT(hidden_dim, num_labels).to(self.device)
+        self.model = BiLSTMWithBERT(hidden_dim, num_labels, num_categories).to(self.device)
         self.tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
         self.mlb = MultiLabelBinarizer()
 
-    def load_model(self, path: str) -> None:
+    def load_model(self, path: str, tokenizer_path: str, binarizer_path: str = "./bilstm_kwfreq/mlb.joblib") -> None:
+        self.tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
+        self.mlb = joblib.load(binarizer_path)
         state = torch.load(path, map_location=self.device)
         self.model.load_state_dict(state)
         self.model.to(self.device)
@@ -56,10 +61,12 @@ class ModelHandler:
     def train(
         self,
         texts: list[str],
+        kw_vec: list[int],
         true_labels,
         epochs: int = 100,
         batch_size: int = 64,
-        lr: float = 1e-4
+        lr: float = 1e-4,
+        binarizer_path: str = "./bilstm_kwfreq/mlb.joblib"
     ) -> None:
         encodings = self.tokenizer(
             texts,
@@ -73,7 +80,12 @@ class ModelHandler:
         labels = self.mlb.fit_transform(true_labels)
         labels_tensor = torch.tensor(labels, dtype=torch.float)
 
-        dataset = TensorDataset(input_ids, attention_mask, labels_tensor)
+        joblib.dump(self.mlb, binarizer_path)
+        print(f">>> Binarizer saved to {binarizer_path}")
+
+        kw_vec_tensor = torch.tensor(kw_vec, dtype=torch.float)
+
+        dataset = TensorDataset(input_ids, attention_mask, labels_tensor, kw_vec_tensor)
         loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
 
         criterion = nn.BCEWithLogitsLoss()
@@ -89,9 +101,9 @@ class ModelHandler:
             total_loss = 0.0
 
             for batch in loader:
-                ids, masks, targets = [t.to(self.device) for t in batch]
+                ids, masks, targets, kw_vec = [t.to(self.device) for t in batch]
                 optimizer.zero_grad()
-                outputs = self.model(ids, masks)
+                outputs = self.model(ids, masks, kw_vec)
                 loss = criterion(outputs, targets)
                 loss.backward()
                 torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
@@ -109,6 +121,7 @@ class ModelHandler:
     def test(
         self,
         texts: list[str],
+        kw_vec: list[list[float]],
         threshold: float = 0.5
     ):
         encodings = self.tokenizer(
@@ -119,17 +132,21 @@ class ModelHandler:
         )
         input_ids = encodings["input_ids"].to(self.device)
         attention_mask = encodings["attention_mask"].to(self.device)
+        kw_tensor = torch.tensor(kw_vec, dtype=torch.float32, device=self.device)
 
         self.model.eval()
         all_probs = []
         with torch.no_grad():
-            logits = self.model(input_ids, attention_mask)
+            logits = self.model(input_ids, attention_mask, kw_tensor)
             probs = torch.sigmoid(logits).cpu().numpy()
             all_probs.extend(probs)
         all_probs = np.array(all_probs)
         preds = (all_probs >= 0.5).astype(int)
         return preds
     
-    def save(self, path: str) -> None:
+    def save(self, path: str, tokenizer_path: str) -> None:
         torch.save(self.model.state_dict(), path)
         print(f">>> Model saved to {path}")
+        os.makedirs(tokenizer_path, exist_ok=True)
+        self.tokenizer.save_pretrained(tokenizer_path)
+        print(f">>> Tokenizer saved to {tokenizer_path}")

@@ -10,14 +10,18 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import multilabel_confusion_matrix
 import ast
+from util import compute_category_vector
 
 
 sentences = pd.read_csv("../all.csv")
 sentences["label"] = sentences["label"].apply(lambda x: ast.literal_eval(x))
+sentences['kw_freqs'] = sentences['text'].apply(
+    lambda s: compute_category_vector(s)
+)
 
-handler = ModelHandler(hidden_dim=256, num_labels=4)
-handler.load_model("./bilstm.pth", "./bilstm/checkpoint/tokenizer")
-y_preds = handler.test(sentences["text"].to_list())
+handler = ModelHandler(hidden_dim=256, num_labels=4, num_categories=8)
+handler.load_model("./bilstm_kwfreq.pth", "./bilstm_kwfreq/checkpoint/tokenizer")
+y_preds = handler.test(texts=sentences["text"].to_list(), kw_vec=sentences["kw_freqs"].to_list())
 
 y_true_transformed = handler.mlb.transform(sentences["label"])
 y_true_tensor = torch.tensor(y_true_transformed, dtype=torch.float)

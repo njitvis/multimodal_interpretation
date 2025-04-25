@@ -14,7 +14,7 @@ train_sentences = sentences.drop(test_sentences.index)
 
 handler = ModelHandler(hidden_dim=256, num_labels=4)
 handler.train(train_sentences["sentence"].to_list(), train_sentences["semantic_level"], lr=6e-5, batch_size=16)
-handler.save("./bilstm.pth")
+handler.save("./bilstm.pth", "./bilstm/checkpoint/tokenizer")
 
 # import optuna
 # import torch.nn.functional as F
