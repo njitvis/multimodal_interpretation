@@ -16,8 +16,8 @@ for train_index, sample_index in split.split(sentences, sentences['semantic_leve
     test_sentences = sentences.iloc[sample_index]
 train_sentences = sentences.drop(test_sentences.index)
 
-handler = ModelHandler(hidden_dim=256, num_labels=4, num_categories=8)
-handler.train(texts=train_sentences["sentence"].to_list(), true_labels=train_sentences["semantic_level"], kw_vec=train_sentences["kw_freqs"], lr=6e-5, batch_size=64)
+handler = ModelHandler(hidden_dim=128, num_labels=4, num_categories=8)
+handler.train(texts=train_sentences["sentence"].to_list(), true_labels=train_sentences["semantic_level"], kw_vec=train_sentences["kw_freqs"], lr=6e-5, batch_size=16)
 handler.save("./bilstm_kwfreq.pth", "./bilstm_kwfreq/checkpoint/tokenizer")
 
 # import optuna

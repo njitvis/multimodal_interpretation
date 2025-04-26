@@ -19,7 +19,7 @@ sentences['kw_freqs'] = sentences['text'].apply(
     lambda s: compute_category_vector(s)
 )
 
-handler = ModelHandler(hidden_dim=256, num_labels=4, num_categories=8)
+handler = ModelHandler(hidden_dim=128, num_labels=4, num_categories=8)
 handler.load_model("./bilstm_kwfreq.pth", "./bilstm_kwfreq/checkpoint/tokenizer")
 y_preds = handler.test(texts=sentences["text"].to_list(), kw_vec=sentences["kw_freqs"].to_list())
 
