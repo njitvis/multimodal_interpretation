@@ -34,5 +34,5 @@ def compute_category_vector(sentence):
             if lemma in lemmas_set:
                 cnt[cat] += 1
 
-    total = len(lemmas) or 1
+    total = sum(cnt.values()) or 1
     return [cnt.get(cat, 0) / total for cat in category_list]
