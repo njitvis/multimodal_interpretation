@@ -51,22 +51,31 @@ grouped = labeled_sentences.groupby('semantic_level').mean()
 
 grouped.index.name = 'semantic_level'
 
-fig, axes = plt.subplots(2, 2, figsize=(16, 10))
+fig, axes = plt.subplots(1, 4, figsize=(13, 4))
 axes = axes.flatten()
 
 for idx, level in enumerate(grouped.index):
     ax = axes[idx]
     values = grouped.loc[level].values
     columns = grouped.columns
-    x = np.arange(len(columns))
+    y = np.arange(len(columns))
 
-    ax.bar(x, values)
+    ax.barh(y, values)
     ax.set_title(f'Semantic Level {level}')
-    ax.set_ylim(0, 1)
-    ax.set_xlabel('Categories')
-    ax.set_ylabel('Average proportion of Keyword')
-    ax.set_xticks(x)
-    ax.set_xticklabels(columns, rotation=45, ha='right')
+    ax.set_xlim(0, 1)
+    if idx == 1:
+        ax.set_xlabel('Average Proportion of Keyword')
+    else:
+        ax.set_xlabel('')
+
+    if idx == 0:
+        ax.set_yticks(y)
+        ax.set_yticklabels(columns)
+        ax.set_ylabel('Categories')
+    else:
+        ax.set_yticks([])
+
+    ax.invert_yaxis()
 
 plt.tight_layout()
 plt.savefig("./output/keyword_distribution.png", dpi=300)

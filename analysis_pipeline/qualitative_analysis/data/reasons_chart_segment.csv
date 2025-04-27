@@ -112,7 +112,7 @@ reason_id,image_id,rating,reason,feature,sentiment
 168,828,3,No proper labeling is stated in chart,Labels-Titles-Legend-Scale,**Moderate Negative**
 169,839,4,Clear visualization that shows temperature changes,Aesthetics-Clarity-Comparison,Moderate Positive
 172,904,4,"chart has different curves representing different depths and locations. The x-axis and y-axis are clear, and the captions helps with the interpretation. No legend is present. locations The x-axis y-axis are clear, No legend is present",Labels-Titles-Legend-Scale,**Neutral**
-175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex,Labels‑Titles‑Legend‑Scale,**Moderate Neutral**
+175,1006,4,Clear context with color-coded regions but multiple lines make the chart somewhat complex multiple lines make the chart somewhat complex,Labels‑Titles‑Legend‑Scale,**Neutral**
 176,1006,2,the graph is very hard to read tell the difference between the many labels,Labels-Titles-Legend-Scale,**Moderate Negative**
 177,1006,2,labels are not clear,Labels-Titles-Legend-Scale,**Moderate Negative**
 178,1044,4,"Too many lines and shaded regions makes the chart more complicated, Too many lines shaded regions makes the chart more complicated,",Visual Density / Clutter,**Moderate Negative**
@@ -144,7 +144,7 @@ reason_id,image_id,rating,reason,feature,sentiment
 217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,",Labels-Titles-Legend-Scale,**Moderate Positive**
 220,1777,4,The visualization includes multiple panels for different regions and periods. The use of these panels adds to the complexity The visualization includes multiple panels for different regions periods The use of these panels adds to the complexity,Chart Type & Layout Choice,**Moderate Negative**
 222,1777,2,The charts in the right does not clearly interpret,Labels-Titles-Legend-Scale,**Moderate Negative**
-223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars",Aesthetics-Clarity-Comparison,**Moderate Neutral**
+223,1790,4,"The chart shows the frequency for two scenarios, and it is somewhat easy to understand The chart shows the frequency for two scenarios, it is somewhat easy to understand error bars",Aesthetics-Clarity-Comparison,**Neutral**
 224,1790,4,"the graph labels ranges are very small, so it is hard to tell what value they correlate to",Labels-Titles-Legend-Scale,**Moderate Negative**
 226,1861,4,The legend and well-defined axes make the charts somewhat interpretable The legend well-defined axes make the charts somewhat interpretable,Labels-Titles-Legend-Scale,**Neutral**
 228,1861,3,"The chart does seem to use some symbols like triangle, circle that are not fully explained within the visualization itself and require very large caption.",Labels-Titles-Legend-Scale,Moderate Negative
@@ -173,7 +173,7 @@ reason_id,image_id,rating,reason,feature,sentiment
 260,2071,4,the graph should have a key for the colors,Labels-Titles-Legend-Scale,**Moderate Negative**
 262,2271,4,"The chart has a clear representation with 2 panels, but each panel uses different line styles and bard to represent the different datasets However, this adds more complexity to the interpretation of the chart The chart has a clear representation with 2 panels, each panel uses different line styles bard to represent the different datasets However, this adds more complexity to the interpretation of the chart",Chart Type & Layout Choice,**Moderate Negative**
 263,2271,5,graphs are interpretable,Aesthetics-Clarity-Comparison,**Neutral**
-265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable",Aesthetics-Clarity-Comparison,**Moderate Neutral**
+265,2356,4,"Given the clear representation, multiple components, and detailed context, it is somewhat interpretable. The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable Given the clear representation, multiple components, The use of multiple panels makes it difficult to find a clear takeaway making it somewhat interpretable",Aesthetics-Clarity-Comparison,**Neutral**
 266,2356,4,the graph should have a key,Labels-Titles-Legend-Scale,**Neutral**
 267,2356,4,"The chart is clear allows for comparison,",Aesthetics-Clarity-Comparison,Moderate Positive
 268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex,Aesthetics-Clarity-Comparison,**Moderate Positive**
@@ -283,7 +283,7 @@ Difficult to read the chart",Aesthetics-Clarity-Comparison,**Moderate Negative**
 400,2152,2,The use of multiple components adds to the complexity of interpretation.,Visual Density / Clutter,**Moderate Negative**
 401,2152,5,display the trend well,Trend / Pattern Depiction,**Moderate Positive**
 402,2152,3,The bottom chart is less interpretable,Aesthetics-Clarity-Comparison,Moderate Negative
-403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a),Visual Density / Clutter,**Moderate Neutral**
+403,2194,2,The use of error bars different symbols help in understanding the data it is also difficult to see the error bars for (a),Visual Density / Clutter,**Neutral**
 405,2194,1,The x-axis label is very confusing unable to determine the ticks with years,Labels-Titles-Legend-Scale,**Moderate Negative**
 406,2215,2,"The visualization includes 2 panels, the use of multiple components in each panels makes it somewhat challenging to quickly grasp the main trends",Visual Density / Clutter,**Moderate Negative**
 407,2215,4,the graph formatting could be better,Chart Type & Layout Choice,**Moderate Negative**
@@ -299,7 +299,7 @@ Difficult to read the chart",Aesthetics-Clarity-Comparison,**Moderate Negative**
 419,1068,1,the graph is very hard to read with the many labels intersecting each other Even the graph key is hard to read,Visual Density / Clutter,**Moderate Negative**
 420,1068,1,Many labels confusing,Labels-Titles-Legend-Scale,**Moderate Negative**
 421,1087,1,The graph itself is very complex with multiple overlapping lines representing different time periods. The error bars also makes it more difficult to grasp the main takeaway,Visual Density / Clutter,**Moderate Negative**
-422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels",Trend / Pattern Depiction,**Moderate Neutral**
+422,1087,4,"The trend is visible on the graph, its a little hard to to tell the numbers corresponding to the labels",Trend / Pattern Depiction,**Neutral**
 424,1146,1,"This visualization consists of 6 bar graphs, broken down into different regions aerosols error bars. However the overall layout is cluttered with many bars, colors codes and error bars. The dense information make it difficult to quickly understand takeaway",Visual Density / Clutter,**Moderate Negative**
 425,1146,4,the graphs could be bigger,Visual Density / Clutter,**Moderate Negative**
 426,1146,4,Easy to understand,Aesthetics-Clarity-Comparison,**Moderate Positive**
@@ -328,7 +328,7 @@ Difficult to read the chart",Aesthetics-Clarity-Comparison,**Moderate Negative**
 456,1751,2,The labels are not clearly mentioned in charts,Labels-Titles-Legend-Scale,**Moderate Negative**
 457,1821,1,"There are multiple panels in this visualization, it is hard to tell what each colors mean Too much information to process so cannot find a main clear takeaway",Aesthetics-Clarity-Comparison,**Moderate Negative**
 458,1821,2,"the various graph symbols and colors are hard to interpret, especially since they are small and clustered.",Visual Density / Clutter,Moderate Negative
-459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand",Aesthetics-Clarity-Comparison,**Moderate Neutral**
+459,1821,4,"The inclusion of reference line increases the interpretation However, the chart uses several technical terms may require extra effort to understand",Aesthetics-Clarity-Comparison,**Neutral**
 460,1946,1,"There are multiple lines that overlap, there are variations of lines (dashed, dotted, straight) which is difficult to see  Trying to get a main takeaway can be hard",Visual Density / Clutter,**Moderate Negative**
 461,1946,4,the graph lines are very clustered hard to read,Visual Density / Clutter,**Moderate Negative**
 462,1946,3,"The chart is visually dense, with overlapping lines there are many abbreviations ",Visual Density / Clutter,Moderate Negative
