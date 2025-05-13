@@ -7,7 +7,7 @@ clarity = pd.read_csv("./data/reasons_chart_segment.csv")
 usefulness = pd.read_csv("./data/reasons_caption_segment.csv")
 
 merged = pd.merge(clarity, usefulness, on=["reason_id", "image_id", "rating"])
-merged.drop(columns=["reason_x", "reason_y", "feature"], inplace=True)
+merged.drop(columns=["reason_x", "reason_y"], inplace=True)
 merged["sentiment"] = merged["sentiment"].apply(lambda x: x.replace('**', ''))
 
 rating_map = {
@@ -30,9 +30,10 @@ def map_size(count):
 		else:
 			return 60
 grouped = merged.groupby(['sentiment', 'usefulness', 'rating_category']).size().reset_index(name='count')
+grouped = grouped[grouped["sentiment"] != "Neutral"]
 grouped['count'] = grouped['count'].apply(map_size)
 
-sentiment_order = ["Strong Positive", "Moderate Positive", "Neutral", "Moderate Negative", "Strong Negative"]
+sentiment_order = ["Strong Positive", "Moderate Positive", "Moderate Negative", "Strong Negative"]
 sentiment_map = {sent: i for i, sent in enumerate(sentiment_order)}
 grouped['sentiment_pos'] = grouped['sentiment'].map(sentiment_map)
 
@@ -42,7 +43,9 @@ offset_map = {
 }
 grouped['sentiment_dodged'] = grouped['sentiment_pos'] + grouped['rating_category'].map(offset_map) * 0.15
 
-grouped['usefulness'] = pd.Categorical(grouped['usefulness'], ['not_useful', 'neutral', 'useful'])
+grouped = grouped[grouped["usefulness"] != "neutral"]
+
+grouped['usefulness'] = pd.Categorical(grouped['usefulness'], ['not_useful', 'useful'])
 grouped.sort_values(by=['usefulness'], inplace=True)
 
 custom_palette = {
@@ -50,6 +53,7 @@ custom_palette = {
     'Moderate': 'grey',
     'Low': 'orange'
 }
+grouped[["sentiment",  "usefulness", "rating_category",  "count"]].to_csv("./data/clarity_usefulness_rating_data.csv", index=False)
 plt.figure(figsize=(12, 5))
 sns.scatterplot(
     data=grouped,
@@ -68,7 +72,7 @@ sns.scatterplot(
 plt.xticks(ticks=list(sentiment_map.values()), labels=list(sentiment_map.keys()))
 plt.xlabel("Sentiment towards chart")
 plt.ylabel("Caption usefulness")
-manual_usefulness_order = ["Not useful", "Neutral", "Useful"]
+manual_usefulness_order = ["Not useful", "Useful"]
 plt.yticks(
     ticks=range(len(manual_usefulness_order)),
     labels=manual_usefulness_order

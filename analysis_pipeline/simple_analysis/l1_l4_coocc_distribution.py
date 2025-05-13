@@ -26,7 +26,10 @@ def generate_cooccurrence_heatmap(df, title):
 	for text in ax.texts:
 			text.set_text(f"{text.get_text()}%")
 
-	plt.title(f"Probability of Sentence Type Co-occurrence in {title} captions")
+	plt.xlabel("Sentence Type")
+	plt.ylabel("Sentence Type")
+
+	plt.title(f"")
 	plt.savefig(f"./output/coocurrence/l1_l4_coocurrence_prob_{title}.png", dpi=300)
 	plt.close()
 

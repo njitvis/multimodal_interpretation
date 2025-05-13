@@ -32,7 +32,7 @@ print(f"Hamming loss: {ham_loss:.4f}")
 print(f"Hamming accuracy: {1 - ham_loss:.4f}")
 
 mcm = multilabel_confusion_matrix(y_true, y_preds)
-fig, axes = plt.subplots(2, 2, figsize=(10, 10))
+fig, axes = plt.subplots(2, 2, figsize=(5, 5))
 axes = axes.flatten()
 
 for i, ax in enumerate(axes):

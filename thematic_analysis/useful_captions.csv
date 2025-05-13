@@ -1,0 +1,153 @@
+reason_id,image_id,rating,reason,usefulness,feature,caption
+37,572,5,caption summarizes main takeaway,useful,**Missing or Unclear Takeaway Message**,"Figure 9.1: Poleward migration, in degrees of latitude, of the location of annual mean tropical cyclone (TC) peak 
+lifetime intensity in the western North Pacific Ocean, after accounting for the known regional modes of interannual 
+(El Nino-Southern Oscillation; ENSO) and interdecadal (Pacific Decadal Oscillation; PDO) variability. The time series 
+shows residuals of the multivariate regression of annually averaged latitude of TC peak lifetime intensity onto the mean 
+Nino-3.4 and PDO indices. Data are taken from the Joint Typhoon Warning Center (JTWC). Shading shows 95% con-
+fidence bounds for the trend. Annotated values at lower right show the mean migration rate and its 95% confidence 
+interval in degrees per decade for the period 1945-2013. (Figure source: adapted from Kossin et al. 2016;13 (c) American 
+Meteorological Society. Used with permission.) "
+43,660,5,The detailed caption provides a clear takeaway,useful,**Clear and Good Quality**,"Figure 7-3 | Since the AR4, international food prices have reversed historical downward trend. The plot shows the history of FAO food and cereal price indices (composite 
+measures of food prices), with vertical lines indicating events when a top five producer of a crop had yields 25% below trend line (indicative of a seasonal climate extreme). 
+Australia is included despite not being a top five producer, because it is an important exporter and the drops were 40% or more below trend line. Prices may have become more 
+sensitive to weather-related supply shortfalls in recent years. At the same time, food prices are increasingly associated with the price of crude oil (blue line), making attribution of 
+price changes to climate difficult. Thus, there is clear evidence since AR4 that prices can rise rapidly, but the role of weather in these increases remains unclear. All indices are 
+expressed as percentage of 2002-2004 averages. Food price and crop yield data from FAO (http://www.fao.org/worldfoodsituation/foodpricesindex and http://faostat.fao.org/) 
+and oil price data from http://www.eia.gov."
+46,690,5,The caption helps with interpretation of the chart,useful,Clear and Good Quality,"Figure 9.15: Simple model results: Temperature changes from (a) 1990 to 2030 and from (b) 1990 to 2100 for the six illustrative SRES scenarios
+and IS92a. The bottom axis indicates the AOGCM to which the simple model is tuned. For comparison results are also shown for the SAR version
+of the simple climate model using SAR forcing with some of the IS92 scenarios (see Kattenberg et al., 1996). IS92a H/M/L refers to the IS92a
+scenario with climate sensitivity of 1.5, 2.5 and 4.5degC respectively. Also shown are the IS92e scenario with a sensitivity of 4.5degC and the IS92c
+scenario with a sensitivity of 1.5degC."
+73,1285,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful,Detailed and Informative,"Figure 5.1. Time series of global annual ocean heat content (1022 J) for the 0 to 700 m layer. The black curve is updated from Levitus et al. (2005a), with the shading repre-
+senting the 90% confi dence interval. The red and green curves are updates of the analyses by Ishii et al. (2006) and Willis et al. (2004, over 0 to 750 m) respectively, with the er-
+ror bars denoting the 90% confi dence interval. The black and red curves denote the deviation from the 1961 to 1990 average and the shorter green curve denotes the deviation 
+from the average of the black curve for the period 1993 to 2003. "
+76,1295,5,The caption provides detailed context explaining the CI and data source The caption provides detailed context explaining the CI,useful,**Detailed and Informative**,"Figure 5.19. Global sea level change due to thermal expansion for 1955 to 2003, based on Levi-
+tus et al. (2005a; black line) and Ishii et al. (2006; red line) for the 0 to 700 m layer, and based on 
+Willis et al. (2004; green line) for the upper 750 m. The shaded area and the vertical red and green 
+error bars represent the 90% confi dence interval. The black and red curves denote the deviation 
+from their 1961 to 1990 average, the shorter green curve the deviation from the average of the 
+black curve for the period 1993 to 2003."
+99,1803,4,"the caption provides details about the terms and data, but does not fully give the main takeaway",useful,**Missing or Unclear Takeaway Message**,"Figure 3.2: Observed global mean temperature trend (black bar) and attributable warming or cooling influences of 
+anthropogenic and natural forcings over 1951-2010. Observations are from HadCRUT4, along with observational un-
+certainty (5% to 95%) error bars.62 Likely ranges (bar-whisker plots) and midpoint values (colored bars) for attributable 
+forcings are from IPCC AR5.1. GHG refers to well-mixed greenhouse gases, OA to other anthropogenic forcings, NAT 
+to natural forcings, and ANT to all anthropogenic forcings combined. Likely ranges are broader for contributions from 
+well-mixed greenhouse gases and for other anthropogenic forcings, assessed separately, than for the contributions 
+from all anthropogenic forcings combined, as it is more difficult to quantitatively constrain the separate contributions of 
+the various anthropogenic forcing agents. (Figure source: redrawn from Bindoff et al.;1 (c) IPCC. Used with permission.)"
+100,1818,5,"Clear takeaway with detailed context, making it easy to interpret",useful,**Detailed and Informative**,"Figure 4.22. Historical variations in the monthly areal extent (106 km2) of 
+seasonally frozen ground (including the active layer over permafrost) for the period 
+from 1901 through 2002 in the NH. The positive anomaly (blue) represents above-
+average monthly extent, while the negative anomaly (red) represents below-average 
+extent. The time series is smoothed with a low-pass fi lter (after Zhang et al., 2003)."
+107,1945,4,the caption should include more context for the situation and trend.,useful,Insufficient or Unclear Description,"Figure 7.1: CO2 reduction potential of eight energy saving technologies in 2030
+CDQ = Coke Dry Quenching, HS = Hot Stove, TRT = Top Pressure Recovery Turbine, SC = Sinter Cooling, CC = Continuous Casting, SP = Sinter Plant, BOFG = Basic 
+Oxygen Furnace Gas, ME = Main Exhaust, WH = Waste Heat"
+154,639,4,The caption provides the main takeaways,useful,**Clear and Good Quality**,"Figure 2.4 | Range of assumptions about socio-economic drivers and projections for energy and food demand in the pathways available to this 
+assessment. 1.5degC-consistent pathways are blue, other pathways grey. Trajectories for the illustrative 1.5degC-consistent archetypes used in this Chapter (LED, S1, S2, S5; 
+referred to as P1, P2, P3, and P4 in the Summary for Policymakers.) are highlighted. S1 is a sustainability oriented scenario, S2 is a middle-of-the-road scenario, and S5 is a 
+fossil-fuel intensive and high energy demand scenario. LED is a scenario with particularly low energy demand. Population assumptions in S2 and LED are identical. Panels show 
+(a) world population, (b) gross world product in purchasing power parity values, (c) final energy demand, and (d) food demand. "
+178,1044,4,the detailed information in the caption helps,useful,Detailed and Informative,"Figure 2.21: Comparison of warm-season (Jones et al., 1998) and annual mean (Mann et al., 1998, 1999) multi-proxy-based and warm season
+tree-ring-based (Briffa, 2000) millennial Northern Hemisphere temperature reconstructions. The recent instrumental annual mean Northern
+Hemisphere temperature record to 1999 is shown for comparison. Also shown is an extra-tropical sampling of the Mann et al. (1999) temperature
+pattern reconstructions more directly comparable in its latitudinal sampling to the Jones et al. series. The self-consistently estimated two standard
+error limits (shaded region) for the smoothed Mann et al. (1999) series are shown. The horizontal zero line denotes the 1961 to 1990 reference
+period mean temperature. All series were smoothed with a 40-year Hamming-weights lowpass filter, with boundary constraints imposed by
+padding the series with its mean values during the first and last 25 years."
+183,1301,3,"The caption is not required, because caption tells to look in the chart explanations for more details",useful,Insufficient or Unclear Description,"Figure 2.10 | Accounting of cumulative CO2 emissions for the four 1.5degC-consistent pathway archetypes. See top panel for explanation of the bar plots. Total 
+CDR is the difference between gross (red horizontal bar) and net (purple horizontal bar) cumulative CO2 emissions over the period 2018-2100, and it is equal to the sum of the 
+BECCS (grey) and AFOLU CDR (green) contributions. Cumulative net negative emissions are the difference between peak (orange horizontal bar) and net (purple) cumulative CO2 
+emissions. The blue shaded area depicts the estimated range of the remaining carbon budget for a two-in-three to one-in-two chance of staying below1.5degC. The grey shaded 
+area depicts the range when accounting for additional Earth system feedbacks. "
+184,1388,4,Clear explanation in the caption,useful,"""6. Clear and Good Quality""","Figure 6.3 Equilibrium partitioning of CO2 between the ocean and 
+atmosphere. On the time scale of millennia, complete mixing of the 
+oceans leads to a partitioning of cumulative CO2 emissions between the 
+oceans and atmosphere with the bulk of emissions eventually residing in 
+the oceans as dissolved inorganic carbon. The ocean partition depends 
+nonlinearly on CO2 concentration according to carbonate chemical 
+equilibrium (Box 6.1) and has limited sensitivity to changes in surface 
+water temperature (shown by the grey area for a range of climate 
+sensitivity of 1.5 to 4.5degC for CO2 doubling) (adapted from Kheshgi 
+et al., 2005; Kheshgi, 2004a). pH evaluated from pCO2 of 275 ppm. 
+This calculation is relevant on the time scale of several centuries, and 
+does not consider changes in ocean alkalinity that increase ocean CO2 
+uptake over several millennia (Archer et al., 1997)."
+238,1925,4,The caption provided is gives detailed information about the data shown in the chart,useful,Detailed and Informative,"Figure 4.8. Sea ice extent anomalies (computed relative to the mean of the entire 
+period) for (a) the NH and (b) the SH, based on passive microwave satellite data. 
+Symbols indicate annual mean values while the smooth blue curves show decadal 
+variations (see Appendix 3.A). Linear trend lines are indicated for each hemisphere. 
+For the Arctic, the trend is -33 +- 7.4 x 103 km2 yr-1 (equivalent to approximately 
+-2.7% per decade), whereas the Antarctic results show a small positive trend of 
+5.6 +- 9.2 x 103 km2 yr-1. The negative trend in the NH is signifi cant at the 90% con-
+fi dence level whereas the small positive trend in the SH is not signifi cant (updated 
+from Comiso, 2003)."
+274,2220,4,The caption is needed to fully make an interpretation of the chart,useful,Insufficient or Unclear Description,"Figure 11.11. Temperature anomalies with respect to 1901 to 1950 for fi ve North American land regions for 1906 to 2005 (black line) and as simulated (red envelope) by 
+MMD models incorporating known forcings; and as projected for 2001 to 2100 by MMD models for the A1B scenario (orange envelope). The bars at the end of the orange enve-
+lope represent the range of projected changes for 2091 to 2100 for the B1 scenario (blue), the A1B scenario (orange) and the A2 scenario (red). The black line is dashed where 
+observations are present for less than 50% of the area in the decade concerned. More details on the construction of these fi gures are given in Box 11.1 and Section 11.1.2."
+304,1215,3,"Furthermore, the caption provides detailed information about the each element but it takes time to understand",useful,Detailed and Informative,"Figure 4.4 | Change in annual investment flows from the average baseline level over the next two decades (2010 to 2029) for mitigation scenarios that stabilize concentrations 
+(without overshoot) within the range of approximately 430 to 530 ppm CO2-eq by 2100. Total electricity generation (leftmost column) is the sum of renewable and nuclear energy, 
+power plants with CCS, and fossil-fuel power plants without CCS. The vertical bars indicate the range between the minimum and maximum estimate; the horizontal bar indicates 
+the median. The numbers in the bottom row show the total number of studies in the literature used in the assessment. Individual technologies shown are found to be used in dif-
+ferent model scenarios in either a complementary or a synergistic way, depending largely on technology-specific assumptions and the timing and ambition level of the phase-in of 
+global climate policies. {WGIII Figure SPM.9}"
+364,1750,2,The caption provides extensive context about the experiments,useful,**Detailed and Informative**,"Figure 9.7: (a) The global mean, the maximum and minimum simulated by the respective models and the standard deviation for the CMIP2
+experiments at the time of CO2-doubling and for the DDC experiments during the years 2021 to 2050 relative to the years 1961 to 1990 for
+temperature (top) (Unit: degC) and precipitation (bottom) (Unit: %). G: greenhouse gases only, GS: greenhouse gases and sulphate aerosols. See
+Table 9.1 for more information on the individual models used here. (b) The global mean, the maximum and minimum simulated by the respective
+models and the standard deviation for the SRES scenario experiments A2 and B2 performed by the AOGCMs, for the years 2021 to 2050 and
+2071 to 2100 relative to the years 1961 to 1990 for temperature (top) (Unit: degC) and precipitation (bottom) (Unit: %). See Table 9.1 for more
+information on the individual models used here."
+416,950,1,"The caption is good,",useful,Clear and Good Quality,"Figure 3.9 | Projected changes in annual 5-day maximum precipitation (Rx5day) as a function of global warming for IPCC Special Report on the Risk of Extreme Events and 
+Disasters to Advance Climate Change Adaptation (SREX) regions (see Figure 3.2), based on an empirical scaling relationship applied to Coupled Model Intercomparison Project 
+Phase 5 (CMIP5) data together with projected changes from the HAPPI multimodel experiment (bar plots on regional analyses and central plot). The underlying methodology 
+and data basis are the same as for Figure 3.5 (see Supplementary Material 3.SM.2 for more details)."
+436,1205,1,While the caption provides detailed context about the different location,useful,Insufficient or Unclear Description,"Figure 9.6: (a) The time evolution of the globally averaged temperature change relative to the years (1961 to 1990) of the SRES simulations A2
+(top) and B2 (bottom) (Unit: degC). See Table 9.1 for more information on the individual models used here. (b) The time evolution of the globally
+averaged precipitation change relative to the years (1961 to 1990) of the SRES simulations A2 (top) and B2 (bottom) (Unit: %). See Table 9.1 for
+more information on the individual models used here."
+474,2008,5,Caption summarize trends in charts,useful,**Detailed and Informative**,"Figure 6.13. Radiative forcings and simulated temperatures during the last 1.1 kyr. Global mean radiative forcing (W m-2) used to drive climate model simulations due to (a) 
+volcanic activity, (b) solar irradiance variations and (c) all other forcings (which vary between models, but always include greenhouse gases, and, except for those with dotted 
+lines after 1900, tropospheric sulphate aerosols). (d) Annual mean NH temperature (degC) simulated under the range of forcings shown in (a) to (c), compared with the concentra-
+tion of overlapping NH temperature reconstructions (shown by grey shading, modifi ed from Figure 6.10c to account for the 1500 to 1899 reference period used here). All forc-
+ings and temperatures are expressed as anomalies from their 1500 to 1899 means and then smoothed with a Gaussian-weighted fi lter to remove fl uctuations on time scales 
+less than 30 years; smoothed values are obtained up to both ends of each record by extending the records with the mean of the adjacent existing values. The individual series 
+are identifi ed in Table 6.2."
+568,1214,4,the caption provides claims that are evident in the chart which is helpful in understanding the takeaway message,useful,Clear and Good Quality,"Figure 12.5: (a) Tidal floods (days per year) exceeding NOAA thresholds for minor impacts at 28 NOAA tide gauges 
+through 2015. (b) Historical exceedances (orange), future projections through 2100 based upon the continuation of the 
+historical trend (blue), and future projections under median RCP2.6, 4.5 and 8.5 conditions, for two of the locations--
+Charleston, SC and San Francisco, CA. (c) Water level heights above average highest tide associated with a local 
+5-year recurrence probability, and (d) the future decade when the 5-year event becomes a 0.2-year (5 or more times per 
+year) event under the Interagency Intermediate scenario; black dots imply that a 5-year to 0.2-year frequency change 
+does not unfold by 2200 under the Intermediate scenario. (Figure source: (a) adapted from Sweet and Marra 2016,165 
+(b) adapted from Sweet and Park 2014,105 (c) and (d) Sweet et al. 201771)."
+580,1581,3,caption contains information missing in the graph and also provides information about how the data was processed. Caption does not clearly mention the key takeaway message,useful,"""Missing or Unclear Takeaway Message""","Figure 3.5. Latitude-time sections of zonal mean temperature anomalies (degC) from 1900 to 2005, relative to the 1961 to 1990 mean. Left panels: SST annual anomalies 
+across each ocean from HadSST2 (Rayner et al., 2006). Right panels: Surface temperature annual anomalies for land (top, CRUTEM3) and land plus ocean (bottom, HadCRUT3). 
+Values are smoothed with the 5-point fi lter to remove fl uctuations of less than about six years (see Appendix 3.A); and white areas indicate missing data. "
+667,998,2,Caption does not explain the corelation between two data expressed in the,useful,Insufficient or Unclear Description,"Figure 8.5 Relationship between (1) the imputed share of CCS in total cumulative emissions reductions in per cent and (2) total cumulative CCS 
+deployment in GtCO2 (2000-2100). The scatter plots depict values for individual TAR mitigation scenarios for the six SRES scenario groups. 
+The vertical dashed lines show the average share of CCS in total emissions mitigation across the 450 to 750 ppmv stabilization scenarios, and the 
+dashed horizontal lines illustrate the scenarios' average cumulative storage requirements across 450 to 750 ppmv stabilization."
+789,2289,1,The caption should describe the trends also should talk about the similarities between the trends (how they correlated),useful,Insufficient or Unclear Description,"Figure 1.7. Plotted are the frequencies of the correlation coefficients
+(associations) between the timing of changes in traits (e.g., earlier egg-
+laying) of 145 species and modelled (HadCM3) spring temperatures for
+the grid-boxes in which each species was examined. At each location, all
+of which are in the Northern Hemisphere, the changing trait is compared
+with modelled temperatures driven by: (a) natural forcings (purple bars),
+(b) anthropogenic (i.e., human) forcings (orange bars), and (c) combined
+natural and anthropogenic forcings (yellow bars). In addition, on each
+panel the frequencies of the correlation coefficients between the actual
+temperatures recorded during each study and changes in the traits of 83
+species, the only ones of the 145 with reported local-temperature trends,
+are shown (dark blue bars). On average the number of years that species
+were examined is about 28, with average starting and ending years of
+1960 and 1998. Note that the agreement: (a) between the natural and
+actual plots is weaker (K = 60.16) than (b) between the anthropogenic
+and actual (K = 35.15), which in turn is weaker than( c) the agreement
+between combined and actual (K = 3.65). Taken together, these plots
+show that a measurable portion of the warming regional temperatures to
+which species are reacting can be attributed to humans, therefore
+showing joint attribution (after Root et al., 2005)."

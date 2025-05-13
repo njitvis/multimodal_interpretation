@@ -1,0 +1,11 @@
+sentiment,usefulness,rating_category,count
+Moderate Negative,not_useful,High,15
+Moderate Negative,not_useful,Low,30
+Moderate Negative,not_useful,Moderate,30
+Moderate Positive,not_useful,High,15
+Moderate Positive,not_useful,Low,15
+Moderate Positive,not_useful,Moderate,15
+Strong Negative,not_useful,Low,15
+Moderate Negative,useful,Low,15
+Moderate Positive,useful,High,15
+Moderate Positive,useful,Moderate,15

@@ -28,7 +28,7 @@ print(f"Hamming loss: {ham_loss:.4f}")
 print(f"Hamming accuracy: {1 - ham_loss:.4f}")
 
 mcm = multilabel_confusion_matrix(y_true, y_preds)
-fig, axes = plt.subplots(2, 2, figsize=(10, 10))
+fig, axes = plt.subplots(2, 2, figsize=(5, 5))
 axes = axes.flatten()
 
 for i, ax in enumerate(axes):
@@ -43,12 +43,12 @@ for i, ax in enumerate(axes):
         fmt="d",
         cbar=True,
         cmap="Blues",
-        xticklabels=["Pred 0", "Pred 1"],
-        yticklabels=["True 0", "True 1"]
+        xticklabels=["0", "1"],
+        yticklabels=["0", "1"]
     )
-    ax.set_xlabel("Predicted")
+    ax.set_xlabel("Predicted\n")
     ax.set_ylabel("Actual")
-    ax.set_title(f"Confusion Matrix L{i+1}\nF1 score: {f1:.2f}")
+    ax.set_title(f"\nConfusion Matrix L{i+1}\nF1 score: {f1:.2f}")
 
 plt.tight_layout()
 plt.show()

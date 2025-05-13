@@ -1,0 +1,844 @@
+reason_id,image_id,rating,reason,usefulness,feature,caption
+3,139,2,"The caption is detailed and provides important context, does not clearly summarize the main takeaway",not_useful,**Missing or Unclear Takeaway Message**,"Figure 4.1. Global economic mitigation potential in 2030 estimated from bottom-up (Panel a) and top-down (Panel b) studies, compared with the projected
+emissions increases from SRES scenarios relative to year 2000 GHG emissions of 40.8 GtCO2-eq (Panel c). Note: GHG emissions in 2000 are exclusive of
+emissions of decay of above-ground biomass that remains after logging and deforestation and from peat fires and drained peat soils, to ensure consistency
+with the SRES emissions results. {WGIII Figures SPM.4, SPM.5a, SPM.5b}"
+6,148,3,the caption is long and complex without clear summary of the main takeaway. It makes it difficult to grasp the key message.,not_useful,Missing or Unclear Takeaway Message,"Figure 5.1. Global CO2 emissions for 1940 to 2000 and emissions ranges for categories of stabilisation scenarios from 2000 to 2100 (left-hand panel); and
+the corresponding relationship between the stabilisation target and the likely equilibrium global average temperature increase above pre-industrial (right-
+hand panel). Approaching equilibrium can take several centuries, especially for scenarios with higher levels of stabilisation. Coloured shadings show
+stabilisation scenarios grouped according to different targets (stabilisation category I to VI). The right-hand panel shows ranges of global average tempera-
+ture change above pre-industrial, using (i) 'best estimate' climate sensitivity of 3degC (black line in middle of shaded area), (ii) upper bound of likely range of
+climate sensitivity of 4.5degC (red line at top of shaded area) (iii) lower bound of likely range of climate sensitivity of 2degC (blue line at bottom of shaded area).
+Black dashed lines in the left panel give the emissions range of recent baseline scenarios published since the SRES (2000). Emissions ranges of the
+stabilisation scenarios comprise CO2-only and multigas scenarios and correspond to the 10th to 90th percentile of the full scenario distribution. Note: CO2
+emissions in most models do not include emissions from decay of above ground biomass that remains after logging and deforestation, and from peat fires
+and drained peat soils. {WGIII Figures SPM.7 and SPM.8}"
+9,203,3,The caption provides a lot of context but not summarizing the main takeaway or highlighting the important parts.,not_useful,Missing or Unclear Takeaway Message,"Figure 7-5 | Summary of projected changes in crop yields, due to climate change over the 21st century. The figure includes projections for different emission scenarios, for 
+tropical and temperate regions, and for adaptation and no-adaptation cases combined. Relatively few studies have considered impacts on cropping systems for scenarios where 
+global mean temperatures increase by 4degC or more. For five timeframes in the near-term and long-term, data (n=1090) are plotted in the 20-year period on the horizontal axis 
+that includes the midpoint of each future projection period. Changes in crop yields are relative to late-20th-century levels. Data for each timeframe sum to 100%. Projections 
+taken from Abraha and Savage, 2006; Alexandrov and Hoogenboom, 2000; Arndt et al., 2011; Berg et al., 2013; Brassard and Singh, 2008; Brassard and Singh, 2007; Butt et al., 
+2005; Calzadilla et al., 2009; Chhetri et al., 2010; Ciscar et al., 2011; Deryng et al., 2011; Giannakopoulos et al., 2009; Hermans et al., 2010; Iqbal et al., 2011; Izaurralde et al, 
+2005; Kim et al., 2010; Lal, 2011; Li et al., 2011; Lobell et al., 2008; Moriondo et al., 2010; Muller et al., 2010; Osborne et al., 2013; Peltonen-Sainio et al., 2011; Piao et al., 
+2010; Ringler et al., 2010; Rowhanji et al., 2011; Schlenker and Roberts, 2009; Shuang-He et al., 2011; Southworth et al., 2000; Tan et al., 2010; Tao & Zhang, 2010; Tao and 
+Zhang, 2011; Tao et al., 2009; Thornton et al., 2009; Thornton et al., 2010; Thornton et al., 2011; Tingem and Rivington, 2009; Tingem et al., 2008; Walker and Schulze, 2008; 
+Wang et al., 2011; Xiong et al., 2007; Xiong et al., 2009."
+20,332,4,"The caption doesn't explain the second graph well,",not_useful,Insufficient or Unclear Description,"Figure 7.23 | Estimated levelized cost of on- and offshore wind energy, 2009: (left) as a function of capacity factor and investment cost* and (right) as a function of capacity factor 
+and discount rate**. "
+27,339,4,caption does not add any value in explaining the trend or describing the chart,not_useful,Insufficient or Unclear Description,"Figure 9.18: Equilibrium climate and hydrological senstitivies from AGCMs coupled to mixed-layer ocean components; blue diamonds from the
+SAR, red triangles from models in current use (LeTreut and McAvaney, 2000 and Table 9.1). "
+33,497,3,"The caption does not specify the trend, and only explain about the labels.",not_useful,Insufficient or Unclear Description,"Figure 8.1 CO2 transport costs range for onshore and offshore pipelines per 250 km, 'normal' terrain conditions. The figure shows low (solid 
+lines) and high ranges (dotted lines). Data based on various sources (for details see Chapter 4)."
+57,937,4,The caption does not mention about the trend having the labels little unclear,not_useful,Insufficient or Unclear Description,"Figure 11.19. Annual cycle of arctic area 
+mean temperature and percentage precipi-
+tation changes (averaged over the area north 
+of 60degN) for 2080 to 2099 minus 1980 to 
+1999, under the A1B scenario. Thick lines 
+represent the ensemble median of the 21 
+MMD models. The dark grey area represents 
+the 25 and 75% quartile values among the 
+21 models, while the light grey area shows 
+the total range of the models."
+66,1081,4,"The caption does not fully say the about the chart, but mentions some part of trend",not_useful,Insufficient or Unclear Description,"Figure 7.3: Index of the number of 2-day precipitation events exceeding the station-specific threshold for a 5-year 
+recurrence interval in the contiguous United States, expressed as a percentage difference from the 1901-1960 mean. 
+The annual values are averaged over 5-year periods, with the pentad label indicating the ending year of the period. 
+Annual time series of the number of events are first calculated at individual stations. Next, the grid box time series are 
+calculated as the average of all stations in the grid box. Finally, a national time series is calculated as the average of 
+the grid box time series. Data source: GHCN-Daily. (Figure source: CICS-NC and NOAA NCEI)."
+69,1251,3,"The caption does not state any trends in the chart, and no clear takeaways",not_useful,"""Missing or Unclear Takeaway Message""","Figure 7.8: Projected change (percentage change relative to the 1976-2005 reference period average) in the number 
+of daily zero ('No-Precip') and non-zero precipitation days (by percentile bins) for late-21st century under a higher 
+scenario (RCP8.5). The precipitation percentile bin thresholds are based on daily non-zero precipitation amounts from 
+the 1976-2005 reference period that have been ranked from low to high. These results are calculated from the LOCA 
+downscaled data. (Figure source: CICS-NC and NOAA NCEI)."
+86,1711,4,"The caption can better by explaining the trend,",not_useful,Observed Pattern Not Explained,"Figure 6.8: Time evolution of global mean radiative forcing from pre-industrial times (1750) to present. Annual mean radiative forcing values are
+shown, except for stratospheric aerosols of volcanic origin where a three-year running mean is used. Radiative forcings due to (a) well-mixed
+greenhouse gases, tropospheric O3, and stratospheric O3, (b) direct effect of sulphate aerosols, fossil fuel organic and black carbon aerosols, and
+biomass burning aerosols, (c) solar irradiance variations from Lean et al. (1995) and Hoyt and Schatten (1993), respectively, and (d) stratospheric
+aerosols of volcanic origin from Sato et al. (1993) (and updated with data from www.giss.nasa.gov) for the period 1850 to 1998 and from Robock
+and Free (1996) for the period 1750 to 1988 (for the Northern Hemisphere only). Note the change of scales in the different panels."
+93,1761,4,"Though the caption clearly explains about the what is being measured and how the data compiled, but it does not clearly summarize the main takeaway or highlight the important trends.",not_useful,Missing or Unclear Takeaway Message,"Figure 9.11 | Illustrative estimates of direct and indirect LUC-related GHG emissions 
+induced by several fi rst-generation biofuel pathways, reported here as ranges in central 
+tendency and total reported uncertainty. Estimates reported here combine several dif-
+ferent uncertainty calculation methods and central tendency measures and assume a 
+30-year time frame. Reported under the x-axis is the number of references with results 
+falling within these ranges (Sources: Searchinger et al., 2008; Al-Riffai et al., 2010; EPA, 
+2010b; Fritsche et al., 2010; Hertel et al., 2010; Tyner et al., 2010)."
+96,1779,4,caption does not fully capture the summary of the chart,not_useful,Insufficient or Unclear Description,"Figure 2-4: Simulating the Earth's temperature variations and comparing the results to the measured
+changes can provide insight into the underlying causes of the major changes. A climate model can be
+used to simulate the temperature changes that occur from both natural and anthropogenic causes. The simulations represented by the band in
+(a) were done with only natural forcings: solar variation and volcanic activity. Those encompassed by the band in (b) were done with anthropogenic
+forcings: greenhouse gases and an estimate of sulfate aerosols. Those encompassed by the band in (c) were done with both natural and anthropogenic
+forcings included. From (b), it can be seen that the inclusion of anthropogenic forcings provides a plausible explanation for a substantial part of
+the observed temperature changes over the past century, but the best match with observations is obtained in (c) when both natural and anthropogenic
+factors are included. These results show that the forcings included are sufficient to explain the observed changes, but do not exclude the possibility
+that other forcings may also have contributed. Similar results to those in (b) are obtained with other models with anthropogenic forcing."
+117,2124,3,caption does not seem to provide a clear explanations,not_useful,Insufficient or Unclear Description,"Figure 2.37: Top figure, decadal variations in hurricanes making
+landfall in the USA (updated from Karl et al., 1995). Bottom figure,
+interannual variability in the number of major hurricanes (Saffir-
+Simpson categories 3, 4, and 5) and the long-term average across the
+North Atlantic (from Landsea et al., 1999). "
+121,112,4,Clear takeaway was not given,not_useful,"""Missing or Unclear Takeaway Message""","Figure 3.19: Relationship between the stringency of the stabilization target (category I to VI) and 1) the time at which CO2 emissions have to peak (left-hand panel), and 2) the 
+year when emissions return to present (2000) levels. "
+124,126,4,Caption doesn't fully summarize the main trends,not_useful,**Missing or Unclear Takeaway Message**,"Figure 1.6: Comparison of global mean temperature anomalies (degF) from observations (through 2016) and the 
+CMIP5 multimodel ensemble (through 2016), using the reference period 1901-1960. The CMIP5 multimodel 
+ensemble (orange range) is constructed from blended surface temperature (ocean regions) and surface air tem-
+perature (land regions) data from the models, masked where observations are not available in the GISTEMP data-
+set.27 The importance of using blended model data is shown in Richardson et al.42 The thick solid orange curve 
+is the model ensemble mean, formed from the ensemble across 36 models of the individual model ensemble 
+means. The shaded region shows the +/- two standard deviation range of the individual ensemble member annual 
+means from the 36 CMIP5 models. The dashed lines show the range from maximum to minimum values for each 
+year among these ensemble members. The sources for the three observational indices are: HadCRUT4.5 (red): 
+http://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html; NOAA (black): https://www.ncdc.noaa.
+gov/monitoring-references/faq/anomalies.php; and GISTEMP (blue): https://data.giss.nasa.gov/pub/gistemp/gis-
+temp1200_ERSSTv4.nc. (NOAA and HadCRUT4 downloaded on Feb. 15, 2017; GISTEMP downloaded on Feb. 
+10, 2017). (Figure source: adapted from Knutson et al. 201627)."
+128,304,3,"The caption is very wordy,",not_useful,"""Detailed but Overloaded with Information""","Figure 3.21 | The dependence of risks and/or impacts associated with the Reasons for Concern (RFCs) on the level of climate change, updated and adapted from WGII AR5 
+Ch 19, Figure 19.4 and highlighting the nature of this dependence between 0degC and 2degC warming above pre-industrial levels. As in the AR5, literature was used to make 
+expert judgements to assess the levels of global warming at which levels of impact and/or risk are undetectable (white), moderate (yellow), high (red) or very high (purple). 
+The colour scheme thus indicates the additional risks due to climate change. The transition from red to purple, introduced for the first time in AR4, is defined by very high risk 
+of severe impacts and the presence of significant irreversibility, or persistence of climate-related hazards combined with a limited ability to adapt due to the nature of the 
+hazard or impact. Comparison of the increase of risk across RFCs indicates the relative sensitivity of RFCs to increases in GMST. As was done previously, this assessment takes 
+autonomous adaptation into account, as well as limits to adaptation (RFC 1, 3, 5) independently of development pathway. The rate and timing of impacts were taken into 
+account in assessing RFC 1 and 5. The levels of risk illustrated reflect the judgements of the Ch 3 authors. RFC1 Unique and threatened systems: ecological and human 
+systems that have restricted geographic ranges constrained by climate related conditions and have high endemism or other distinctive properties. Examples include coral reefs, 
+the Arctic and its indigenous people, mountain glaciers and biodiversity hotspots. RFC2 Extreme weather events: risks/impacts to human health, livelihoods, assets and 
+ecosystems from extreme weather events such as heatwaves, heavy rain, drought and associated wildfires, and coastal flooding. RFC3 Distribution of impacts: risks/impacts 
+that disproportionately affect particular groups due to uneven distribution of physical climate change hazards, exposure or vulnerability. RFC4 Global aggregate impacts: 
+global monetary damage, global scale degradation and loss of ecosystems and biodiversity. RFC5 Large-scale singular events: are relatively large, abrupt and sometimes 
+irreversible changes in systems that are caused by global warming. Examples include disintegration of the Greenland and Antarctic ice sheets. The grey bar represents the range 
+of GMST for the most recent decade: 2006-2015."
+135,330,3,"The chart a caption does not explain clearly the takeaway, chart b caption has mentioned the takeaway",not_useful,Missing or Unclear Takeaway Message,"Figure 7.11. (a) The Revelle factor (or buffer factor) as a function of CO2 partial pressure (for temperature 25degC, salinity 35 psu, and total alkalinity 2,300 umol kg-1) 
+(Zeebe and Wolf-Gladrow, 2001, page 73; reprinted with permission, copyright 2001 Elsevier). (b) The geographical distribution of the buffer factor in ocean surface waters 
+in 1994 (Sabine et al., 2004a; reprinted with permission, copyright 2004 American Association for the Advancement of Science). High values indicate a low buffer capacity 
+of the surface waters."
+136,380,4,"The caption is detailed, but does not provide the clear takeaway The caption is detailed,",not_useful,Missing or Unclear Takeaway Message,"Figure 5.22. Averages of temperature change (blue, from Levitus et al., 2005a), 
+anthropogenic carbon (red, from Sabine et al., 2004b) and CFC-11 (green, from Willey et 
+al., 2004) along lines of constant latitude over the top 700-m layer of the upper ocean. 
+Also shown is sea level change averaged along lines of constant latitude (black, from 
+Cazenave and Nerem, 2004). The temperature changes are for the 1955 to 2003 period, 
+the anthropogenic carbon is since pre-industrial times (i.e., 1750), CFC-11 concentrations 
+are for the period 1930 to 1994 and sea level for the period 1993 to 2003."
+142,447,4,Detailed caption but the caption does not clear summarize the main takeaway Detailed caption the caption does not clear summarize the main takeaway,not_useful,Missing or Unclear Takeaway Message,"Figure 8.16 | Life cycle GHG emissions (excluding land use change) from a range of light 
+duty vehicle types as a function of the GHG emission intensity of electricity generation 
+systems using coal, natural gas or low-carbon technologies including nuclear and RE 
+(Samaras and Meisterling, 2008)."
+149,492,4,"Caption is very wordy,",not_useful,"""Detailed but Overloaded with Information""","Figure 4.2. Net carbon exchange of all terrestrial ecosystems as
+simulated by the DGVM LPJ (Sitch et al., 2003; Gerten et al., 2004 -
+negative values mean a carbon sink, positive values carbon losses to
+the atmosphere). Past century data are based on observations and
+climate model data were normalised to be in accord with these
+observations for the 1961-1990 data (CRU-PIK). Transient future
+projections are for the SRES A2 and B1 emissions scenarios
+(Naki 'cenovi 'c et al., 2000), forcing the climate models HadCM3 and
+ECHAM5, respectively (cf. Lucht et al., 2006; Schaphoff et al., 2006).
+In contrast to previous global projections (Prentice et al., 2001 -
+Figure 3.10), the world's ecosystems sink service saturates earlier
+(about 2030) and the terrestrial biosphere tends to become a carbon
+source earlier (about 2070) and more consistently, corroborating other
+projections of increased forcing from biogenic terrestrial sources (e.g.,
+Cox et al., 2000, 2004; White et al., 2000a; Lucht et al., 2006;
+Schaphoff et al., 2006; Scholze et al., 2006; see Figure 4.3 for maps on
+underlying ecosystem changes). Note that these projections assume
+an effective CO2-fertilisation (see Section 4.4.1)."
+159,643,3,caption do not summarize main trend,not_useful,Observed Pattern Not Explained,"Figure 14.3. Typical infrastructure lifetimes in North America (data from
+Lewis, 1987; Bettigole, 1990; EIA, 1999, 2001; Statistics Canada, 2001a;
+BEA, 2003), in relation to projected North American warming for 2000 to
+2100 (relative to 1901-1950) for the A1B scenario, from the IPCC AR4
+Multi-Model Dataset (yellow envelope). Measured and modelled
+anomalies for 2000 are shown with black and orange bars, respectively.
+Projected warming for 2091 to 2100 for the B1, A1B and A2 scenarios
+are indicated by the blue, yellow and red bars, respectively at the right
+(data from Christensen et al., 2007: Box 11.1 Figure 1)."
+162,658,4,less caption is given,not_useful,Insufficient or Unclear Description,"Figure 3.20 | Expected cost decline for CSP plants from 2012 to 2025. The cost number includes the cost of the plant plus fi nancing (A.T. Kearney, 2010). As reduction ranges for cost, 
+effi ciency and economies of scale in the right panel overlap, their total contribution in 2025 amounts to less than their overall total."
+167,828,1,"The caption doesn't explain what the different colors mean, and doesn't explain the trend. ",not_useful,Insufficient or Unclear Description,"Figure 8.8. Annual mean, zonally averaged SST error, simulated minus observed 
+climatology. The Hadley Centre Sea Ice and Sea Surface Temperature (HadISST; Rayner 
+et al., 2003) observational climatology for 1980 to 1999 is the reference used here, and 
+the model results are for the same period in the 20th-century simulations in the MMD 
+at PCMDI. In the presence of sea ice, the SST is assumed to be at the freezing point of 
+seawater. The legend identifying individual models appears in Figure 8.4."
+171,839,2,Fluctuations are not clearly mentioned in the caption,not_useful,Insufficient or Unclear Description,"Figure 2.19: Reconstructed global ground temperature estimate from
+borehole data over the past five centuries, relative to present day.
+Shaded areas represent +- two standard errors about the mean history
+(Pollack et al., 1998). Superimposed is a smoothed (five-year running
+average) of the global surface air temperature instrumental record since
+1860 (Jones and Briffa, 1992)."
+198,1519,3,"The caption does provide detailed context about the data sources and methods, but does not clearly summarize the main takeaway or highlight the key trend.",not_useful,"""Missing or Unclear Takeaway Message""","Figure 2.17. Reconstructions of the total solar irradiance time series starting as 
+early as 1600. The upper envelope of the shaded regions shows irradiance variations 
+arising from the 11-year activity cycle. The lower envelope is the total irradiance 
+reconstructed by Lean (2000), in which the long-term trend was inferred from bright-
+ness changes in Sun-like stars. In comparison, the recent reconstruction of Y. Wang 
+et al. (2005) is based on solar considerations alone, using a fl ux transport model to 
+simulate the long-term evolution of the closed fl ux that generates bright faculae."
+205,1715,4,detailed context add complexity making it somewhat confusing,not_useful,**Detailed but Overloaded with Information**,"Figure 2.23 | (a) The global primary energy supply from biomass in long-term scenarios; (b) global biofuels production in long-term scenarios reported in secondary energy terms of 
+the delivered product (median, 25th to 75th percentile range and full range of scenario results; colour coding is based on categories of atmospheric CO2 concentration levels in 2100; 
+the number of scenarios underlying the fi gure is indicated in the right upper corner) (adapted from Krey and Clarke, 2011). For comparison, the historic levels in 2008 are indicated 
+by the small black arrows on the left axis. "
+209,1718,3,The caption should be improved to explain the trend context,not_useful,Observed Pattern Not Explained,"Figure 9.15: Comparison of estimates of mitigation potential in previous IPCC 
+reports (blue) and the current report (in red)."
+218,1757,5,the caption should explain the trend,not_useful,Observed Pattern Not Explained,"Figure 3.1. Global GHG emissions (in GtCO2-eq per year) in the absence of
+additional climate policies: six illustrative SRES marker scenarios (coloured
+lines) and 80th percentile range of recent scenarios published since SRES
+(post-SRES) (gray shaded area). Dashed lines show the full range of post-
+SRES scenarios. The emissions include CO2, CH4, N2O and F-gases. {WGIII
+1.3, 3.2, Figure SPM.4}"
+237,1915,4,The caption is simple and does not fully explain the chart and also key takeaway could be stated in the caption,not_useful,Missing or Unclear Takeaway Message,"Figure 3.20. Linear trends in precipitable water (total column water vapour) in 
+% per decade (top) and monthly time series of anomalies relative to the 1988 to 
+2004 period in % over the global ocean plus linear trend (bottom), from RSS SSM/I 
+(updated from Trenberth et al., 2005a). "
+248,2016,4,The caption needs to be improved to explain the context and trend,not_useful,**Observed Pattern Not Explained**,"Figure 3.28. Pacifi c Decadal Oscillation: (top) SST based on the leading EOF SST 
+pattern for the Pacifi c basin north of 20degN for 1901 to 2004 (updated; see Mantua et 
+al., 1997; Power et al., 1999b) and projected for the global ocean (units are nondi-
+mensional); and (bottom) annual time series (updated from Mantua et al., 1997). The 
+smooth black curve shows decadal variations (see Appendix 3.A)."
+250,2049,4,annotations might make it harder to interpret the small specific finding without any additional context,not_useful,Insufficient or Unclear Description,"Figure 1.2. Historical and recent measurements from Lake Tanganyika,
+East Africa: (a) upper mixed layer (surface water) temperatures; (b) deep-
+water (600 m) temperatures; (c) depth of the upper mixed layer. Triangles
+represent data collected by a different method. Error bars represent
+standard deviations. Reprinted by permission from Macmillan Publishers
+Ltd. [Nature] (O'Reilly et al., 2003), copyright 2003."
+256,2061,4,require more context for full understanding,not_useful,Insufficient or Unclear Description,"Figure 8.14 | Relative fuel economies of future alternative drive train light duty vehicles 
+compared to advanced spark ignition, gasoline-fuelled, internal-combustion engine vehicles, 
+based on several selected studies."
+269,2357,5,caption should explain the trend better,not_useful,Observed Pattern Not Explained,"Figure 4.16. Changes in the surface area of tropical glaciers relative to their extent 
+around 1900, grouped according to different glacier sizes. The sizes are given for 
+1990 or the closest available date to 1990. The broken red line highlights the retreat 
+of Kilimanjaro glaciers. The insert shows the area change (km2) of the Kilimanjaro 
+plateau (red) and slope (purple) glaciers as separated by the 5,700 m contour 
+line (Kaser and Osmaston, 2002 (updated courtesy of S. Lieb); Molg et al., 2003b; 
+Georges, 2004; Hastenrath, 2005; Cullen et al., 2006; Klein and Kincaid, 2006)."
+281,184,4,The caption doesn't describe the trend well,not_useful,**Insufficient or Unclear Description**,"Figure 3.10 | Probability ratio (PR) of exceeding (heavy precipitation) thresholds. (a) PR of exceeding the 99th (blue) and 99.9th (red) percentile of pre-industrial daily 
+precipitation at a given warming level, averaged across land (from Fischer and Knutti, 2015). (b) PR for precipitation extremes (RX1day) for different event probabilities (with RV 
+indicating return values) in the current climate (1degC of global warming). Shading shows the interquartile (25-75%) range (from Kharin et al., 2018)."
+284,220,4,The caption is very wordy and doesn't explain the trend present in the graphs.,not_useful,Observed Pattern Not Explained,"Figure 6.15 Estimated volume of pH perturbations at global scale for hypothetical examples in which injection of CO2 into the ocean interior 
+provides 100% or 10% of the mitigation effort needed to move from a logistic emissions curve cumulatively releasing 18,000 GtCO2 (=5000 
+GtC) to emissions consistent with atmospheric CO2 stabilization at 550 ppm according to the WRE550 pathway (Wigley et al., 1996). The curves 
+show the simulated fraction of ocean volume with a pH reduction greater than the amount shown on the horizontal axis. For the 10% case, in year 
+2100, injection rates are high and about1% of the ocean volume has significant pH reductions; in year 2300, injection rates are low, but previously 
+injected CO2 has decreased ocean pH by about 0.1 unit below the value produced by a WRE550 atmospheric CO2 pathway in the absence of CO2 
+release directly to the ocean (Caldeira and Wickett, 2005)."
+303,1143,1,"There is no clear explanation about the comparison between the trend lines, and no takeaway can be taken from caption",not_useful,"""Missing or Unclear Takeaway Message""","Figure 6.5: Reconstructions of total solar irradiance (TSI) by Lean et
+al. (1995, solid red curve), Hoyt and Schatten (1993, data updated by
+the authors to 1999, solid black curve), Solanki and Fligge (1998,
+dotted blue curves), and Lockwood and Stamper (1999, heavy dash-
+dot green curve); the grey curve shows group sunspot numbers (Hoyt
+and Schatten, 1998) scaled to Nimbus-7 observations for 1979 to 1993."
+310,213,2,Caption does not fully summarize the main points,not_useful,"""Missing or Unclear Takeaway Message""","Figure 3.20: Relationship between required cumulative emissions reduction and carbon emissions in the baseline by 2030 (left-hand panel) and 2100 (right-hand panel). 
+Notes: Coloured rectangles denote individual scenarios for alternative stabilization targets (categories I to VI). The large triangles indicate the averages for each 
+category. "
+317,604,3,"The caption is very long-winded,",not_useful,Detailed but Overloaded with Information,"Figure 2.3 | Temperature changes from 1850-1900 versus cumulative CO2 emissions since 1st January 1876. Solid lines with dots reproduce the globally 
+averaged near-surface air temperature response to cumulative CO2 emissions plus non-CO2 forcers as assessed in Figure SPM10 of WGI AR5, except that points marked with 
+years relate to a particular year, unlike in WGI AR5 Figure SPM.10, where each point relates to the mean over the previous decade. The AR5 data was derived from 15 Earth 
+system models and 5 Earth system models of Intermediate Complexity for the historic observations (black) and RCP8.5 scenario (red), and the red shaded plume shows the 
+range across the models as presented in the AR5. The purple shaded plume and the line are indicative of the temperature response to cumulative CO2 emissions and non-CO2 
+warming adopted in this report. The non-CO2 warming contribution is averaged from the MAGICC and FAIR models, and the purple shaded range assumes the AR5 WGI TCRE 
+distribution (Supplementary Material 2.SM.1.1.2). The 2010 observation of surface temperature change (0.97degC based on 2006-2015 mean compared to 1850-1900, Chapter 
+1, Section 1.2.1) and cumulative carbon dioxide emissions from 1876 to the end of 2010 of 1,930 GtCO2 (Le Quere et al., 2018) is shown as a filled purple diamond. The value 
+for 2017 based on the latest cumulative carbon emissions up to the end of 2017 of 2,220 GtCO2 (Version 1.3 accessed 22 May 2018) and a surface temperature anomaly of 
+1.1degC based on an assumed temperature increase of 0.2degC per decade is shown as a hollow purple diamond. The thin blue line shows annual observations, with CO2 emissions 
+from Le Quere et al. (2018) and estimated globally averaged near-surface temperature from scaling the incomplete coverage and blended HadCRUT4 dataset in Chapter 1. The 
+thin black line shows the CMIP5 multimodel mean estimate with CO2 emissions also from (Le Quere et al., 2018). The thin black line shows the GMST historic temperature trends 
+from Chapter 1, which give lower temperature changes up to 2006-2015 of 0.87degC and would lead to a larger remaining carbon budget. The dotted black lines illustrate the 
+remaining carbon budget estimates for 1.5degC given in Table 2.2. Note these remaining budgets exclude possible Earth system feedbacks that could reduce the budget, such as 
+CO2 and CH4 release from permafrost thawing and tropical wetlands (see Section 2.2.2.2)."
+327,846,1,There is no clear explanation about the chart and also no clear takeaway mentioned in the caption.,not_useful,"""Missing or Unclear Takeaway Message""","Figure 10.18 | Regional breakdown of possible energy demand and RE potential deployment for the selected set of four scenarios in 2050 (direct equivalent). Sources: IEA-WEO2009-
+Baseline (IEA, 2009; Teske et al., 2010), ReMIND-RECIPE (Luderer et al., 2009), MiniCAM-EMF22 (Calvin et al., 2009), ER-2010 (Teske et al., 2010). For comparison, total primary 
+energy demand in 2007 is given (IEA, 2009)."
+330,898,1,No clear trend explained in the caption,not_useful,Observed Pattern Not Explained,"Figure 11.3: Time series of the cumulative climatic mass balance (units: kg/m2) in five arctic regions and for the 
+Pan-Arctic from the World Glacier Monitoring Service (WGMS;210 Wolken et al.;211 solid lines, left y-axis), plus Alaskan 
+glacial mass loss observed from NASA GRACE113 (dashed blue line, right y-axis). (Figure source: Harig and Simons 
+2016113 and Wolken et al. 2016;211 (c) American Meteorological Society, used with permission.)"
+340,1153,2,The caption does not summarize the main trend of the graph,not_useful,Insufficient or Unclear Description,"Figure 3.12. Time series for 1900 to 2005 of annual global land precipitation 
+anomalies (mm) from GHCN with respect to the 1981 to 2000 base period. The 
+smooth curves show decadal variations (see Appendix 3.A) for the GHCN (Peterson 
+and Vose, 1997), PREC/L (Chen et al., 2002), GPCP (Adler et al., 2003), GPCC (Rudolf 
+et al., 1994) and CRU (Mitchell and Jones, 2005) data sets."
+343,1206,2,"despite the detailed caption, the overall presentation requires significant effort to comprehend the main takeaways",not_useful,Missing or Unclear Takeaway Message,"Figure 2.11 | Lifecycle GHG emissions of biopower technologies per unit of electricity generation, including supply chain emissions (land use-related net changes in carbon stocks 
+and land management impacts are excluded). Co-fi ring is shown for the biomass portion only (without GHG emissions and electricity output associated with coal). Included in the 
+avoided GHG emissions category are only estimates in which the use of the feedstock itself (e.g. residues and wastes) leads to avoided emissions, for example, in the form of avoided 
+methane emissions from landfi lls (most common in the literature).1 Estimates that include avoided emissions from the production of co-products are not included in the avoided 
+GHG emissions category. Individual data points were used instead of box plots for estimates with avoided emissions because of high variability. Red diamonds indicate that a carbon 
+mitigation technology (CCS or carbonate formation by absorption) was considered. Along the bottom of the fi gure and aligned with each column are the number of estimates and the 
+number of references (CCS estimates in parentheses) producing the distributions."
+346,1400,2,detailed context makes it somewhat confusing,not_useful,Detailed and Informative,"Figure 2.19: An equity index to compare per capita final energy use (GJ/capita) between the Annex I (pink) and non-Annex I
+(blue) countries for all post-SRES (550ppmv stabilization) and SRES (baseline) variants from 1990 to 2100. Climate policy has
+a much smaller impact on equity in energy use than does choice of development path. This can be seen by comparing the change
+in energy use within each of the four worlds (i.e., between the baseline and the 550ppmv stabilization for each world) with the
+change among the worlds (i.e., across the baselines or across the 550ppmv stabilization)."
+349,1510,2,The caption provides little information about the main takeaway,not_useful,"""Missing or Unclear Takeaway Message""","Figure 6.10. Causes, selected consequences (dryland and wetland loss, people displaced) and the total costs of an assumed sea-level rise, for
+developing and developed countries, and as a global total. (based on Tol, 2007)."
+355,1633,2,"The caption is very detailed about the visualization, it is too long it read",not_useful,"""Detailed but Overloaded with Information""","Figure 1.10 | Comparison of observed and simulated change in continental surface temperatures on land (yellow panels), Arctic and Antarctic September sea ice extent (white 
+panels), and upper ocean heat content in the major ocean basins (blue panels). Global average changes are also given. Anomalies are given relative to 1880-1919 for surface 
+temperatures, to 1960-1980 for ocean heat content, and to 1979-1999 for sea ice. All time series are decadal averages, plotted at the centre of the decade. For temperature panels, 
+observations are dashed lines if the spatial coverage of areas being examined is below 50%. For ocean heat content and sea ice panels, the solid lines are where the coverage of 
+data is good and higher in quality, and the dashed lines are where the data coverage is only adequate, and, thus, uncertainty is larger (note that different lines indicate different 
+data sets; for details, see WGI Figure SPM.6). Model results shown are Coupled Model Intercomparison Project Phase 5 (CMIP5) multi-model ensemble ranges, with shaded bands 
+indicating the 5 to 95% confidence intervals. {WGI Figure SPM 6; for detail, see WGI Figure TS.12}"
+360,1659,2,Caption does not mention any key trend,not_useful,Insufficient or Unclear Description,"Figure 11.7. Changes (ratio 2071-2100 / 1961-1990 for the A2 scenario) in domain-mean precipitation diagnostics in the PRUDENCE simulations in southern Scandinavia 
+(5degE-20degE, 55degN-62degN) and central Europe (5degE-15degE, 48degN-54degN) in winter (top) and in summer (bottom). fre = wet-day frequency; mea = mean seasonal precipitation; 
+int = mean wet-day precipitation; q90 = 90th percentile of wet-day precipitation; x1d.5 and x1d.50 = 5- and 50-year return values of one-day precipitation; x5d.5 and x5d.50 = 
+5- and 50-year return values of fi ve-day precipitation. For each of the eight models, the vertical bar gives the 95% confi dence interval associated with sampling uncertainty (re-
+drawn from Frei et al., 2006). Models are the Hadley Centre Atmospheric Model (HadAM3H), the Climate High Resolution Model (CHRM), the climate version of the 'Lokalmodell' 
+(CLM), the Hadley Centre Regional Model (HadRM3H and HadRM3P), the combination of the High-Resolution Limited Area Model (HIRLAM) and the European Centre Hamburg 
+(ECHAM4) GCM (HIRHAM), the regional climate model REMO, and the Rossby Centre regional Atmosphere-Ocean model (RCAO)."
+369,1802,2,Even after close look in chart and caption it is not clear.,not_useful,Insufficient or Unclear Description,"Figure 8.16. Scatter plot of simulated springtime Das/DTs values in climate 
+change (ordinate) vs simulated springtime Das/DTs values in the seasonal cycle 
+(abscissa) in transient climate change experiments with 17 AOGCMs used in this 
+report (Das and Ts are surface albedo and surface air temperature, respectively). The 
+climate change Das/DTs values are the reduction in springtime surface albedo aver-
+aged over Northern Hemisphere continents between the 20th and 22nd centuries 
+divided by the increase in surface air temperature in the region over the same time 
+period. Seasonal cycle Das/DTs values are the difference between 20th-century 
+mean April and May as averaged over Northern Hemisphere continents divided by 
+the difference between April and May Ts averaged over the same area and time 
+period. A least-squares fi t regression line for the simulations (solid line) and the ob-
+served seasonal cycle Das/DTs value based on ISCCP and ERA40 reanalysis (dashed 
+vertical line) are also shown. The grey bar gives an estimate of statistical error, 
+according to a standard formula for error in the estimate of the mean of a time series 
+(in this case the observed time series of Das/DTs) given the time series' length and 
+variance. If this statistical error only is taken into account, the probability that the 
+actual observed value lies outside the grey bar is 5%. Each number corresponds to a 
+particular AOGCM (see Table 8.1). Adapted from Hall and Qu (2006)."
+376,2050,2,The caption doesn't summarize the main trend,not_useful,"""Observed Pattern Not Explained""","Figure 2.4: Atmospheric concentrations of CO2 (top), CH4 (middle), and N2O (bottom) over the last 800,000 years (left 
+panels) and for 1750-2015 (right panels). Measurements are shown from ice cores (symbols with different colors for 
+different studies) and for direct atmospheric measurements (red lines). (Adapted from IPCC 2007,88 Figure SPM.1, 
+(c) IPCC, used with permission; data are from https://www.epa.gov/climate-indicators/climate-change-indicators-atmo-
+spheric-concentrations-greenhouse-gases). "
+382,2125,2,The caption is complex takes time to interpret,not_useful,Insufficient or Unclear Description,"Figure 9.13: Simple model results. (a) Estimated historical anthro-
+pogenic radiative forcing followed by radiative forcing for the four
+illustrative SRES marker scenarios and for two additional scenarios
+from the A1 family illustrating different energy technology options.
+The blue shading shows the envelope of forcing that encompasses the
+full set of thirty-five SRES scenarios. The method of calculation
+closely follows Chapter 6 except where explained in the text. The
+values are based on the radiative forcing for a doubling of CO2 from
+seven AOGCMs as given in Appendix 9.1, Table 9.A1. The IS92a,
+IS92c and IS92e forcing is also shown following the same method of
+calculation. (b) Historical anthropogenic global mean temperature
+change and future changes for the six illustrative SRES scenarios using
+a simple climate model tuned to seven AOGCMs. Also for comparison,
+following the same method, results are shown for IS92a. The dark blue
+shading represents the envelope of the full set of thirty-five SRES
+scenarios using the simple model ensemble mean results. The light
+blue envelope is based on the GFDL_R15_a and DOE PCM parameter
+settings. The bars show the range of simple model results in 2100 for
+the seven AOGCM model tunings."
+385,2254,2,The caption is too long and  it takes time to interpret the main findings.,not_useful,"""Missing or Unclear Takeaway Message""","Figure 9.5. Comparison between global mean surface temperature anomalies (degC) 
+from observations (black) and AOGCM simulations forced with (a) both anthropogenic 
+and natural forcings and (b) natural forcings only. All data are shown as global 
+mean temperature anomalies relative to the period 1901 to 1950, as observed 
+(black, Hadley Centre/Climatic Research Unit gridded surface temperature data 
+set (HadCRUT3); Brohan et al., 2006) and, in (a) as obtained from 58 simulations 
+produced by 14 models with both anthropogenic and natural forcings. The multi-
+model ensemble mean is shown as a thick red curve and individual simulations are 
+shown as thin yellow curves. Vertical grey lines indicate the timing of major volcanic 
+events. Those simulations that ended before 2005 were extended to 2005 by using 
+the fi rst few years of the IPCC Special Report on Emission Scenarios (SRES) A1B 
+scenario simulations that continued from the respective 20th-century simulations, 
+where available. The simulated global mean temperature anomalies in (b) are from 
+19 simulations produced by fi ve models with natural forcings only. The multi-model 
+ensemble mean is shown as a thick blue curve and individual simulations are shown 
+as thin blue curves. Simulations are selected that do not exhibit excessive drift in 
+their control simulations (no more than 0.2degC per century). Each simulation was 
+sampled so that coverage corresponds to that of the observations. Further details of 
+the models included and the methodology for producing this fi gure are given in the 
+Supplementary Material, Appendix 9.C. After Stott et al. (2006b). "
+396,2300,4,"The caption does mention some trends relating the charts, but does not give overall takeaway",not_useful,**Missing or Unclear Takeaway Message**,"Figure 3.8: Modelled fluxes of anthropogenic CO2 over the past
+century. (a) Ocean model results from OCMIP (Orr and Dutay, 1999;
+Orr et al., 2000); (b), (c) terrestrial model results from CCMLP
+(McGuire et al., 2001). Positive numbers denote fluxes to the
+atmosphere; negative numbers denote uptake from the atmosphere.
+The ocean model results appear smooth because they contain no
+interannual variability, being forced only by historical changes in
+atmospheric CO2. The results are truncated at 1990 because
+subsequent years were simulated using a CO2 concentration scenario
+rather than actual measurements, leading to a likely overestimate of
+uptake for the 1990s. The terrestrial model results include effects of
+historical CO2 concentrations, climate variations, and land-use
+changes based on Ramankutty and Foley (2000). The results were
+smoothed using a 10-year running mean to remove short-term
+variability. For comparison, grey boxes denote observational
+estimates of CO2 uptake by the ocean in panel (a) and by the land in
+panel (b) (from Table 3.1). Land-use change flux estimates from
+Houghton et al. (1999) are shown by the black line in panel (c). The
+grey boxes in panel (c) indicate the range of decadal average values
+for the land-use change flux accepted by the SRLULUCF (Bolin et
+al., 2000) for the 1980s and for 1990 to 1995."
+404,2194,5,"The caption is very lengthy,",not_useful,"""5. Detailed but Overloaded with Information""","Figure 2.13: (a) Anomalies of monthly snow cover over the Northern
+Hemisphere lands (including Greenland) between November 1966 and
+May 2000. Also shown are twelve-month running anomalies of
+hemispheric snow extent, plotted on the seventh month of a given
+interval. Anomalies are calculated from NOAA/NESDIS snow maps.
+Mean hemispheric snow extent is 25.2 million km2 for the full period
+of record. the curve of running means is extrapolated by using period
+of record monthly means for 12 months in the late 1960s in order to
+create a continuous curve of running means. Missing months fell
+between May and October, and no winter months are missing. June
+1999 to May 2000 values are based on preliminary analyses. (b)
+Seasonal snowcover anomalies (in million km2) versus temperature
+anomalies (in degC). Both snow and temperature anomalies are area
+averages over the region for which climatological values of seasonal
+snow-cover frequency (based on the 1973 to 1998 period) are between
+10 and 90%. Season is indicated at the top of each panel. Axis for
+snow anomaly on the left-hand-side y axis, axis for temperature
+anomaly is on the right-hand-side y axis. Bar plot indicates time-series
+of snow cover anomalies. Continuous colour curve indicates nine-point
+weighted average of snow-cover anomaly. Dashed black curve
+indicates time-series of nine-point weighted average of area average
+temperature anomaly. Snow-cover calculations are based on the
+NOAA/NESDIS snow cover data for the period 1973 to 1998 (updated
+from Robinson et al., 1993). Temperature calculations are based on the
+Jones data set, hence anomalies are with respect to the time period
+1961 to 1990. Snow anomalies are with respect to the time period
+1973 to 1998. Correlation coefficient (r) between seasonal snow cover
+anomalies and temperature anomalies is indicated in parentheses.
+(Figure contributed by David A. Robinson and Anjuli Bamzai, Rutgers
+University.)"
+410,242,3,the caption doesn't explain the trend,not_useful,Observed Pattern Not Explained,"Figure 11.11. Temperature anomalies with respect to 1901 to 1950 for fi ve North American land regions for 1906 to 2005 (black line) and as simulated (red envelope) by 
+MMD models incorporating known forcings; and as projected for 2001 to 2100 by MMD models for the A1B scenario (orange envelope). The bars at the end of the orange enve-
+lope represent the range of projected changes for 2091 to 2100 for the B1 scenario (blue), the A1B scenario (orange) and the A2 scenario (red). The black line is dashed where 
+observations are present for less than 50% of the area in the decade concerned. More details on the construction of these fi gures are given in Box 11.1 and Section 11.1.2."
+412,909,1,Caption is too long,not_useful,Detailed but Overloaded with Information,"Figure 6.6: Global, annual mean radiative forcings (Wm-2) due to a number of agents for the period from pre-industrial (1750) to present (late
+1990s; about 2000) (numerical values are also listed in Table 6.11). For detailed explanations see Section 6.13. The height of the rectangular bar
+denotes a central or best estimate value while its absence denotes no best estimate is possible. The vertical line about the rectangular bar with 'x'
+delimiters indicates an estimate of the uncertainty range, guided by the spread in the published values of the forcing and physical understanding. A
+vertical line without a rectangular bar and with 'o' delimiters denotes a forcing for which no central estimate can be given owing to large
+uncertainties. The uncertainty range specified here has no statistical basis and therefore differs from the use of the term elsewhere in this
+document. A 'level of scientific understanding' (LOSU) index is accorded to each forcing, with H, M, L and VL denoting high, medium, low and
+very low levels, respectively. This represents our subjective judgement about the reliability of the forcing estimate, involving factors such as the
+assumptions necessary to evaluate the forcing, the degree of our knowledge of the physical/chemical mechanisms determining the forcing, and the
+uncertainties surrounding the quantitative estimate of the forcing (see Table 6.12). The well-mixed greenhouse gases are grouped together into a
+single rectangular bar with the individual mean contributions due to CO2, CH4, N2O, and halocarbons (see Tables 6.1 and 6.11) shown; halocar-
+bons refers to all halogen-containing compounds listed in Table 6.1. 'FF' denotes fossil fuel burning while 'BB' denotes biomass burning
+aerosol. Fossil fuel burning is separated into the 'black carbon' (bc) and 'organic carbon' (oc) components with its separate best estimate and
+range. The sign of the effects due to mineral dust is itself an uncertainty. The indirect forcing due to tropospheric aerosols is poorly understood.
+The same is true for the forcing due to aviation via their effects on contrails and cirrus clouds. Only the first type of indirect effect due to aerosols
+as applicable in the context of liquid clouds is considered here. The second type of effect is conceptually important but there exists very little
+confidence in the simulated quantitative estimates. The forcing associated with stratospheric aerosols from volcanic eruptions is highly variable
+over the period and is not considered for this plot (however, see Figure 6.8d). All the forcings shown have distinct spatial and seasonal features
+(Figure 6.7) such that the global, annual means appearing on this plot do not yield a complete picture of the radiative perturbation. They are only
+intended to give, in a relative sense, a first-order perspective on a global, annual mean scale, and cannot be readily employed to obtain the climate
+response to the total natural and/or anthropogenic forcings. As in the SAR, it is emphasised that the positive and negative global mean forcings
+cannot be added up and viewed a priori as providing offsets in terms of the complete global climate impact."
+419,1068,1,"The caption doesn't explain the trend,",not_useful,Observed Pattern Not Explained,"Figure 2.13: The 76 post-SRES stabilization scenarios of world fossil fuel CO2 emissions. Different stabilization levels are indi-
+cated by colour, with 750ppmv in red, 650ppmv in black, 550ppmv in blue, and 450ppmv in green. For comparison, the minimum
+and maximum of the ranges of scenarios from the literature (grey) and the SRES (yellow) as well as the WRI and WRE 550ppmv
+stabilization scenarios (bold black) are also shown."
+428,1177,1,"The caption can better describe the context,",not_useful,Insufficient or Unclear Description,"Figure 11.7: Time-series of relative sea level for the past 300 years from Northern Europe: Amsterdam, Netherlands; Brest, France; Sheerness,
+UK; Stockholm, Sweden (detrended over the period 1774 to 1873 to remove to first order the contribution of postglacial rebound);
+Swinoujscie, Poland (formerly Swinemunde, Germany); and Liverpool, UK. Data for the latter are of 'Adjusted Mean High Water' rather than
+Mean Sea Level and include a nodal (18.6 year) term. The scale bar indicates +-100 mm. (Adapted from Woodworth, 1999a.)"
+444,1246,2,"The caption does not state any trends in the chart,",not_useful,Insufficient or Unclear Description,"Figure 11.7: Time-series of relative sea level for the past 300 years from Northern Europe: Amsterdam, Netherlands; Brest, France; Sheerness,
+UK; Stockholm, Sweden (detrended over the period 1774 to 1873 to remove to first order the contribution of postglacial rebound);
+Swinoujscie, Poland (formerly Swinemunde, Germany); and Liverpool, UK. Data for the latter are of 'Adjusted Mean High Water' rather than
+Mean Sea Level and include a nodal (18.6 year) term. The scale bar indicates +-100 mm. (Adapted from Woodworth, 1999a.)"
+445,1294,1,"The caption is too long, The caption is too detailed,",not_useful,**Detailed but Overloaded with Information**,"Figure 9.10. Observed and hindcast decadal mean surface temperature anomalies (degC) expressed, for each decade, relative to the preceding three decades. Observed 
+anomalies are represented by horizontal black lines. Hindcast decadal anomalies and their uncertainties (5 to 95% confi dence bounds) are displayed as vertical bars. Hindcasts 
+are based on a Bayesian detection analysis using the estimated response to historical external forcing. Hindcasts made with CGCM2, HadCM2 (see Table 8.1 of the TAR) and 
+HadCM3 (see Table 8.1, this report) use the estimated response to anthropogenic forcing only (left hand column of legend) while those made with selected MMD 20C3M 
+models used anthropogenic and natural forcings (centre column of legend; see Table 8.1 for model descriptions). Hindcasts made with the ensemble mean of the selected 
+20C3M models are indicated by the thick green line. A hindcast based on persisting anomalies from the previous decade is also shown. The hindcasts agree well with 
+observations from the 1950s onward. Hindcasts for the decades of the 1930s and 1940s are sensitive to the details of the hindcast procedure. A forecast for the decadal global 
+mean anomaly for the decade 2000 to 2009, relative to the 1970 to 1999 climatology, based on simulations performed with the Canadian Centre for Climate Modelling and 
+Analysis Coupled Global Climate Model (CGCM2) is also displayed. From Lee et al. (2006)."
+453,1576,2,Caption have too many citations lost reading caption,not_useful,Insufficient or Unclear Description,"Figure 6.4. The concentrations and radiative forcing by (a) CO2, (b) CH4 and (c) nitrous oxide (N2O), and (d) the rate of change in their combined radiative forcing over the 
+last 20 kyr reconstructed from antarctic and Greenland ice and fi rn data (symbols) and direct atmospheric measurements (red and magenta lines). The grey bars show the 
+reconstructed ranges of natural variability for the past 650 kyr (Siegenthaler et al., 2005a; Spahni et al., 2005). Radiative forcing was computed with the simplifi ed expres-
+sions of Chapter 2 (Myhre et al., 1998). The rate of change in radiative forcing (black line) was computed from spline fi ts (Enting, 1987) of the concentration data (black lines 
+in panels a to c). The width of the age distribution of the bubbles in ice varies from about 20 years for sites with a high accumulation of snow such as Law Dome, Antarctica, to 
+about 200 years for low-accumulation sites such as Dome C, Antarctica. The Law Dome ice and fi rn data, covering the past two millennia, and recent instrumental data have 
+been splined with a cut-off period of 40 years, with the resulting rate of change in radiative forcing shown by the inset in (d). The arrow shows the peak in the rate of change in 
+radiative forcing after the anthropogenic signals of CO2, CH4 and N2O have been smoothed with a model describing the enclosure process of air in ice (Spahni et al., 2003) ap-
+plied for conditions at the low accumulation Dome C site for the last glacial transition. The CO2 data are from Etheridge et al. (1996); Monnin et al. (2001); Monnin et al. (2004); 
+Siegenthaler et al. (2005b; South Pole); Siegenthaler et al. (2005a; Kohnen Station); and MacFarling Meure et al. (2006). The CH4 data are from Stauffer et al. (1985); Steele et al. 
+(1992); Blunier et al. (1993); Dlugokencky et al. (1994); Blunier et al. (1995); Chappellaz et al. (1997); Monnin et al. (2001); Fluckiger et al. (2002); and Ferretti et al. (2005). The 
+N2O data are from Machida et al. (1995); Battle et al. (1996); Fluckiger et al. (1999, 2002); and MacFarling Meure et al. (2006). Atmospheric data are from the National Oceanic 
+and Atmospheric Administration's global air sampling network, representing global average concentrations (dry air mole fraction; Steele et al., 1992; Dlugokencky et al., 1994; 
+Tans and Conway, 2005), and from Mauna Loa, Hawaii (Keeling and Whorf, 2005). The globally averaged data are available from http://www.cmdl.noaa.gov/."
+454,1751,1,detailed context make it confusing to understand,not_useful,**Detailed and Informative**,"Figure 10.17. (a) Multi-model mean of the regression of the leading EOF of ensemble mean Northern Hemisphere sea level pressure (NH SLP, thin red line). The time series of 
+regression coeffi cients has zero mean between year 1900 and 1970. The thick red line is a 10-year low-pass fi ltered version of the mean. The grey shading represents the inter-
+model spread at the 95% confi dence level and is fi ltered. A fi ltered version of the observed SLP from the Hadley Centre (HadSLP1) is shown in black. The regression coeffi cient 
+for the winter following a major tropical eruption is marked by red, blue and black triangles for the multi-model mean, the individual model mean and observations, respectively. 
+(b) As in (a) for Southern Hemisphere SLP for models with (red) and without (blue) ozone forcing. Adapted from Miller et al. (2006)."
+460,1946,1,"The caption is long and although it is informative, it can be confusing to understand",not_useful,Detailed but Overloaded with Information,"Figure 9.4. Contribution of external forcing to several high-variance 
+reconstructions of NH temperature anomalies, (Esper et al., 2002; Briffa et al., 2001; 
+Hegerl et al., 2007, termed CH-blend and CH-blend long; and Moberg et al., 2005). 
+The top panel compares reconstructions to an EBM simulation (equilibrium climate 
+sensitivity of 2.5degC) of NH 30degN to 90degN average temperature, forced with volcanic, 
+solar and anthropogenic forcing. All timeseries are centered on the 1500-1925 
+average. Instrumental temperature data are shown by a green line (centered to 
+agree with CH-blend average over the period 1880-1960). The displayed data are 
+low-pass fi ltered (20-year cutoff) for clarity. The bottom panel shows the estimated 
+contribution of the response to volcanic (blue lines with blue uncertainty shade), solar 
+(green) and greenhouse gas (GHG) and aerosol forcing (red line with yellow shades, 
+aerosol only in 20th century) to each reconstruction (all timeseries are centered 
+over the analysis period). The estimates are based on multiple regression of the 
+reconstructions on fi ngerprints for individual forcings. The contributions to different 
+reconstructions are indicated by different line styles (Briffa et al.: solid, fat; Esper et 
+al.: dotted; Moberg: dashed; CH-blend: solid, thin; with shaded 90% confi dence limits 
+around best estimates for each detectable signal). All reconstructions show a highly 
+signifi cant volcanic signal, and all but Moberg et al. (which ends in 1925) show a 
+detectable greenhouse gas signal at the 5% signifi cance level. The latter shows a 
+detectable greenhouse gas signal with less signifi cance. Only Moberg et al. contains 
+a detectable solar signal (only shown for these data and CH-blend, where it is not 
+detectable). All data are decadally averaged. The reconstructions represent slightly 
+different regions and seasons: Esper et al. (2002) is calibrated to 30degN to 90degN land 
+temperature, CH-blend and CH-blend long (Hegerl et al., 2007) to 30degN to 90degN 
+mean temperature and Moberg et al. (2005) to 0deg to 90degN temperature. From Hegerl 
+et al. (2007)."
+465,1953,2,caption is lengthy and does not summarize takeaway,not_useful,Missing or Unclear Takeaway Message,"Figure 8.4: Second-order statistics of surface air temperature, sea level
+pressure and precipitation simulated by CMIP2 model control runs.
+The radial co-ordinate gives the magnitude of total standard deviation,
+normalised by the observed value, and the angular co-ordinate gives
+the correlation with observations. It follows that the distance between
+the OBSERVED point and any model's point is proportional to the
+r.m.s model error (see Section 8.2). Numbers indicate models counting
+from left to right in the following two figures. Letters indicate alternate
+observationally based data sets compared with the baseline observa-
+tions: e = 15-year ECMWF reanalysis ('ERA'); n = NCAR/NCEP
+reanalysis. From Covey et al. (2000b)."
+468,1963,3,Caption does not summarize takeaway clearly,not_useful,Missing or Unclear Takeaway Message,"Figure 4.9: (left panel) Observed versus modelled (1) HO2 abundance (ppt), (2) OH abundance (ppt), and (3) HO2/OH ratio in the upper
+troposphere (8 to 12 km altitude) during SONEX. Observations are for cloud-free, daytime conditions. Model calculations are constrained with
+local observations of the photochemical background (H2O2, CH3OOH, NO, O3, H2O, CO, CH4, ethane, propane, acetone, temperature, pressure,
+aerosol surface area and actinic flux). The 1:1 line (solid) and instrumental accuracy range (dashed) are shown. Adapted from Brune et al. (1999). 
+(right panel) Observed (4) HO2 abundance (ppt), (5) OH abundance (ppt), and (6) derived O3 production rate (ppb/day) as a function of the NOx
+(NO+NO2) abundance (ppt). Data taken from SONEX (8 to 12 km altitude, 40deg to 60degN latitude) and adapted from Jaegle et al. (1999). All values
+are 24-hour averages. The lines correspond to model-calculated values as a function of NOx using the median photochemical background during
+SONEX rather than the instantaneous values (points)."
+476,2052,1,The caption doesn't explain the context or trend,not_useful,Insufficient or Unclear Description,"Figure 2.26 | Global price of carbon emissions consistent with mitigation 
+pathways. Panels show (a) undiscounted price of carbon (2030-2100) and (b) average 
+price of carbon (2030-2100) discounted at a 5% discount rate to 2020 in USD2010. 
+AC: Annually compounded. NPV: Net present value. Median values in floating black line. 
+The number of pathways included in box plots is indicated in the legend. Number of 
+pathways outside the figure range is noted at the top."
+478,2074,2,Caption does not give the necessary context Takeaway message is not clearly mentioned in the caption,not_useful,"""Missing or Unclear Takeaway Message""","Figure 4.25: Indicative comparison of selected primary energy-supply baseline 
+(reference) and policy scenarios from 2004 to 2030 and related total energy-related 
+emissions in 2004 and 2030 (GtCO2-eq) 
+Note: The IEA (2006b) Beyond Alternative Policy scenario (not shown) depicts 
+that energy-related emissions could be reduced to 2004 levels."
+484,2138,2,Caption mentions source of the is not a valuable information,not_useful,Insufficient or Unclear Description,"Figure 10.10 | Carbon prices (in USD2005) as a function of global RE primary energy sup-
+ply (direct equivalent) in 2050. Colour coding is based on categories of atmospheric CO2 
+concentration level in 2100 (Fisher et al., 2007). Different symbols in the graph denote 
+the availability of CCS and nuclear energy. Note that limited nuclear scenarios include 
+nuclear phase-outs, constraints on the production of new nuclear and scenarios in which 
+nuclear production is constrained to baseline levels. For data reporting reasons, only 141 
+scenarios are included in the 2050 results shown here, as opposed to the full set of 164 
+scenarios. Figure and data adapted from Krey and Clarke (2011), modifi ed to include two 
+additional scenarios."
+491,2348,2,caption describes what is shown in the chart which is not useful -- caption should add more information to the visualization instead of being an extension to the chart.,not_useful,"""Insufficient or Unclear Description""","Figure 2.3. Atmospheric concentrations of CO2, CH4 and N2O over the last
+10,000 years (large panels) and since 1750 (inset panels). Measurements
+are shown from ice cores (symbols with different colours for different stud-
+ies) and atmospheric samples (red lines). The corresponding radiative
+forcings relative to 1750 are shown on the right hand axes of the large
+panels. {WGI Figure SPM.1}"
+499,149,1,"the context required to understand the annotations are not given in the caption, Difficult to connect caption to the chart",not_useful,Insufficient or Unclear Description,"Figure 2.15: Timing when the stabilization scenarios achieve a reduction of 20% of global energy-related CO2 baseline emis-
+sions, compared across stabilization targets as well as baselines. Slanted lines join scenarios quantified by the same model."
+502,152,1,is not mentioned in the caption The caption also does not summarize the takeaway message Caption does not provide context necessary to understand the chart,not_useful,**Insufficient or Unclear Description**,"Figure 1.3 | Left panel: Projected increase in primary energy supply. Comparison of 153 SRES and pre-SRES baseline energy scenarios in the literature compared with the 133 more 
+recent, post-SRES scenarios. The ranges are comparable, with small changes in the lower and upper boundaries. Right panel: Expected carbon intensity changes. Historical development 
+and projections from SRES and pre-SRES scenarios compared to post-SRES scenarios. Adapted from Fisher et al., 2007, pp. 183 and 184."
+505,188,2,caption does not explain the trend so the takeaway message is not clear Caption does not provide anay context necessary to understand the chart,not_useful,Observed Pattern Not Explained,"Figure 3.14: Total black carbon (left panel) and organic carbon (right panel) emission estimates in scenarios from different studies. 
+Notes: Rao et al., (2005) include emissions from contained combustion only. Liousse et al. (2005), A2 not included as 2100 value of 100 Tg lies way above range."
+520,859,3,Caption does not add any value,not_useful,Insufficient or Unclear Description,"Figure 6.14 | Capacity factor effect on LCOE for estimated 2020 wave and tidal current 
+investment costs. The data point showing the EPRI conceptual design, using Pelamis 500 
+kW machines at 38% capacity factor, is based on Previsic (2004)."
+526,547,3,"title of subplots in the visualization are included in the caption, caption does not provide sufficient context of the chart",not_useful,Insufficient or Unclear Description,"Figure 3.27. Correlations with the SOI, based on normalised Tahiti minus Darwin sea level pressures, for annual (May to April) means for sea level pressure (top left) and 
+surface temperature (top right) for 1958 to 2004, and GPCP precipitation for 1979 to 2003 (bottom left), updated from Trenberth and Caron (2000). The Darwin-based SOI, in 
+normalized units of standard deviation, from 1866 to 2005 (Konnen et al., 1998; lower right) features monthly values with an 11-point low-pass fi lter, which effectively removes 
+fl uctuations with periods of less than eight months (Trenberth, 1984). The smooth black curve shows decadal variations (see Appendix 3.A). Red values indicate positive sea 
+level pressure anomalies at Darwin and thus El Nino conditions. "
+531,292,1,"not clearly explained in the caption, and no clear takeaway",not_useful,Missing or Unclear Takeaway Message,"Figure 10.7. Zonal means of change in atmospheric (top) and oceanic (bottom) temperatures (degC), shown as cross sections. Values are the multi-model means for the A1B 
+scenario for three periods (a-c). Stippling denotes regions where the multi-model ensemble mean divided by the multi-model standard deviation exceeds 1.0 (in magnitude). 
+Anomalies are relative to the average of the period 1980 to 1999. Results for individual models can be seen in the Supplementary Material for this chapter."
+532,413,2,caption only describes the chart Key takeaway of the visualization is not mentioned in the caption,not_useful,"""Missing or Unclear Takeaway Message""","Figure 4.11. Comparison of model-based time series of the annual mean average sea ice thickness anomaly (computed relative 
+to the mean of the entire period) in the Arctic Basin, obtained from a variety of models (redrafted from Rothrock et al., 2003; see this 
+paper for identifi cation of the individual models and their attributes), along with the sea ice volume anomalies in the Arctic Basin (grey 
+curve and right-hand scale; computed by Koeberle and Gerdes, 2003)."
+535,442,2,Caption does not describe the visualization. Caption does not prodive context of the data,not_useful,Insufficient or Unclear Description,"Figure 2.20 | Comparison of (a) direct CO2 emissions and (b) carbon intensity of the power and energy end-use sectors (industry, buildings, and transport 
+sectors) between IAMs and sectoral studies (IEA-ETP and IEA/IRENA). Diamond markers in panel (b) show data for IEA-ETP scenarios (2DS and B2DS), and IEA/IRENA 
+scenario (66%2DS). Note: for the data from IAM studies, there is rather large variation of projections for each indicator. Please see the details in the following figures in each end-
+use sector section."
+538,2018,4,Caption has data source which isn’t important Caption describes trend which adds to length which is distracting Caption provides context but doesn’t have enough information. Caption does not indicate the takeaway message,not_useful,"""Missing or Unclear Takeaway Message""","Figure 1.1: This image shows observations globally from nine different variables that are key indicators of a warming 
+climate. The indicators (listed below) all show long-term trends that are consistent with global warming. In parentheses 
+are the number of datasets shown in each graph, the length of time covered by the combined datasets and their anomaly 
+reference period (where applicable), and the direction of the trend: land surface air temperature (4 datasets, 1850-2016 
+relative to 1976-2005, increase); sea surface temperature (3 datasets, 1850-2016 relative to 1976-2005, increase); 
+sea level (4 datasets, 1880-2014 relative to 1996-2005, increase); tropospheric temperature (5 datasets, 1958-2016 
+relative to 1981-2005, increase); ocean heat content, upper 700m (5 datasets, 1950-2016 relative to 1996-2005, in-
+crease); specific humidity (4 datasets, 1973-2016 relative to 1980-2003, increase); Northern Hemisphere snow cover, 
+March-April and annual (1 dataset, 1967-2016 relative to 1976-2005, decrease); arctic sea ice extent, September and 
+annual (1 dataset, 1979-2016, decrease); glacier cumulative mass balance (1 dataset, 1980-2016, decrease). More 
+information on the datasets can be found in the accompanying metadata. (Figure source: NOAA NCEI and CICS-NC, 
+updated from Melillo et al. 2014;144 Blunden and Arndt 201615)."
+544,2060,4,Caption describes the visualization. Caption does not explain the trend,not_useful,Observed Pattern Not Explained,"Figure 9.4: Intercomparison statistics for seasonal and annual (a) temperature and (b) precipitation changes in nineteen CMIP2 experiments at the
+doubling of CO2 (years 61 to 80). The total length of the bars shows the mean squared amplitude of the simulated local temperature and precipita-
+tion changes averaged over all experiments and over the whole world. The lowermost part of each bar represents a nominally unbiased 'common
+signal', the mid-part directly model-related variance and the top part the inter-experiment variance attributed to internal variability. Precipitation
+changes are defined as 100% x (PG
+the global statistics to areas with very little control run precipitation."
+547,2064,2,Details about the source of the data in the caption is distracting Caption does not mention the key takeaway Caption is difficult to understand. Caption defines the components used in the visualization Some claims made in the caption cannot be observed in the chart,not_useful,Insufficient or Unclear Description,"Figure 6.1. (Top) Atmospheric CO2 and continental glaciation 400 Ma to present. Vertical blue bars mark the timing and palaeolatitudinal extent of ice sheets (after Crowley, 
+1998). Plotted CO2 records represent fi ve-point running averages from each of the four major proxies (see Royer, 2006 for details of compilation). Also plotted are the plausible 
+ranges of CO2 from the geochemical carbon cycle model GEOCARB III (Berner and Kothavala, 2001). All data have been adjusted to the Gradstein et al. (2004) time scale. 
+(Middle) Global compilation of deep-sea benthic foraminifera 18O isotope records from 40 Deep Sea Drilling Program and Ocean Drilling Program sites (Zachos et al., 2001) 
+updated with high-resolution records for the Eocene through Miocene interval (Billups et al., 2002; Bohaty and Zachos, 2003; Lear et al., 2004). Most data were derived from 
+analyses of two common and long-lived benthic taxa, Cibicidoides and Nuttallides. To correct for genus-specifi c isotope vital effects, the 18O values were adjusted by +0.64 and 
++0.4 (Shackleton et al., 1984), respectively. The ages are relative to the geomagnetic polarity time scale of Berggren et al. (1995). The raw data were smoothed using a fi ve-
+point running mean, and curve-fi tted with a locally weighted mean. The 18O temperature values assume an ice-free ocean (-1.0%0 Standard Mean Ocean Water), and thus only 
+apply to the time preceding large-scale antarctic glaciation (~35 Ma). After the early Oligocene much of the variability (~70%) in the 18O record refl ects changes in antarctic and 
+Northern Hemisphere ice volume, which is represented by light blue horizontal bars (e.g., Hambrey et al., 1991; Wise et al., 1991; Ehrmann and Mackensen, 1992). Where the 
+bars are dashed, they represent periods of ephemeral ice or ice sheets smaller than present, while the solid bars represent ice sheets of modern or greater size. The evolution 
+and stability of the West Antarctic Ice Sheet (e.g., Lemasurier and Rocchi, 2005) remains an important area of uncertainty that could affect estimates of future sea level rise. 
+(Bottom) Detailed record of CO2 for the last 65 Myr. Individual records of CO2 and associated errors are colour-coded by proxy method; when possible, records are based on 
+replicate samples (see Royer, 2006 for details and data references). Dating errors are typically less than +-1 Myr. The range of error for each CO2 proxy varies considerably, with 
+estimates based on soil nodules yielding the greatest uncertainty. Also plotted are the plausible ranges of CO2 from three geochemical carbon cycle models."
+560,2293,3,The caption summarizes the visualization. Caption includes references to the data source which is not helpful.,not_useful,Insufficient or Unclear Description,"Figure 9.6: (a) The time evolution of the globally averaged temperature change relative to the years (1961 to 1990) of the SRES simulations A2
+(top) and B2 (bottom) (Unit: degC). See Table 9.1 for more information on the individual models used here. (b) The time evolution of the globally
+averaged precipitation change relative to the years (1961 to 1990) of the SRES simulations A2 (top) and B2 (bottom) (Unit: %). See Table 9.1 for
+more information on the individual models used here."
+562,2364,2,Caption is wordy and uses a lot os domain specific technical terms references. Caption does not explain the abberviations used in the chart Caption does not contain useful message,not_useful,"""Missing or Unclear Takeaway Message""","Figure 3.7: Global cropland (a), forest land (b) and grassland (c) projections.
+Notes: shaded areas indicate SRES scenario ranges, post-SRES scenarios 
+denoted with solid lines. IMAGE-EMF21 = Van Vuuren et al. (2006a) scenario 
+from EMF-21 Study; IMAGE-MA-xx = Millennium Ecosystem Assessment 
+(Carpenter et al., 2005) scenarios from the IMAGE model for four storylines 
+(GO = Global Orchestration, OS = Order from Strength, AM = Adapting Mosaic, 
+TG = TechnoGarden); AgLU-x.x% = Sands and Leimbach (2003) scenarios with 
+x.x% annual growth in crop yield; GTM-2003 = Sohngen and Mendelsohn (2003) 
+global forest scenario; GTM-EMF21 = Sohngen and Sedjo (2006) global forest 
+scenario from EMF-21 Study; GCOMAP-EMF21 = Sathaye et al. (2006) global 
+forest scenario from EMF-21 Study; GRAPE-EMF21 = Kurosawa (2006) scenario 
+from EMF-21 Study."
+566,869,3,The caption contains domain knowledge required to understand the graph which causes lengthy caption but does not clearly state a takeaway message.,not_useful,"""Missing or Unclear Takeaway Message""","Figure 8.14: Annual mean tropical cooling at the last glacial maximum: comparison between model results and palaeo-data. (Centre panel)
+simulated surface air temperature changes over land are displayed as a function of surface temperature changes over the oceans, both averaged in
+the 30degS to 30degN latitudinal band, for all the PMIP simulations: models with prescribed CLIMAP SSTs (circles) and coupled atmosphere-mixed
+layer ocean models (squares) (from Pinot et al., 1999). Numbers refer to different models: circles, 1: LMD4, 2-5: MRI2, ECHAM3, UGAMP,
+LMD5 (higher resolution), 6-7: CCSR/NIES1, LMD5, 8: GEN2. Squares : 1: LMD4,2: UGAMP, 3: GEN2, 4: GFDL, 5: HADAM2, 6: MRI2, 7:
+CCM1, 8: CCC2 (names refer to Tables 8.1 and 8.5). Results from two EMIC models including a dynamical ocean model have also been
+displayed (diamonds): 1-UVIC (Weaver et al., 1998), 2-CLIMBER-2 (Petoukhov et al., 2000). 
+The comparison with palaeo-data: (upper panel) over land is with estimates from various pollen data for altitudes below 1,500m (the label 'nb
+data' refers to the number of data points in three different regions corresponding to the temperature change estimate plotted in the abscissa) from
+(Farrera, et al., 1999); (right panel) the distribution of SST changes estimated from alkenones in the tropics from the Sea Surface Temperature
+Evolution Mapping Project based on Alkenone Stratigraphy (TEMPUS) (Rosell-Mele, et al., 1998) (nb data: same as upper panel, number of data
+points for each temperature change). Caution: in this figure, model results are averaged over the whole tropical domain and not over proxy-data
+locations, which may bias the comparison (e.g., Broccoli and Marciniak, 1996). For example, for the pollen data, extreme values are obtained for
+specific regions: weakest values over the Indonesia-Pacific region and coldest values over South America. "
+577,1503,4,Caption provides domain knowledge by explaining the meaning of axes labels. The length of the caption creates confusion the caption,not_useful,Insufficient or Unclear Description,"Figure 8.5: Components of space-time errors of surface air tempera-
+ture (climatological annual cycle) simulated by CMIP2 model control
+runs. Shown are the total errors, the global and annual mean error
+('bias'), the total r.m.s ('pattern') error, and the following components
+of the climatological r.m.s. error: zonal and annual mean
+('clim.zm.am'); annual mean deviations from the zonal mean
+('clim.zm.am.dv'), seasonal cycle of the zonal mean ('clim.zm.sc');
+and seasonal cycle of deviations from the zonal mean
+('clim.zm.sc.dv'). For each component, errors are normalised by the
+component's observed standard deviation. The two left-most columns
+represent alternate observationally based data sets, ECMWF and
+NCAR/NCEP reanalyses, compared with the baseline observations
+(Jones et al., 1999). Remaining columns give model results: the ten
+models to the left of the second thick vertical line are flux adjusted and
+the six models to the right are not. From Covey et al. (2000b)."
+586,2211,2,The caption is not valuable as it only explains the data and methodology. Caption is lengthy without a clear takeaway message,not_useful,Missing or Unclear Takeaway Message,"Figure 10.3. Comparison of shortwave and longwave instantaneous radiative 
+forcings and fl ux changes computed from AOGCMs and line-by-line (LBL) radiative 
+transfer codes (W.D. Collins et al., 2006). (a) Instantaneous forcing from doubling 
+atmospheric CO2 from its concentration in 1860; b) changes in radiative fl uxes 
+caused by the 20% increase in water vapour expected in the climate produced from 
+doubling atmospheric CO2. The forcings and fl ux changes are computed for clear-
+sky conditions in mid-latitude summer and do not include effects of stratospheric 
+adjustment. No other well-mixed greenhouse gases are included. The minimum-
+to-maximum range and median are plotted for fi ve representative LBL codes. The 
+AOGCM results are plotted with box-and-whisker diagrams (see caption for Figure 
+10.2) representing percentiles of forcings from 20 models in the AR4 multi-model 
+ensemble. The AOGCMs included are BCCR-BCM2.0, CCSM3, CGCM3.1(T47 
+and T63), CNRM-CM3, ECHAM5/MPI-OM, ECHO-G, FGOALS-g1.0, GFDL-CM2.0, 
+GFDL-CM2.1, GISS-EH, GISS-ER, INM-CM3.0, IPSL-CM4, MIROC3.2 (medium and 
+high resolution), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1 (see 
+Table 8.1 for model details). The LBL codes are the Geophysical Fluid Dynamics 
+Laboratory (GFDL) LBL, the Goddard Institute for Space Studies (GISS) LBL3, the 
+National Center for Atmospheric Research (NCAR)/Imperial College of Science, 
+Technology and Medicine (ICSTM) general LBL GENLN2, the National Aeronautics and 
+Space Administration (NASA) Langley Research Center MRTA and the University of 
+Reading Reference Forward Model (RFM)."
+595,1949,2,"Caption describes the data used for creating the chart and also includes references to the source of data, which is not helpful in understanding the intended message. Caption does not explain the patterns visible in the chart",not_useful,"""Observed Pattern Not Explained""","Figure 4.5. Time series of freeze-up and breakup dates from several northern lakes and rivers (reprinted with permission from Magnuson et al., 2000, copyright AAAS). Dates 
+have been smoothed with a 10-year moving average. See the cited publication for locations and other details. "
+609,196,3,caption does not explain trends. caption does not include takeaway message from the observed trends,not_useful,Observed Pattern Not Explained,"Figure 1.8 | Decomposition of the change in total annual carbon dioxide (CO2) emissions from fossil fuel combustion by decade and four driving factors: population, income (gross 
+domestic product, GDP) per capita, energy intensity of GDP and carbon intensity of energy. The bar segments show the changes associated with each individual factor, holding the 
+respective other factors constant. Total emission changes are indicated by a triangle. The change in emissions over each decade is measured in gigatonnes of CO2 per year (GtCO2/yr); 
+income is converted into common units, using purchasing power parities. {WGIII SPM.3}"
+613,236,2,"The caption is too lengthy, ",not_useful,"""Detailed but Overloaded with Information""","Figure 10.29. Projections and uncertainties for global mean temperature increase in 2090 to 2099 (relative to the 1980 to 1999 average) for the six SRES marker scenarios. 
+The AOGCM means and the uncertainty ranges of the mean -40% to +60% are shown as black horizontal solid lines and grey bars, respectively. For comparison, results are 
+shown for the individual models (red dots) of the multi-model AOGCM ensemble for B1, A1B and A2, with a mean and 5 to 95% range (red line and circle) from a fi tted normal 
+distribution. The AOGCM mean estimates for B2, A1T and A1FI (red triangles) are obtained by scaling the A1B AOGCM mean with ratios obtained from the SCM (see text). The 
+mean (light green circle) and one standard deviation (light green square) of the MAGICC SCM tuned to all AOGCMs (representing the physics uncertainty) are shown for standard 
+carbon cycle settings, as well as for a slow and fast carbon cycle assumption (light green stars). Similarly, results from the BERN2.5CC EMIC are shown for standard carbon 
+cycle settings and for climate sensitivities of 3.2degC (AOGCM average, dark green circle), 1.5degC and 4.5degC (dark green squares). High climate sensitivity/low carbon cycle and 
+low climate sensitivity/high carbon cycle combinations are shown as dark green stars. The 5 to 95% ranges (vertical lines) and medians (circles) are shown from probabilistic 
+methods (Wigley and Raper, 2001; Stott and Kettleborough, 2002; Knutti et al., 2003; Furrer et al., 2007; Harris et al., 2006; Stott et al., 2006b). Individual model results are 
+shown for the C4MIP models (blue crosses, see Figure 10.20). "
+641,614,3,The caption is also too large,not_useful,Insufficient or Unclear Description,"Figure 4.4. Compendium of projected risks due to critical climate change impacts on ecosystems for different levels of global mean annual
+temperature rise,
+T, relative to pre-industrial climate (approach and event numbers as used in Table 4.1 and Appendix 4.1). It is important to note
+that these impacts do not take account of ancillary stresses on species due to over-harvesting, habitat destruction, landscape fragmentation, alien
+species invasions, fire regime change, pollution (such as nitrogen deposition), or for plants the potentially beneficial effects of rising atmospheric
+CO2. The red curve shows observed temperature anomalies for the period 1900-2005 (Brohan et al., 2006, see also Trenberth et al., 2007,
+Figure 3.6). The two grey curves provide examples of the possible future evolution of temperature against time (Meehl et al., 2007, Figure 10.4),
+providing examples of higher and lower trajectories for the future evolution of the expected value of
+mean responses to (i) the A2 emissions scenario and (ii) an extended B1 scenario, where radiative forcing beyond the year 2100 was kept constant
+to the 2100 value (all data from Meehl et al., 2007, Figure 10.4, see also Meehl et al., 2007, Section 10.7)."
+647,676,3,caption is monotonous,not_useful,Insufficient or Unclear Description,figure 615 sulphate so4 2 concentrations in greenland bigler et al 2002 red line mieding 2005 blue and antarctic traufetter et al 2004 dash violet ice cores during the last millennium also shown are the estimated anthropogenic sulphur s emissions for the nh stern 2005 dashed black the ice core data have been smoothed with a 10year running median fi lter thereby removing the peaks of major volcanic eruptions the inset illustrates the infl uence of volcanic emissions over the last millennium and shows monthly sulphate data in ppm as measured green with identifi ed volcanic spikes removed black most recent volcanic events were not assigned nor removed and results from the 10year fi lter red bigler et al 2002 the records represent illustrative examples and can be infl uenced by local deposition events
+650,754,2,The caption does not complement the chart. It should mention and explain the upward trends.,not_useful,Observed Pattern Not Explained,"Figure 3.4. (a) Annual anomalies of global SST (HadSST2; red bars and blue solid curve), 1850 to 2005, and global NMAT (HadMAT, green curve), 1856 to 2005, relative to 
+the 1961 to 1990 mean (degC) from the UK Meteorological Offi ce (UKMO; Rayner et al., 2006). The smooth curves show decadal variations (see Appendix 3.A). The dashed black 
+curve shows equivalent smoothed SST anomalies from the TAR. (b) Smoothed annual global SST anomalies, relative to 1961 to 1990 (degC), from HadSST2 (blue line, as in (a)), 
+from NCDC (Smith et al., 2005; red line) and from COBE-SST (Ishii et al., 2005; green line). The latter two series begin later in the 19th century than HadSST2. (c,d) As in (a) but 
+for the NH and SH showing only the UKMO series."
+652,765,4,caption is too large,not_useful,Insufficient or Unclear Description,"Figure 4.1. Major ecosystems addressed in this report, with their
+global areal extent (lower panel, Mkm2), transformed by land use in
+yellow, untransformed in purple, from Hassan et al. (2005), except for
+mediterranean-climate ecosystems, where transformation impact is
+from Myers et al. (2000), and total carbon stores (upper panel, PgC) in
+plant biomass (green), soil (brown), yedoma/permafrost (light blue). D =
+deserts, G&S(tr) = tropical grasslands and savannas, G(te) = temperate
+grasslands, ME = mediterranean ecosystems, F(tr) = tropical forests,
+F(te) = temperate forests, F(b) = boreal forests, T = tundra, FW =
+freshwater lakes and wetlands, C = croplands, O = oceans. Data are
+from Sabine et al. (2004, Table 2.2, p. 23), except for carbon content of
+yedoma permafrost and permafrost (light blue columns, left and right,
+respectively, Zimov et al., 2006), ocean organic carbon content
+(dissolved plus particulate organic; Denman et al., 2007, Section
+7.3.4.1), and ocean surface area from Hassan et al. (2005, Summary,
+Table C2, p. 15, inserted as a number). Figures here update the TAR
+(Prentice et al., 2001), especially through considering soil C to 3 m
+depth (Jobbagy and Jackson, 2000), as opposed to 1 m. Approximate
+carbon content of the atmosphere (PgC) is indicated by the dotted
+lines for last glacial maximum (LGM), pre-industrial (P-IND) and current
+(about 2000)."
+659,882,2,"The caption does not explain the visualization, nor it mention the main takeaway.",not_useful,Insufficient or Unclear Description,"Figure 3.16. Vertical weighting functions (grey) depicting the layers sampled by satellite MSU measurements and their derivatives, and used also for radiosonde and reanaly-
+sis records. The right panel schematically depicts the variation in the tropopause (that separates the stratosphere and troposphere) from the tropics (left) to the high latitudes 
+(right). The fourth panel depicts T4 in the lower stratosphere, the third panel shows T2, the second panel shows the troposphere as a combination of T2 and T4 (Fu et al., 2004a) 
+and the fi rst panel shows T2LT from the UAH for the low troposphere. Adapted from Karl et al. (2006)."
+666,994,3,Caption is too big,not_useful,"""Insufficient or Unclear Description""","Figure 13.7: Pattern correlations between the decadal ensemble mean
+temperature (Northern Hemisphere only) from the HadCM2 experi-
+ment forced with a 0.5%/yr increase in greenhouse gas concentrations
+(Gd) and: the scaled ensemble mean pattern (solid line); the four
+scaled individual ensemble member patterns - average coefficient
+(dashed line); and the scaled ensemble mean pattern derived from the
+HadCM2 experiment forced with a 1%/yr increase in greenhouse gas
+concentrations (Ga) (dotted line). The correlations increase with time
+as the pattern of greenhouse gas response (the 'signal') increasingly
+dominates the random effects of internal climate variability (the
+'noise'). The shaded area shows the spread of correlations between the
+pairs of the individual members of the Gd ensemble; these correlations
+are lower than those between the realised and scaled patterns above,
+indicating that the scaled pattern is not due to internal climate
+variability. (Source: Mitchell et al., 1999.)"
+668,999,4,The caption is not helpful to interpret the visualization.,not_useful,Insufficient or Unclear Description,"Figure 10.4: The length of the growing season in the contiguous 48 states compared with a long-term average (1895-
+2015), where 'growing season' is defined by a daily minimum temperature threshold of 41degF. For each year, the line 
+represents the number of days shorter or longer than the long-term average. The line was smoothed using an 11-year 
+moving average. Choosing a different long-term average for comparison would not change the shape of the data over 
+time. (Figure source: Kunkel 20162)."
+670,1011,1,The caption does not complement the chart and does not help to interpret it.,not_useful,Insufficient or Unclear Description,"Figure 7.14. Uncertainties in carbon cycle feedbacks estimated from analysis of the results from the C4MIP models. Each effect is given in terms of its impact on the mean 
+airborne fraction over the simulation period (typically 1860 to 2100), with bars showing the uncertainty range based on the ranges of effective sensitivity parameters given in 
+Tables 7.4 and 7.5. The lower three bars are the direct response to increasing atmospheric CO2 (see Section 7.3.5 for details), the middle four bars show the impacts of climate 
+change on the carbon cycle, and the top black bar shows the range of climate-carbon cycle feedbacks given by the C4MIP models."
+688,1232,2,caption does not explain the trend observed,not_useful,Observed Pattern Not Explained,"Figure 3.10: Projections of anthropogenic CO2 uptake by process-based models. Six dynamic global vegetation models were run with IS92a CO2
+concentrations as given in the SAR: (a) CO2 only, and (b) with these CO2 concentrations plus simulated climate changes obtained from the Hadley
+Centre climate model with CO2 and sulphate aerosol forcing from IS92a (Cramer et al., 2000). Panel (b) also shows the envelope of the results from
+panel (a) (in grey). (c) Ten process-based ocean carbon models were run with the same CO2 concentrations, assuming a constant climate (Orr and
+Dutay, 1999; Orr et al., 2000). A further six models were used to estimate the climate change impact on ocean CO2 uptake as a proportional change
+from the CO2-only case. The resulting changes were imposed on the mean trajectory of the simulations shown in panel (c), shown by the black line
+in panel (d), yielding the remaining trajectories in panel (d). The range of model results in panel (d) thus represents only the climate change impact
+on CO2 uptake; the range does not include the range of representations of ocean physical transport, which is depicted in panel (c)."
+703,1453,2,caption does not explain the observed trend,not_useful,Observed Pattern Not Explained,"Figure 2.2: The impacts of different technology assumptions on energy systems 
+costs and emissions (cumulative 1990-2100, systems costs (undiscounted) in 
+trillion US$) in no-climate policy baseline (reference) scenarios (based on the SRES 
+A1 scenario family that share identical population and GDP growth assumptions) 
+and in illustrative stabilization scenarios (750, 650, 550 and 450 ppm respectively). 
+For comparison: the total cumulative (undiscounted) GDP of the scenarios is around 
+30,000 trillion US$ over the 1990-2100 time period. "
+713,1626,3,"Overall takeaway and explanation of the trend is missing in the caption, but it provides context for the visialization",not_useful,"""Missing or Unclear Takeaway Message""","Figure 7.3: Relationship between simulated global annually averaged
+variation of net cloud radiative forcing at the top of the atmosphere
+and precipitable water due to CO2 doubling produced in simulations
+with different parametrizations of cloud related processes. Results are
+from Colman and McAvaney (1995) denoted by triangles, Meleshko et
+al. (2000) denoted by open circles, and Yao and Del Genio (1999)
+denoted by diamonds."
+721,1726,2,Do not provide information regarding the main takeaway,not_useful,Missing or Unclear Takeaway Message,"Figure 1.7 | Total anthropogenic greenhouse gas (GHG) emissions (gigatonne of CO2-
+equivalent per year, GtCO2-eq/yr) from economic sectors in 2010. The circle shows the 
+shares of direct GHG emissions (in % of total anthropogenic GHG emissions) from five 
+economic sectors in 2010. The pull-out shows how shares of indirect CO2 emissions 
+(in % of total anthropogenic GHG emissions) from electricity and heat production are 
+attributed to sectors of final energy use. 'Other energy' refers to all GHG emission 
+sources in the energy sector as defined in WGIII Annex II, other than electricity and 
+heat production {WGIII Annex II.9.1}. The emission data on agriculture, forestry and 
+other land use (AFOLU) includes land-based CO2 emissions from forest fires, peat fires 
+and peat decay that approximate to net CO2 flux from the sub-sectors of forestry and 
+other land use (FOLU) as described in Chapter 11 of the WGIII report. Emissions are 
+converted into CO2-equivalents based on 100-year Global Warming Potential (GWP100), 
+taken from the IPCC Second Assessment Report (SAR). Sector definitions are provided 
+in WGIII Annex II.9. {WGIII Figure SPM.2}"
+722,1748,3,caption does not describe the trend,not_useful,Insufficient or Unclear Description,"Figure 4.1: (a) Change in CH4 abundance (mole fraction, in ppb = 10-9) determined from ice cores, firn, and whole air samples plotted for the last
+1,000 years. Data sets are as follows: Grip, Blunier et al. (1995) and Chappellaz et al. (1997); Eurocore, Blunier et al. (1993); D47, Chappellaz et
+al. (1997); Siple, Stauffer et al. (1985); Global (inferred from Antarctic and Greenland ice cores, firn air, and modern measurements), Etheridge et
+al. (1998) and Dlugokencky et al. (1998). Radiative forcing, approximated by a linear scale since the pre-industrial era, is plotted on the right axis. 
+(b) Globally averaged CH4 (monthly varying) and deseasonalised CH4 (smooth line) abundance plotted for 1983 to 1999 (Dlugokencky et al.,
+1998). (c) Instantaneous annual growth rate (ppb/yr) in global atmospheric CH4 abundance from 1983 through 1999 calculated as the derivative of
+the deseasonalised trend curve above (Dlugokencky et al., 1998). Uncertainties (dotted lines) are +-1 standard deviation. (d) Comparison of
+Greenland (GRIP) and Antarctic (D47 and Byrd) CH4 abundances for the past 11.5 kyr (Chappellaz et al., 1997). The shaded area is the pole-to-
+pole difference where Antarctic data exist. (e) Atmospheric CH4 abundances (black triangles) and temperature anomalies with respect to mean
+recent temperature (grey diamonds) determined for the past 420 kyr from an ice core drilled at Vostok Station in East Antarctica (Petit et al., 1999)."
+722,1748,3,caption does not describe the trend,not_useful,Insufficient or Unclear Description,"Figure 11: (a) Change in CH4 abundance (mole fraction, in ppb = 10−9)
+determined from ice cores, firn, and whole air samples plotted for the
+last 1000 years. Radiative forcing, approximated by a linear scale since
+the pre-industrial era, is plotted on the right axis. (b) Globally averaged
+CH4 (monthly varying) and deseasonalised CH4 (smooth line)
+abundance plotted for 1983 to 1999. (c) Instantaneous annual growth
+rate (ppb/yr) in global atmospheric CH4 abundance from 1983 through
+1999 calculated as the derivative of the deseasonalised trend curve
+above. Uncertainties (dotted lines) are ±1 standard deviation. [Based
+on Figure 4.1]"
+738,1874,4,The caption is too big,not_useful,Insufficient or Unclear Description,"Figure 3.4: Partitioning of fossil fuel CO2 uptake using O2 measurements (Keeling and Shertz, 1992; Keeling et al., 1993; Battle et al., 1996,
+2000; Bender et al., 1996; Keeling et al., 1996b; Manning, 2001). The graph shows the relationship between changes in CO2 (horizontal axis) and
+O2 (vertical axis). Observations of annual mean concentrations of O2, centred on January 1, are shown from the average of the Alert and La Jolla
+monitoring stations (Keeling et al., 1996b; Manning, 2001; solid circles) and from the average of the Cape Grim and Point Barrow monitoring
+stations (Battle et al., 2000; solid triangles). The records from the two laboratories, which use different reference standards, have been shifted to
+optimally match during the mutually overlapping period. The CO2 observations represent global averages compiled from the stations of the
+NOAA network (Conway et al., 1994) with the methods of Tans et al. (1989). The arrow labelled 'fossil fuel burning' denotes the effect of the
+combustion of fossil fuels (Marland et al., 2000; British Petroleum, 2000) based on the relatively well known O2:CO2 stoichiometric relation of
+the different fuel types (Keeling, 1988). Uptake by land and ocean is constrained by the known O2:CO2 stoichiometric ratio of these processes,
+defining the slopes of the respective arrows. A small correction is made for differential outgassing of O2 and N2 with the increased temperature of
+the ocean as estimated by Levitus et al. (2000). "
+740,1911,3,"The caption describes the well, but including the main takeaway would be more helpful",not_useful,Missing or Unclear Takeaway Message,"Figure 11-7 | Illustrative co-benefits comparison of the health and climate 
+cost-effectiveness of selected household, transport, and power sector interventions 
+(Smith and Haigler, 2008). Area of each circle denotes the total social benefit in 
+international dollars (Int$) from the combined value of carbon offsets (valued at 
+10$/tCO2-eq (tons of carbon dioxide equivalent)) and averted disability-adjusted life 
+years (DALYs; $7450/DALY, which is representative of valuing each DALY at the 
+average world gross domestic product (PPP) per capita in 2000). The vertical lines 
+shows the range of the cut offs for cost-effective (solid lines) and very cost-effective 
+(dashed lines) health interventions in India (red lines) and China (purple lines) using 
+the WHO CHOICE (CHOosing Interventions that are Cost-Effective) criteria (WHO, 
+2003). This figure evaluates only a small subset of all co-benefits opportunities, and 
+thus should not be considered either current or complete. It does illustrate, however, 
+the kind of comparisons that can help distinguish and prioritize options. Note that 
+even with the log-log scaling, there are big differences among them. For other figures 
+comparing the climate and health benefits of co-benefits actions including those in 
+food supply and urban design, see Haines et al. (2009). See the original reference for 
+details of the calculations in this figure (Smith and Haigler, 2008)."
+763,2065,5,"The caption does not summarize the scenarios shown in the chart, nor it talks about the trend or any takeaways",not_useful,**Missing or Unclear Takeaway Message**,"Figure 3.35: Deployment of primary energy technologies across post-2001 
+scenarios by 2030 and 2100: Left-side 'error' bars show baseline (non-intervention) 
+scenarios and right-side ones show intervention and stabilization scenarios. The full 
+ranges of the distributions (full vertical line with two extreme tic marks), the 25th and 
+75th percentiles (blue area) and the median (middle tic mark) are also shown."
+767,2105,2,It does not talk about the main gist. ,not_useful,"""Missing or Unclear Takeaway Message""","Figure 12.4. Characteristics of the summer 2003 heatwave (adapted
+from Schar et al., 2004). (a) JJA temperature anomaly with respect to
+1961 to 1990. (b) to (d): JJA temperatures for Switzerland observed
+during 1864 to 2003 (b), simulated using a regional climate model for
+the period 1961 to 1990 (c) and simulated for 2071 to 2100 under the
+A2 scenario using boundary data from the HadAM3H GCM (d). In
+panels (b) to (d): the black line shows the theoretical frequency
+distribution of mean summer temperature for the time-period
+considered, and the vertical blue and red bars show the mean summer
+temperature for individual years. Reprinted by permission from
+Macmillan Publishers Ltd. [Nature] (Schar et al., 2004), copyright 2004."
+779,2218,1,"The caption does not augment the visualization, it should talk about the trends, compare the trends, also should talk about the correlation observed in data.",not_useful,Observed Pattern Not Explained,"Figure 12-3: Percentage change in average annual total
+Australian wheat yield for doubling of actual CO2 (to 700
+ppm) and a range of changes in temperature and rainfall.
+Yield response is shown for rainfall changes of +20% (white),
+0 (stippled), and -20% (black), for warmings of 0-4oC."

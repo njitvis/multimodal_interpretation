@@ -1,0 +1,45 @@
+reason_id,image_id,rating,reason,feature,sentiment
+10,2289,5,"Although the bars overlap, it is easy to compare the categories and find the main differences between dataset",Visual Density / Clutter,positive
+17,324,5,"The graph is easy to understand,",Aesthetics-Clarity-Comparison,positive
+34,502,5,"Easy to read the labels, color categorization makes it easy to identify the main takeaway",Labels‑Titles‑Legend‑Scale,positive
+37,572,5,"Clear time series and labeled axes, Clear time series",Aesthetics-Clarity-Comparison,positive
+46,690,5,The chart is organized and labeled which helps with understanding the main takeaway The chart is organized labeled which helps with understanding the main takeaway,Aesthetics-Clarity-Comparison,positive
+49,790,5,Easy to understand clear takeaway,Aesthetics-Clarity-Comparison,positive
+52,920,5,Easy to compare categories,Aesthetics-Clarity-Comparison,positive
+58,994,5,"Clear visualization. The chart uses color coding and thick lines to show the medians, and the total range of models The different lines along with the shaded area conveys the main takeaway",Labels‑Titles‑Legend‑Scale,positive
+64,1081,5,Easy to see the annual average,Trend / Pattern Depiction,positive
+67,1251,5,Easy to get the main takeaway and understand the difference between the color coded bars Easy to get the main takeaway understand the difference between the color coded bars,Labels‑Titles‑Legend‑Scale,positive
+79,1303,5,the graph is easy to interpret,Aesthetics-Clarity-Comparison,positive
+82,1601,5,Easy to read the labels and compare the pH levels Easy to read the labels compare the pH levels,Aesthetics-Clarity-Comparison,positive
+88,1712,5,Easy to see the heat content changing,Trend / Pattern Depiction,positive
+91,1761,5,Easy to compare categories and read the labels Easy to compare categories read the labels,Aesthetics-Clarity-Comparison,positive
+94,1779,5,The chart shows the comparison between the simulations and observations Each panel is well laid out and labeled so it is easy to compare the scenarios The chart shows the comparison between the simulations observations Each panel is well laid out labeled so it is easy to compare the scenarios includes an overview of the data,Aesthetics-Clarity-Comparison,positive
+97,1803,5,"Despite a lot of elements, the chart shows the main trend with using different colors and symbols to help differentiate between data clearly",Trend / Pattern Depiction,positive
+103,1839,5,The scatter plot shows the relationship between the x and y axis The line of best fit clearly shows the trend. Clear representation makes it easy to interpret,Aesthetics-Clarity-Comparison,positive
+106,1945,5,Easy to compare the categories and analyze the potential for CO2 reduction across different regions,Aesthetics-Clarity-Comparison,positive
+109,2062,5,Easy to compare categories and the use of colors to represent data makes it easier to compare them,Aesthetics-Clarity-Comparison,positive
+112,2065,5,"The use of 2 box plots to show the two scenarios makes it easy compare them. Furthermore, the chart includes two different time periods and multiple technologies While this adds complexity, it also provides a good overview of the data",Aesthetics-Clarity-Comparison,positive
+115,2124,5,Easy to compare the categories and see the main trend Easy to compare the categories see the main trend,Aesthetics-Clarity-Comparison,positive
+125,126,3,"The graphs are easy to understand,",Aesthetics-Clarity-Comparison,positive
+130,317,4,Colors and labels are used effectively to convey the main takeaway Colors labels are used effectively to convey the main takeaway,Labels-Titles-Legend-Scale,positive
+134,330,5,The graphs are easy to understand,Aesthetics-Clarity-Comparison,positive
+145,491,4,The use of labels helps in understanding the main takeaways,Labels-Titles-Legend-Scale,positive
+148,492,4,Easy to interpret with use of labels,Labels-Titles-Legend-Scale,positive
+156,639,4,Easy to compare,Aesthetics-Clarity-Comparison,positive
+160,658,4,Clear representation with a clear break down of cost and efficiency improvements The format of this chart is not the standard Clear representation with a clear break down of cost efficiency improvements The format of this chart is not the standard,Chart Type & Layout Choice,positive
+169,839,4,Clear visualization that shows temperature changes,Aesthetics-Clarity-Comparison,positive
+184,1388,4,the graph has a zoomed in graph inside it making it easier to interpret the information given,Trend / Pattern Depiction,positive
+196,1519,4,Clear representation with detailed information about the key trend making it somewhat interpretable,Trend / Pattern Depiction,positive
+213,1726,5,Labels are clearly mentioned easy to understand,Labels-Titles-Legend-Scale,positive
+214,1755,4,The graph is easy to understand,Aesthetics-Clarity-Comparison,positive
+217,1757,4,"The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend. The use of different colors for each line, makes it easy to differentiate the data clearly The chart also includes a legend,",Labels-Titles-Legend-Scale,positive
+229,1874,4,"clearly observable trend. The use of symbols helps to differentiate the data points. The scatter plot shows the relationship between the x y axis, the data points arrows clearly show the trends The use of symbols helps to differentiate the data points",Trend / Pattern Depiction,positive
+256,2061,4,"The chart's use of consistent color coding and multiple types of vehicles adds to the complexity but provides a good overview of the data. The clear axes and legend help in the interpretation, but many require more context for full understanding The chart's use of consistent color coding multiple types of vehicles adds to the complexity provides a good overview of the data The clear axes legend help in the interpretation,",Aesthetics-Clarity-Comparison,positive
+267,2356,4,"The chart is clear allows for comparison,",Aesthetics-Clarity-Comparison,positive
+268,2357,4,The use of different colors and line styles helps differentiate the categories and highlight key information The clear axes and legends also make the information more interpretable. The multiple components make the interpretation a little complex The use of different colors line styles helps differentiate the categories highlight key information The clear axes legends also make the information more interpretable The multiple components make the interpretation a little complex,Aesthetics-Clarity-Comparison,positive
+271,2213,4,"The charts show the long-term trends and provides a comparison. The clear axes and legends help in the understanding of the data, but the technical nature of the content might be overwhelming. the variables shown in each panel The charts show the long-term trends provides a comparison The clear axes legends help in the understanding of the data, the technical nature of the content might be overwhelming",Aesthetics-Clarity-Comparison,positive
+488,2141,4,"clutter in the chart is overwhelming. Shared axis show use the same scale and unit making it easy to read the chart. since color and spatial regions are used to encode an attribute, it is easy to read the chart even if a legend for color usage is not provided.",Visual Density / Clutter,positive
+508,196,4,Components of the chart are clearly labeled well annotated,Labels-Titles-Legend-Scale,positive
+520,859,3,The axes title are descriptive in the chartwhich helps in understanding the pattern and overall takeaway message,Labels-Titles-Legend-Scale,positive
+523,882,4,Chart is easy to read low level message is easy to grasp,Aesthetics-Clarity-Comparison,positive
+580,1581,3,the overall takeaway message is clear from the chart the use of intuitive color scale for temperature in the chart is helpful,Aesthetics-Clarity-Comparison,positive

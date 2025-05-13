@@ -18,6 +18,7 @@ df['complexity'] = df['complexity'].fillna('Missing Complexity')
 df['clarity_complexity'] = df['clarity'] + ' + ' + df['complexity']
 
 plt.figure(figsize=(7, 5))
+print(df["domain"].value_counts(normalize=True) * 100, "\n")
 sns.countplot(x='domain', data=df)
 plt.title("Domain Frequency")
 plt.tight_layout()
@@ -25,6 +26,7 @@ plt.savefig("./output/domain_frequency.png", dpi=300)
 plt.close()
 
 plt.figure(figsize=(7, 5))
+print(df["chart_type"].value_counts(normalize=True) * 100, "\n")
 sns.countplot(x='chart_type', data=df)
 plt.title("Chart Type Frequency")
 plt.xticks(rotation=90)
@@ -33,6 +35,7 @@ plt.savefig("./output/chart_type_frequency.png", dpi=300)
 plt.close()
 
 plt.figure(figsize=(7, 5))
+print(df["views"].value_counts(normalize=True) * 100, "\n")
 sns.countplot(x='views', data=df)
 plt.title("Views Frequency")
 plt.tight_layout()
