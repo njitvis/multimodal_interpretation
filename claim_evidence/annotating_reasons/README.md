@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# UI for Annotating Reasoning Strategies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React-based web application. Follow the instructions below to set up, run, and build the application on your local machine.
 
-## Available Scripts
+## 📦 Prerequisites
 
-In the project directory, you can run:
+Make sure you have the following installed:
 
-### `npm start`
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 1. Clone the Repository
 
-### `npm test`
+```bash
+git clone https://github.com/njitvis/multimodal_interpretation.git
+cd multimodal_interpretation/claim_evidence/annotating_reasons
+````
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2. Checkout the Correct Branch
 
-### `npm run build`
+Make sure you are on the `annotating_reasoning_strategy` branch:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git checkout annotating_reasoning_strategy
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. Install Dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Using npm:
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Or using yarn:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+yarn install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 4. Start the Development Server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Using npm:
 
-## Learn More
+```bash
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Or using yarn:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+yarn start
+```
 
-### Code Splitting
+This will start the app on [http://localhost:3000](http://localhost:3000)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🖼️ Chart Images Requirement
+For the application to display charts correctly after loading a JSON file, all chart images must be placed in the public/ folder.
+Each image file name must exactly match its corresponding <image_id>.png (e.g., 12345.png) as referenced in the JSON.
 
-### Analyzing the Bundle Size
+❗ If the images are missing or incorrectly named, the charts will not render properly in the app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📁 Project Structure
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+annotating_reasons/
+├── public/            # chart images (e.g., 123.png, 456.png)
+├── src/               # Source code
+│   ├── components/    # Reusable components
+│   ├── App.js         # Main app component
+│   └── index.js       # Entry point
+├── package.json       # Project metadata and scripts
+└── README.md
+```
