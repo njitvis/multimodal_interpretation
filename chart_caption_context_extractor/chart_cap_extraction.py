@@ -10,8 +10,8 @@ import os
 from PIL import Image
 
 
-# THESE FILES MUST EXIST IN './datasets/PDFs/' folder. List should only contain file name
-PDF_files = ['SR15_Chapter_4_LR.pdf']
+# the .pdf files MUST EXIST IN './datasets/PDFs/' folder
+PDF_files = [os.path.basename(f) for f in glob.glob('./datasets/PDFs/*.pdf')]
 
 """# Extract Files"""
 
