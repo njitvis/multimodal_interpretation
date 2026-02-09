@@ -8,9 +8,10 @@ This project extracts charts, their captions, and contexts from PDF documents. T
 project/
 │── datasets/
 │   │── PDFs/                # Store all PDF files here
-│── extracted_data.csv    # CSV files will be saved here
+|   |── captions.csv          # extracted captions will be saved here
+|   |── found_caption_with_context.csv          # extracted contexts will be saved here
 │── models/                   # Store the model used for chart extraction
-│── subset_extraction.py     # Main script for chart extraction
+│── chart_cap_extraction.py     # Main script for chart and caption extraction
 │── subset_filtering.py      # Script to filter extracted captions
 │── context_extraction.py    # Script to extract contextual sentences
 │── README.md                 # This file
@@ -48,14 +49,15 @@ pip install -r requirements.txt
 ### 1. Ensure Required Files Are in Place
 - Place PDF files inside `chart_caption_context_extractor/datasets/PDFs`
 - Ensure all CSV files are inside `chart_caption_context_extractor/datasets`
-- Store the trained model in `chart_caption_context_extractor/models`
+- Store pretrained model weights in `chart_caption_context_extractor/model.pt`
 
-### 2. Run the Extraction Script
+### 2. Run the Chart-Caption Extraction Script
 ```sh
-python subset_extraction.py
+python chart_cap_extraction.py
 ```
 
 ### 3. Run the Filtering Script
+This set is only if you have a subset of chart-caption pairs for which you want to extract context
 ```sh
 python subset_filtering.py
 ```
@@ -67,13 +69,13 @@ python context_extraction.py
 
 ### 5. Output
 - Extracted charts will be saved in `chart_caption_context_extractor/extracted_charts`
-- Extracted captions will be saved in `chart_caption_context_extractor/datasets/found_captions.csv`
-- Filterd captions will be saved in `chart_caption_context_extractor/datasets/found_captions_with_vector.csv`
+- Extracted captions will be saved in `chart_caption_context_extractor/datasets/captions.csv`
+- Filterd captions will be saved in `chart_caption_context_extractor/datasets/found_captions_with_vector.csv` (if subset_filtering step is executed)
 - Extracted contexts will be saved in `chart_caption_context_extractor/datasets/found_captions_with_context.csv`
 
 ## Notes
 - If you encounter any issues, ensure dependencies are correctly installed.
-- Modify `subset_extraction.py` to adjust extraction settings as needed.
+- Modify `chart_cap_extraction.py` to adjust extraction settings as needed.
 - Modify `subset_filtering.py` to fine-tune the filtering criteria for captions.
 - Modify `context_extraction.py` to adjust how contextual sentences are extracted.
 

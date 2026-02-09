@@ -10,23 +10,13 @@ import os
 from PIL import Image
 
 
-l1_l4_clustered = pd.read_csv("./datasets/chart_vectors_complete.csv")
-l1_l4_clustered = l1_l4_clustered[['image_id']]
-l1_l4_clustered
-
-captions = pd.read_csv("./datasets/chart_metadata.csv")
-captions = captions[["image_id", "caption", "source"]]
-captions
-
-annotated_subset_source = pd.merge(l1_l4_clustered, captions, how='left', on='image_id')
-
-files = annotated_subset_source.loc[:, "source"].unique()
-pd.DataFrame(files).to_json('./datasets/pdf_sources.json', index=False)
+# THESE FILES MUST EXIST IN './datasets/PDFs/' folder. List should only contain file name
+PDF_files = ['SR15_Chapter_4_LR.pdf']
 
 """# Extract Files"""
 
 
-model = YOLO('./models/chart_detection.pt')
+model = YOLO('./model.pt')
 
 def find_chart(image_path):
     results = model.predict(image_path, conf=0.3)
@@ -49,14 +39,11 @@ def find_chart(image_path):
 
 os.makedirs('./extracted_charts', exist_ok=True)
 
-try:
-  found_captions = pd.read_csv('./datasets/found_captions.csv')
-except:
-  found_captions = pd.DataFrame(columns=["image_id", "source", "pageNumber", "caption", "type"])
+captions = pd.DataFrame(columns=["image_id", "source", "pageNumber", "caption", "type"])
 
 # file =  "WGII_TAR_full_report-2.pdf"
-for file in files:
-    i = len(found_captions) + 1
+for file in PDF_files:
+    i = len(captions) + 1
     try:
         pdf_file = fitz.open(f'./datasets/PDFs/{file}')
     except:
@@ -103,7 +90,7 @@ for file in files:
                 if block_text.lower().startswith("fig") and span_rect.intersects(fitz.Rect(box["bbox"])):
                     save = True
                     i += 1
-                    found_captions.loc[len(found_captions)] = [i, pdf_file, page_index, block_text, box["cls"]]
+                    captions.loc[len(captions)] = [i, file, page_index, block_text, box["cls"]]
                     # x1 = scaled_rect[0] - 50
                     # y2 = scaled_rect[1]
 
@@ -117,12 +104,12 @@ for file in files:
                 try:
                     cropped_image.save(f'./extracted_charts/{i}.jpg')
                 except:
-                    print([i, pdf_file, page_index, block_text, box["cls"]], "not saved")
+                    print([i, file, page_index, block_text, box["cls"]], "not saved")
 
 
         if os.path.exists(temp_image_path):
             os.remove(temp_image_path)
 
-        found_captions.to_csv('./datasets/found_captions.csv', index=False)
+        captions.to_csv('./datasets/captions.csv', index=False)
         print(file, "scanned")
 

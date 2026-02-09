@@ -106,7 +106,7 @@ def remove_captions_from_context(context, captions):
 #############################################################
 nltk.download('punkt_tab')
 
-captions = pd.read_csv("./captions.csv")
+captions = pd.read_csv("./datasets/captions.csv")
 captions = captions[["image_id", "source", "caption"]]
 print("Captions successfully read ...")
 
