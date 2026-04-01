@@ -24,3 +24,11 @@ This notebook calculates similarity between question and answers with different 
 - This section runs code that:
   - Generates embeddings using SBERT 'all-MiniLM-L6-v2' model
   - Calculates cosine similarity between 'answers' and 'answers without caption'
+
+### `/chart_qna/prompt_testing.ipynb`
+This notebook experiments with different prompts to observe the different types of questions which can be obtained
+
+#### 1. Selecting 10 Charts With Caption and Trying out Different Prompts and Checking Response
+- This section runs code that:
+  - Subsets the dataset leaving only 10 charts
+  - Generates the questions for the 10 charts with caption for all the different prompts
